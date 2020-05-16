@@ -1,0 +1,20 @@
+{
+  "DisabledList": [
+    "abstractSequences",
+    "AtbashCipherModule",
+    "boolMathNeedy",
+    "buttonOrder",
+    "CruelGarfieldKart",
+    "directionalButton",
+    "faulty7SegmentDisplays",
+    "gatekeeper",
+    "IntegerTrees",
+    "JustNumbersModule",
+    "xtrkeywords",
+    "kataMinecraftSurvival",
+    "shuffledStrings",
+    "TrainingText",
+    "needyWingdings"
+  ],
+  "Operation": 1
+}

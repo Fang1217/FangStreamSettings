@@ -1,0 +1,23 @@
+{
+  "FadeTime": 1.0,
+  "InstantSkip": true,
+  "SkipGameplayDelay": false,
+  "BetterCasePicker": true,
+  "EnableModsOnlyKey": true,
+  "DemandBasedModLoading": true,
+  "DisableDemandBasedMods": true,
+  "DemandModLimit": 100,
+  "FixFER": false,
+  "BombHUD": true,
+  "ShowEdgework": true,
+  "DisableAdvantageous": false,
+  "HideTOC": [],
+  "Mode": "Normal",
+  "MissionSeed": -1,
+  "CaseGenerator": true,
+  "ModuleTweaks": true,
+  "CaseColors": [],
+  "PinnedSettings": [
+    "TweakSettings.json"
+  ]
+}

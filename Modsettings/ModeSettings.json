@@ -1,0 +1,20 @@
+{
+  "ZenModeTimePenalty": 0.0,
+  "ZenModeTimePenaltyIncrease": 0.0,
+  "ZenModeTimerSpeedUp": 0.25,
+  "ZenModeTimerMaxSpeed": 2.0,
+  "SteadyModeFixedPenalty": 2.0,
+  "SteadyModePercentPenalty": 0.0,
+  "TimeModeStartingTime": 10.0,
+  "TimeModeStartingMultiplier": 9.0,
+  "TimeModeMaxMultiplier": 10.0,
+  "TimeModeMinMultiplier": 1.0,
+  "TimeModeSolveBonus": 0.1,
+  "TimeModeMultiplierStrikePenalty": 1.5,
+  "TimeModeTimerStrikePenalty": 0.25,
+  "TimeModeMinimumTimeLost": 15.0,
+  "TimeModeMinimumTimeGained": 20.0,
+  "TimeModePointMultiplier": 1.0,
+  "ComponentValues": {},
+  "TotalModulesMultiplier": {}
+}

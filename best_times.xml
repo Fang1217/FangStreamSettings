@@ -1,0 +1,700 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dictionary>
+  <item>
+    <key>
+      <string>firsttime</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>4</RecordID>
+        <Result>Defused</Result>
+        <Seed>2105423196</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>BigButton</ComponentTypeEnum>
+          <ComponentTypeEnum>Wires</ComponentTypeEnum>
+          <ComponentTypeEnum>Keypad</ComponentTypeEnum>
+        </Components>
+        <MissionID>firsttime</MissionID>
+        <ModuleSolveCount>3</ModuleSolveCount>
+        <TimeElapsed>33.06732</TimeElapsed>
+        <LeaderboardRank>0</LeaderboardRank>
+        <RealTimeElapsed>34.9266663</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource>
+            <ComponentType>Wires</ComponentType>
+            <InteractionType>CutWire</InteractionType>
+            <Time>13.9953613</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Wires</ComponentType>
+            <InteractionType>CutWire</InteractionType>
+            <Time>15.3477783</Time>
+          </StrikeSource>
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>custom</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>72</RecordID>
+        <Result>Defused</Result>
+        <Seed>763231487</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>NeedyMod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+        </Components>
+        <MissionID>custom</MissionID>
+        <ModuleSolveCount>6</ModuleSolveCount>
+        <FreeplaySettings>
+          <ModuleCount>7</ModuleCount>
+          <Time>1200</Time>
+          <IsHardCore>false</IsHardCore>
+          <HasNeedy>false</HasNeedy>
+          <OnlyMods>false</OnlyMods>
+        </FreeplaySettings>
+        <TimeElapsed>-1234.82275</TimeElapsed>
+        <LeaderboardRank>0</LeaderboardRank>
+        <RealTimeElapsed>1261.82678</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Random Access Memory</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>1146.67993</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Digital Root</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>1140.928</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Digital Root</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>1138.67029</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Random Access Memory</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>1084.279</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>NeedyMod</ComponentType>
+            <ComponentName>Faulty Seven Segment Displays</ComponentName>
+            <InteractionType>Needy</InteractionType>
+            <Time>1065.58594</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>NeedyMod</ComponentType>
+            <ComponentName>Faulty Seven Segment Displays</ComponentName>
+            <InteractionType>Needy</InteractionType>
+            <Time>821.4911</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>NeedyMod</ComponentType>
+            <ComponentName>Faulty Seven Segment Displays</ComponentName>
+            <InteractionType>Needy</InteractionType>
+            <Time>565.5901</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>NeedyMod</ComponentType>
+            <ComponentName>Faulty Seven Segment Displays</ComponentName>
+            <InteractionType>Needy</InteractionType>
+            <Time>298.47467</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>NeedyMod</ComponentType>
+            <ComponentName>Faulty Seven Segment Displays</ComponentName>
+            <InteractionType>Needy</InteractionType>
+            <Time>54.39038</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>NeedyMod</ComponentType>
+            <ComponentName>Faulty Seven Segment Displays</ComponentName>
+            <InteractionType>Needy</InteractionType>
+            <Time>-171.921509</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>NeedyMod</ComponentType>
+            <ComponentName>Faulty Seven Segment Displays</ComponentName>
+            <InteractionType>Needy</InteractionType>
+            <Time>-705.12854</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>NeedyMod</ComponentType>
+            <ComponentName>Faulty Seven Segment Displays</ComponentName>
+            <InteractionType>Needy</InteractionType>
+            <Time>-950.94165</Time>
+          </StrikeSource>
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>mod_FMNpractice_146</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>111</RecordID>
+        <Result>Defused</Result>
+        <Seed>1638713428</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+        </Components>
+        <MissionID>mod_FMNpractice_146</MissionID>
+        <ModuleSolveCount>7</ModuleSolveCount>
+        <TimeElapsed>182.992188</TimeElapsed>
+        <LeaderboardRank>1</LeaderboardRank>
+        <RealTimeElapsed>191.0415</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>mod_fangsbombs2_misq7</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>50</RecordID>
+        <Result>Defused</Result>
+        <Seed>158869999</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+        </Components>
+        <MissionID>mod_fangsbombs2_misq7</MissionID>
+        <ModuleSolveCount>1</ModuleSolveCount>
+        <TimeElapsed>229.447754</TimeElapsed>
+        <LeaderboardRank>1</LeaderboardRank>
+        <RealTimeElapsed>237.4711</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>mod_FMNpractice_twin6</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>51</RecordID>
+        <Result>Defused</Result>
+        <Seed>1953727734</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+        </Components>
+        <MissionID>mod_FMNpractice_twin6</MissionID>
+        <ModuleSolveCount>7</ModuleSolveCount>
+        <TimeElapsed>136.08252</TimeElapsed>
+        <LeaderboardRank>1</LeaderboardRank>
+        <RealTimeElapsed>144.144653</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>mod_FMNpractice_twin10</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>52</RecordID>
+        <Result>Defused</Result>
+        <Seed>1300606422</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+        </Components>
+        <MissionID>mod_FMNpractice_twin10</MissionID>
+        <ModuleSolveCount>11</ModuleSolveCount>
+        <TimeElapsed>207.595947</TimeElapsed>
+        <LeaderboardRank>1</LeaderboardRank>
+        <RealTimeElapsed>211.003662</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>The Twin</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>184.398682</Time>
+          </StrikeSource>
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>mod_fangspack_2rstores</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>62</RecordID>
+        <Result>Defused</Result>
+        <Seed>1463616369</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+        </Components>
+        <MissionID>mod_fangspack_2rstores</MissionID>
+        <ModuleSolveCount>2</ModuleSolveCount>
+        <TimeElapsed>897.6267</TimeElapsed>
+        <LeaderboardRank>1</LeaderboardRank>
+        <RealTimeElapsed>905.809448</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>mod_MPsMTM_M_Very_Annoying_Button_(The)</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>70</RecordID>
+        <Result>Defused</Result>
+        <Seed>1195470942</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Wires</ComponentTypeEnum>
+          <ComponentTypeEnum>Wires</ComponentTypeEnum>
+          <ComponentTypeEnum>Wires</ComponentTypeEnum>
+        </Components>
+        <MissionID>mod_MPsMTM_M_Very_Annoying_Button_(The)</MissionID>
+        <ModuleSolveCount>5</ModuleSolveCount>
+        <TimeElapsed>173.789063</TimeElapsed>
+        <LeaderboardRank>0</LeaderboardRank>
+        <RealTimeElapsed>182.171143</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>mod_missionpack_VFlyer_mission101MysticLights</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>76</RecordID>
+        <Result>Defused</Result>
+        <Seed>1556978453</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+        </Components>
+        <MissionID>mod_missionpack_VFlyer_mission101MysticLights</MissionID>
+        <ModuleSolveCount>101</ModuleSolveCount>
+        <TimeElapsed>1175.87878</TimeElapsed>
+        <LeaderboardRank>2</LeaderboardRank>
+        <RealTimeElapsed>1185.18237</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>mod_Kavinkul_101_Challenge_mission 2</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>92</RecordID>
+        <Result>Defused</Result>
+        <Seed>1576434314</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+        </Components>
+        <MissionID>mod_Kavinkul_101_Challenge_mission 2</MissionID>
+        <ModuleSolveCount>1</ModuleSolveCount>
+        <TimeElapsed>751.653564</TimeElapsed>
+        <LeaderboardRank>0</LeaderboardRank>
+        <RealTimeElapsed>759.8391</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>mod_FMNpractice_1410</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>109</RecordID>
+        <Result>Defused</Result>
+        <Seed>2004940589</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+        </Components>
+        <MissionID>mod_FMNpractice_1410</MissionID>
+        <ModuleSolveCount>11</ModuleSolveCount>
+        <TimeElapsed>318.221436</TimeElapsed>
+        <LeaderboardRank>1</LeaderboardRank>
+        <RealTimeElapsed>283.4228</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Digital Root</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>104.135254</Time>
+          </StrikeSource>
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>mod_MPsMTM_M_Tax_Returns</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>114</RecordID>
+        <Result>Defused</Result>
+        <Seed>1961613630</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+        </Components>
+        <MissionID>mod_MPsMTM_M_Tax_Returns</MissionID>
+        <ModuleSolveCount>3</ModuleSolveCount>
+        <TimeElapsed>-656.880859</TimeElapsed>
+        <LeaderboardRank>0</LeaderboardRank>
+        <RealTimeElapsed>3448.43115</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Tax Returns</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>2703.37256</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Tax Returns</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>431.598145</Time>
+          </StrikeSource>
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>mod_MPsMTM_M_Time_Signatures</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>121</RecordID>
+        <Result>Defused</Result>
+        <Seed>358020903</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+        </Components>
+        <MissionID>mod_MPsMTM_M_Time_Signatures</MissionID>
+        <ModuleSolveCount>5</ModuleSolveCount>
+        <TimeElapsed>-1158.64893</TimeElapsed>
+        <LeaderboardRank>0</LeaderboardRank>
+        <RealTimeElapsed>2524.10742</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Time Signatures</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>3473.32227</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Time Signatures</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>3345.80444</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Time Signatures</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>3315.694</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Time Signatures</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>2997.24023</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Time Signatures</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>2455.45435</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Time Signatures</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>2284.35352</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Time Signatures</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>2024.1189</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Time Signatures</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>1161.617</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Time Signatures</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>1149.66187</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Time Signatures</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>1001.87476</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Time Signatures</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>771.6848</Time>
+          </StrikeSource>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Time Signatures</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>468.883545</Time>
+          </StrikeSource>
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+</dictionary>

@@ -1,0 +1,250 @@
+Module ID: 3 | Player: Cyber12 | Module Name: UltraStores | Strike
+Module ID: 2 | Player: edan456 | Module Name: UltraStores | Strike
+Module ID: 3 | Player: Cyber12 | Module Name: UltraStores | Strike
+Module ID: 2 | Player: edan456 | Module Name: UltraStores | Value: 0
+Module ID: 1 | Player: mythers45 | Module Name: UltraStores | Value: 0
+Module ID: 3 | Player: Cyber12 | Module Name: UltraStores | Strike
+Module ID: 3 | Player: Cyber12 | Module Name: UltraStores | Strike
+Module ID: 4 | Player: mythers45 | Module Name: UltraStores | Value: 0
+Module ID: 1 | Player: edan456 | Module Name: Time Signatures | Strike
+Module ID: 1 | Player: edan456 | Module Name: Time Signatures | Strike
+Module ID: 1 | Player: edan456 | Module Name: Time Signatures | Strike
+Module ID: 1 | Player: edan456 | Module Name: Time Signatures | Value: 0
+Module ID: 3 | Player: krispyalliance52133 | Module Name: Time Signatures | Strike
+Module ID: 4 | Player: Cyber12 | Module Name: Time Signatures | Value: 0
+Module ID: 5 | Player: Cyber12 | Module Name: Time Signatures | Strike
+Module ID: 3 | Player: krispyalliance52133 | Module Name: Time Signatures | Strike
+Module ID: 5 | Player: Cyber12 | Module Name: Time Signatures | Strike
+Module ID: 2 | Player: garuda2002 | Module Name: Time Signatures | Strike
+Module ID: 3 | Player: krispyalliance52133 | Module Name: Time Signatures | Strike
+Module ID: 3 | Player: krispyalliance52133 | Module Name: Time Signatures | Strike
+Module ID: 3 | Player: krispyalliance52133 | Module Name: Time Signatures | Strike
+Module ID: 5 | Player: Cyber12 | Module Name: Time Signatures | Value: 0
+Module ID: 3 | Player: krispyalliance52133 | Module Name: Time Signatures | Strike
+Module ID: 2 | Player: garuda2002 | Module Name: Time Signatures | Value: 0
+Module ID: 3 | Player: garuda2002 | Module Name: Time Signatures | Value: 0
+Module ID: 15 | Player: garuda2002 | Module Name: Time Signatures | Value: 12
+Module ID: 21 | Player: KingMario2973 | Module Name: Free Parking | Value: 8
+Module ID: 47 | Player: GeekYiwen | Module Name: Varicolored Squares | Strike
+Module ID: 26 | Player: epictho | Module Name: Loopover | Value: 13
+Module ID: 47 | Player: GeekYiwen | Module Name: Varicolored Squares | Value: 9
+Module ID: 7 | Player: epictho | Module Name: Binary LEDs | Value: 7
+Module ID: 5 | Player: epictho | Module Name: Battleship | Value: 7
+Module ID: 14 | Player: TheGuyThatIsWeird | Module Name: Character Shift | Value: 6
+Module ID: 11 | Player: ktane1 | Module Name: Colored Squares | Value: 6
+Module ID: 13 | Player: marksam32 | Module Name: Caesar Cycle | Strike
+Module ID: 2 | Player: epictho | Module Name: Organization | Strike
+Module ID: 8 | Player: xarata98 | Module Name: Bitmaps | Value: 7
+Module ID: 6 | Player: ktane1 | Module Name: Big Circle | Value: 7
+Module ID: 40 | Player: Cyber12 | Module Name: Playfair Cycle | Strike
+Module ID: 40 | Player: Cyber12 | Module Name: Playfair Cycle | Value: 12
+Module ID: 41 | Player: epictho | Module Name: Quiz Buzz | Value: 9
+Module ID: 35 | Player: ktane1 | Module Name: Shikaku | Value: 12
+Module ID: 12 | Player: KingMario2973 | Module Name: Colorful Insanity | Value: 11
+Module ID: 2 | Player: epictho | Module Name: Organization | Strike
+Module ID: 28 | Player: Danny7007 | Module Name: Masyu | Value: 12
+Module ID: 18 | Player: krispyalliance52133 | Module Name: Divided Squares | Value: 4
+Module ID: 17 | Player: pikachuplays07 | Module Name: Countdown | Value: 6
+Module ID: 22 | Player: Dbros1000 | Module Name: Game of Life Simple | Value: 12
+Module ID: 31 | Player: wilwam845 | Module Name: Pattern Cube | Value: 15
+Module ID: 33 | Player: xarata98 | Module Name: Password Generator | Value: 6
+Module ID: 16 | Player: Danny7007 | Module Name: Combination Lock | Value: 5
+Module ID: 30 | Player: 피씨 | Module Name: Passport Control | Value: 5
+Module ID: 13 | Player: xarata98 | Module Name: Caesar Cycle | Value: 8
+Module ID: 46 | Player: Cyber12 | Module Name: Uncolored Squares | Value: 6
+Module ID: 4 | Player: Starbucks___employee | Module Name: 15 Mystic Lights | Value: 10
+Module ID: 25 | Player: ktane1 | Module Name: The Legendre Symbol | Value: 8
+Module ID: 39 | Player: 피씨 | Module Name: Pigpen Cycle | Value: 9
+Module ID: 10 | Player: xarata98 | Module Name: Blue Cipher | Value: 10
+Module ID: 1 | Module Name: Organization | Strike
+Module ID: 2 | Player: GeekYiwen | Module Name: Organization | Strike
+Module ID: 19 | Player: wilwam845 | Module Name: Double Expert | Value: 10
+Module ID: 27 | Player: Cyber12 | Module Name: Matchematics | Value: 3
+Module ID: 45 | Player: Cyber12 | Module Name: UltraStores | Strike
+Module ID: 44 | Player: 피씨 | Module Name: UltraStores | Value: 70
+Module ID: 20 | Player: TheGuyThatIsWeird | Module Name: Faulty RGB Maze | Value: 22
+Module ID: 9 | Player: GeekYiwen | Module Name: Black Hole | Value: 8
+Module ID: 42 | Player: xmaster6726 | Module Name: Seven Choose Four | Strike
+Module ID: 45 | Player: Cyber12 | Module Name: UltraStores | Value: 70
+Module ID: 37 | Player: marksam32 | Module Name: Misery Squares | Value: 10
+Module ID: 32 | Player: ktane1 | Module Name: Press X | Value: 6
+Module ID: 38 | Player: TheGuyThatIsWeird | Module Name: Violet Cipher | Value: 14
+Module ID: 34 | Player: ktane1 | Module Name: RGB Maze | Value: 12
+Module ID: 43 | Player: GeekYiwen | Module Name: The Ultracube | Value: 17
+Module ID: 42 | Player: xmaster6726 | Module Name: Seven Choose Four | Value: 14
+Module ID: 2 | Player: GeekYiwen | Module Name: Organization | Strike
+Module ID: 36 | Player: Dbros1000 | Module Name: Simon Stores | Strike
+Module ID: 23 | Player: Dbros1000 | Module Name: Green Cipher | Value: 10
+Module ID: 24 | Player: GeekYiwen | Module Name: The Hypercube | Value: 15
+Module ID: 15 | Player: mythers45 | Module Name: Colour Code | Value: 12
+Module ID: 1 | Player: GeekYiwen | Module Name: Organization | Value: 23
+Module ID: 2 | Player: GeekYiwen | Module Name: Organization | Value: 23
+Module ID: 29 | Player: mythers45 | Module Name: Mystic Square | Value: 9
+Module ID: 3 | Player: epictho | Module Name: The Twin | Strike
+Module ID: 1 | Player: garuda2002 | Module Name: Intervals | Strike
+Module ID: 1 | Player: garuda2002 | Module Name: Intervals | Strike
+Module ID: 1 | Player: garuda2002 | Module Name: Intervals | Value: 0
+Module ID: 2 | Player: garuda2002 | Module Name: Intervals | Value: 0
+Module ID: 3 | Player: garuda2002 | Module Name: Intervals | Value: 0
+Module ID: 4 | Player: garuda2002 | Module Name: Intervals | Value: 0
+Module ID: 5 | Player: garuda2002 | Module Name: Intervals | Value: 0
+Module ID: 6 | Player: draket333 | Module Name: Chinese Counting | Value: 5
+Module ID: 5 | Player: draket333 | Module Name: Not Who's on First | Value: 12
+Module ID: 2 | Player: draket333 | Module Name: Insane Talk | Value: 4
+Module ID: 3 | Player: draket333 | Module Name: Web Design | Value: 10
+Module ID: 4 | Player: draket333 | Module Name: Addition | Value: 2
+Module ID: 1 | Player: draket333 | Module Name: Footnotes | Value: 9
+Module ID: 11 | Player: draket333 | Module Name: Rubik's Cube | Value: 9
+Module ID: 7 | Player: draket333 | Module Name: Simon Simons | Value: 4
+Module ID: 8 | Player: draket333 | Module Name: Ten-Button Color Code | Value: 12
+Module ID: 10 | Player: draket333 | Module Name: Forget It Not | Value: 2
+Module ID: 3 | Player: TheGuyThatIsWeird | Module Name: Faulty Backgrounds | Value: 4
+Module ID: 2 | Player: Fartlicker777 | Module Name: Coordinates | Value: 9
+Module ID: 8 | Player: draket333 | Module Name: The Troll | Value: 6
+Module ID: 11 | Player: TheGuyThatIsWeird | Module Name: Instructions | Value: 6
+Module ID: 5 | Player: Fartlicker777 | Module Name: Reordered Keys | Strike
+Module ID: 7 | Player: draket333 | Module Name: Scalar Dials | Value: 20
+Module ID: 12 | Player: TheGuyThatIsWeird | Module Name: LED Encryption | Strike
+Module ID: 6 | Player: draket333 | Module Name: Disordered Keys | Value: 13
+Module ID: 12 | Player: TheGuyThatIsWeird | Module Name: LED Encryption | Value: 6
+Module ID: 13 | Player: Zaphod_Beeblebrox_IV | Module Name: Color Decoding | Strike
+Module ID: 23 | Player: garuda2002 | Module Name: Caesar Cycle | Value: 8
+Module ID: 24 | Player: draket333 | Module Name: Tax Returns | Value: 19
+Module ID: 16 | Player: draket333 | Module Name: Blackjack | Value: 7
+Module ID: 3 | Player: garuda2002 | Module Name: Playfair Cycle | Value: 12
+Module ID: 21 | Player: Zaphod_Beeblebrox_IV | Module Name: Black Cipher | Value: 16
+Module ID: 31 | Player: garuda2002 | Module Name: Adventure Game | Value: 8
+Module ID: 9 | Player: draket333 | Module Name: Masyu | Value: 12
+Module ID: 20 | Player: Zaphod_Beeblebrox_IV | Module Name: Vexillology | Value: 7
+Module ID: 5 | Player: draket333 | Module Name: Turtle Robot | Value: 15
+Module ID: 10 | Player: garuda2002 | Module Name: Graffiti Numbers | Value: 8
+Module ID: 14 | Player: garuda2002 | Module Name: Passwords Translated | Value: 2
+Module ID: 27 | Player: ktane1 | Module Name: Bitwise Operations | Value: 5
+Module ID: 8 | Player: Zaphod_Beeblebrox_IV | Module Name: Vigenère Cipher | Value: 8
+Module ID: 7 | Player: ktane1 | Module Name: Minecraft Parody | Value: 2
+Module ID: 25 | Player: garuda2002 | Module Name: The Colored Maze | Value: 3
+Module ID: 12 | Player: ktane1 | Module Name: Colored Squares | Value: 6
+Module ID: 18 | Player: ktane1 | Module Name: Radiator | Value: 5
+Module ID: 22 | Player: garuda2002 | Module Name: Daylight Directions | Value: 6
+Module ID: 26 | Player: draket333 | Module Name: Kooky Keypad | Value: 8
+Module ID: 2 | Player: garuda2002 | Module Name: Point of Order | Value: 6
+Module ID: 13 | Player: heres_fangy | Module Name: Scavenger Hunt | Value: 7
+Module ID: 1 | Player: draket333 | Module Name: The Time Keeper | Value: 13
+Module ID: 30 | Player: Zaphod_Beeblebrox_IV | Module Name: Yellow Cipher | Value: 15
+Module ID: 6 | Player: garuda2002 | Module Name: Superlogic | Value: 8
+Module ID: 11 | Player: draket333 | Module Name: Mystery Module | Value: 3
+Module ID: 19 | Player: draket333 | Module Name: Arrow Talk | Value: 5
+Module ID: 28 | Player: Zaphod_Beeblebrox_IV | Module Name: Flower Patch | Value: 6
+Module ID: 4 | Player: ktane1 | Module Name: The Hyperlink | Value: 13
+Module ID: 29 | Player: draket333 | Module Name: Forget Perspective | Strike
+Module ID: 17 | Player: Zaphod_Beeblebrox_IV | Module Name: RPS Judging | Value: 46
+Module ID: 29 | Player: draket333 | Module Name: Forget Perspective | Value: 108
+Module ID: 15 | Player: draket333 | Module Name: Forget Us Not | Value: 38
+Module ID: 7 | Player: marksam32 | Module Name: Digital Root | Value: 0
+Module ID: 5 | Player: marksam32 | Module Name: Digital Root | Value: 0
+Module ID: 6 | Player: marksam32 | Module Name: Digital Root | Value: 0
+Module ID: 2 | Player: garuda2002 | Module Name: Digital Root | Value: 0
+Module ID: 3 | Player: marksam32 | Module Name: Digital Root | Value: 0
+Module ID: 9 | Player: marksam32 | Module Name: Digital Root | Value: 0
+Module ID: 4 | Player: marksam32 | Module Name: Digital Root | Value: 0
+Module ID: 8 | Player: marksam32 | Module Name: Digital Root | Value: 0
+Module ID: 10 | Player: marksam32 | Module Name: Digital Root | Value: 0
+Module ID: 11 | Player: ScopingLandscape | Module Name: Digital Root | Value: 0
+Module ID: 1 | Player: TheGuyThatIsWeird | Module Name: The Twin | Value: 0
+Module ID: 10 | Player: ktane1 | Module Name: Dimension Disruption | Value: 3
+Module ID: 13 | Player: garuda2002 | Module Name: Crazy Talk | Value: 2
+Module ID: 12 | Player: Zaphod_Beeblebrox_IV | Module Name: Curriculum | Value: 13
+Module ID: 4 | Player: mythers45 | Module Name: Corners | Value: 5
+Module ID: 18 | Player: garuda2002 | Module Name: Alchemy | Value: 8
+Module ID: 6 | Player: mythers45 | Module Name: Not Complicated Wires | Value: 6
+Module ID: 23 | Player: marksam32 | Module Name: The Hangover | Value: 7
+Module ID: 8 | Player: garuda2002 | Module Name: Calculus | Value: 4
+Module ID: 22 | Player: marksam32 | Module Name: Subways | Value: 4
+Module ID: 11 | Player: ktane1 | Module Name: Number Nimbleness | Value: 11
+Module ID: 19 | Player: marksam32 | Module Name: Cryptography | Value: 8
+Module ID: 1 | Player: mythers45 | Module Name: Faulty Backgrounds | Value: 4
+Module ID: 3 | Player: marksam32 | Module Name: Red Buttons | Value: 6
+Module ID: 20 | Player: Zaphod_Beeblebrox_IV | Module Name: Skyrim | Value: 11
+Module ID: 2 | Player: ktane1 | Module Name: Spot the Difference | Value: 5
+Module ID: 5 | Player: mythers45 | Module Name: Color Generator | Value: 6
+Module ID: 16 | Player: garuda2002 | Module Name: X01 | Value: 12
+Module ID: 9 | Player: Zaphod_Beeblebrox_IV | Module Name: Daylight Directions | Value: 6
+Module ID: 14 | Player: mythers45 | Module Name: Find The Date | Value: 5
+Module ID: 15 | Player: mythers45 | Module Name: The Swan | Value: 4
+Module ID: 17 | Player: garuda2002 | Module Name: White Cipher | Value: 14
+Module ID: 1 | Player: edan456 | Module Name: Scalar Dials | Strike
+Module ID: 1 | Player: TurnedTrove100 | Module Name: Adventure Game | Value: 0
+Module ID: 2 | Player: TurnedTrove100 | Module Name: Qwirkle | Strike
+Module ID: 4 | Player: TheLegendWilleh | Module Name: Number Nimbleness | Strike
+Module ID: 2 | Player: TurnedTrove100 | Module Name: Qwirkle | Strike
+Module ID: 4 | Player: TurnedTrove100 | Module Name: Weird Al Yankovic | Value: 2
+Module ID: 14 | Player: TurnedTrove100 | Module Name: Calendar | Value: 5
+Module ID: 2 | Player: TurnedTrove100 | Module Name: Not Simaze | Value: 4
+Module ID: 9 | Player: BananaLord | Module Name: Modern Cipher | Value: 7
+Module ID: 11 | Player: TheLegendWilleh | Module Name: Bamboozling Button Grid | Value: 50
+Module ID: 10 | Player: TurnedTrove100 | Module Name: Monsplode Trading Cards | Value: 11
+Module ID: 5 | Player: TheLegendWilleh | Module Name: Perspective Pegs | Strike
+Module ID: 15 | Player: TheLegendWilleh | Module Name: The Hangover | Value: 7
+Module ID: 6 | Player: ShadowMeowMeow | Module Name: Square Button | Strike
+Module ID: 6 | Player: ShadowMeowMeow | Module Name: Square Button | Value: 7
+Module ID: 13 | Player: GeekYiwen | Module Name: Art Appreciation | Value: 2
+Module ID: 16 | Player: GeekYiwen | Module Name: Maze Scrambler | Value: 4
+Module ID: 8 | Player: TurnedTrove100 | Module Name: The Troll | Value: 6
+Module ID: 2 | Player: GeekYiwen | Module Name: The Jukebox | Value: 2
+Module ID: 17 | Player: TurnedTrove100 | Module Name: Cryptic Password | Value: 6
+Module ID: 11 | Player: TurnedTrove100 | Module Name: Purple Arrows | Value: 4
+Module ID: 3 | Player: TurnedTrove100 | Module Name: Word Scramble | Value: 2
+Module ID: 14 | Player: TurnedTrove100 | Module Name: Not Password | Value: 5
+Module ID: 7 | Player: short_c1rcu1t | Module Name: Safety Square | Value: 7
+Module ID: 1 | Player: GeekYiwen | Module Name: The Time Keeper | Strike
+Module ID: 1 | Player: GeekYiwen | Module Name: The Time Keeper | Value: 13
+Module ID: 2 | Player: xarata98 | Module Name: Turn The Key | Value: 2
+Module ID: 3 | Player: alberozuko | Module Name: Five Letter Words | Strike
+Module ID: 4 | Player: TurnedTrove100 | Module Name: Vigenère Cipher | Strike
+Module ID: 4 | Player: TurnedTrove100 | Module Name: Vigenère Cipher | Value: 8
+Module ID: 7 | Player: SaNoyTwooch | Module Name: Monsplode Trading Cards | Value: 11
+Module ID: 10 | Player: epictho | Module Name: Lombax Cubes | Strike
+Module ID: 3 | Player: BananaLord | Module Name: Anagrams | Value: 2
+Module ID: 1 | Player: TurnedTrove100 | Module Name: Insanagrams | Value: 6
+Module ID: 2 | Player: TurnedTrove100 | Module Name: Quiz Buzz | Value: 9
+Module ID: 10 | Player: BananaLord | Module Name: Bone Apple Tea | Value: 3
+Module ID: 11 | Player: xarata98 | Module Name: Caesar Cycle | Value: 8
+Module ID: 4 | Player: xarata98 | Module Name: Flashing Lights | Value: 7
+Module ID: 8 | Player: epictho | Module Name: Quaternions | Strike
+Module ID: 9 | Player: SaNoyTwooch | Module Name: Font Select | Value: 6
+Module ID: 3 | Player: TurnedTrove100 | Module Name: Nonogram | Value: 9
+Module ID: 8 | Player: xarata98 | Module Name: Yellow Cipher | Value: 15
+Module ID: 6 | Player: epictho | Module Name: Langton's Ant | Strike
+Module ID: 10 | Player: SaNoyTwooch | Module Name: Guess Who? | Value: 8
+Module ID: 1 | Player: epictho | Module Name: LED Grid | Value: 3
+Module ID: 11 | Player: SaNoyTwooch | Module Name: The Wire | Strike
+Module ID: 2 | Player: xarata98 | Module Name: Broken Buttons | Value: 8
+Module ID: 7 | Player: epictho | Module Name: The Sphere | Value: 13
+Module ID: 4 | Player: TurnedTrove100 | Module Name: Uncolored Switches | Value: 11
+Module ID: 7 | Player: TurnedTrove100 | Module Name: Who's on First Translated | Value: 4
+Module ID: 11 | Player: epictho | Module Name: Ten-Button Color Code | Value: 12
+Module ID: 1 | Player: epictho | Module Name: Foreign Exchange Rates | Value: 3
+Module ID: 8 | Player: epictho | Module Name: Zoni | Value: 5
+Module ID: 4 | Player: TurnedTrove100 | Module Name: Not Wire Sequence | Strike
+Module ID: 5 | Player: epictho | Module Name: Boolean Maze | Value: 8
+Module ID: 4 | Player: TurnedTrove100 | Module Name: Not Wire Sequence | Value: 11
+Module ID: 3 | Player: f1r3ysoul | Module Name: Answering Can Be Fun | Strike
+Module ID: 2 | Player: TurnedTrove100 | Module Name: The Bulb | Value: 5
+Module ID: 10 | Player: epictho | Module Name: Footnotes | Strike
+Module ID: 6 | Player: TurnedTrove100 | Module Name: The Festive Jukebox | Value: 2
+Module ID: 3 | Player: TurnedTrove100 | Module Name: Accumulation | Value: 10
+Module ID: 5 | Player: TurnedTrove100 | Module Name: Mineseeker | Value: 8
+Module ID: 4 | Player: TurnedTrove100 | Module Name: Zoni | Value: 5
+Module ID: 7 | Player: f1r3ysoul | Module Name: Hinges | Value: 11
+Module ID: 2 | Player: TurnedTrove100 | Module Name: 64 | Strike
+Module ID: 9 | Player: ShadowMeowMeow | Module Name: Harmony Sequence | Value: 8
+Module ID: 6 | Player: ShadowMeowMeow | Module Name: Arrow Talk | Value: 5
+Module ID: 4 | Player: Cyber12 | Module Name: Color Generator | Value: 6
+Module ID: 2 | Player: lord_kabewm | Module Name: Backgrounds | Value: 3
+Module ID: 7 | Player: Dbros1000 | Module Name: Hexamaze | Value: 9
+Module ID: 6 | Player: Dbros1000 | Module Name: Dungeon | Strike
+Module ID: 1 | Player: xarata98 | Module Name: Jaden Smith Talk | Strike
+Module ID: 6 | Player: Dbros1000 | Module Name: Dungeon | Strike
+Module ID: 5 | Player: TachtheCursedHunter | Module Name: Unfair Cipher | Value: 16
+Module ID: 10 | Module Name: Random Access Memory | Strike
+Module ID: 10 | Module Name: Random Access Memory | Strike

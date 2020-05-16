@@ -1,0 +1,787 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 564928876
+
+[BombGenerator] Generator settings: Time: 1320, NumStrikes: 3, FrontFaceOnly: False
+2 Pools:
+[ALL_SOLVABLE] Count: 8
+[christmasPresents, crystalMaze, jewelVault, sonicKnuckles, triangle, 15MysticLights, spwiz3DMaze, 64, ksmAmazeingButtons, AMessage, accumulation, AdjacentLettersModule, affineCycle, spwizAdventureGame, JuckAlchemy, algebra, alliances, alphaBits, alphabetNumbers, AnsweringCanBeFun, arithmelogic, asciiArt, baccarat, BartendingModule, bases, benedictCumberbatch, binaryGrid, BinaryPuzzleModule, binaryTree, BlackHoleModule, BlindMaze, blinkstopModule, blueArrowsModule, blueCipher, bombDiffusal, ksmBobBarks, boolMaze, borderedKeys, boxing, BrailleModule, BrokenGuitarChordsModule, BrokenButtonsModule, buttonGrid, burglarAlarm, buttonSequencesModule, caesarCycle, CheapCheckoutModule, ChessModule, coopharmonySequence, ChordQualities, codenames, coffeebucks, Color Decoding, lgndColoredKeys, ColorMorseModule, ColoredSwitchesModule, ColorfulInsanity, colourcode, KritConnectionDev, CoordinatesModule, CrackboxModule, CreationModule, boolMazeCruel, cruelCountdown, CruelKeypads, CruelPianoKeys, CryptModule, curriculum, CursedDoubleOhModule, DecoloredSquaresModule, kataDeckCreating, digitString, DiscoloredSquaresModule, disorderedKeys, doubleArrows, doubleExpert, DrDoctorModule, dragonEnergy, elderPassword, EncryptedEquationsModule, EncryptedMorse, equations, ExtendedPassword, exoplanets, FlagsModule, FlavorTextCruel, FollowingOrders, FollowTheLeaderModule, footnotes, freeParking, FriendshipModule, qFunctions, garfieldKart, GameOfLifeSimple, geneticSequence, geometryDashModule, graffitiNumbers, greekCalculus, grayCipher, greenCipher, GridMatching, GridlockModule, groceryStore, gryphons, GuessWho, harmonySequence, HexamazeModule, hereditaryBaseNotationModule, hillCycle, hieroglyphics, hinges, KritHoldUps, horribleMemory, HumanResourcesModule, hunting, iceCreamModule, qSwedishMaze, jackAttack, jenga, KnowYourWay, kookyKeypadModule, krazyTalk, lasers, Laundry, leftandRight, LightCycleModule, lightspeed, linesOfCode, LionsShareModule, logicGates, logicalButtonsModule, loopover, MadMemory, MafiaModule, MahjongModule, maintenance, MarbleTumbleModule, MaritimeFlagsModule, Mastermind Cruel, masyuModule, MatrixQuiz, mazematics, maze3, melodySequencer, memorableButtons, meter, mineseeker, moduleListening, modulusManipulation, monsplodeCards, morseButtons, MorseAMaze, MorseV2, MouseInTheMaze, murder, MysticSquareModule, Negativity, neutralization, NonogramModule, NotMorseCode, NotWhosOnFirst, NotWireSequence, numberNimbleness, NumberPad, objectShows, OddOneOutModule, OnlyConnectModule, orderedKeys, palindromes, partialDerivatives, periodicTable, PerplexingWiresModule, spwizPerspectivePegs, pigpenRotations, planets, PlantIdentification, Playfair, playfairCycle, MazeV2, pigpenCycle, Poker, PolyhedralMazeModule, quaternions, quintuples, quizBuzz, qwirkle, raidingTemples, recordedKeys, redCipher, reorderedKeys, reverseMorse, retirement, ReverseAlphabetize, rgbMaze, MusicRhythms, roleReversal, romanArtModule, rubiksClock, RubiksCubeModule, PasswordV2, qSchlagDenBomb, KritScripts, SeaShells, semamorse, sevenChooseFour, ShapesBombs, shikaku, Signals, SillySlots, simonSamples, SimonScreamsModule, simonSelectsModule, SimonShrieksModule, SimonSpeaksModule, SimonSpinsModule, simonStops, simonStages, simonsOnFirst, simonsStar, SkewedSlotsModule, skyrim, snakesAndLadders, snooker, sonic, SplittingTheLootModule, stackem, StandardCrazyTalk, stainedGlass, streetFighter, SueetWall, SuperlogicModule, MazeSwitching, SymbolCycleModule, sync125_3, SynchronizationModule, Tangrams, tapCode, tashaSqueals, TenButtonColorCode, TennisModule, ksmTetraVex, tetriamonds, TheBlackPage, thedealmaker, deckOfManyThings, hexabutton, hyperlink, iPhone, labyrinth, legendreSymbol, londonUnderground, modkit, moon, necronomicon, KritRadio, StareModule, sphere, stockMarket, sun, wire, TicTacToeModule, ThirdBase, timeSignatures, towerOfHanoi, toonEnough, transmittedMorseModule, triamonds, R4YUncoloredSwitches, unorderedKeys, valves, VaricoloredSquaresModule, vectorsModule, vigenereCipher, violetCipher, wastemanagement, webDesign, whiteCipher, wireSpaghetti, XRayModule, X01, yesandno, ZooModule] Count: 3
+
+
+[BombGenerator] Selected affineCycle (1826123147 (ModBombComponent))
+
+[BombGenerator] Selected webDesign (897610745 (ModBombComponent))
+
+[BombGenerator] Selected MinesweeperModule (945682169 (ModBombComponent))
+
+[BombGenerator] Selected Color Generator (1145222040 (ModBombComponent))
+
+[BombGenerator] Selected burglarAlarm (1318968178 (ModBombComponent))
+
+[BombGenerator] Selected ArrowTalk (2075509471 (ModBombComponent))
+
+[BombGenerator] Selected dominoes (1606614153 (ModBombComponent))
+
+[BombGenerator] Selected KritMicroModules (1648789362 (ModBombComponent))
+
+[BombGenerator] Selected harmonySequence (1632495656 (ModBombComponent))
+
+[BombGenerator] Selected recordedKeys (1781014963 (ModBombComponent))
+
+[BombGenerator] Selected Signals (1512556237 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1826123147 (ModBombComponent), 897610745 (ModBombComponent), 945682169 (ModBombComponent), 1145222040 (ModBombComponent), 1318968178 (ModBombComponent), 2075509471 (ModBombComponent), 1606614153 (ModBombComponent), 1648789362 (ModBombComponent), 1632495656 (ModBombComponent), 1781014963 (ModBombComponent), 1512556237 (ModBombComponent)]
+
+[Mod-affineCycle] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1826123147" has ID:"affineCycle"
+
+[Mod-affineCycle] Loading assemblies...
+
+[Mod-affineCycle] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1826123147\Newtonsoft.Json.dll"...
+
+[Mod-affineCycle] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1826123147\affineCycle.dll"
+
+[Mod-affineCycle] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1826123147" complete.
+
+[Mod-affineCycle] Loading GameObjects...
+
+[Mod-affineCycle] Replacing shaders...
+
+[Mod-affineCycle] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-affineCycle] Loading KMMissions...
+
+[Mod-affineCycle] Loading KMMissionTableOfContents...
+
+[Mod-affineCycle] Loading AudioClips...
+
+[BombGenerator] Instantiated 1826123147 on face FrontFace, spawn index 0
+
+[Mod-webDesign] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\897610745" has ID:"webDesign"
+
+[Mod-webDesign] Loading assemblies...
+
+[Mod-webDesign] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\897610745\Newtonsoft.Json.dll"...
+
+[Mod-webDesign] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\897610745\webDesign.dll"
+
+[Mod-webDesign] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\897610745" complete.
+
+[Mod-webDesign] Loading GameObjects...
+
+[Mod-webDesign] Replacing shaders...
+
+[Mod-webDesign] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-webDesign] Loading KMMissions...
+
+[Mod-webDesign] Loading KMMissionTableOfContents...
+
+[Mod-webDesign] Loading AudioClips...
+
+[BombGenerator] Instantiated 897610745 on face FrontFace, spawn index 4
+
+[Mod-MinesweeperModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\945682169" has ID:"MinesweeperModule"
+
+[Mod-MinesweeperModule] Loading assemblies...
+
+[Mod-MinesweeperModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\945682169\Newtonsoft.Json.dll"...
+
+[Mod-MinesweeperModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\945682169\MinesweeperModule.dll"
+
+[Mod-MinesweeperModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\945682169" complete.
+
+[Mod-MinesweeperModule] Loading GameObjects...
+
+[Mod-MinesweeperModule] Replacing shaders...
+
+[Mod-MinesweeperModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-MinesweeperModule] Loading KMMissions...
+
+[Mod-MinesweeperModule] Loading KMMissionTableOfContents...
+
+[Mod-MinesweeperModule] Loading AudioClips...
+
+[BombGenerator] Instantiated 945682169 on face FrontFace, spawn index 3
+
+[Mod-Color Generator] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1145222040" has ID:"Color Generator"
+
+[Mod-Color Generator] Loading assemblies...
+
+[Mod-Color Generator] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1145222040\Newtonsoft.Json.dll"...
+
+[Mod-Color Generator] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1145222040\Color Generator.dll"
+
+[Mod-Color Generator] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1145222040" complete.
+
+[Mod-Color Generator] Loading GameObjects...
+
+[Mod-Color Generator] Replacing shaders...
+
+[Mod-Color Generator] ModUnityVersion: 2017.2.0f3 Game: 2017.4.22f1
+
+[Mod-Color Generator] Loading KMMissions...
+
+[Mod-Color Generator] Loading KMMissionTableOfContents...
+
+[Mod-Color Generator] Loading AudioClips...
+
+[BombGenerator] Instantiated 1145222040 on face FrontFace, spawn index 2
+
+[Mod-burglarAlarm] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1318968178" has ID:"burglarAlarm"
+
+[Mod-burglarAlarm] Loading assemblies...
+
+[Mod-burglarAlarm] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1318968178\Newtonsoft.Json.dll"...
+
+[Mod-burglarAlarm] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1318968178\burglarAlarm.dll"
+
+[Mod-burglarAlarm] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1318968178" complete.
+
+[Mod-burglarAlarm] Loading GameObjects...
+
+[Mod-burglarAlarm] Replacing shaders...
+
+[Mod-burglarAlarm] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-burglarAlarm] Loading KMMissions...
+
+[Mod-burglarAlarm] Loading KMMissionTableOfContents...
+
+[Mod-burglarAlarm] Loading AudioClips...
+
+[BombGenerator] Instantiated 1318968178 on face BackFace, spawn index 0
+
+[BombGenerator] Instantiated 2075509471 on face FrontFace, spawn index 5
+
+[Mod-dominoes] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1606614153" has ID:"dominoes"
+
+[Mod-dominoes] Loading assemblies...
+
+[Mod-dominoes] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1606614153\Newtonsoft.Json.dll"...
+
+[Mod-dominoes] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1606614153\dominoes.dll"
+
+[Mod-dominoes] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1606614153" complete.
+
+[Mod-dominoes] Loading GameObjects...
+
+[Mod-dominoes] Replacing shaders...
+
+[Mod-dominoes] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-dominoes] Loading KMMissions...
+
+[Mod-dominoes] Loading KMMissionTableOfContents...
+
+[Mod-dominoes] Loading AudioClips...
+
+[BombGenerator] Instantiated 1606614153 on face BackFace, spawn index 4
+
+[BombGenerator] Instantiated 1648789362 on face FrontFace, spawn index 1
+
+[Mod-harmonySequence] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632495656" has ID:"harmonySequence"
+
+[Mod-harmonySequence] Loading assemblies...
+
+[Mod-harmonySequence] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632495656\Newtonsoft.Json.dll"...
+
+[Mod-harmonySequence] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632495656\harmonySequence.dll"
+
+[Mod-harmonySequence] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632495656" complete.
+
+[Mod-harmonySequence] Loading GameObjects...
+
+[Mod-harmonySequence] Replacing shaders...
+
+[Mod-harmonySequence] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-harmonySequence] Loading KMMissions...
+
+[Mod-harmonySequence] Loading KMMissionTableOfContents...
+
+[Mod-harmonySequence] Loading AudioClips...
+
+[BombGenerator] Instantiated 1632495656 on face BackFace, spawn index 2
+
+[Mod-recordedKeys] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1781014963" has ID:"recordedKeys"
+
+[Mod-recordedKeys] Loading assemblies...
+
+[Mod-recordedKeys] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1781014963\Newtonsoft.Json.dll"...
+
+[Mod-recordedKeys] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1781014963\recordedKeys.dll"
+
+[Mod-recordedKeys] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1781014963" complete.
+
+[Mod-recordedKeys] Loading GameObjects...
+
+[Mod-recordedKeys] Replacing shaders...
+
+[Mod-recordedKeys] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-recordedKeys] Replacing shaders...
+
+[Mod-recordedKeys] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-recordedKeys] Loading KMMissions...
+
+[Mod-recordedKeys] Loading KMMissionTableOfContents...
+
+[Mod-recordedKeys] Loading AudioClips...
+
+[BombGenerator] Instantiated 1781014963 on face BackFace, spawn index 3
+
+[Mod-Signals] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1512556237" has ID:"Signals"
+
+[Mod-Signals] Loading assemblies...
+
+[Mod-Signals] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1512556237\Newtonsoft.Json.dll"...
+
+[Mod-Signals] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1512556237\Signals.dll"
+
+[Mod-Signals] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1512556237" complete.
+
+[Mod-Signals] Loading GameObjects...
+
+[Mod-Signals] Replacing shaders...
+
+[Mod-Signals] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Signals] Replacing shaders...
+
+[Mod-Signals] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Signals] Replacing shaders...
+
+[Mod-Signals] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Signals] Replacing shaders...
+
+[Mod-Signals] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Signals] Replacing shaders...
+
+[Mod-Signals] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Signals] Loading KMMissions...
+
+[Mod-Signals] Loading KMMissionTableOfContents...
+
+[Mod-Signals] Loading AudioClips...
+
+[Signals #2] STATE:AWAKE
+[ModSettings] Couldn't find modSettings.json file at path: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes/Modsettings/Signals-settings.txt
+
+[BombGenerator] Instantiated 1512556237 on face BackFace, spawn index 5
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: QD8BF2
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: lit MSA (IndicatorWidget/LABEL8)
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: lit SIG (IndicatorWidget/LABEL6)
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: Parallel, Serial
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[Affine Cycle #1]The encrypted message was YXQKEBDS
+[Affine Cycle #1]The dial rotations were 3, 5, 7, 2, 2, 0, 4, 4
+[Affine Cycle #1]The deciphered message was KNOWABLE
+[Affine Cycle #1]The response word was ENCIPHER
+[Affine Cycle #1]The correct response was IXSSBHSF
+[Arrow Talk #1] The starting rotations with 1 being turned and 0 being correct is 10011010 (in the order given in the manual).
+[Arrow Talk #1] The screen says "Right and Up".
+[Dominoes #1] The calculation type is subtraction. 
+[Dominoes #1] Ascending press order. More on ind than off ind. 
+[Dominoes #1] The correct press order is: 1243
+[Micro-Modules #2] The serial number is NPQYA3
+[Micro-Modules #2] Indicator 1 is False
+[Micro-Modules #2] Indicator 2 is False
+[Micro-Modules #2] Indicator 3 is True
+[Micro-Modules #2] The color of the battery is Red
+[Micro-Modules #2] Directional Keypads' module ID is 3, Code Morse's is 2, Script Wires' is 1, Math Code's is 4
+[Micro-Modules #2] The solve order is Wires, Morse Code, Keypads and Passwords
+[Micro-Modules #2] [Directional Keypads] The top left arrow is a Clockwise
+[Micro-Modules #2] [Directional Keypads] The top right arrow is a Swap
+[Micro-Modules #2] [Directional Keypads] The bottom left arrow is a Diagonal
+[Micro-Modules #2] [Directional Keypads] The bottom right arrow is a Diagonal
+[Micro-Modules #2] [Code Morse] The received digits are 2111
+[Micro-Modules #2] [Math Code] Character A is a(n) P, B is a(n) W and C is a(n) L
+[Micro-Modules #2] [Math Code] The expression is A * B / C
+[Micro-Modules #2] [Math Code] The digits for A, B and C before calculation are 42, 40 and 30
+[Micro-Modules #2] [Math Code] The solution is 56
+[Micro-Modules #2] [Script Wires] The MeshRenderer's name is MSA
+[Micro-Modules #2] [Script Wires] Using List 2
+[Micro-Modules #2] [Script Wires] Wire 5 should be cut
+[Recorded Keys #1] After 0 reset(s), the buttons had the colours: Yellow, Magenta, Yellow, Cyan, Green, Red
+[Recorded Keys #1] After 0 reset(s), the labels had the colours: Red, Cyan, Red, Magenta, Red, Green
+[Recorded Keys #1] After 0 reset(s), the buttons were labelled: 6, 4, 5, 5, 1, 3
+[Recorded Keys #1] After 0 reset(s), the keys play the sounds: 2, 5, 6, 4, 1, 3
+[Recorded Keys #1] After 0 reset(s), the initial value was: 0 + 3 + 2 + 3 + 0 + 0 = 8
+[Signals #2] STATE:START
+[Signals #2] Seed: -391120090
+[Signals #2] S1 Mapping: UP->NEGATIVE,DOWN->ZERO,CENTER->POSITIVE
+[Signals #2] S2 Mapping: UP->ZERO,DOWN->POSITIVE,CENTER->NEGATIVE
+[Signals #2] S3 Mapping: UP->NEGATIVE,DOWN->ZERO,CENTER->POSITIVE
+[Signals #2] SwitchMapping: S1->C1,S2->C3,S3->C2
+[Signals #2] INPUT: (C1=ZERO,C2=POSITIVE,C3=ZERO)
+[Signals #2] GENERATOR: (C1=ZERO,C2=ZERO,C3=POSITIVE)
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Micro-Modules #2] [Math Code] The code is 156
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"5 Mods"}
+[Rule Seed Modifier] The Seed is 1
+[Micro-Modules #2] [Directional Keypads] The offset key is bottom right
+[Micro-Modules #2] [Directional Keypads] The top left key is fake
+[Micro-Modules #2] [Directional Keypads] The correct key is ArrowBL
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 4
+{"serial":"QD8BF2","displayNames":{"Timer":"Timer","affineCycle":"Affine Cycle","webDesign":"Web Design","MinesweeperModule":"Minesweeper","Color Generator":"Color Generator","burglarAlarm":"Burglar Alarm","ArrowTalk":"Arrow Talk","dominoes":"Dominoe
+s","KritMicroModules":"Micro-Modules","harmonySequence":"Harmony Sequence","recordedKeys":"Recorded Keys","Signals":"Signals"},"ids":{"affineCycle":[1],"webDesign":[1],"MinesweeperModule":[1],"Color Generator":[1],"burglarAlarm":[1],"ArrowTalk":[1],"
+dominoes":[1],"KritMicroModules":[2],"harmonySequence":[1],"recordedKeys":[1],"Signals":[2]},"anchors":[[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220],[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.2
+20],[0.113,0.000],[0.003,0.220]],"modules":["affineCycle 1","Signals 2","Color Generator 1","MinesweeperModule 1","webDesign 1","ArrowTalk 1","burglarAlarm 1","Timer -","harmonySequence 1","recordedKeys 1","dominoes 1","KritMicroModules 2"]}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'Affine Cycle(Clone)'.
+[Profile Revealer] Attaching to 'webdesign(Clone)'.
+[Profile Revealer] Attaching to 'MinesweeperModule(Clone)'.
+[Profile Revealer] Attaching to 'ColorGeneratorModule(Clone)'.
+[Profile Revealer] Attaching to 'BurglarAlarm(Clone)'.
+[Profile Revealer] Attaching to 'Arrow(Clone)'.
+[Profile Revealer] Attaching to 'dominoes(Clone)'.
+[Profile Revealer] Attaching to 'KritMicroModules(Clone)'.
+[Profile Revealer] Attaching to 'Harmony Sequence(Clone)'.
+[Profile Revealer] Attaching to 'RecordedKeys(Clone)'.
+[Profile Revealer] Attaching to 'Signals(Clone)'.
+custom
+[Micro-Modules #2] [Code Morse] The code is 9432
+[Web Design #1] Site BobIRS was selected
+[Web design #1] Threshold RGB value is #03E61E (Or in Dec: 3 230 30)
+[Web Design #1] Line count = 5 (Also a base score)
+[Web design #1] First color found (target) is orange, with RGB value of #FFA500 (Or in Dec: 255 165 0)
+[Web design #1] For reference purpose, complete code is:
+i.avatar{
+ box-shadow: none;
+ margin: auto;
+ color: orange;
+ box-shadow: 2px 2px 0px
+  blue inset;
+ padding: 32px;
+ }
+[Web design #1] Detailed score calculation:
+[Web design #1] -> Base score = 5
+[Web design #1] ->  2 Margin/Padding found: score +4
+[Web design #1] ->  1 Acceptable drop shadow found: score +2
+[Web design #1] ->  Colored buttons: score x2
+[Web design #1] ->  Score is now 22
+[Web design #1] ->  After positive adjustment: 22
+[Web design #1] ->  After digital root: 4
+[Web design #1] Summary: Score is 22, Sum is 4, Expected answer is Reject
+[Minesweeper #1] Color order: orange, blue, black, purple, green, yellow.
+[Minesweeper #1] Second digit of the serial number is 2.
+[Minesweeper #1] The cell color we need to use is blue which stands for 6.
+[Minesweeper #1] The first letter in the serial is Q which stands for 17
+[Minesweeper #1] The offset from the the bottom right corner is 5.
+[Minesweeper #1] Which makes the starting cell the blue cell.
+[Color Generator #1] Serial numbers converted to numbers, modulo 16: 1 4 8 2 6 2
+[Color Generator #1] Your color code is 20 130 98 (#148262)
+[Burglar Alarm #1] Module number is: 67562457.
+[Burglar Alarm #1] Solution for even solves and Number of solves <= (Batteries x portplates): 59980545.
+[Burglar Alarm #1] Solution for even solves and Number of solves > (Batteries x portplates): 59981545.
+[Burglar Alarm #1] Solution for odd solves and Number of solves <= (Batteries x portplates): 59880545.
+[Burglar Alarm #1] Solution for odd solves and Number of solves > (Batteries x portplates): 59881545.
+[Signals #2] STATE:ACTIVE
+[PaceMaker] Round start! Mission: 5 Mods Pacing Enabled: True
+
+[PaceMaker] Next idle action in 37.86441 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+:f1r3ysoul!f1r3ysoul@f1r3ysoul.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 help
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 cv
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !1 cv
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !bomb flip
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !bomb flip
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !10 cv
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !10 help
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !10 unc
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 cv
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 start
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !bomb flip
+[PaceMaker] PlayerSuccessRating: 0.4942676 (Factors: solved: 0, strikes: 0.3, time: 0.1942676)
+
+[PaceMaker] Next idle action in 37.27531 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !3 cv
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 stop
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 start
+:cyber12!cyber12@cyber12.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 stop
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 sound 2,1,3,4
+[Harmony Sequence #1] Stage #1 - Expected button #2 - you pressed button #2
+[Harmony Sequence #1] Stage #1 - Expected button #1 - you pressed button #1
+[Harmony Sequence #1] Stage #1 - Expected button #3 - you pressed button #3
+[Harmony Sequence #1] Stage #1 - Expected button #4 - you pressed button #4
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 start
+[PaceMaker] PlayerSuccessRating: 0.4886181 (Factors: solved: 0, strikes: 0.3, time: 0.1886181)
+
+[PaceMaker] Next idle action in 40.12313 seconds.
+
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 stop
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 sound 2,3,1,4
+[Harmony Sequence #1] Stage #2 - Expected button #2 - you pressed button #2
+[Harmony Sequence #1] Stage #2 - Expected button #3 - you pressed button #3
+[Harmony Sequence #1] Stage #2 - Expected button #1 - you pressed button #1
+[Harmony Sequence #1] Stage #2 - Expected button #4 - you pressed button #4
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 start
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 stop
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 sound 1,3,4,2
+[Harmony Sequence #1] Stage #3 - Expected button #1 - you pressed button #1
+[Harmony Sequence #1] Stage #3 - Expected button #3 - you pressed button #3
+[Harmony Sequence #1] Stage #3 - Expected button #4 - you pressed button #4
+[Harmony Sequence #1] Stage #3 - Expected button #2 - you pressed button #2
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 start
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 stop
+[PaceMaker] PlayerSuccessRating: 0.4825408 (Factors: solved: 0, strikes: 0.3, time: 0.1825408)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 49.93581 seconds.
+
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !9 sound 3,2,1,4
+[Harmony Sequence #1] Stage #4 - Expected button #3 - you pressed button #3
+[Harmony Sequence #1] Stage #4 - Expected button #2 - you pressed button #2
+[Harmony Sequence #1] Stage #4 - Expected button #1 - you pressed button #1
+[Harmony Sequence #1] Stage #4 - Expected button #4 - you pressed button #4
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 help
+[ModBombComponent #216] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"harmonySequence","bombTime":1193.89929,"realTime":133.8623,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5308939 (Factors: solved: 0.05, strikes: 0.3, time: 0.1808938)
+
+[Harmony Sequence #1] You passed the module - Strikes caused by this module: 0
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 helP
+[PaceMaker] PlayerSuccessRating: 0.5249676 (Factors: solved: 0.05, strikes: 0.3, time: 0.1749675)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Cut the lights at 14652.2
+
+[PaceMaker] Next idle action in 34.00981 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5198109 (Factors: solved: 0.05, strikes: 0.3, time: 0.1698108)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 14686.24
+
+[PaceMaker] Next idle action in 45.06863 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5129783 (Factors: solved: 0.05, strikes: 0.3, time: 0.1629782)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 35.7537 seconds.
+
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 press 3
+[Arrow Talk #1] The screen says "South South West".
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 press 6
+[Arrow Talk #1] The screen says "North North East".
+[PaceMaker] PlayerSuccessRating: 0.5075593 (Factors: solved: 0.05, strikes: 0.3, time: 0.1575593)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.72853 seconds.
+
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 press 2
+[Arrow Talk #1] The screen says "Left and Up From Center".
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 press 8
+[Arrow Talk #1] The screen says "7".
+[Arrow Talk #1] The screen says "0".
+[Arrow Talk #1] The screen says "4".
+[Arrow Talk #1] The screen says "South South East".
+[Arrow Talk #1] The screen says "1".
+[Arrow Talk #1] The screen says "0".
+[Arrow Talk #1] The screen says "ESE".
+[Arrow Talk #1] The screen says "South South East".
+[Arrow Talk #1] The screen says "SSE".
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 5
+:maxurian!maxurian@maxurian.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 press 5
+[Arrow Talk #1] The screen says "0".
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 press 6
+[Arrow Talk #1] The screen says "Up and Left".
+[PaceMaker] PlayerSuccessRating: 0.4992648 (Factors: solved: 0.05, strikes: 0.3, time: 0.1492648)
+
+[PaceMaker] Next idle action in 27.59867 seconds.
+
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 press 1
+[Arrow Talk #1] The screen says "7".
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 press 4
+[Arrow Talk #1] The screen says "6".
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 press 3
+[Arrow Talk #1] The screen says "NNE".
+[PaceMaker] PlayerSuccessRating: 0.4950815 (Factors: solved: 0.05, strikes: 0.3, time: 0.1450815)
+
+[PaceMaker] Next idle action in 49.34964 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !unclaim all
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 cv
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 press 2
+[Arrow Talk #1] The screen says "4".
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 troll
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): my head is boiling right now, need a break
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): aw
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 press 8
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 help
+[Arrow Talk #1] The screen says "5".
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !1 unc
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !6 press 7
+[ModBombComponent #210] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"ArrowTalk","bombTime":926.6712,"realTime":401.0918,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5404047 (Factors: solved: 0.1, strikes: 0.3, time: 0.1404047)
+
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] The screen says "Arrow Talk".
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): omg
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 fakestrike
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): aw
+[PaceMaker] PlayerSuccessRating: 0.5376016 (Factors: solved: 0.1, strikes: 0.3, time: 0.1376016)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 38.41375 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5317784 (Factors: solved: 0.1, strikes: 0.3, time: 0.1317784)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 45.86122 seconds.
+
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): i was wondering how long is the arroe talk
+[TwitchPlays] [M] alb3ert000 (, 495638723): heyyyyyy whats up
+[PaceMaker] PlayerSuccessRating: 0.5248247 (Factors: solved: 0.1, strikes: 0.3, time: 0.1248247)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 41.09914 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 press smallred 1, bigred 2, smallred 1, biggreen 1, smallred 2, biggreen 3, bigblue 9, smallred 2, bigblue 8, smallblue 1
+[PaceMaker] PlayerSuccessRating: 0.5185971 (Factors: solved: 0.1, strikes: 0.3, time: 0.1185971)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 46.33097 seconds.
+
+[Color Generator #1] Submitted the correct color! Module solved.
+[ModBombComponent #206] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"Color Generator","bombTime":768.699158,"realTime":559.0635,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5664696 (Factors: solved: 0.15, strikes: 0.3, time: 0.1164696)
+
+:alb3ert000!alb3ert000@alb3ert000.tmi.twitch.tv JOIN #heres_fangy
+:turnedtrove100!turnedtrove100@turnedtrove100.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5615766 (Factors: solved: 0.15, strikes: 0.3, time: 0.1115766)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 43.87579 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.5549279 (Factors: solved: 0.15, strikes: 0.3, time: 0.104928)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 47.58054 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5477155 (Factors: solved: 0.15, strikes: 0.3, time: 0.0977155)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 53.59455 seconds.
+
+:alb3ert000!alb3ert000@alb3ert000.tmi.twitch.tv PART #heres_fangy
+:shadowmeowmeow!shadowmeowmeow@shadowmeowmeow.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5395925 (Factors: solved: 0.15, strikes: 0.3, time: 0.0895925)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 41.71184 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5332685 (Factors: solved: 0.15, strikes: 0.3, time: 0.08326851)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 45.73035 seconds.
+
+:cartierlogic!cartierlogic@cartierlogic.tmi.twitch.tv PART #heres_fangy
+:sawyerlead!sawyerlead@sawyerlead.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5263395 (Factors: solved: 0.15, strikes: 0.3, time: 0.07633943)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 42.97237 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.519824 (Factors: solved: 0.15, strikes: 0.3, time: 0.06982394)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 23.16339 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5163144 (Factors: solved: 0.15, strikes: 0.3, time: 0.06631435)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 36.07602 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.5108455 (Factors: solved: 0.15, strikes: 0.3, time: 0.06084546)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 45.3124 seconds.
+
+:sawyerlead!sawyerlead@sawyerlead.tmi.twitch.tv JOIN #heres_fangy
+:nicorobin8797!nicorobin8797@nicorobin8797.tmi.twitch.tv JOIN #heres_fangy
+:cartierlogic!cartierlogic@cartierlogic.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5039769 (Factors: solved: 0.15, strikes: 0.3, time: 0.05397687)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 28.24728 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !10 score
+[TwitchPlays] [M] Dbros1000 (, 274893701): !3 cv
+[TwitchPlays] [M] Dbros1000 (, 274893701): !bomb flip
+[TwitchPlays] [M] Dbros1000 (, 274893701): is anyonw even online?
+[PaceMaker] PlayerSuccessRating: 0.4996943 (Factors: solved: 0.15, strikes: 0.3, time: 0.04969424)
+
+[PaceMaker] Next idle action in 54.11928 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.4914936 (Factors: solved: 0.15, strikes: 0.3, time: 0.04149355)
+
+[PaceMaker] Next idle action in 32.63751 seconds.
+
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): you dont see the stream live if im not Kappa
+:bananalord!bananalord@bananalord.tmi.twitch.tv JOIN #heres_fangy
+:epictho!epictho@epictho.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] Dbros1000 (, 274893701): LUL
+[PaceMaker] PlayerSuccessRating: 0.4865443 (Factors: solved: 0.15, strikes: 0.3, time: 0.0365443)
+
+[PaceMaker] Next idle action in 51.60642 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.4787211 (Factors: solved: 0.15, strikes: 0.3, time: 0.02872107)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 49.44163 seconds.
+
+[TwitchPlays] [M] BigCrunch22 (#0000FF, 155806249): le bomba
+[TwitchPlays] [M] Dbros1000 (, 274893701): rip
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] BigCrunch22 (#0000FF, 155806249): is ded
+[PaceMaker] PlayerSuccessRating: 0.4712262 (Factors: solved: 0.15, strikes: 0.3, time: 0.02122618)
+
+[PaceMaker] Next idle action in 59.4543 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !bomb vote KAPOW
+[TwitchPlays] [M] Dbros1000 (, 274893701): !vote VoteYeah
+[TwitchPlays] [M] Dbros1000 (, 274893701): shit
+[TwitchPlays] [M] Dbros1000 (, 274893701): !vote VoteYea
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): !vote yea
+[TwitchPlays] [M] BigCrunch22 (#0000FF, 155806249): !vote VoteYea
+:dbros1000!dbros1000@dbros1000.tmi.twitch.tv JOIN #heres_fangy
+:epictho!epictho@epictho.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): !vote VoteYea
+[TwitchPlays] [M] Dbros1000 (, 274893701): aight how many mods?
+[PaceMaker] PlayerSuccessRating: 0.4622162 (Factors: solved: 0.15, strikes: 0.3, time: 0.0122162)
+
+[PaceMaker] Next idle action in 56.72132 seconds.
+
+[Bomb] Strike from TwitchPlays! 2 / 3 strikes
+[Bomb] Strike from None! 3 / 3 strikes
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"QD8BF2","bombTime":76.74269,"realTime":1250.50293,"solves":3,"strikes":3}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

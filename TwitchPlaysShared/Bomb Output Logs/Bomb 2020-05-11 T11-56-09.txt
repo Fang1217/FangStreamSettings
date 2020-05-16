@@ -1,0 +1,550 @@
+Initialize engine version: Twitch Plays
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 1468028717
+
+[BombGenerator] Generator settings: Time: 600, NumStrikes: 3, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 11
+
+
+[BombGenerator] Selected 14 (14 (ModBombComponent))
+
+[BombGenerator] Selected jewelVault (jewelVault (ModBombComponent))
+
+[BombGenerator] Selected crystalMaze (crystalMaze (ModBombComponent))
+
+[BombGenerator] Selected sonicKnuckles (sonicKnuckles (ModBombComponent))
+
+[BombGenerator] Selected westeros (Westeros (ModBombComponent))
+
+[BombGenerator] Selected modulo (modulo (ModBombComponent))
+
+[BombGenerator] Selected christmasPresents (christmasPresents (ModBombComponent))
+
+[BombGenerator] Selected sonicKnuckles (sonicKnuckles (ModBombComponent))
+
+[BombGenerator] Selected jewelVault (jewelVault (ModBombComponent))
+
+[BombGenerator] Selected triangle (triangle (ModBombComponent))
+
+[BombGenerator] Selected christmasPresents (christmasPresents (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [14 (ModBombComponent), jewelVault (ModBombComponent), crystalMaze (ModBombComponent), sonicKnuckles (ModBombComponent), Westeros (ModBombComponent), modulo (ModBombComponent), christmasPresents (ModBombComponent), sonicKnuckles (ModBombComponent), jewelVault (ModBombComponent), triangle (ModBombComponent), christmasPresents (ModBombComponent)]
+
+[KMBossModule] Boss Module Manager is not installed.
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message)
+UnityEngine.Object.Instantiate[Mesh] (UnityEngine.Mesh original)
+Highlightable.Init ()
+Highlightable.Awake ()
+ModHighlightable.Awake ()
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+BombGenerator:InstantiateComponent(BombFace, BombComponent, GeneratorSetting)
+BombGenerator:CreateBomb(GeneratorSetting, HoldableSpawnPoint, Int32, BombTypeEnum)
+GameplayState:SpawnBomb(GeneratorSetting, HoldableSpawnPoint, Int32)
+GameplayState:EnterState()
+SceneManager:StartScene()
+<Load>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[BombGenerator] Instantiated 14 on face RearFace, spawn index 0
+
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+[BombGenerator] Instantiated jewelVault on face FrontFace, spawn index 5
+
+[BombGenerator] Instantiated crystalMaze on face FrontFace, spawn index 0
+
+[BombGenerator] Instantiated sonicKnuckles on face RearFace, spawn index 1
+
+[BombGenerator] Instantiated Westeros on face RearFace, spawn index 3
+
+[BombGenerator] Instantiated modulo on face RearFace, spawn index 5
+
+[BombGenerator] Instantiated christmasPresents on face RearFace, spawn index 2
+
+[BombGenerator] Instantiated sonicKnuckles on face FrontFace, spawn index 2
+
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+[BombGenerator] Instantiated jewelVault on face FrontFace, spawn index 4
+
+[The Triangle #3] Colorblind mode: False
+[BombGenerator] Instantiated triangle on face FrontFace, spawn index 3
+
+[BombGenerator] Instantiated christmasPresents on face FrontFace, spawn index 1
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: KW6KN3
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: lit TRN (IndicatorWidget/LABEL9)
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: lit FRK (IndicatorWidget/LABEL11)
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit IND (IndicatorWidget/LABEL4)
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit CLR (IndicatorWidget/LABEL2)
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: RJ45
+
+The Playlist 'GameRoomC' is already loaded. Ignoring Change Playlist request.
+[Jewel Wheels #4] The first wheel (outermost) gemstones are glass, scapolite, ruby & poudretteite.
+[Jewel Wheels #4] The second wheel (second outermost) gemstones are onyx, ruby, poudretteite & emerald.
+[Jewel Wheels #4] The third wheel (second innermost) gemstones are sapphire, emerald, ruby & poudretteite.
+[Jewel Wheels #4] The fourth wheel (innermost) gemstones are amethyst, sapphire, glass & onyx.
+[Jewel Wheels #4] There are three poudretteite gemstones. These are most abundant.
+[Jewel Wheels #4] There are three ruby gemstones. These are most abundant.
+[Jewel Wheels #4] The first wheel runes are ε & δ.
+[Jewel Wheels #4] The second wheel runes are ι & θ.
+[Jewel Wheels #4] The third wheel runes are σ & ν.
+[Jewel Wheels #4] The fourth wheel runes are ω & φ.
+[Jewel Wheels #4] North is left.
+[Jewel Wheels #4] The correct jewel of the first wheel (outermost) is scapolite.
+[Jewel Wheels #4] The correct jewel of the second wheel (second outermost) is onyx.
+[Jewel Wheels #4] The correct jewel of the third wheel (second innermost) is sapphire.
+[Jewel Wheels #4] The correct jewel of the fourth wheel (innermost) is onyx.
+[Jewel Wheels #4] The target orientation is west.
+[Jewel Wheels #4] Wheel A is the third wheel. Wheel B is the second wheel. Wheel C is the first wheel. Wheel D is the fourth wheel.
+[Jewel Wheels #4] The correct jewel of wheel A is sapphire and is facing north.
+[Jewel Wheels #4] The correct jewel of wheel B is onyx and is facing north.
+[Jewel Wheels #4] The correct jewel of wheel C is scapolite and is facing east.
+[Jewel Wheels #4] The correct jewel of wheel D is onyx and is facing west.
+[The Crystal Maze #3] Welcome to The Crystal Maze! Reckless Rick at your service!
+[The Crystal Maze #3] Colorblind mode: False
+11
+30
+32
+34
+[Westeros #3] The possible sigils are: Mormont, Penrose, Tyrell, Tarly, and Karstark
+[Westeros #3] The possible forenames are: Denys, Mace, Talla, Donella, and Victarion
+[Westeros #3] The possible houses are: Royce, Tyrell, Cerwyn, Stark, and Marbrand
+[Westeros #3] The possible words are: "Hear Me Roar", "Winter is Coming", "First in Battle", "Growing Strong", and "Unbowed, Unbent, Unbroken"
+[Westeros #3] The possible seats are: Sunspear, Horn Hill, Karhold, Hightower, and Highgarden
+[Westeros #3] The correct sigil is: Tyrell
+[Westeros #3] The correct forename is: Mace
+[Westeros #3] The correct house is: Tyrell
+[Westeros #3] The correct words are: "Growing Strong"
+[Westeros #3] The correct seat is: Highgarden
+1
+[Modulo #3] Your number is 127.
+[Modulo #3] You must modulo 7.
+[Modulo #3] The correct answer is 1.
+[Christmas Presents #4] You have received 7 presents from Auntie Marge, 2 from Uncle Simon, 1 from Cousin Bob, 3 from Granny May & 0 from Great Uncle Bertie.
+[Christmas Presents #4] Value X is 12. Value Y is 4. Value Z is 48.
+[Christmas Presents #4] Open your presents when the hour time is 13.
+[Jewel Wheels #5] The first wheel (outermost) gemstones are ruby, onyx, emerald & amethyst.
+[Jewel Wheels #5] The second wheel (second outermost) gemstones are onyx, sapphire, glass & emerald.
+[Jewel Wheels #5] The third wheel (second innermost) gemstones are glass, scapolite, emerald & poudretteite.
+[Jewel Wheels #5] The fourth wheel (innermost) gemstones are emerald, poudretteite, scapolite & amethyst.
+[Jewel Wheels #5] There are four emerald gemstones. These are most abundant.
+[Jewel Wheels #5] The first wheel runes are β & ε.
+[Jewel Wheels #5] The second wheel runes are θ & λ.
+[Jewel Wheels #5] The third wheel runes are ν & ξ.
+[Jewel Wheels #5] The fourth wheel runes are ω & υ.
+[Jewel Wheels #5] North is right.
+[Jewel Wheels #5] The correct jewel of the first wheel (outermost) is onyx.
+[Jewel Wheels #5] The correct jewel of the second wheel (second outermost) is glass.
+[Jewel Wheels #5] The correct jewel of the third wheel (second innermost) is scapolite.
+[Jewel Wheels #5] The correct jewel of the fourth wheel (innermost) is poudretteite.
+[Jewel Wheels #5] The target orientation is east.
+[Jewel Wheels #5] Wheel A is the third wheel. Wheel B is the fourth wheel. Wheel C is the first wheel. Wheel D is the second wheel.
+[Jewel Wheels #5] The correct jewel of wheel A is scapolite and is facing east.
+[Jewel Wheels #5] The correct jewel of wheel B is poudretteite and is facing east.
+[Jewel Wheels #5] The correct jewel of wheel C is onyx and is facing east.
+[Jewel Wheels #5] The correct jewel of wheel D is glass and is facing south.
+[The Triangle #3] Rotation: counterclockwise. Background: Picasso. Letter: T.
+[The Triangle #3] Large triangle: red. Top left triangle: green. Bottom left triangle: blue. Bottom right triangle: yellow.
+[The Triangle #3] Correct colour: yellow.
+[Christmas Presents #5] You have received 3 presents from Auntie Marge, 6 from Uncle Simon, 2 from Cousin Bob, 1 from Granny May & 1 from Great Uncle Bertie.
+[Christmas Presents #5] Value X is 11. Value Y is 2. Value Z is 22.
+[Christmas Presents #5] Open your presents when the hour time is 15.
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[TwitchPlays] Switching bomb
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[14 #2] At stage 0, The digit shown on the R channel was standard Z (35). The B function outputs 2*0 + 35 = 35 (standard Z)
+[14 #2] At stage 0, The digit shown on the G channel was standard M (22). The B function outputs 2*0 + 22 = 22 (standard M)
+[14 #2] At stage 0, The digit shown on the B channel was inverted D (-13). The B function outputs 2*0 + -13 = -13 (inverted D)
+[The Crystal Maze #3] Twitch Plays mode: True
+[PaceMaker] Round start! Mission: Free Play Pacing Enabled: True
+
+[PaceMaker] Next idle action in 48.30643 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled

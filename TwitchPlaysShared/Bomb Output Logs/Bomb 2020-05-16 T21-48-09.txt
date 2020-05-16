@@ -1,0 +1,532 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 1773755076
+
+[BombGenerator] Generator settings: Time: 300, NumStrikes: 9, FrontFaceOnly: False
+1 Pools:
+[3dTunnels, bamboozlingButton, blackCipher, colorfulDials, dungeon2, dungeon, elderFuthark, factoryMaze, faultyrgbMaze, GameOfLifeCruel, graphicMemory, heraldry, indigoCipher, jumbleCycle, KudosudokuModule, langtonAnt, LEGOModule, lgndLombaxCubes, malfunctions, KritMicroModules, MinesweeperModule, misorderedKeys, neutrinos, orangeCipher, PatternCubeModule, RailwayCargoLoading, ksmRainbowArrows, robotProgramming, SettlersOfKTaNE, MazeShifting, SimonSendsModule, SimonSingsModule, simonStores, the_cRule, cube, TheHypercubeModule, TheUltracubeModule, turtleRobot, unfairCipher, Wavetapping, WonderCipher, yellowCipher] Count: 11
+
+
+[BombGenerator] Selected MazeShifting (2021067737 (ModBombComponent))
+
+[BombGenerator] Selected blackCipher (1940168029 (ModBombComponent))
+
+[BombGenerator] Selected indigoCipher (1883513229 (ModBombComponent))
+
+[BombGenerator] Selected KritMicroModules (1648789362 (ModBombComponent))
+
+[BombGenerator] Selected SimonSendsModule (1392394292 (ModBombComponent))
+
+[BombGenerator] Selected PatternCubeModule (1453622997 (ModBombComponent))
+
+[BombGenerator] Selected yellowCipher (1869671443 (ModBombComponent))
+
+[BombGenerator] Selected orangeCipher (1857089523 (ModBombComponent))
+
+[BombGenerator] Selected cube (1361535900 (ModBombComponent))
+
+[BombGenerator] Selected simonStores (1742229763 (ModBombComponent))
+
+[BombGenerator] Selected colorfulDials (1945641235 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [2021067737 (ModBombComponent), 1940168029 (ModBombComponent), 1883513229 (ModBombComponent), 1648789362 (ModBombComponent), 1392394292 (ModBombComponent), 1453622997 (ModBombComponent), 1869671443 (ModBombComponent), 1857089523 (ModBombComponent), 1361535900 (ModBombComponent), 1742229763 (ModBombComponent), 1945641235 (ModBombComponent)]
+
+[Mod-MazeShifting] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2021067737" has ID:"MazeShifting"
+
+[Mod-MazeShifting] Loading assemblies...
+
+[Mod-MazeShifting] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2021067737\Newtonsoft.Json.dll"...
+
+[Mod-MazeShifting] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2021067737\MazeShifting.dll"
+
+[Mod-MazeShifting] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2021067737" complete.
+
+[Mod-MazeShifting] Loading GameObjects...
+
+[Mod-MazeShifting] Replacing shaders...
+
+[Mod-MazeShifting] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-MazeShifting] Loading KMMissions...
+
+[Mod-MazeShifting] Loading KMMissionTableOfContents...
+
+[Mod-MazeShifting] Loading AudioClips...
+
+[BombGenerator] Instantiated 2021067737 on face FrontFace, spawn index 2
+
+[Mod-blackCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029" has ID:"blackCipher"
+
+[Mod-blackCipher] Loading assemblies...
+
+[Mod-blackCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029\Newtonsoft.Json.dll"...
+
+[Mod-blackCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029\blackCipher.dll"
+
+[Mod-blackCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029" complete.
+
+[Mod-blackCipher] Loading GameObjects...
+
+[Mod-blackCipher] Replacing shaders...
+
+[Mod-blackCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-blackCipher] Loading KMMissions...
+
+[Mod-blackCipher] Loading KMMissionTableOfContents...
+
+[Mod-blackCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1940168029 on face FrontFace, spawn index 4
+
+[Mod-indigoCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1883513229" has ID:"indigoCipher"
+
+[Mod-indigoCipher] Loading assemblies...
+
+[Mod-indigoCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1883513229\Newtonsoft.Json.dll"...
+
+[Mod-indigoCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1883513229\indigoCipher.dll"
+
+[Mod-indigoCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1883513229" complete.
+
+[Mod-indigoCipher] Loading GameObjects...
+
+[Mod-indigoCipher] Replacing shaders...
+
+[Mod-indigoCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-indigoCipher] Loading KMMissions...
+
+[Mod-indigoCipher] Loading KMMissionTableOfContents...
+
+[Mod-indigoCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1883513229 on face BackFace, spawn index 2
+
+[BombGenerator] Instantiated 1648789362 on face FrontFace, spawn index 5
+
+[Mod-SimonSends] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1392394292" has ID:"SimonSends"
+
+[Mod-SimonSends] Loading assemblies...
+
+[Mod-SimonSends] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1392394292\Newtonsoft.Json.dll"...
+
+[Mod-SimonSends] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1392394292\SimonSends.dll"
+
+[Mod-SimonSends] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1392394292" complete.
+
+[Mod-SimonSends] Loading GameObjects...
+
+[Mod-SimonSends] Replacing shaders...
+
+[Mod-SimonSends] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-SimonSends] Loading KMMissions...
+
+[Mod-SimonSends] Loading KMMissionTableOfContents...
+
+[Mod-SimonSends] Loading AudioClips...
+
+[BombGenerator] Instantiated 1392394292 on face BackFace, spawn index 3
+
+[BombGenerator] Instantiated 1453622997 on face FrontFace, spawn index 0
+
+[BombGenerator] Instantiated 1869671443 on face FrontFace, spawn index 1
+
+[Mod-orangeCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1857089523" has ID:"orangeCipher"
+
+[Mod-orangeCipher] Loading assemblies...
+
+[Mod-orangeCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1857089523\Newtonsoft.Json.dll"...
+
+[Mod-orangeCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1857089523\orangeCipher.dll"
+
+[Mod-orangeCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1857089523" complete.
+
+[Mod-orangeCipher] Loading GameObjects...
+
+[Mod-orangeCipher] Replacing shaders...
+
+[Mod-orangeCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-orangeCipher] Loading KMMissions...
+
+[Mod-orangeCipher] Loading KMMissionTableOfContents...
+
+[Mod-orangeCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1857089523 on face FrontFace, spawn index 3
+
+[BombGenerator] Instantiated 1361535900 on face BackFace, spawn index 5
+
+[Mod-simonStores] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1742229763" has ID:"simonStores"
+
+[Mod-simonStores] Loading assemblies...
+
+[Mod-simonStores] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1742229763\Newtonsoft.Json.dll"...
+
+[Mod-simonStores] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1742229763\simonStores.dll"
+
+[Mod-simonStores] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1742229763" complete.
+
+[Mod-simonStores] Loading GameObjects...
+
+[Mod-simonStores] Replacing shaders...
+
+[Mod-simonStores] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-simonStores] Loading KMMissions...
+
+[Mod-simonStores] Loading KMMissionTableOfContents...
+
+[Mod-simonStores] Loading AudioClips...
+
+[BombGenerator] Instantiated 1742229763 on face BackFace, spawn index 0
+
+[Mod-colorfulDials] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1945641235" has ID:"colorfulDials"
+
+[Mod-colorfulDials] Loading assemblies...
+
+[Mod-colorfulDials] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1945641235\Newtonsoft.Json.dll"...
+
+[Mod-colorfulDials] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1945641235\colorfulDials.dll"
+
+[Mod-colorfulDials] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1945641235" complete.
+
+[Mod-colorfulDials] Loading GameObjects...
+
+[Mod-colorfulDials] Replacing shaders...
+
+[Mod-colorfulDials] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-colorfulDials] Loading KMMissions...
+
+[Mod-colorfulDials] Loading KMMissionTableOfContents...
+
+[Mod-colorfulDials] Loading AudioClips...
+
+[BombGenerator] Instantiated 1945641235 on face BackFace, spawn index 4
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: WB7CH1
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: DVI, PS2, StereoRCA
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit CAR (IndicatorWidget/LABEL3)
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit FRK (IndicatorWidget/LABEL11)
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: 0
+
+[Shifting Maze #1] SEED: Sql1Zkcv
+[Shifting Maze #1] Your starting coordinance is: 0, 3
+[Shifting Maze #1] Your destination is: 4, 3
+[Shifting Maze #1] Current wall on your cell: South/West/North
+[Black Cipher #1] Generated Word: LEADER
+[Black Cipher #1] Begin Enigma Encryption
+[Black Cipher #1] L->W->W->S->T->N->M->J->N->D
+[Black Cipher #1] E->T->X->X->Y->I->H->Q->J->S
+[Black Cipher #1] A->L->D->J->K->C->B->N->N->Y
+[Black Cipher #1] D->G->V->A->B->S->R->S->Y->S
+[Black Cipher #1] E->D->U->K->L->P->O->H->S->I
+[Black Cipher #1] R->Q->N->B->C->K->J->D->O->I
+[Black Cipher #1] Begin Railfence Transposition
+[Black Cipher #1] Railfence Row #1: D
+[Black Cipher #1] Railfence Row #2: S
+[Black Cipher #1] Railfence Row #3: Y
+[Black Cipher #1] Railfence Row #4: SI
+[Black Cipher #1] Railfence Row #5: I
+[Black Cipher #1] Begin Digrafid Encryption
+[Black Cipher #1] Key A: VIRUSABCDEFGHJKLMNOPQTWXYZ
+[Black Cipher #1] Key B: PERILOUSABCDFGHJKMNQTVWXYZ
+[Black Cipher #1] DS -> 918
+[Black Cipher #1] YS -> 778
+[Black Cipher #1] II -> 214
+[Black Cipher #1] Digrafid Row #1: 972 -> #E
+[Black Cipher #1] Digrafid Row #2: 171 -> OP
+[Black Cipher #1] Digrafid Row #3: 884 -> ZF
+[Black Cipher #1] ERROR!!! REGENERATING KEYWORDS!!!
+[Black Cipher #1] PAY NO ATTENTION TO THE ENCRYPTION ABOVE!!!
+[Black Cipher #1] --------------------------------------------
+[Black Cipher #1] Key A: FOCALIZEBDGHJKMNPQRSTUVWXY
+[Black Cipher #1] Key B: LIMEABCDFGHJKNOPQRSTUVWXYZ
+[Black Cipher #1] DS -> 161
+[Black Cipher #1] YS -> 891
+[Black Cipher #1] II -> 612
+[Black Cipher #1] Digrafid Row #1: 186 -> RO
+[Black Cipher #1] Digrafid Row #2: 691 -> WS
+[Black Cipher #1] Digrafid Row #3: 112 -> FI
+[Indigo Cipher #1] Generated Word: GLUTEN
+[Indigo Cipher #1] Begin Logic Encryption
+[Indigo Cipher #1] Gate: XOR
+[Indigo Cipher #1] 01101 + 01011 = 00110
+[Indigo Cipher #1] 00011 + 01000 = 01011
+[Indigo Cipher #1] 11111 + 01011 = 10100
+[Indigo Cipher #1] 01010 + 11001 = 10011
+[Indigo Cipher #1] 10010 + 10110 = 00100
+[Indigo Cipher #1] 11001 + 10100 = 01101
+[Indigo Cipher #1] Logic Encryption Keyword: LILZWU
+[Indigo Cipher #1] Logic Encrypted Word: NDFKSZ
+[Indigo Cipher #1] Binary 1: 100100
+[Indigo Cipher #1] Binary 2: 110000
+[Indigo Cipher #1] Binary 3: 010100
+[Indigo Cipher #1] Begin Condi Encryption
+[Indigo Cipher #1] Key: YARDBCEFGHIJKLMNOPQSTUVWXZ
+[Indigo Cipher #1] Offset: 8
+[Indigo Cipher #1] N -> W
+[Indigo Cipher #1] Offset: 16
+[Indigo Cipher #1] D -> S
+[Indigo Cipher #1] Offset: 4
+[Indigo Cipher #1] F -> J
+[Indigo Cipher #1] Offset: 8
+[Indigo Cipher #1] K -> T
+[Indigo Cipher #1] Offset: 13
+[Indigo Cipher #1] S -> E
+[Indigo Cipher #1] Offset: 20
+[Indigo Cipher #1] Z -> S
+[Indigo Cipher #1] Begin Fractionated Morse Encryption
+[Indigo Cipher #1] Key: YARDBCEFGHIJKLMNOPQSTUVWXZ
+[Indigo Cipher #1] L -> .-..
+[Indigo Cipher #1] I -> ..
+[Indigo Cipher #1] L -> .-..
+[Indigo Cipher #1] Z -> --..
+[Indigo Cipher #1] W -> .--
+[Indigo Cipher #1] U -> ..-
+[Indigo Cipher #1] Morse rows:
+[Indigo Cipher #1] ...-x..x-
+[Indigo Cipher #1] -xx.-.-.x
+[Indigo Cipher #1] ....-x-.x
+[Indigo Cipher #1] .-. -> D
+[Indigo Cipher #1] .x. -> E
+[Indigo Cipher #1] .x. -> E
+[Indigo Cipher #1] -.. -> H
+[Indigo Cipher #1] x-- -> V
+[Indigo Cipher #1] ..x -> R
+[Indigo Cipher #1] .-- -> B
+[Indigo Cipher #1] x.. -> Q
+[Indigo Cipher #1] -xx -> P
+[Micro-Modules #4] The serial number is GRVQI5
+[Micro-Modules #4] Indicator 1 is True
+[Micro-Modules #4] Indicator 2 is False
+[Micro-Modules #4] Indicator 3 is True
+[Micro-Modules #4] The color of the battery is Black
+[Micro-Modules #4] Directional Keypads' module ID is 3, Code Morse's is 4, Script Wires' is 2, Math Code's is 1
+[Micro-Modules #4] The solve order is Passwords, Wires, Keypads and Morse Code
+[Micro-Modules #4] [Directional Keypads] The top left arrow is a Clockwise
+[Micro-Modules #4] [Directional Keypads] The top right arrow is a Clockwise
+[Micro-Modules #4] [Directional Keypads] The bottom left arrow is a Right
+[Micro-Modules #4] [Directional Keypads] The bottom right arrow is a Reverse
+[Micro-Modules #4] [Code Morse] The received digits are 5688
+[Micro-Modules #4] [Math Code] Character A is a(n) E, B is a(n) S and C is a(n) S
+[Micro-Modules #4] [Math Code] The expression is A / B - C
+[Micro-Modules #4] [Math Code] The digits for A, B and C before calculation are 5, 57 and 20
+[Micro-Modules #4] [Math Code] The solution is -20
+[Micro-Modules #4] [Script Wires] The MeshRenderer's name is NULL
+[Micro-Modules #4] [Script Wires] Using List 1
+[Micro-Modules #4] [Script Wires] Wire 3 should be cut
+[Micro-Modules #4] [Script Wires] Wire 6 should be cut
+[Simon Sends #1] Blinking letters are: KRF
+[Simon Sends #1] Solution letters are: ANI
+[Simon Sends #1] Acceptable answers:
+[Simon Sends #1] — WGWRY
+[Simon Sends #1] — YCYMY
+[Simon Sends #1] — YGWRW
+[Pattern Cube #2] Using rule seed: 1
+[Pattern Cube #2]=svg[Puzzle:]<svg xmlns='http://www.w3.org/2000/svg' viewBox='-3 -3 1206 366'><rect x='240' y='0' width='120' height='120' fill='none' stroke='black' stroke-width='2'/><rect x='0' y='120' width='120' height='120' fill='none' stroke='black' stroke-width='2'/><rect x='120' y='120' width='120' height='120' fill='none' stroke='black' stroke-width='2'/><rect x='240' y='120' width='120' height='120' fill='#f88' stroke='black' stroke-width='2'/><rect x='360' y='120' width='120' height='120' fill='none' stroke='black' stroke-width='2'/><rect x='360' y='240' width='120' height='120' fill='none' stroke='black' stroke-width='2'/><path d='M 300.87695,1090.0137 A 30,30 0 0 0 270,1120 a 30,30 0 0 0 60,0 30,30 0 0 0 -29.12305,-29.9863 z M 260,1160 v 30 h 80 v -30 z' transform='translate(420, 300) rotate(0) translate(-300, -1140)'/></svg>
+[Pattern Cube #2]=svg[Symbols:]<svg xmlns='http://www.w3.org/2000/svg' viewBox='-3 -3 1206 126'><path d='m 250,1330 h 100 l -40,40 v 60 h -20 v -60 z' transform='translate(60, 60) rotate(0) translate(-300, -1380)'/><path d='m 380,1220 v 30 h 50 v 50 h 30 v -80 z' transform='translate(180, 60) rotate(0) translate(-420, -1260)'/><path d='m 60,1090 a 50,50 0 0 0 0,100 50,50 0 0 0 0,-100 z m 0,10 a 40,40 0 0 1 40,40 H 20 a 40,40 0 0 1 40,-40 z' transform='translate(300, 60) rotate(0) translate(-60, -1140)'/><path d='M 60 1330 L 10 1380 L 60 1380 L 110 1380 L 60 1330 z M 60 1380 L 10 1430 L 110 1430 L 60 1380 z ' transform='translate(420, 60) rotate(0) translate(-60, -1380)'/><path d='m 220,1430 v -10 h -30 l 40,-40 -50,-50 -50,50 40,40 h -30 v 10 z' transform='translate(540, 60) rotate(0) translate(-180, -1380)'/></svg>
+[Pattern Cube #2] The highlighted symbol is 5th.
+[Pattern Cube #2]=svg[Solution:]<svg xmlns='http://www.w3.org/2000/svg' viewBox='-3 -3 1206 366'><rect x='240' y='0' width='120' height='120' fill='none' stroke='black' stroke-width='2'/><path d='m 380,1220 v 30 h 50 v 50 h 30 v -80 z' transform='translate(300, 60) rotate(0) translate(-420, -1260)'/><rect x='0' y='120' width='120' height='120' fill='none' stroke='black' stroke-width='2'/><path d='m 60,1090 a 50,50 0 0 0 0,100 50,50 0 0 0 0,-100 z m 0,10 a 40,40 0 0 1 40,40 H 20 a 40,40 0 0 1 40,-40 z' transform='translate(60, 180) rotate(0) translate(-60, -1140)'/><rect x='120' y='120' width='120' height='120' fill='none' stroke='black' stroke-width='2'/><path d='m 250,1330 h 100 l -40,40 v 60 h -20 v -60 z' transform='translate(180, 180) rotate(90) translate(-300, -1380)'/><rect x='240' y='120' width='120' height='120' fill='none' stroke='black' stroke-width='2'/><path d='m 220,1430 v -10 h -30 l 40,-40 -50,-50 -50,50 40,40 h -30 v 10 z' transform='translate(300, 180) rotate(180) translate(-180, -1380)'/><rect x='360' y='120' width='120' height='120' fill='none' stroke='black' stroke-width='2'/><path d='M 60 1330 L 10 1380 L 60 1380 L 110 1380 L 60 1330 z M 60 1380 L 10 1430 L 110 1430 L 60 1380 z ' transform='translate(420, 180) rotate(90) translate(-60, -1380)'/><rect x='360' y='240' width='120' height='120' fill='none' stroke='black' stroke-width='2'/><path d='M 300.87695,1090.0137 A 30,30 0 0 0 270,1120 a 30,30 0 0 0 60,0 30,30 0 0 0 -29.12305,-29.9863 z M 260,1160 v 30 h 80 v -30 z' transform='translate(420, 300) rotate(0) translate(-300, -1140)'/></svg>
+[Yellow Cipher #2] Generated Word: GAMBLE
+[Yellow Cipher #2] Begin Hill Encryption
+[Yellow Cipher #2] Number A: 7
+[Yellow Cipher #2] Number B: 19
+[Yellow Cipher #2] Number C: 20
+[Yellow Cipher #2] Number D: 5
+[Yellow Cipher #2] 7 1 -> 16 15
+[Yellow Cipher #2] 13 2 -> 25 10
+[Yellow Cipher #2] 12 5 -> 23 5
+[Yellow Cipher #2] Hill Encrypted Word: POYJWE
+[Yellow Cipher #2] Begin Trifid Encryption
+[Yellow Cipher #2] Trifid Key: JEALOUSYBCDFGHIKMNPQRTVWXZ
+[Yellow Cipher #2] Trifid Numbers:
+311131
+123121
+122132
+[Yellow Cipher #2] Trifid Encrypted Word: PSULOY
+[Yellow Cipher #2] Morbit Key: 18534276
+[Yellow Cipher #2] Morbit Encrypted Word: 8477281647871682
+[Orange Cipher #1] Generated Word: HARDLY
+[Orange Cipher #1] Matrix A: BCDEFGHIKLMNOPQRSTUVZWAXY
+[Orange Cipher #1] Matrix B: AFLQVBGMRWCHNSXDIOTYEKPUZ
+[Orange Cipher #1] Matrix C: FIVETHOUSANDRYBCGKLMPQWXZ
+[Orange Cipher #1] Matrix D: ABCDEFGHIKMNPQRSTUVWZXYLO
+[Orange Cipher #1] Begin Foursquare Encryption
+[Orange Cipher #1] HA -> BI
+[Orange Cipher #1] RD -> TF
+[Orange Cipher #1] LY -> MZ
+[Orange Cipher #1] Begin Bazeries Encryption
+[Orange Cipher #1] B -> H
+[Orange Cipher #1] I -> G
+[Orange Cipher #1] T -> L
+[Orange Cipher #1] F -> I
+[Orange Cipher #1] M -> U
+[Orange Cipher #1] Z -> Z
+[Orange Cipher #1] Subgroup Number: 3
+[Orange Cipher #1] HGL|IUZ| -> LGHZUI
+[Orange Cipher #1] Begin ADFGX Encryption
+[Orange Cipher #1] X -> XG
+[Orange Cipher #1] Y -> XX
+[Orange Cipher #1] L -> DX
+[Orange Cipher #1] O -> FF
+[Orange Cipher #1] A: XG
+[Orange Cipher #1] W: XX
+[Orange Cipher #1] X: DX
+[Orange Cipher #1] Y: FF
+[Orange Cipher #1] WAXY
+XXDF
+XGXF
+
+[Orange Cipher #1] Encrypted Keyword: XXDFXGXF
+[The Cube #2] Cube movements: #1 is tip backwards. #2 is tip backwards. #3 is rotate left. #4 is tip forwards. #5 is tip left. #6 is rotate left.
+[The Cube #2] Cube faces: #1 is 7. #2 is 7. #3 is 2. #4 is 9. #5 is 2. #6 is 2.
+[The Cube #2] Buttons: #1 is purple and says G. #2 is orange and says I. #3 is red and says M. #4 is white and says C. #5 is blue and says H. #6 is blue and says G. #7 is red and says M. #8 is purple and says B. The execute button is red and says D.
+[The Cube #2] Wires: #1 is orange. #2 is green. #3 is orange. #4 is red.
+[The Cube #2] Screens: #1 says HDECBEHO. #2 says KHBCONOA.
+[Simon Stores #1] D = 32 + 11 + 7 + 12 + 17 + 1 = 80
+[Simon Stores #1] a0 = 7*36 + 12 = 264
+[Simon Stores #1] a1 = B(264) = 2*264 - 80 = 448 ≈ 83
+[Simon Stores #1] a2 = R(83) = 83 + 80 = 163 ≈ 163
+[Simon Stores #1] a3 = M(163) = 81 - 2*163 = -245 ≈ -245
+[Simon Stores #1] The flashing order for stage 1 was B, R, M
+[Simon Stores #1] The conditions that are met are: 5, 6
+[Simon Stores #1] The pressing order for stage 1 was YGCBMR
+[Simon Stores #1] -245 in balanced ternary is -000-+
+[Simon Stores #1] The correct input for stage 1 was +Y-G-R
+[Colorful Dials #1] Main screen digit #1: ORANGE 0
+[Colorful Dials #1] Position of orange square: 3
+[Colorful Dials #1] Cardnial direction: NW
+[Colorful Dials #1] Number of orange colors: 2
+[Colorful Dials #1] Initial dial #1 configuration: MAGENTA 9
+[Colorful Dials #1] Main screen digit #2: YELLOW 6
+[Colorful Dials #1] Position of yellow square: 8
+[Colorful Dials #1] Cardnial direction: E
+[Colorful Dials #1] Number of yellow colors: 1
+[Colorful Dials #1] Initial dial #2 configuration: MAGENTA 0
+[Colorful Dials #1] Main screen digit #3: MAGENTA 4
+[Colorful Dials #1] Position of magenta square: 1
+[Colorful Dials #1] Cardnial direction: W
+[Colorful Dials #1] Number of magenta colors: 1
+[Colorful Dials #1] Initial dial #3 configuration: ORANGE 0
+[Colorful Dials #1] Dial color #1: MAGENTA
+[Colorful Dials #1] Position of magenta square: 1
+[Colorful Dials #1] Cardnial direction: W
+[Colorful Dials #1] Number A: 0
+[Colorful Dials #1] Number B: 8
+[Colorful Dials #1] Color: GREEN
+[Colorful Dials #1] Final dial #1 configuration: MAGENTA 2
+[Colorful Dials #1] Dial color #2: MAGENTA
+[Colorful Dials #1] Position of magenta square: 1
+[Colorful Dials #1] Cardnial direction: W
+[Colorful Dials #1] Number A: 5
+[Colorful Dials #1] Number B: 1
+[Colorful Dials #1] Color: GREEN
+[Colorful Dials #1] Final dial #2 configuration: BLUE 3
+[Colorful Dials #1] Dial color #3: ORANGE
+[Colorful Dials #1] Position of orange square: 3
+[Colorful Dials #1] Cardnial direction: NW
+[Colorful Dials #1] Number A: 3
+[Colorful Dials #1] Number B: 3
+[Colorful Dials #1] Color: YELLOW
+[Colorful Dials #1] Final dial #3 configuration: BLUE 8
+[Colorful Dials #1] Red 28: 4 + 64 = 68
+[Colorful Dials #1] Magenta 71: 5041 % (1 + 1) = 1
+[Colorful Dials #1] Magenta 91: 8281 % (1 + 1) = 1
+[Colorful Dials #1] 68 + 1 + 1 = 70
+[Colorful Dials #1] 70 => 7
+[Colorful Dials #1] Submit when the last digit is a 7
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Micro-Modules #4] [Directional Keypads] The offset key is bottom right
+[Micro-Modules #4] [Directional Keypads] The correct key is ArrowBR
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"5 Mods"}
+[Rule Seed Modifier] The Seed is 1
+[Micro-Modules #4] [Math Code] The code is 180
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 5
+{"serial":"WB7CH1","displayNames":{"Timer":"Timer","MazeShifting":"Shifting Maze","blackCipher":"Black Cipher","indigoCipher":"Indigo Cipher","KritMicroModules":"Micro-Modules","SimonSendsModule":"Simon Sends","PatternCubeModule":"Pattern Cube","yell
+owCipher":"Yellow Cipher","orangeCipher":"Orange Cipher","cube":"The Cube","simonStores":"Simon Stores","colorfulDials":"Colorful Dials"},"ids":{"MazeShifting":[1],"blackCipher":[1],"indigoCipher":[1],"KritMicroModules":[4],"SimonSendsModule":[1],"Pa
+tternCubeModule":[2],"yellowCipher":[2],"orangeCipher":[1],"cube":[2],"simonStores":[1],"colorfulDials":[1]},"anchors":[[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220],[-0.217,-0.220],[0.003,-0.220],[-0.107,0.
+000],[0.223,-0.220],[0.113,0.000],[0.003,0.220]],"modules":["PatternCubeModule 2","yellowCipher 2","MazeShifting 1","orangeCipher 1","blackCipher 1","indigoCipher 1","simonStores 1","Timer -","colorfulDials 1","SimonSendsModule 1","KritMicroModules 4
+","cube 2"]}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'ShiftingMaze(Clone)'.
+[Profile Revealer] Attaching to 'blackCipher(Clone)'.
+[Profile Revealer] Attaching to 'indigoCipher(Clone)'.
+[Profile Revealer] Attaching to 'KritMicroModules(Clone)'.
+[Profile Revealer] Attaching to 'SimonSendsModule(Clone)'.
+[Profile Revealer] Attaching to 'PatternCubeModule(Clone)'.
+[Profile Revealer] Attaching to 'yellowCipher(Clone)'.
+[Profile Revealer] Attaching to 'orangeCipher(Clone)'.
+[Profile Revealer] Attaching to 'theCube(Clone)'.
+[Profile Revealer] Attaching to 'SimonStores(Clone)'.
+[Profile Revealer] Attaching to 'template(Clone)'.
+[Micro-Modules #4] [Code Morse] The code is 9792
+custom
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): i said all hard
+[PaceMaker] Round start! Mission: 5 Mods Pacing Enabled: True
+
+[PaceMaker] Next idle action in 30.50269 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): not all ciphers
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !bomb turn
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !bomb detonate
+[Bomb] Strike from TwitchPlays! 8 / 9 strikes
+[Bomb] Strike from None! 9 / 9 strikes
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"WB7CH1","bombTime":286.703369,"realTime":20.53711,"solves":0,"strikes":9}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

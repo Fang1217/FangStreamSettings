@@ -1,0 +1,957 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 358020903
+
+[BombGenerator] Generator settings: Time: 3600, NumStrikes: 3, FrontFaceOnly: True
+1 Pools:
+[timeSignatures] Count: 5
+
+
+[BombGenerator] Filling in non-front faces with empty components.
+
+[BombGenerator] Selected timeSignatures (1942457475 (ModBombComponent))
+
+[BombGenerator] Selected timeSignatures (1942457475 (ModBombComponent))
+
+[BombGenerator] Selected timeSignatures (1942457475 (ModBombComponent))
+
+[BombGenerator] Selected timeSignatures (1942457475 (ModBombComponent))
+
+[BombGenerator] Selected timeSignatures (1942457475 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1942457475 (ModBombComponent), 1942457475 (ModBombComponent), 1942457475 (ModBombComponent), 1942457475 (ModBombComponent), 1942457475 (ModBombComponent)]
+
+[Mod-timeSignatures] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1942457475" has ID:"timeSignatures"
+
+[Mod-timeSignatures] Loading assemblies...
+
+[Mod-timeSignatures] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1942457475\Newtonsoft.Json.dll"...
+
+[Mod-timeSignatures] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1942457475\timeSignatures.dll"
+
+[Mod-timeSignatures] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1942457475" complete.
+
+[Mod-timeSignatures] Loading GameObjects...
+
+[Mod-timeSignatures] Replacing shaders...
+
+[Mod-timeSignatures] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-timeSignatures] Loading KMMissions...
+
+[Mod-timeSignatures] Loading KMMissionTableOfContents...
+
+[Mod-timeSignatures] Loading AudioClips...
+
+[BombGenerator] Instantiated 1942457475 on face FrontFace, spawn index 2
+
+[BombGenerator] Instantiated 1942457475 on face FrontFace, spawn index 0
+
+[BombGenerator] Instantiated 1942457475 on face FrontFace, spawn index 3
+
+[BombGenerator] Instantiated 1942457475 on face FrontFace, spawn index 5
+
+[BombGenerator] Instantiated 1942457475 on face FrontFace, spawn index 4
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: M66BQ1
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: lit BOB (IndicatorWidget/LABEL10)
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: lit IND (IndicatorWidget/LABEL4)
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: RJ45
+
+[Time Signatures #1] The red number is now 9.
+[Time Signatures #2] The red number is now 7.
+[Time Signatures #3] The red number is now 6.
+[Time Signatures #4] The red number is now 3.
+[Time Signatures #5] The red number is now 2.
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"Time Signatures"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 3
+{"serial":"M66BQ1","displayNames":{"Empty":"None","Timer":"Timer","timeSignatures":"Time Signatures"},"ids":{"timeSignatures":[1,2,3,4,5]},"anchors":[[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220],[-0.217,-0.
+220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220]],"modules":["timeSignatures 2","Timer -","timeSignatures 1","timeSignatures 3","timeSignatures 5","timeSignatures 4","Empty -","Empty -","Empty -","Empty -","Empty -","Empt
+y -"]}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'TimeSigModule(Clone)'.
+[Profile Revealer] Attaching to 'TimeSigModule(Clone)'.
+[Profile Revealer] Attaching to 'TimeSigModule(Clone)'.
+[Profile Revealer] Attaching to 'TimeSigModule(Clone)'.
+[Profile Revealer] Attaching to 'TimeSigModule(Clone)'.
+mod_MPsMTM_M_Time_Signatures
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !claimany
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 cv
+[PaceMaker] Round start! Mission: Time Signatures Pacing Enabled: False
+
+[PaceMaker] Next idle action in 59.87677 seconds.
+
+[PaceMaker] Valid pacing events: 
+
+[PaceMaker] Removed 2 pacing events.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 cycle
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !claimany
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 c
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 c
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 d2
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 b1
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 help
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 help
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 b 2
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 b2
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 t1
+[Time Signatures #1] The red number is now 6.
+[Time Signatures #1] The new sequence is now [3 2], [9 4], [7 8], [4 8], [6 4].
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): Everyone wait until someone's timesig is done playing
+[PaceMaker] PlayerSuccessRating: 0.3033258 (Factors: solved: 0, strikes: 0.3, time: 0.003325768)
+
+[PaceMaker] Next idle action in 53.55563 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 t1
+[Time Signatures #4] The red number is now 1.
+[Time Signatures #4] The new sequence is now [5 8], [4 8], [2 4], [4 4], [1 4].
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 t2 b3
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 h
+[Time Signatures #1] You submitted [3 2]. That's correct!
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 t1 b6
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 h
+[Time Signatures #1] You submitted [9 4]. That's correct!
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 t1 b7
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 h
+[Time Signatures #1] You submitted [7 8]. That's correct!
+[PaceMaker] PlayerSuccessRating: 0.3063018 (Factors: solved: 0, strikes: 0.3, time: 0.006301775)
+
+[PaceMaker] Next idle action in 53.48788 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 b7
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 h
+[Bomb] Strike from Mod! 1 / 3 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"timeSignatures","bombTime":126.677818,"realTime":135.523438,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 1 / 4 strikes
+[PaceMaker] PlayerSuccessRating: 0.2070377 (Factors: solved: 0, strikes: 0.2, time: 0.007037657)
+
+[Time Signatures #1] The red number is now 8.
+[Time Signatures #1] You submitted [5 8]. Thats wrong...
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): damn
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 c
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 b2
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 h
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 c
+[Time Signatures #4] You submitted [5 8]. That's correct!
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 b3
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 t1
+[Time Signatures #1] The red number is now 3.
+[Time Signatures #1] The new sequence is now [7 1], [7 2], [9 4], [3 1], [3 8].
+[PaceMaker] PlayerSuccessRating: 0.2098307 (Factors: solved: 0, strikes: 0.2, time: 0.009830712)
+
+[PaceMaker] Next idle action in 30.79615 seconds.
+
+:cyber12!cyber12@cyber12.tmi.twitch.tv PART #heres_fangy
+:zaphod_beeblebrox_iv!zaphod_beeblebrox_iv@zaphod_beeblebrox_iv.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 b8
+[PaceMaker] PlayerSuccessRating: 0.2119707 (Factors: solved: 0, strikes: 0.2, time: 0.01197072)
+
+[PaceMaker] Next idle action in 48.9219 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 h
+[Time Signatures #4] You submitted [4 8]. That's correct!
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 t1
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 h
+[Bomb] Strike from Mod! 2 / 4 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"timeSignatures","bombTime":254.195587,"realTime":237.5752,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 2 / 5 strikes
+[PaceMaker] PlayerSuccessRating: 0.164122 (Factors: solved: 0, strikes: 0.15, time: 0.01412198)
+
+[Time Signatures #1] The red number is now 9.
+[Time Signatures #1] You submitted [8 1]. Thats wrong...
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): :(
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 t1
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 b1
+[PaceMaker] PlayerSuccessRating: 0.1656125 (Factors: solved: 0, strikes: 0.15, time: 0.01561254)
+
+[PaceMaker] Next idle action in 21.89288 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 h
+[Bomb] Strike from Mod! 3 / 5 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"timeSignatures","bombTime":284.306,"realTime":257.722656,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 3 / 6 strikes
+[PaceMaker] PlayerSuccessRating: 0.1357948 (Factors: solved: 0, strikes: 0.12, time: 0.01579478)
+
+[Time Signatures #1] The red number is now 7.
+[Time Signatures #1] You submitted [9 1]. Thats wrong...
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 help
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): k
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 c
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 b7
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 b7 t2
+[PaceMaker] PlayerSuccessRating: 0.1376895 (Factors: solved: 0, strikes: 0.12, time: 0.01768945)
+
+[PaceMaker] Next idle action in 35.13033 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 t1
+[Time Signatures #1] The red number is now 9.
+[Time Signatures #1] The new sequence is now [7 2], [7 8], [8 2], [2 4], [5 1].
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 t1
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 h
+[Time Signatures #4] You submitted [2 4]. That's correct!
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): buffering...
+[PaceMaker] PlayerSuccessRating: 0.1411048 (Factors: solved: 0, strikes: 0.12, time: 0.02110484)
+
+[PaceMaker] Next idle action in 36.87696 seconds.
+
+:cyber12!cyber12@cyber12.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 t1
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 h
+[Time Signatures #1] You submitted [7 2]. That's correct!
+[TwitchPlays] [M] garuda2002 (, 138444820): is there a way to turn down the music? it's a bit distracting
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 t2
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 h
+[Time Signatures #1] You submitted [7 8]. That's correct!
+[PaceMaker] PlayerSuccessRating: 0.1446906 (Factors: solved: 0, strikes: 0.12, time: 0.02469063)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 36.90653 seconds.
+
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 c
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 t2 b1
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 h
+[Time Signatures #1] You submitted [8 2]. That's correct!
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b4
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 t1 b3
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b5
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 b2
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 h
+[PaceMaker] PlayerSuccessRating: 0.148281 (Factors: solved: 0, strikes: 0.12, time: 0.02828103)
+
+[PaceMaker] Next idle action in 48.38339 seconds.
+
+[Time Signatures #1] You submitted [2 4]. That's correct!
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 h
+[Time Signatures #4] You submitted [4 4]. That's correct!
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 t2 b3
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 h
+[Time Signatures #1] You submitted [5 1]. That's correct!
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): yay
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b1
+[ModBombComponent #244] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"timeSignatures","bombTime":555.170166,"realTime":412.734375,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.2758428 (Factors: solved: 0.125, strikes: 0.12, time: 0.03084279)
+
+[Time Signatures #1] Module solved!
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 cv
+[TwitchPlays] [M] garuda2002 (, 138444820): ok, I'll try this
+[PaceMaker] PlayerSuccessRating: 0.2779867 (Factors: solved: 0.125, strikes: 0.12, time: 0.03298672)
+
+[PaceMaker] Next idle action in 20.91361 seconds.
+
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 h
+[Bomb] Strike from Mod! 4 / 6 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"timeSignatures","bombTime":602.7597,"realTime":439.9287,"loggingID":3}
+[Bomb] Strike from TwitchPlays! 4 / 7 strikes
+[PaceMaker] PlayerSuccessRating: 0.2584867 (Factors: solved: 0.125, strikes: 0.1, time: 0.03348665)
+
+[Time Signatures #3] The red number is now 9.
+[Time Signatures #3] You submitted [6 8]. Thats wrong...
+[Time Signatures #3] ...you haven't generated a sequence yet!
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 c
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 b6
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 c
+[PaceMaker] PlayerSuccessRating: 0.2602243 (Factors: solved: 0.125, strikes: 0.1, time: 0.03522434)
+
+[PaceMaker] Next idle action in 45.33212 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !4 h
+[Time Signatures #4] You submitted [1 4]. That's correct!
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 b8
+[ModBombComponent #250] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"timeSignatures","bombTime":681.017334,"realTime":479.208,"loggingID":4}
+[PaceMaker] PlayerSuccessRating: 0.3878343 (Factors: solved: 0.25, strikes: 0.1, time: 0.0378343)
+
+[Time Signatures #4] Module solved!
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): yay
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 t3
+[TwitchPlays] [M] garuda2002 (, 138444820): I tap the top number to play, correct?
+[PaceMaker] PlayerSuccessRating: 0.3902614 (Factors: solved: 0.25, strikes: 0.1, time: 0.04026135)
+
+[PaceMaker] Next idle action in 28.68191 seconds.
+
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 t6
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): yes
+[TwitchPlays] [M] hhvanillaice (#8A2BE2, 248159980): yes
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b3
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t1
+[Time Signatures #2] The red number is now 7.
+[Time Signatures #2] The new sequence is now [2 1], [5 1], [3 1], [4 2], [8 4].
+[PaceMaker] PlayerSuccessRating: 0.3934508 (Factors: solved: 0.25, strikes: 0.1, time: 0.04345083)
+
+[PaceMaker] Next idle action in 26.90446 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): that's an easy one
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): luckyy
+[PaceMaker] PlayerSuccessRating: 0.3964407 (Factors: solved: 0.25, strikes: 0.1, time: 0.04644066)
+
+[PaceMaker] Next idle action in 20.31458 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): LUL
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 cv
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 t1
+[Time Signatures #3] The red number is now 1.
+[Time Signatures #3] The new sequence is now [9 1], [9 2], [8 8], [3 2], [8 4].
+[PaceMaker] PlayerSuccessRating: 0.3987003 (Factors: solved: 0.25, strikes: 0.1, time: 0.04870033)
+
+[PaceMaker] Next idle action in 28.55198 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 c
+:hhvanillaice!hhvanillaice@hhvanillaice.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 b3
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t1
+[Time Signatures #2] The red number is now 3.
+[Time Signatures #2] The new sequence is now [6 1], [5 2], [2 4], [5 8], [5 4].
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): uhhh
+[PaceMaker] PlayerSuccessRating: 0.4018682 (Factors: solved: 0.25, strikes: 0.1, time: 0.05186815)
+
+[PaceMaker] Next idle action in 33.38556 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): oops
+[TwitchPlays] [M] garuda2002 (, 138444820): that shouldn't happen
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): NotLikeThis
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): K im going
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 c
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): no one start
+[PaceMaker] PlayerSuccessRating: 0.405584 (Factors: solved: 0.25, strikes: 0.1, time: 0.05558399)
+
+[PaceMaker] Next idle action in 43.84554 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 t1
+[Time Signatures #5] The red number is now 3.
+[Time Signatures #5] The new sequence is now [3 8], [7 8], [1 2], [6 2], [6 2].
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b1
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): what a nasty one jeez
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): yep
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): reeee
+[TwitchPlays] [M] garuda2002 (, 138444820): when you listen, it doesn't change the time sigs, just the location of the red, right?
+[PaceMaker] PlayerSuccessRating: 0.4104572 (Factors: solved: 0.25, strikes: 0.1, time: 0.06045721)
+
+[PaceMaker] Next idle action in 41.39516 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): it chenges the time sigs i believe
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 h
+:hhvanillaice!hhvanillaice@hhvanillaice.tmi.twitch.tv PART #heres_fangy
+[Bomb] Strike from Mod! 5 / 7 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"timeSignatures","bombTime":1144.54565,"realTime":711.018555,"loggingID":5}
+[Bomb] Strike from TwitchPlays! 5 / 8 strikes
+[PaceMaker] PlayerSuccessRating: 0.3993002 (Factors: solved: 0.25, strikes: 0.0857143, time: 0.06358587)
+
+[Time Signatures #5] The red number is now 3.
+[Time Signatures #5] You submitted [2 8]. Thats wrong...
+[TwitchPlays] [M] garuda2002 (, 138444820): so you have to get it on the first listen
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): agh
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 t1
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): that one sucked
+[Time Signatures #3] The red number is now 4.
+[Time Signatures #3] The new sequence is now [8 2], [9 1], [2 4], [1 2], [9 2].
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 c
+[PaceMaker] PlayerSuccessRating: 0.4007502 (Factors: solved: 0.25, strikes: 0.0857143, time: 0.06503592)
+
+[PaceMaker] Next idle action in 39.83306 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 c
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 b1
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.4051759 (Factors: solved: 0.25, strikes: 0.0857143, time: 0.06946159)
+
+[PaceMaker] Next idle action in 50.79319 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 t1
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 b5
+[Time Signatures #5] The red number is now 5.
+[Time Signatures #5] The new sequence is now [8 4], [1 4], [5 2], [1 1], [2 8].
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b7 t7
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 h
+[Bomb] Strike from Mod! 6 / 8 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"timeSignatures","bombTime":1315.64636,"realTime":796.8906,"loggingID":3}
+[Bomb] Strike from TwitchPlays! 6 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.3980915 (Factors: solved: 0.25, strikes: 0.075, time: 0.07309147)
+
+[Time Signatures #3] The red number is now 7.
+[Time Signatures #3] You submitted [8 8]. Thats wrong...
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t1
+[Time Signatures #2] The red number is now 3.
+[Time Signatures #2] The new sequence is now [9 8], [4 8], [5 1], [1 1], [6 4].
+[PaceMaker] PlayerSuccessRating: 0.4000897 (Factors: solved: 0.25, strikes: 0.075, time: 0.07508969)
+
+[PaceMaker] Next idle action in 37.74943 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 b5 t2
+[TwitchPlays] [M] garuda2002 (, 138444820): I can't remember fast enough
+[PaceMaker] PlayerSuccessRating: 0.4042847 (Factors: solved: 0.25, strikes: 0.075, time: 0.07928466)
+
+[PaceMaker] Next idle action in 32.90622 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 t1
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !8 h
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 h
+[Time Signatures #5] You submitted [8 4]. That's correct!
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 c
+[PaceMaker] PlayerSuccessRating: 0.4079416 (Factors: solved: 0.25, strikes: 0.075, time: 0.08294156)
+
+[PaceMaker] Next idle action in 46.52077 seconds.
+
+:thelastextremegamer!thelastextremegamer@thelastextremegamer.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 t7
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 c
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 b2 t1
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 h
+[Bomb] Strike from Mod! 7 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"timeSignatures","bombTime":1575.8811,"realTime":927.164063,"loggingID":5}
+[Bomb] Strike from TwitchPlays! 7 / 10 strikes
+[PaceMaker] PlayerSuccessRating: 0.4042156 (Factors: solved: 0.25, strikes: 0.06666667, time: 0.08754895)
+
+[Time Signatures #5] The red number is now 6.
+[Time Signatures #5] You submitted [1 8]. Thats wrong...
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): ugh
+[PaceMaker] PlayerSuccessRating: 0.4047605 (Factors: solved: 0.25, strikes: 0.06666667, time: 0.08809385)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 20.00237 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 c
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b7
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t1
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 b5
+[Time Signatures #2] The red number is now 6.
+[Time Signatures #2] The new sequence is now [5 8], [7 1], [7 4], [6 2], [2 1].
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b1
+[PaceMaker] PlayerSuccessRating: 0.4069858 (Factors: solved: 0.25, strikes: 0.06666667, time: 0.09031907)
+
+[PaceMaker] Next idle action in 58.26912 seconds.
+
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 t1
+[Time Signatures #3] The red number is now 2.
+[Time Signatures #3] The new sequence is now [2 1], [5 8], [1 8], [7 8], [7 1].
+[PaceMaker] PlayerSuccessRating: 0.413463 (Factors: solved: 0.25, strikes: 0.06666667, time: 0.09679633)
+
+[PaceMaker] Next idle action in 55.69565 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 t1
+[Time Signatures #5] The red number is now 4.
+[Time Signatures #5] The new sequence is now [6 4], [1 8], [8 2], [7 1], [7 1].
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 c
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b4
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 c
+[PaceMaker] PlayerSuccessRating: 0.419652 (Factors: solved: 0.25, strikes: 0.06666667, time: 0.1029854)
+
+[PaceMaker] Next idle action in 50.04145 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 b3
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 t1
+[Time Signatures #3] The red number is now 9.
+[Time Signatures #3] The new sequence is now [9 1], [7 4], [8 2], [2 4], [7 1].
+[TwitchPlays] [M] garuda2002 (, 138444820): if only we could clip...
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): refresh
+[PaceMaker] PlayerSuccessRating: 0.4252113 (Factors: solved: 0.25, strikes: 0.06666667, time: 0.1085446)
+
+[PaceMaker] Next idle action in 44.13951 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 t3
+:thelastextremegamer!thelastextremegamer@thelastextremegamer.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 h
+[Time Signatures #5] You submitted [6 4]. That's correct!
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t1
+[Time Signatures #2] The red number is now 7.
+[Time Signatures #2] The new sequence is now [5 4], [2 1], [9 8], [3 1], [5 8].
+[PaceMaker] PlayerSuccessRating: 0.4301191 (Factors: solved: 0.25, strikes: 0.06666667, time: 0.1134524)
+
+[PaceMaker] Next idle action in 22.53963 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.432629 (Factors: solved: 0.25, strikes: 0.06666667, time: 0.1159623)
+
+[PaceMaker] Next idle action in 29.9543 seconds.
+
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): i decide use recorder to record that sound
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 b4 t1
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 h
+[Time Signatures #5] You submitted [1 8]. That's correct!
+[PaceMaker] PlayerSuccessRating: 0.4359604 (Factors: solved: 0.25, strikes: 0.06666667, time: 0.1192938)
+
+[PaceMaker] Next idle action in 22.77322 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.4384915 (Factors: solved: 0.25, strikes: 0.06666667, time: 0.1218249)
+
+[PaceMaker] Next idle action in 58.98984 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 b7 t2
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 h
+[Time Signatures #5] You submitted [8 2]. That's correct!
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.4450496 (Factors: solved: 0.25, strikes: 0.06666667, time: 0.128383)
+
+[PaceMaker] Next idle action in 28.28157 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 b8
+[PaceMaker] PlayerSuccessRating: 0.4481958 (Factors: solved: 0.25, strikes: 0.06666667, time: 0.1315292)
+
+[PaceMaker] Next idle action in 38.99107 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t5
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b7 t2
+[Time Signatures #3] The red number is now 3.
+[Time Signatures #3] The new sequence is now [6 4], [3 8], [1 8], [3 4], [8 4].
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 h
+[Bomb] Strike from Mod! 8 / 10 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"timeSignatures","bombTime":2438.383,"realTime":1359.89258,"loggingID":2}
+[Bomb] Strike from TwitchPlays! 8 / 11 strikes
+[PaceMaker] PlayerSuccessRating: 0.4454657 (Factors: solved: 0.25, strikes: 0.06, time: 0.1354657)
+
+[Time Signatures #2] The red number is now 7.
+[Time Signatures #2] You submitted [5 1]. Thats wrong...
+[PaceMaker] PlayerSuccessRating: 0.4458252 (Factors: solved: 0.25, strikes: 0.06, time: 0.1358252)
+
+[PaceMaker] Next idle action in 57.0528 seconds.
+
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 h
+[Bomb] Strike from Mod! 9 / 11 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"timeSignatures","bombTime":2450.33813,"realTime":1366.19043,"loggingID":3}
+[Bomb] Strike from TwitchPlays! 9 / 12 strikes
+[PaceMaker] PlayerSuccessRating: 0.4406753 (Factors: solved: 0.25, strikes: 0.05454546, time: 0.1361299)
+
+[Time Signatures #3] The red number is now 5.
+[Time Signatures #3] You submitted [9 8]. Thats wrong...
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 c
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 b2
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t1
+[Time Signatures #2] The red number is now 9.
+[Time Signatures #2] The new sequence is now [9 1], [5 8], [9 1], [6 8], [6 2].
+[PaceMaker] PlayerSuccessRating: 0.4466344 (Factors: solved: 0.25, strikes: 0.05454546, time: 0.142089)
+
+[PaceMaker] Next idle action in 41.16942 seconds.
+
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 t1
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 h
+[Bomb] Strike from Mod! 10 / 12 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"timeSignatures","bombTime":2598.12524,"realTime":1441.82031,"loggingID":3}
+[Bomb] Strike from TwitchPlays! 10 / 13 strikes
+[PaceMaker] PlayerSuccessRating: 0.4443403 (Factors: solved: 0.25, strikes: 0.05, time: 0.1443403)
+
+[Time Signatures #3] The red number is now 6.
+[Time Signatures #3] You submitted [9 1]. Thats wrong...
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 b8 t3
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 h
+[Time Signatures #5] You submitted [7 1]. That's correct!
+[PaceMaker] PlayerSuccessRating: 0.446649 (Factors: solved: 0.25, strikes: 0.05, time: 0.146649)
+
+[PaceMaker] Next idle action in 58.64341 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): whoops
+[PaceMaker] PlayerSuccessRating: 0.453161 (Factors: solved: 0.25, strikes: 0.05, time: 0.153161)
+
+[PaceMaker] Next idle action in 55.73664 seconds.
+
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b2
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b7 t1
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 h
+[Bomb] Strike from Mod! 11 / 13 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"timeSignatures","bombTime":2828.31519,"realTime":1557.0957,"loggingID":3}
+[Bomb] Strike from TwitchPlays! 11 / 14 strikes
+[PaceMaker] PlayerSuccessRating: 0.4532825 (Factors: solved: 0.25, strikes: 0.04615385, time: 0.1571286)
+
+[Time Signatures #3] The red number is now 3.
+[Time Signatures #3] You submitted [9 2]. Thats wrong...
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 t1
+[PaceMaker] PlayerSuccessRating: 0.4555041 (Factors: solved: 0.25, strikes: 0.04615385, time: 0.1593503)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 26.90681 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !5 h
+[Time Signatures #5] You submitted [7 1]. That's correct!
+[ModBombComponent #252] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"timeSignatures","bombTime":2901.88843,"realTime":1593.93457,"loggingID":5}
+[PaceMaker] PlayerSuccessRating: 0.5823699 (Factors: solved: 0.375, strikes: 0.04615385, time: 0.161216)
+
+[Time Signatures #5] Module solved!
+[PaceMaker] PlayerSuccessRating: 0.5834919 (Factors: solved: 0.375, strikes: 0.04615385, time: 0.162338)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 39.35315 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5878649 (Factors: solved: 0.375, strikes: 0.04615385, time: 0.1667111)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 34.60246 seconds.
+
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b2 t4
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 b2
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !2 b9
+[PaceMaker] PlayerSuccessRating: 0.5917065 (Factors: solved: 0.375, strikes: 0.04615385, time: 0.1705526)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 27.00074 seconds.
+
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): wop
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): sry
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b9
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b8
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 h
+[Time Signatures #2] You submitted [9 1]. That's correct!
+[PaceMaker] PlayerSuccessRating: 0.5947086 (Factors: solved: 0.375, strikes: 0.04615385, time: 0.1735547)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 34.48504 seconds.
+
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 h
+[TwitchPlays] [M] garuda2002 (, 138444820): eh, I get this
+[Bomb] Strike from Mod! 12 / 14 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"timeSignatures","bombTime":3131.11646,"realTime":1708.59766,"loggingID":3}
+[Bomb] Strike from TwitchPlays! 12 / 15 strikes
+[PaceMaker] PlayerSuccessRating: 0.5918081 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.1739509)
+
+[Time Signatures #3] The red number is now 9.
+[Time Signatures #3] You submitted [1 4]. Thats wrong...
+[PaceMaker] PlayerSuccessRating: 0.5952377 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.1773805)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 29.40957 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 b5
+[PaceMaker] PlayerSuccessRating: 0.5985036 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.1806465)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 36.63125 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t8
+[TwitchPlays] [M] garuda2002 (, 138444820): oh, that's how that works
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t3
+[PaceMaker] PlayerSuccessRating: 0.6025701 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.184713)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 49.14466 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 h
+[Time Signatures #2] You submitted [5 8]. That's correct!
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 b8 t2
+[Time Signatures #3] The red number is now 7.
+[Time Signatures #3] The new sequence is now [6 8], [3 4], [6 4], [3 2], [4 4].
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): eh sry
+[TwitchPlays] [M] krispyalliance52133 (#FF4500, 404362713): !3 unclaim
+[PaceMaker] PlayerSuccessRating: 0.6080264 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.1901693)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 20.72147 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6103297 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.1924726)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 51.51676 seconds.
+
+:cyber12!cyber12@cyber12.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.6160519 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.1981947)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 40.06009 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t1 b4
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 h
+[Time Signatures #2] You submitted [9 1]. That's correct!
+[PaceMaker] PlayerSuccessRating: 0.6178572 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 33.61424 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6178572 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 24.72242 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6178572 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 55.6844 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 b6
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t3
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 h
+[Time Signatures #2] You submitted [6 8]. That's correct!
+[PaceMaker] PlayerSuccessRating: 0.6178572 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 58.06095 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.6178572 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 27.99328 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 t2
+:edan456!edan456@edan456.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.6178572 (Factors: solved: 0.375, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 35.11097 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 h
+[Time Signatures #2] You submitted [6 2]. That's correct!
+[ModBombComponent #246] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"timeSignatures","bombTime":4092.037,"realTime":2189.38,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.7428572 (Factors: solved: 0.5, strikes: 0.04285715, time: 0.2)
+
+[Time Signatures #2] Module solved!
+[TwitchPlays] [M] garuda2002 (, 138444820): yeah, nice
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 cv
+[PaceMaker] PlayerSuccessRating: 0.7428572 (Factors: solved: 0.5, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 28.51713 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 c
+[TwitchPlays] [M] garuda2002 (, 138444820): !9 b7
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 b7
+[PaceMaker] PlayerSuccessRating: 0.7428572 (Factors: solved: 0.5, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 59.17685 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 t1
+[Time Signatures #3] The red number is now 1.
+[Time Signatures #3] The new sequence is now [3 4], [9 2], [3 4], [4 2], [8 8].
+[TwitchPlays] [M] garuda2002 (, 138444820): okay, let's see if I can do this without clipping
+[PaceMaker] PlayerSuccessRating: 0.7428572 (Factors: solved: 0.5, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 46.95409 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 t2
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 t1
+[PaceMaker] PlayerSuccessRating: 0.7428572 (Factors: solved: 0.5, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 26.48436 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 b5
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 h
+[Time Signatures #3] You submitted [3 4]. That's correct!
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.7428572 (Factors: solved: 0.5, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 28.3667 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 t3
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 b6
+[PaceMaker] PlayerSuccessRating: 0.7428572 (Factors: solved: 0.5, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 47.09181 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 h
+[Time Signatures #3] You submitted [9 2]. That's correct!
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 b3
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 t1
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 h
+[Time Signatures #3] You submitted [3 4]. That's correct!
+[PaceMaker] PlayerSuccessRating: 0.7428572 (Factors: solved: 0.5, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 58.89387 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 t3
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 b1
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 h
+[Time Signatures #3] You submitted [4 2]. That's correct!
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 t2
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 b4
+[PaceMaker] PlayerSuccessRating: 0.7428572 (Factors: solved: 0.5, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 23.02489 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 h
+[Time Signatures #3] You submitted [8 8]. That's correct!
+[TwitchPlays] [M] garuda2002 (, 138444820): heck yeah! no clipping!
+[PaceMaker] PlayerSuccessRating: 0.7428572 (Factors: solved: 0.5, strikes: 0.04285715, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.40943 seconds.
+
+[ModBombComponent #248] Pass
+
+[Bomb] A winner is you!!
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_SOLVE","serial":"M66BQ1","bombTime":4758.649,"realTime":2522.38281,"solves":5,"strikes":12}
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

@@ -1,0 +1,8 @@
+{
+  "Mode": "Standard",
+  "AutoReset": true,
+  "Veto": [
+    "If you would like to keep certain mazes from spawning, enter them here.",
+    "If you would like to keep certain mazes from spawning, enter them here."
+  ]
+}

@@ -1,0 +1,574 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 397685959
+
+[BombGenerator] Generator settings: Time: 1320, NumStrikes: 3, FrontFaceOnly: False
+2 Pools:
+[ALL_SOLVABLE] Count: 8
+[christmasPresents, crystalMaze, jewelVault, sonicKnuckles, triangle, 15MysticLights, spwiz3DMaze, 64, ksmAmazeingButtons, AMessage, accumulation, AdjacentLettersModule, affineCycle, spwizAdventureGame, JuckAlchemy, algebra, alliances, alphaBits, alphabetNumbers, AnsweringCanBeFun, arithmelogic, asciiArt, baccarat, BartendingModule, bases, benedictCumberbatch, binaryGrid, BinaryPuzzleModule, binaryTree, BlackHoleModule, BlindMaze, blinkstopModule, blueArrowsModule, blueCipher, bombDiffusal, ksmBobBarks, boolMaze, borderedKeys, boxing, BrailleModule, BrokenGuitarChordsModule, BrokenButtonsModule, buttonGrid, burglarAlarm, buttonSequencesModule, caesarCycle, CheapCheckoutModule, ChessModule, coopharmonySequence, ChordQualities, codenames, coffeebucks, Color Decoding, lgndColoredKeys, ColorMorseModule, ColoredSwitchesModule, ColorfulInsanity, colourcode, KritConnectionDev, CoordinatesModule, CrackboxModule, CreationModule, boolMazeCruel, cruelCountdown, CruelKeypads, CruelPianoKeys, CryptModule, curriculum, CursedDoubleOhModule, DecoloredSquaresModule, kataDeckCreating, digitString, DiscoloredSquaresModule, disorderedKeys, doubleArrows, doubleExpert, DrDoctorModule, dragonEnergy, elderPassword, EncryptedEquationsModule, EncryptedMorse, equations, ExtendedPassword, exoplanets, FlagsModule, FlavorTextCruel, FollowingOrders, FollowTheLeaderModule, footnotes, freeParking, FriendshipModule, qFunctions, garfieldKart, GameOfLifeSimple, geneticSequence, geometryDashModule, graffitiNumbers, greekCalculus, grayCipher, greenCipher, GridMatching, GridlockModule, groceryStore, gryphons, GuessWho, harmonySequence, HexamazeModule, hereditaryBaseNotationModule, hillCycle, hieroglyphics, hinges, KritHoldUps, horribleMemory, HumanResourcesModule, hunting, iceCreamModule, qSwedishMaze, jackAttack, jenga, KnowYourWay, kookyKeypadModule, krazyTalk, lasers, Laundry, leftandRight, LightCycleModule, lightspeed, linesOfCode, LionsShareModule, logicGates, logicalButtonsModule, loopover, MadMemory, MafiaModule, MahjongModule, maintenance, MarbleTumbleModule, MaritimeFlagsModule, Mastermind Cruel, masyuModule, MatrixQuiz, mazematics, maze3, melodySequencer, memorableButtons, meter, mineseeker, moduleListening, modulusManipulation, monsplodeCards, morseButtons, MorseAMaze, MorseV2, MouseInTheMaze, murder, MysticSquareModule, Negativity, neutralization, NonogramModule, NotMorseCode, NotWhosOnFirst, NotWireSequence, numberNimbleness, NumberPad, objectShows, OddOneOutModule, OnlyConnectModule, orderedKeys, palindromes, partialDerivatives, periodicTable, PerplexingWiresModule, spwizPerspectivePegs, pigpenRotations, planets, PlantIdentification, Playfair, playfairCycle, MazeV2, pigpenCycle, Poker, PolyhedralMazeModule, quaternions, quintuples, quizBuzz, qwirkle, raidingTemples, recordedKeys, redCipher, reorderedKeys, reverseMorse, retirement, ReverseAlphabetize, rgbMaze, MusicRhythms, roleReversal, romanArtModule, rubiksClock, RubiksCubeModule, PasswordV2, qSchlagDenBomb, KritScripts, SeaShells, semamorse, sevenChooseFour, ShapesBombs, shikaku, Signals, SillySlots, simonSamples, SimonScreamsModule, simonSelectsModule, SimonShrieksModule, SimonSpeaksModule, SimonSpinsModule, simonStops, simonStages, simonsOnFirst, simonsStar, SkewedSlotsModule, skyrim, snakesAndLadders, snooker, sonic, SplittingTheLootModule, stackem, StandardCrazyTalk, stainedGlass, streetFighter, SueetWall, SuperlogicModule, MazeSwitching, SymbolCycleModule, sync125_3, SynchronizationModule, Tangrams, tapCode, tashaSqueals, TenButtonColorCode, TennisModule, ksmTetraVex, tetriamonds, TheBlackPage, thedealmaker, deckOfManyThings, hexabutton, hyperlink, iPhone, labyrinth, legendreSymbol, londonUnderground, modkit, moon, necronomicon, KritRadio, StareModule, sphere, stockMarket, sun, wire, TicTacToeModule, ThirdBase, timeSignatures, towerOfHanoi, toonEnough, transmittedMorseModule, triamonds, R4YUncoloredSwitches, unorderedKeys, valves, VaricoloredSquaresModule, vectorsModule, vigenereCipher, violetCipher, wastemanagement, webDesign, whiteCipher, wireSpaghetti, XRayModule, X01, yesandno, ZooModule] Count: 3
+
+
+[BombGenerator] Selected JadenSmithTalk (2075509471 (ModBombComponent))
+
+[BombGenerator] Selected Backgrounds (1286383144 (ModBombComponent))
+
+[BombGenerator] Selected RailwayCargoLoading (1977063810 (ModBombComponent))
+
+[BombGenerator] Selected MouseInTheMaze (803537557 (ModBombComponent))
+
+[BombGenerator] Selected geneticSequence (2048468411 (ModBombComponent))
+
+[BombGenerator] Selected dungeon (1992883318 (ModBombComponent))
+
+[BombGenerator] Selected HexamazeModule (803924558 (ModBombComponent))
+
+[BombGenerator] Selected cruelCountdown (1558199237 (ModBombComponent))
+
+[BombGenerator] Selected semamorse (1978998933 (ModBombComponent))
+
+[BombGenerator] Selected NotMorseCode (2003251353 (ModBombComponent))
+
+[BombGenerator] Selected dragonEnergy (1582260436 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [2075509471 (ModBombComponent), 1286383144 (ModBombComponent), 1977063810 (ModBombComponent), 803537557 (ModBombComponent), 2048468411 (ModBombComponent), 1992883318 (ModBombComponent), 803924558 (ModBombComponent), 1558199237 (ModBombComponent), 1978998933 (ModBombComponent), 2003251353 (ModBombComponent), 1582260436 (ModBombComponent)]
+
+[BombGenerator] Instantiated 2075509471 on face BackFace, spawn index 4
+
+[Mod-Backgrounds] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1286383144" has ID:"Backgrounds"
+
+[Mod-Backgrounds] Loading assemblies...
+
+[Mod-Backgrounds] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1286383144\Newtonsoft.Json.dll"...
+
+[Mod-Backgrounds] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1286383144\Backgrounds.dll"
+
+[Mod-Backgrounds] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1286383144" complete.
+
+[Mod-Backgrounds] Loading GameObjects...
+
+[Mod-Backgrounds] Replacing shaders...
+
+[Mod-Backgrounds] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Backgrounds] Replacing shaders...
+
+[Mod-Backgrounds] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Backgrounds] Loading KMMissions...
+
+[Mod-Backgrounds] Loading KMMissionTableOfContents...
+
+[Mod-Backgrounds] Loading AudioClips...
+
+[BombGenerator] Instantiated 1286383144 on face FrontFace, spawn index 1
+
+[Mod-RailwayCargoLoading] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1977063810" has ID:"RailwayCargoLoading"
+
+[Mod-RailwayCargoLoading] Loading assemblies...
+
+[Mod-RailwayCargoLoading] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1977063810\Newtonsoft.Json.dll"...
+
+[Mod-RailwayCargoLoading] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1977063810\RailwayCargoLoading.dll"
+
+[Mod-RailwayCargoLoading] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1977063810" complete.
+
+[Mod-RailwayCargoLoading] Loading GameObjects...
+
+[Mod-RailwayCargoLoading] Replacing shaders...
+
+[Mod-RailwayCargoLoading] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-RailwayCargoLoading] Loading KMMissions...
+
+[Mod-RailwayCargoLoading] Loading KMMissionTableOfContents...
+
+[Mod-RailwayCargoLoading] Loading AudioClips...
+
+[BombGenerator] Instantiated 1977063810 on face FrontFace, spawn index 3
+
+[Mod-MouseInTheMaze] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\803537557" has ID:"MouseInTheMaze"
+
+[Mod-MouseInTheMaze] Loading assemblies...
+
+[Mod-MouseInTheMaze] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\803537557\Newtonsoft.Json.dll"...
+
+[Mod-MouseInTheMaze] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\803537557\MouseInTheMaze.dll"
+
+[Mod-MouseInTheMaze] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\803537557" complete.
+
+[Mod-MouseInTheMaze] Loading GameObjects...
+
+[Mod-MouseInTheMaze] Replacing shaders...
+
+[Mod-MouseInTheMaze] ModUnityVersion: 2017.1.0f3 Game: 2017.4.22f1
+
+[Mod-MouseInTheMaze] Loading KMMissions...
+
+[Mod-MouseInTheMaze] Loading KMMissionTableOfContents...
+
+[Mod-MouseInTheMaze] Loading AudioClips...
+
+[BombGenerator] Instantiated 803537557 on face BackFace, spawn index 2
+
+[Mod-geneticSequence] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2048468411" has ID:"geneticSequence"
+
+[Mod-geneticSequence] Loading assemblies...
+
+[Mod-geneticSequence] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2048468411\Newtonsoft.Json.dll"...
+
+[Mod-geneticSequence] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2048468411\geneticSequence.dll"
+
+[Mod-geneticSequence] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2048468411" complete.
+
+[Mod-geneticSequence] Loading GameObjects...
+
+[Mod-geneticSequence] Replacing shaders...
+
+[Mod-geneticSequence] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-geneticSequence] Loading KMMissions...
+
+[Mod-geneticSequence] Loading KMMissionTableOfContents...
+
+[Mod-geneticSequence] Loading AudioClips...
+
+[BombGenerator] Instantiated 2048468411 on face FrontFace, spawn index 0
+
+[BombGenerator] Instantiated 1992883318 on face FrontFace, spawn index 4
+
+[Mod-Hexamaze] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\803924558" has ID:"Hexamaze"
+
+[Mod-Hexamaze] Loading assemblies...
+
+[Mod-Hexamaze] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\803924558\Newtonsoft.Json.dll"...
+
+[Mod-Hexamaze] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\803924558\Hexamaze.dll"
+
+[Mod-Hexamaze] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\803924558" complete.
+
+[Mod-Hexamaze] Loading GameObjects...
+
+[Mod-Hexamaze] Replacing shaders...
+
+[Mod-Hexamaze] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-Hexamaze] Loading KMMissions...
+
+[Mod-Hexamaze] Loading KMMissionTableOfContents...
+
+[Mod-Hexamaze] Loading AudioClips...
+
+[BombGenerator] Instantiated 803924558 on face BackFace, spawn index 0
+
+[Mod-cruelCountdown] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1558199237" has ID:"cruelCountdown"
+
+[Mod-cruelCountdown] Loading assemblies...
+
+[Mod-cruelCountdown] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1558199237\Newtonsoft.Json.dll"...
+
+[Mod-cruelCountdown] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1558199237\cruelCountdown.dll"
+
+[Mod-cruelCountdown] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1558199237" complete.
+
+[Mod-cruelCountdown] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-cruelCountdown] Replacing shaders...
+
+[Mod-cruelCountdown] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-cruelCountdown] Loading KMMissions...
+
+[Mod-cruelCountdown] Loading KMMissionTableOfContents...
+
+[Mod-cruelCountdown] Loading AudioClips...
+
+[BombGenerator] Instantiated 1558199237 on face BackFace, spawn index 5
+
+[Mod-semamorse] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1978998933" has ID:"semamorse"
+
+[Mod-semamorse] Loading assemblies...
+
+[Mod-semamorse] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1978998933\Newtonsoft.Json.dll"...
+
+[Mod-semamorse] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1978998933\semamorse.dll"
+
+[Mod-semamorse] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1978998933" complete.
+
+[Mod-semamorse] Loading GameObjects...
+
+[Mod-semamorse] Replacing shaders...
+
+[Mod-semamorse] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-semamorse] Loading KMMissions...
+
+[Mod-semamorse] Loading KMMissionTableOfContents...
+
+[Mod-semamorse] Loading AudioClips...
+
+[BombGenerator] Instantiated 1978998933 on face BackFace, spawn index 3
+
+[BombGenerator] Instantiated 2003251353 on face FrontFace, spawn index 2
+
+[Mod-dragonEnergy] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1582260436" has ID:"dragonEnergy"
+
+[Mod-dragonEnergy] Loading assemblies...
+
+[Mod-dragonEnergy] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1582260436\Newtonsoft.Json.dll"...
+
+[Mod-dragonEnergy] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1582260436\dragonEnergy.dll"
+
+[Mod-dragonEnergy] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1582260436" complete.
+
+[Mod-dragonEnergy] Loading GameObjects...
+
+[Mod-dragonEnergy] Replacing shaders...
+
+[Mod-dragonEnergy] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-dragonEnergy] Loading KMMissions...
+
+[Mod-dragonEnergy] Loading KMMissionTableOfContents...
+
+[Mod-dragonEnergy] Loading AudioClips...
+
+[BombGenerator] Instantiated 1582260436 on face FrontFace, spawn index 5
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: QD1JD6
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: Parallel
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit NSA (IndicatorWidget/LABEL7)
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[Backgrounds #1] Backing is red, Button is orange
+[Backgrounds #1] Row in table is F due to rule 6
+[Backgrounds #1] Column in table is A due to rule 10
+[Backgrounds #1] Number needed is 1
+[Mouse in the Maze #1] You are in the bottom right maze.
+[Mouse in the Maze #1] Torus color: yellow
+[Mouse in the Maze #1] Goal sphere color: white
+[Genetic Sequence #1]: The button labels are ATGC.
+[Genetic Sequence #1]: "A" and "T" are next to each other.
+[Genetic Sequence #1]: The starting amino acid is Leu.
+[Genetic Sequence #1]: "FRK" path taken. It is first alphabetically.
+[Genetic Sequence #1]: "CLR" path taken. It is first alphabetically.
+[Genetic Sequence #1]: "BOB" path taken. It is first alphabetically.
+[Genetic Sequence #1]: This gives the amino acid sequence Leu-His-Ala-Val.
+[Genetic Sequence #1]: This gives the coding strand TTA-CAT-GCT-GTA.
+[Genetic Sequence #1]: The final solution is TTA-CAT-GCT-GTA.
+[Dungeon #2] Stage 1
+[Dungeon #2] Roll = 1
+[Dungeon #2] Level = 1
+[Hexamaze #1] Submaze center: (17, 8), submaze rotation: 180° clockwise, pawn: (17, 9) (maze)/(4, 3) (screen), pawn color: cyan.
+[Hexamaze #1] Marking at (4, 1) (screen)/(17, 11) (maze): TriangleDown, after rotation: TriangleUp
+[Hexamaze #1] Marking at (6, 2) (screen)/(15, 10) (maze): Hexagon, after rotation: Hexagon
+[Hexamaze #1] Marking at (1, 1) (screen)/(20, 8) (maze): Hexagon, after rotation: Hexagon
+[Hexamaze #1] Marking at (4, 5) (screen)/(17, 7) (maze): Circle, after rotation: Circle
+[Cruel Countdown #1] Your numbers are 63, 44, 35, 13, 8 & 14.
+[Cruel Countdown #1] Your target is 726.
+[Cruel Countdown #1] One possible solution: (63 - 44 + 14) × (35 - 13).
+[Semamorse #1] Battery holders plus port plates modulo 10 is 4.
+[Semamorse #1] Position 1: The color is indigo. The semaphore letter is K and the Morse code letter is K.
+[Semamorse #1] Position 2: The color is red. The semaphore letter is L and the Morse code letter is D. This position has different letters.
+[Semamorse #1] Position 3: The color is pink. The semaphore letter is P and the Morse code letter is P.
+[Semamorse #1] Position 4: The color is green. The semaphore letter is M and the Morse code letter is M.
+[Semamorse #1] Position 5: The color is cyan. The semaphore letter is A and the Morse code letter is A.
+[Semamorse #1] The 1st color in the order is green, and the displayed letter for that color is M, so 4 gets added.
+[Semamorse #1] The 2nd color in the order is cyan, and the displayed letter for that color is A, so 10 gets added.
+[Semamorse #1] The 3rd color in the order is indigo, and the displayed letter for that color is K, so 7 gets added.
+[Semamorse #1] The 4th color in the order is pink, and the displayed letter for that color is P, so 9 gets added.
+[Semamorse #1] Converted to a letter, the final value is M. The solution is E, SW.
+[Not Morse Code #3] The transmitted words are: 3.515 MHz: shelf, 3.522 MHz: honey, 3.525 MHz: beef, 3.555 MHz: guidance, 3.575 MHz: swine
+[Not Morse Code #3] The words should be submitted in this order: 3.555 MHz, 3.522 MHz, 3.575 MHz, 3.515 MHz, 3.525 MHz
+[Dragon Energy #1] Indicator color: Orange.
+[Dragon Energy #1] You have 0 strikes. Forbidden digits for submitting are: 0, 2, 4, 6, 8.
+[Dragon Energy #1] Before swapping, the displayed words are:
+[Dragon Energy #1] Curse = Cyan
+[Dragon Energy #1] Hope = Green
+[Dragon Energy #1] Pure = Green + Purple
+[Dragon Energy #1] Swap 4 has occurred: GPR ↔ GRC, CPG ↔ RCP, P ↔ C
+[Dragon Energy #1] After swapping, the displayed words are:
+[Dragon Energy #1] Curse = Purple
+[Dragon Energy #1] Hope = Green
+[Dragon Energy #1] Pure = Green + Purple
+[Dragon Energy #1] Otherwise rule → submit a word from a tertiary section.
+[Dragon Energy #1] Any of the following would be a correct answer: Heaven, Happiness, Dragon, Kindness.
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"5 Mods"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 5
+{"serial":"QD1JD6","displayNames":{"Timer":"Timer","JadenSmithTalk":"Jaden Smith Talk","Backgrounds":"Backgrounds","RailwayCargoLoading":"Railway Cargo Loading","MouseInTheMaze":"Mouse In The Maze","geneticSequence":"Genetic Sequence","dungeon":"Dung
+eon","HexamazeModule":"Hexamaze","cruelCountdown":"Cruel Countdown","semamorse":"Semamorse","NotMorseCode":"Not Morse Code","dragonEnergy":"Dragon Energy"},"ids":{"JadenSmithTalk":[1],"Backgrounds":[1],"RailwayCargoLoading":[1],"MouseInTheMaze":[1],"
+geneticSequence":[1],"dungeon":[2],"HexamazeModule":[1],"cruelCountdown":[1],"semamorse":[1],"NotMorseCode":[3],"dragonEnergy":[1]},"anchors":[[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220],[-0.217,-0.220],[0
+.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220]],"modules":["geneticSequence 1","Backgrounds 1","NotMorseCode 3","RailwayCargoLoading 1","dungeon 2","semamorse 1","HexamazeModule 1","Timer -","MouseInTheMaze 1","dragonEnergy 1"
+,"JadenSmithTalk 1","cruelCountdown 1"]}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'JadenSmithTalk(Clone)'.
+[Profile Revealer] Attaching to 'Backgrounds(Clone)'.
+[Profile Revealer] Attaching to 'TrainCargoLoading(Clone)'.
+[Profile Revealer] Attaching to 'Physics Module(Clone)'.
+[Profile Revealer] Attaching to 'geneticSequence(Clone)'.
+[Profile Revealer] Attaching to 'Dungeon(Clone)'.
+[Profile Revealer] Attaching to 'HexamazeModule(Clone)'.
+[Profile Revealer] Attaching to 'cruelCountdown(Clone)'.
+[Profile Revealer] Attaching to 'semamorse(Clone)'.
+[Profile Revealer] Attaching to 'Not Morse Code(Clone)'.
+[Profile Revealer] Attaching to 'DragonEnergy(Clone)'.
+custom
+[Railway Cargo Loading #1] Nitric Acid: 0.
+[Railway Cargo Loading #1] Automobiles: 0.
+[Railway Cargo Loading #1] Farming Equipment: 0.
+[Railway Cargo Loading #1] Gold Ore: 0.
+[Railway Cargo Loading #1] Coal: 0.
+[Railway Cargo Loading #1] Fruit: 0.
+[Railway Cargo Loading #1] Helium: 0.
+[Railway Cargo Loading #1] Gasoline: 25.
+[Railway Cargo Loading #1] Resin: 0.
+[Railway Cargo Loading #1] Livestock: 5.
+[Railway Cargo Loading #1] Mail: 0.
+[Railway Cargo Loading #1] Electrical Transformer: 0.
+[Railway Cargo Loading #1] Crude Oil: 0.
+[Railway Cargo Loading #1] With Checked Baggage: 99.
+[Railway Cargo Loading #1] Rich: 25.
+[Railway Cargo Loading #1] Middle-Class: 46.
+[Railway Cargo Loading #1] Normal: 140.
+[Railway Cargo Loading #1] Sheet Metal: 0.
+[Railway Cargo Loading #1] Logs: 22.
+[Railway Cargo Loading #1] Car 1: There is more Gasoline than Coal (25 vs 0).
+[Railway Cargo Loading #1] Car 1 correct car: Internal Combustion Locomotive!
+[PaceMaker] Round start! Mission: 5 Mods Pacing Enabled: True
+
+[PaceMaker] Next idle action in 20.37698 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 cv
+[TwitchPlays] [M] Dbros1000 (, 274893701): !bomb flip
+[TwitchPlays] [M] lord_kabewm (, 452755312): !2 claim
+[TwitchPlays] [M] Dbros1000 (, 274893701): !7 cv
+[PaceMaker] PlayerSuccessRating: 0.4969213 (Factors: solved: 0, strikes: 0.3, time: 0.1969213)
+
+[PaceMaker] Next idle action in 28.2038 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !7 colorblind
+[PaceMaker] PlayerSuccessRating: 0.4926387 (Factors: solved: 0, strikes: 0.3, time: 0.1926387)
+
+[PaceMaker] Next idle action in 28.6868 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.4882883 (Factors: solved: 0, strikes: 0.3, time: 0.1882882)
+
+[PaceMaker] Next idle action in 22.36377 seconds.
+
+[TwitchPlays] [M] lord_kabewm (, 452755312): !2 submit 1
+[Backgrounds #1] Submitted 1, Goal was 1
+[ModBombComponent #224] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"Backgrounds","bombTime":1239.89868,"realTime":87.875,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5378634 (Factors: solved: 0.05, strikes: 0.3, time: 0.1878634)
+
+[Backgrounds #1] The module has been defused.
+[TwitchPlays] [M] Dbros1000 (, 274893701): !7 ne nw nw nw
+[Hexamaze #1] Moving from (4, 3) to (5, 2) (screen) / from (17, 9) to (16, 10) (maze).
+[Hexamaze #1] Moving from (5, 2) to (4, 2) (screen) / from (16, 10) to (17, 10) (maze).
+[Hexamaze #1] Moving from (4, 2) to (3, 1) (screen) / from (17, 10) to (18, 10) (maze).
+[Hexamaze #1] Moving from (3, 1) to (2, 0) (screen) / from (18, 10) to (19, 10) (maze).
+[Hexamaze #1] Walking out of the submaze through edge(s) 0 (screen) / 3 (maze). Solved!
+[ModBombComponent #234] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"HexamazeModule","bombTime":1229.00232,"realTime":98.77246,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5862125 (Factors: solved: 0.1, strikes: 0.3, time: 0.1862125)
+
+[PaceMaker] PlayerSuccessRating: 0.5848995 (Factors: solved: 0.1, strikes: 0.3, time: 0.1848995)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Cut the lights at 15948.17
+
+[PaceMaker] Next idle action in 53.77803 seconds.
+
+[TwitchPlays] [M] lord_kabewm (, 452755312): !8 claim
+[TwitchPlays] [M] lord_kabewm (, 452755312): !11 claim
+[TwitchPlays] [M] lord_kabewm (, 452755312): !8 unc
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 l
+[Dungeon #2] Stage 2
+[Dungeon #2] Roll = 3
+[Dungeon #2] Level = 1
+[PaceMaker] PlayerSuccessRating: 0.5767435 (Factors: solved: 0.1, strikes: 0.3, time: 0.1767435)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 16001.99
+
+[PaceMaker] Next idle action in 32.71965 seconds.
+
+:lord_kabewm!lord_kabewm@lord_kabewm.tmi.twitch.tv JOIN #heres_fangy
+:bananalord!bananalord@bananalord.tmi.twitch.tv PART #heres_fangy
+:bigcrunch22!bigcrunch22@bigcrunch22.tmi.twitch.tv PART #heres_fangy
+:nicorobin8797!nicorobin8797@nicorobin8797.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 L
+[Bomb] Strike from Mod! 1 / 3 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"dungeon","bombTime":1158.70581,"realTime":169.074219,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.4255615 (Factors: solved: 0.1, strikes: 0.15, time: 0.1755615)
+
+[Dungeon #2] Wrong move : the roll is 3, the correct direction was forward.
+[TwitchPlays] [M] Dbros1000 (, 274893701): bro
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 f
+[Dungeon #2] Stage 3
+[Dungeon #2] Roll = 6
+[Dungeon #2] Level = 1
+[PaceMaker] PlayerSuccessRating: 0.4208337 (Factors: solved: 0.1, strikes: 0.15, time: 0.1708337)
+
+[PaceMaker] Next idle action in 43.56504 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 F
+[Dungeon #2] Fighting Bat
+[PaceMaker] PlayerSuccessRating: 0.4125762 (Factors: solved: 0.1, strikes: 0.15, time: 0.1625762)
+
+[PaceMaker] Next idle action in 50.65363 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 s
+[Dungeon #2] End of fight : Last monster fought = 1
+[Dungeon #2] Stage 4
+[Dungeon #2] Roll = 0
+[Dungeon #2] Level = 1
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 l
+[Dungeon #2] Stage 5
+[Dungeon #2] Roll = 5
+[Dungeon #2] Level = 1
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !claim 1 8
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !1 zoom
+[PaceMaker] PlayerSuccessRating: 0.4029807 (Factors: solved: 0.1, strikes: 0.15, time: 0.1529807)
+
+[PaceMaker] Next idle action in 32.27044 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 f
+[Dungeon #2] Stage 6
+[Dungeon #2] Roll = 4
+[Dungeon #2] Level = 2
+[TwitchPlays] [M] lord_kabewm (, 452755312): !11 help
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !1 help
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !1 VoteNay
+[Bomb] Strike from Mod! 2 / 3 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"JadenSmithTalk","bombTime":975.5806,"realTime":315.631836,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.2478153 (Factors: solved: 0.1, strikes: 0, time: 0.1478153)
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 F
+[Dungeon #2] Stage 7
+[Dungeon #2] Roll = 3
+[Dungeon #2] Level = 2
+[TwitchPlays] [M] Dbros1000 (, 274893701): rip
+[PaceMaker] PlayerSuccessRating: 0.2466794 (Factors: solved: 0.1, strikes: 0, time: 0.1466794)
+
+[PaceMaker] Next idle action in 42.15158 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !1 unc
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): how does it
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): ok
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 f
+[Dungeon #2] Fighting Cyclops
+[PaceMaker] PlayerSuccessRating: 0.2370963 (Factors: solved: 0.1, strikes: 0, time: 0.1370963)
+
+[PaceMaker] Next idle action in 41.3779 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 sbs
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 s b s
+[Dungeon #2] End of fight : Last monster fought = 5
+[Dungeon #2] Stage 8
+[Dungeon #2] Roll = 2
+[Dungeon #2] Level = 2
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 l
+[Dungeon #2] Stage 9
+[Dungeon #2] Roll = 3
+[Dungeon #2] Level = 2
+[PaceMaker] PlayerSuccessRating: 0.2276797 (Factors: solved: 0.1, strikes: 0, time: 0.1276797)
+
+[PaceMaker] Next idle action in 44.40175 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 f
+[Dungeon #2] Fighting Golem
+:xarata98!xarata98@xarata98.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !unclaimall
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 b b s s
+[Dungeon #2] End of fight : Last monster fought = 6
+[Dungeon #2] Stage 10
+[Dungeon #2] Roll = 3
+[Dungeon #2] Level = 2
+[PaceMaker] PlayerSuccessRating: 0.2175813 (Factors: solved: 0.1, strikes: 0, time: 0.1175813)
+
+[PaceMaker] Next idle action in 44.22324 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 f
+[Dungeon #2] Stage 11
+[Dungeon #2] Roll = 0
+[Dungeon #2] Level = 3
+[PaceMaker] PlayerSuccessRating: 0.2075263 (Factors: solved: 0.1, strikes: 0, time: 0.1075263)
+
+[PaceMaker] Next idle action in 51.17331 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !6 f
+[Bomb] Strike from Mod! 3 / 3 strikes
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"QD1JD6","bombTime":666.117,"realTime":521.9463,"solves":2,"strikes":3}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

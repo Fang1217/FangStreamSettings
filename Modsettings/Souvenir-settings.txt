@@ -1,0 +1,7 @@
+{
+  "ExcludeVanillaModules": false,
+  "ExcludeIgnoredModules": false,
+  "ExcludeMinibossModules": false,
+  "ExcludeMysteryModule": false,
+  "ExcludeSouvenir": false
+}

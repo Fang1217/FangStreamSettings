@@ -1,0 +1,521 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 446379802
+
+[BombGenerator] Generator settings: Time: 3600, NumStrikes: 3, FrontFaceOnly: True
+1 Pools:
+[scalarDials] Count: 5
+
+
+[BombGenerator] Filling in non-front faces with empty components.
+
+[BombGenerator] Selected scalarDials (1966471261 (ModBombComponent))
+
+[BombGenerator] Selected scalarDials (1966471261 (ModBombComponent))
+
+[BombGenerator] Selected scalarDials (1966471261 (ModBombComponent))
+
+[BombGenerator] Selected scalarDials (1966471261 (ModBombComponent))
+
+[BombGenerator] Selected scalarDials (1966471261 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1966471261 (ModBombComponent), 1966471261 (ModBombComponent), 1966471261 (ModBombComponent), 1966471261 (ModBombComponent), 1966471261 (ModBombComponent)]
+
+[Mod-scalarDials] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1966471261" has ID:"scalarDials"
+
+[Mod-scalarDials] Loading assemblies...
+
+[Mod-scalarDials] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1966471261\Newtonsoft.Json.dll"...
+
+[Mod-scalarDials] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1966471261\scalarDials.dll"
+
+[Mod-scalarDials] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1966471261" complete.
+
+[Mod-scalarDials] Loading GameObjects...
+
+[Mod-scalarDials] Replacing shaders...
+
+[Mod-scalarDials] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-scalarDials] Loading KMMissions...
+
+[Mod-scalarDials] Loading KMMissionTableOfContents...
+
+[Mod-scalarDials] Loading AudioClips...
+
+[BombGenerator] Instantiated 1966471261 on face FrontFace, spawn index 2
+
+[BombGenerator] Instantiated 1966471261 on face FrontFace, spawn index 3
+
+[BombGenerator] Instantiated 1966471261 on face FrontFace, spawn index 5
+
+[BombGenerator] Instantiated 1966471261 on face FrontFace, spawn index 4
+
+[BombGenerator] Instantiated 1966471261 on face FrontFace, spawn index 0
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: MF3RE2
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 0
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: StereoRCA
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: RJ45
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: 0
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[Scalar Dials #1] Main Screen Note #1: F4 Quarter
+[Scalar Dials #1] Dial Scale #1: Ab
+[Scalar Dials #1] Column 6
+[Scalar Dials #1] Row 9
+[Scalar Dials #1] Dial #1 Initial Position: 9
+[Scalar Dials #1] Main Screen Note #2: Fb5 Half
+[Scalar Dials #1] Dial Scale #2: G
+[Scalar Dials #1] Column 5
+[Scalar Dials #1] Row 8
+[Scalar Dials #1] Dial #2 Initial Position: 5
+[Scalar Dials #1] Main Screen Note #3: Db5 Half
+[Scalar Dials #1] Dial Scale #3: Ab
+[Scalar Dials #1] Column 2
+[Scalar Dials #1] Row 9
+[Scalar Dials #1] Dial #3 Initial Position: 0
+[Scalar Dials #1] Main Screen Note #1: F4 Quarter
+[Scalar Dials #1] White Screen Note #1: F#4 Half
+[Scalar Dials #1] Main Screen Note Position #1: 13
+[Scalar Dials #1] White Screen Note Position #1: 8
+[Scalar Dials #1] Sum: 2
+[Scalar Dials #1] Dial #1 Final Position: 2
+[Scalar Dials #1] Main Screen Note #2: Fb5 Half
+[Scalar Dials #1] Black Screen Note #2: B5 Quarter
+[Scalar Dials #1] Main Screen Note Position #2: 49
+[Scalar Dials #1] Black Screen Note Position #2: 7
+[Scalar Dials #1] Sum: 17
+[Scalar Dials #1] Dial #2 Final Position: 7
+[Scalar Dials #1] Main Screen Note #3: Db5 Half
+[Scalar Dials #1] Black Screen Note #3: Ab5 Eighth
+[Scalar Dials #1] Main Screen Note Position #3: 1
+[Scalar Dials #1] Black Screen Note Position #3: 75
+[Scalar Dials #1] Sum: 34
+[Scalar Dials #1] Dial #3 Final Position: 4
+[Scalar Dials #1] Dial #1 Note: F4
+[Scalar Dials #1] Black Screen Note #1: B#5 Quarter
+[Scalar Dials #1] Interval: P5
+[Scalar Dials #1] Table Number: 3
+[Scalar Dials #1] Dial #2 Note: B5
+[Scalar Dials #1] Black Screen Note #2: D#5 Quarter
+[Scalar Dials #1] Interval: M3
+[Scalar Dials #1] Table Number: 9
+[Scalar Dials #1] Dial #3 Note: G#4
+[Scalar Dials #1] White Screen Note #3: F#5 Whole
+[Scalar Dials #1] Interval: m7
+[Scalar Dials #1] Table Number: 3
+[Scalar Dials #1] Multiplication of all 3 numbers: 81
+[Scalar Dials #1] Binary: 001010001
+[Scalar Dials #1] 3 Color Combination: BBW
+[Scalar Dials #1] Number S: 7
+[Scalar Dials #1] Submit when the last digit is a 7
+[Scalar Dials #2] Main Screen Note #1: E4 Whole
+[Scalar Dials #2] Dial Scale #1: G
+[Scalar Dials #2] Column 5
+[Scalar Dials #2] Row 8
+[Scalar Dials #2] Dial #1 Initial Position: 5
+[Scalar Dials #2] Main Screen Note #2: G#3 Whole
+[Scalar Dials #2] Dial Scale #2: Eb
+[Scalar Dials #2] Column 9
+[Scalar Dials #2] Row 4
+[Scalar Dials #2] Dial #2 Initial Position: 8
+[Scalar Dials #2] Main Screen Note #3: B4 Quarter
+[Scalar Dials #2] Dial Scale #3: A
+[Scalar Dials #2] Column 12
+[Scalar Dials #2] Row 10
+[Scalar Dials #2] Dial #3 Initial Position: 1
+[Scalar Dials #2] Main Screen Note #1: E4 Whole
+[Scalar Dials #2] White Screen Note #1: Cb4 Whole
+[Scalar Dials #2] Main Screen Note Position #1: 84
+[Scalar Dials #2] White Screen Note Position #1: 56
+[Scalar Dials #2] Sum: 14
+[Scalar Dials #2] Dial #1 Final Position: 4
+[Scalar Dials #2] Main Screen Note #2: G#3 Whole
+[Scalar Dials #2] Black Screen Note #2: Bb4 Half
+[Scalar Dials #2] Main Screen Note Position #2: 5
+[Scalar Dials #2] Black Screen Note Position #2: 55
+[Scalar Dials #2] Sum: 21
+[Scalar Dials #2] Dial #2 Final Position: 1
+[Scalar Dials #2] Main Screen Note #3: B4 Quarter
+[Scalar Dials #2] Black Screen Note #3: F3 Whole
+[Scalar Dials #2] Main Screen Note Position #3: 71
+[Scalar Dials #2] Black Screen Note Position #3: 72
+[Scalar Dials #2] Sum: 0
+[Scalar Dials #2] Dial #3 Final Position: 0
+[Scalar Dials #2] Dial #1 Note: G3
+[Scalar Dials #2] White Screen Note #1: Gb3 Whole
+[Scalar Dials #2] Interval: m2
+[Scalar Dials #2] Table Number: 13
+[Scalar Dials #2] Dial #2 Note: D#4
+[Scalar Dials #2] White Screen Note #2: E4 Eighth
+[Scalar Dials #2] Interval: m2
+[Scalar Dials #2] Table Number: 11
+[Scalar Dials #2] Dial #3 Note: C#5
+[Scalar Dials #2] White Screen Note #3: A#4 Whole
+[Scalar Dials #2] Interval: m3
+[Scalar Dials #2] Table Number: 4
+[Scalar Dials #2] Multiplication of all 3 numbers: 572
+[Scalar Dials #2] Binary: 001000111100
+[Scalar Dials #2] 3 Color Combination: WWW
+[Scalar Dials #2] Number S: 5
+[Scalar Dials #2] Submit when the last digit is a 5
+[Scalar Dials #3] Main Screen Note #1: Db5 Half
+[Scalar Dials #3] Dial Scale #1: B
+[Scalar Dials #3] Column 2
+[Scalar Dials #3] Row 12
+[Scalar Dials #3] Dial #1 Initial Position: 1
+[Scalar Dials #3] Main Screen Note #2: C#5 Eighth
+[Scalar Dials #3] Dial Scale #2: A
+[Scalar Dials #3] Column 2
+[Scalar Dials #3] Row 10
+[Scalar Dials #3] Dial #2 Initial Position: 5
+[Scalar Dials #3] Main Screen Note #3: F4 Whole
+[Scalar Dials #3] Dial Scale #3: Eb
+[Scalar Dials #3] Column 6
+[Scalar Dials #3] Row 4
+[Scalar Dials #3] Dial #3 Initial Position: 0
+[Scalar Dials #3] Main Screen Note #1: Db5 Half
+[Scalar Dials #3] Black Screen Note #1: F#5 Eighth
+[Scalar Dials #3] Main Screen Note Position #1: 1
+[Scalar Dials #3] Black Screen Note Position #1: 61
+[Scalar Dials #3] Sum: 28
+[Scalar Dials #3] Dial #1 Final Position: 8
+[Scalar Dials #3] Main Screen Note #2: C#5 Eighth
+[Scalar Dials #3] White Screen Note #2: G4 Whole
+[Scalar Dials #3] Main Screen Note Position #2: 4
+[Scalar Dials #3] White Screen Note Position #2: 80
+[Scalar Dials #3] Sum: 41
+[Scalar Dials #3] Dial #2 Final Position: 1
+[Scalar Dials #3] Main Screen Note #3: F4 Whole
+[Scalar Dials #3] Black Screen Note #3: F#4 Eighth
+[Scalar Dials #3] Main Screen Note Position #3: 85
+[Scalar Dials #3] Black Screen Note Position #3: 21
+[Scalar Dials #3] Sum: 25
+[Scalar Dials #3] Dial #3 Final Position: 5
+[Scalar Dials #3] Dial #1 Note: G#4
+[Scalar Dials #3] White Screen Note #1: E4 Half
+[Scalar Dials #3] Interval: M3
+[Scalar Dials #3] Table Number: 12
+[Scalar Dials #3] Dial #2 Note: D4
+[Scalar Dials #3] White Screen Note #2: F4 Quarter
+[Scalar Dials #3] Interval: m3
+[Scalar Dials #3] Table Number: 3
+[Scalar Dials #3] Dial #3 Note: D#4
+[Scalar Dials #3] White Screen Note #3: Eb4 Whole
+[Scalar Dials #3] Interval: P1
+[Scalar Dials #3] Table Number: 7
+[Scalar Dials #3] Multiplication of all 3 numbers: 252
+[Scalar Dials #3] Binary: 011111100
+[Scalar Dials #3] 3 Color Combination: WWW
+[Scalar Dials #3] Number S: 6
+[Scalar Dials #3] Submit when the last digit is a 6
+[Scalar Dials #4] Main Screen Note #1: A4 Half
+[Scalar Dials #4] Dial Scale #1: F
+[Scalar Dials #4] Column 10
+[Scalar Dials #4] Row 6
+[Scalar Dials #4] Dial #1 Initial Position: 9
+[Scalar Dials #4] Main Screen Note #2: Ab4 Quarter
+[Scalar Dials #4] Dial Scale #2: A
+[Scalar Dials #4] Column 9
+[Scalar Dials #4] Row 10
+[Scalar Dials #4] Dial #2 Initial Position: 4
+[Scalar Dials #4] Main Screen Note #3: Fb3 Quarter
+[Scalar Dials #4] Dial Scale #3: E
+[Scalar Dials #4] Column 5
+[Scalar Dials #4] Row 5
+[Scalar Dials #4] Dial #3 Initial Position: 4
+[Scalar Dials #4] Main Screen Note #1: A4 Half
+[Scalar Dials #4] White Screen Note #1: F3 Quarter
+[Scalar Dials #4] Main Screen Note Position #1: 64
+[Scalar Dials #4] White Screen Note Position #1: 35
+[Scalar Dials #4] Sum: 16
+[Scalar Dials #4] Dial #1 Final Position: 6
+[Scalar Dials #4] Main Screen Note #2: Ab4 Quarter
+[Scalar Dials #4] White Screen Note #2: Gb3 Quarter
+[Scalar Dials #4] Main Screen Note Position #2: 103
+[Scalar Dials #4] White Screen Note Position #2: 53
+[Scalar Dials #4] Sum: 26
+[Scalar Dials #4] Dial #2 Final Position: 6
+[Scalar Dials #4] Main Screen Note #3: Fb3 Quarter
+[Scalar Dials #4] Black Screen Note #3: D4 Quarter
+[Scalar Dials #4] Main Screen Note Position #3: 54
+[Scalar Dials #4] Black Screen Note Position #3: 70
+[Scalar Dials #4] Sum: 7
+[Scalar Dials #4] Dial #3 Final Position: 7
+[Scalar Dials #4] Dial #1 Note: A5
+[Scalar Dials #4] Black Screen Note #1: G4 Quarter
+[Scalar Dials #4] Interval: M2
+[Scalar Dials #4] Table Number: 5
+[Scalar Dials #4] Dial #2 Note: B5
+[Scalar Dials #4] White Screen Note #2: F3 Eighth
+[Scalar Dials #4] Interval: TT
+[Scalar Dials #4] Table Number: 7
+[Scalar Dials #4] Dial #3 Note: F#5
+[Scalar Dials #4] Black Screen Note #3: C#4 Eighth
+[Scalar Dials #4] Interval: P4
+[Scalar Dials #4] Table Number: 11
+[Scalar Dials #4] Multiplication of all 3 numbers: 385
+[Scalar Dials #4] Binary: 110000001
+[Scalar Dials #4] 3 Color Combination: BWB
+[Scalar Dials #4] Number S: 5
+[Scalar Dials #4] Submit when the last digit is a 5
+[Scalar Dials #5] Main Screen Note #1: D5 Whole
+[Scalar Dials #5] Dial Scale #1: Ab
+[Scalar Dials #5] Column 3
+[Scalar Dials #5] Row 9
+[Scalar Dials #5] Dial #1 Initial Position: 5
+[Scalar Dials #5] Main Screen Note #2: G#4 Quarter
+[Scalar Dials #5] Dial Scale #2: E
+[Scalar Dials #5] Column 9
+[Scalar Dials #5] Row 5
+[Scalar Dials #5] Dial #2 Initial Position: 0
+[Scalar Dials #5] Main Screen Note #3: Eb4 Eighth
+[Scalar Dials #5] Dial Scale #3: Eb
+[Scalar Dials #5] Column 4
+[Scalar Dials #5] Row 4
+[Scalar Dials #5] Dial #3 Initial Position: 4
+[Scalar Dials #5] Main Screen Note #1: D5 Whole
+[Scalar Dials #5] Black Screen Note #1: Eb4 Eighth
+[Scalar Dials #5] Main Screen Note Position #1: 84
+[Scalar Dials #5] Black Screen Note Position #1: 25
+[Scalar Dials #5] Sum: 25
+[Scalar Dials #5] Dial #1 Final Position: 5
+[Scalar Dials #5] Main Screen Note #2: G#4 Quarter
+[Scalar Dials #5] Black Screen Note #2: Fb4 Eighth
+[Scalar Dials #5] Main Screen Note Position #2: 52
+[Scalar Dials #5] Black Screen Note Position #2: 42
+[Scalar Dials #5] Sum: 5
+[Scalar Dials #5] Dial #2 Final Position: 5
+[Scalar Dials #5] Main Screen Note #3: Eb4 Eighth
+[Scalar Dials #5] White Screen Note #3: Ab5 Whole
+[Scalar Dials #5] Main Screen Note Position #3: 25
+[Scalar Dials #5] White Screen Note Position #3: 101
+[Scalar Dials #5] Sum: 42
+[Scalar Dials #5] Dial #3 Final Position: 2
+[Scalar Dials #5] Dial #1 Note: F4
+[Scalar Dials #5] Black Screen Note #1: Eb4 Eighth
+[Scalar Dials #5] Interval: M2
+[Scalar Dials #5] Table Number: 5
+[Scalar Dials #5] Dial #2 Note: B5
+[Scalar Dials #5] White Screen Note #2: F5 Whole
+[Scalar Dials #5] Interval: TT
+[Scalar Dials #5] Table Number: 7
+[Scalar Dials #5] Dial #3 Note: G4
+[Scalar Dials #5] White Screen Note #3: Eb4 Eighth
+[Scalar Dials #5] Interval: M3
+[Scalar Dials #5] Table Number: 8
+[Scalar Dials #5] Multiplication of all 3 numbers: 280
+[Scalar Dials #5] Binary: 100011000
+[Scalar Dials #5] 3 Color Combination: BWW
+[Scalar Dials #5] Number S: 4
+[Scalar Dials #5] Submit when the last digit is a 4
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"Scalar Dials"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 2
+{"serial":"MF3RE2","displayNames":{"Empty":"None","Timer":"Timer","scalarDials":"Scalar Dials"},"ids":{"scalarDials":[1,2,3,4,5]},"anchors":[[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220],[-0.217,-0.220],[0.0
+03,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220]],"modules":["scalarDials 5","Timer -","scalarDials 1","scalarDials 2","scalarDials 4","scalarDials 3","Empty -","Empty -","Empty -","Empty -","Empty -","Empty -"]}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'scalarDials(Clone)'.
+[Profile Revealer] Attaching to 'scalarDials(Clone)'.
+[Profile Revealer] Attaching to 'scalarDials(Clone)'.
+[Profile Revealer] Attaching to 'scalarDials(Clone)'.
+[Profile Revealer] Attaching to 'scalarDials(Clone)'.
+mod_MPsMTM_M_Scalar_Dials
+[PaceMaker] Round start! Mission: Scalar Dials Pacing Enabled: False
+
+[PaceMaker] Next idle action in 50.10647 seconds.
+
+[PaceMaker] Valid pacing events: 
+
+[PaceMaker] Removed 2 pacing events.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 cv
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 help
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 press M
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 press m
+:piissii!piissii@piissii.tmi.twitch.tv JOIN #heres_fangy
+:universe!universe@universe.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.3027829 (Factors: solved: 0, strikes: 0.3, time: 0.002782923)
+
+[PaceMaker] Next idle action in 58.97909 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 press M
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 press m
+[PaceMaker] PlayerSuccessRating: 0.3060625 (Factors: solved: 0, strikes: 0.3, time: 0.006062537)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 43.13851 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 help
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 press M
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 press m
+[PaceMaker] PlayerSuccessRating: 0.3084587 (Factors: solved: 0, strikes: 0.3, time: 0.008458685)
+
+[PaceMaker] Next idle action in 30.95309 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 cycle 1
+:piissii!piissii@piissii.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.3101811 (Factors: solved: 0, strikes: 0.3, time: 0.0101811)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 54.64555 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 cycle 1
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 cycle 2
+[PaceMaker] PlayerSuccessRating: 0.3132198 (Factors: solved: 0, strikes: 0.3, time: 0.01321983)
+
+[PaceMaker] Next idle action in 37.02474 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 cycle 2
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 cycle 3
+[PaceMaker] PlayerSuccessRating: 0.3152799 (Factors: solved: 0, strikes: 0.3, time: 0.01527985)
+
+[PaceMaker] Next idle action in 58.01105 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 cycle 1 2 3
+[PaceMaker] PlayerSuccessRating: 0.318504 (Factors: solved: 0, strikes: 0.3, time: 0.018504)
+
+[PaceMaker] Next idle action in 35.2742 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 set 3 5 4
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 zoom
+[PaceMaker] PlayerSuccessRating: 0.3204666 (Factors: solved: 0, strikes: 0.3, time: 0.02046659)
+
+[PaceMaker] Next idle action in 33.12082 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.3223041 (Factors: solved: 0, strikes: 0.3, time: 0.02230413)
+
+[PaceMaker] Next idle action in 59.31036 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.3255995 (Factors: solved: 0, strikes: 0.3, time: 0.0255995)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 29.2999 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 set 0 7 0
+[PaceMaker] PlayerSuccessRating: 0.327227 (Factors: solved: 0, strikes: 0.3, time: 0.02722699)
+
+[PaceMaker] Next idle action in 45.78389 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 zoom
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): you know how to do int?
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): pretty sure i need to learn that first didnt i
+[PaceMaker] PlayerSuccessRating: 0.3297719 (Factors: solved: 0, strikes: 0.3, time: 0.02977186)
+
+[PaceMaker] Next idle action in 43.32861 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): the module?
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): you don't need to
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): yeah intervals
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): huh
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): scalar dials is finding intervals between notes that you read
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): but you do need to be able to identify individual notes
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): which is why i use an online piano
+[PaceMaker] PlayerSuccessRating: 0.3321823 (Factors: solved: 0, strikes: 0.3, time: 0.03218235)
+
+[PaceMaker] Next idle action in 50.61823 seconds.
+
+:firmlygraspme!firmlygraspme@firmlygraspme.tmi.twitch.tv JOIN #heres_fangy
+:bananalord!bananalord@bananalord.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 cycle 1
+[PaceMaker] PlayerSuccessRating: 0.3349934 (Factors: solved: 0, strikes: 0.3, time: 0.0349934)
+
+[PaceMaker] Next idle action in 43.39689 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 cycle 2
+[PaceMaker] PlayerSuccessRating: 0.3374073 (Factors: solved: 0, strikes: 0.3, time: 0.03740732)
+
+[PaceMaker] Next idle action in 58.3148 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 cycle 3
+[PaceMaker] PlayerSuccessRating: 0.3406471 (Factors: solved: 0, strikes: 0.3, time: 0.04064707)
+
+[PaceMaker] Next idle action in 52.84793 seconds.
+
+:universe!universe@universe.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.3435842 (Factors: solved: 0, strikes: 0.3, time: 0.04358421)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 39.16822 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 help
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): BlessRNG
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !1 submit 6
+[Bomb] Strike from Mod! 1 / 3 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"scalarDials","bombTime":816.0147,"realTime":824.0678,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 1 / 4 strikes
+[PaceMaker] PlayerSuccessRating: 0.2453342 (Factors: solved: 0, strikes: 0.2, time: 0.04533415)
+
+[Scalar Dials #1] Strike! You tried to submit 0 7 0 at 6 seconds
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): BlessRNG
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): heck
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): OOf
+[PaceMaker] PlayerSuccessRating: 0.2458578 (Factors: solved: 0, strikes: 0.2, time: 0.04585777)
+
+[PaceMaker] Next idle action in 22.67377 seconds.
+
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): ok log time :)
+[TwitchPlays] [M] edan456 (#8A2BE2, 121821545): !bomb endtrainingmode
+[Bomb] Strike from TwitchPlays! 3 / 4 strikes
+[Bomb] Strike from None! 4 / 4 strikes
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"MF3RE2","bombTime":839.0452,"realTime":842.2425,"solves":0,"strikes":4}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

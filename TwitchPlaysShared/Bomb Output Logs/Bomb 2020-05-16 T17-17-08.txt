@@ -1,0 +1,769 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 420865858
+
+[BombGenerator] Generator settings: Time: 600, NumStrikes: 3, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 5
+
+
+[BombGenerator] Selected spwizAdventureGame (747854140 (ModBombComponent))
+
+[BombGenerator] Selected qwirkle (1800417291 (ModBombComponent))
+
+[BombGenerator] Selected simonSounds (1630803569 (ModBombComponent))
+
+[BombGenerator] Selected numberNimbleness (1577535909 (ModBombComponent))
+
+[BombGenerator] Selected ksmRainbowArrows (1940341494 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [747854140 (ModBombComponent), 1800417291 (ModBombComponent), 1630803569 (ModBombComponent), 1577535909 (ModBombComponent), 1940341494 (ModBombComponent)]
+
+[Mod-spwizAdventureGame] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\747854140" has ID:"spwizAdventureGame"
+
+[Mod-spwizAdventureGame] Loading assemblies...
+
+[Mod-spwizAdventureGame] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\747854140\Newtonsoft.Json.dll"...
+
+[Mod-spwizAdventureGame] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\747854140\spwizAdventureGame.dll"
+
+[Mod-spwizAdventureGame] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\747854140" complete.
+
+[Mod-spwizAdventureGame] Loading GameObjects...
+
+[Mod-spwizAdventureGame] Replacing shaders...
+
+[Mod-spwizAdventureGame] ModUnityVersion: 2017.2.1f1 Game: 2017.4.22f1
+
+[Mod-spwizAdventureGame] Loading KMMissions...
+
+[Mod-spwizAdventureGame] Loading KMMissionTableOfContents...
+
+[Mod-spwizAdventureGame] Loading AudioClips...
+
+[BombGenerator] Instantiated 747854140 on face BackFace, spawn index 1
+
+[Mod-qwirkle] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1800417291" has ID:"qwirkle"
+
+[Mod-qwirkle] Loading assemblies...
+
+[Mod-qwirkle] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1800417291\Newtonsoft.Json.dll"...
+
+[Mod-qwirkle] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1800417291\qwirkle.dll"
+
+[Mod-qwirkle] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1800417291" complete.
+
+[Mod-qwirkle] Loading GameObjects...
+
+[Mod-qwirkle] Replacing shaders...
+
+[Mod-qwirkle] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+
+[Mod-qwirkle] Loading KMMissions...
+
+[Mod-qwirkle] Loading KMMissionTableOfContents...
+
+[Mod-qwirkle] Loading AudioClips...
+
+[BombGenerator] Instantiated 1800417291 on face BackFace, spawn index 0
+
+[Mod-simonSounds] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1630803569" has ID:"simonSounds"
+
+[Mod-simonSounds] Loading assemblies...
+
+[Mod-simonSounds] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1630803569\Newtonsoft.Json.dll"...
+
+[Mod-simonSounds] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1630803569\simonSounds.dll"
+
+[Mod-simonSounds] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1630803569" complete.
+
+[Mod-simonSounds] Loading GameObjects...
+
+[Mod-simonSounds] Replacing shaders...
+
+[Mod-simonSounds] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-simonSounds] Loading KMMissions...
+
+[Mod-simonSounds] Loading KMMissionTableOfContents...
+
+[Mod-simonSounds] Loading AudioClips...
+
+[BombGenerator] Instantiated 1630803569 on face FrontFace, spawn index 1
+
+[Mod-numberNimbleness] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1577535909" has ID:"numberNimbleness"
+
+[Mod-numberNimbleness] Loading assemblies...
+
+[Mod-numberNimbleness] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1577535909\Newtonsoft.Json.dll"...
+
+[Mod-numberNimbleness] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1577535909\numberNimbleness.dll"
+
+[Mod-numberNimbleness] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1577535909" complete.
+
+[Mod-numberNimbleness] Loading GameObjects...
+
+[Mod-numberNimbleness] Replacing shaders...
+
+[Mod-numberNimbleness] ModUnityVersion: 2017.1.1f1 Game: 2017.4.22f1
+
+[Mod-numberNimbleness] Loading KMMissions...
+
+[Mod-numberNimbleness] Loading KMMissionTableOfContents...
+
+[Mod-numberNimbleness] Loading AudioClips...
+
+[BombGenerator] Instantiated 1577535909 on face FrontFace, spawn index 2
+
+[Mod-ksmRainbowArrows] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940341494" has ID:"ksmRainbowArrows"
+
+[Mod-ksmRainbowArrows] Loading assemblies...
+
+[Mod-ksmRainbowArrows] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940341494\Newtonsoft.Json.dll"...
+
+[Mod-ksmRainbowArrows] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940341494\ksmRainbowArrows.dll"
+
+[Mod-ksmRainbowArrows] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940341494" complete.
+
+[Mod-ksmRainbowArrows] Loading GameObjects...
+
+[Mod-ksmRainbowArrows] Replacing shaders...
+
+[Mod-ksmRainbowArrows] ModUnityVersion: 2017.4.29f1 Game: 2017.4.22f1
+
+[Mod-ksmRainbowArrows] Loading KMMissions...
+
+[Mod-ksmRainbowArrows] Loading KMMissionTableOfContents...
+
+[Mod-ksmRainbowArrows] Loading AudioClips...
+
+[Rainbow Arrows #1] The white arrow is facing east, and the rainbow direction is clockwise.
+[BombGenerator] Instantiated 1940341494 on face FrontFace, spawn index 0
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: U92HW9
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: lit SIG (IndicatorWidget/LABEL6)
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: Parallel
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: 0
+
+[Qwirkle #1] Stage 1 board: empty empty empty empty empty empty empty empty yellow_8star red_8star empty purple_circle empty empty empty empty red_cross red_8star red_circle red_4star empty empty empty empty empty orange_circle empty yellow_circle empty yellow_8star yellow_diamond yellow_4star yellow_circle yellow_square yellow_cross empty yellow_diamond empty empty blue_circle empty yellow_8star empty yellow_square empty green_square green_circle green_8star empty 
+[Simon Sounds #1] In stage 1, Simon played: green
+[Simon Sounds #1] In stage 2, Simon played: green, blue
+[Simon Sounds #1] In stage 3, Simon played: green, blue, red
+[Simon Sounds #1] In stage 4, Simon played: green, blue, red, yellow
+[Simon Sounds #1] In stage 5, Simon played: green, blue, red, yellow, yellow
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"5 Mods"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 3
+{"serial":"U92HW9","displayNames":{"Timer":"Timer","spwizAdventureGame":"Adventure Game","qwirkle":"Qwirkle","simonSounds":"Simon Sounds","numberNimbleness":"Number Nimbleness","ksmRainbowArrows":"Rainbow Arrows"},"ids":{"spwizAdventureGame":[1],"qwi
+rkle":[1],"simonSounds":[1],"numberNimbleness":[1]},"anchors":[[-0.107,-0.110],[0.113,-0.110],[0.003,0.110],[-0.107,-0.110],[0.113,-0.110],[0.003,0.110]],"modules":["ksmRainbowArrows -","simonSounds 1","numberNimbleness 1","qwirkle 1","spwizAdventure
+Game 1","Timer -"]}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'AdventureGameModule(Clone)'.
+[Profile Revealer] Attaching to 'qwirkle(Clone)'.
+[Profile Revealer] Attaching to 'Simon Sounds(Clone)'.
+[Profile Revealer] Attaching to 'NumberNimblenessModule(Clone)'.
+[Profile Revealer] Attaching to 'ksmRainbowArrows(Clone)'.
+custom
+[Adventure Game #1] Enemy: LIZARD
+[Adventure Game #1] Player stats: 4 STR, 9 DEX, 10 INT
+[Adventure Game #1] Environment stats: 3' 10'', 24°C, 9.5 m/s², 102 kPa
+[Adventure Game #1] Weapon MAGIC ORB: player stat=10, enemy stat=3, score 7
+[Adventure Game #1] Weapon NASTY KNIFE: player stat=9, enemy stat=6, score 3
+[Adventure Game #1] Weapon GRIMOIRE: player stat=12, enemy stat=3, score 9
+[Adventure Game #1] Weapon MAGIC ORB: don’t use
+[Adventure Game #1] Weapon NASTY KNIFE: don’t use
+[Adventure Game #1] Weapon GRIMOIRE: CAN USE
+[Adventure Game #1] Item MOONSTONE: don’t use
+[Adventure Game #1] Item CRYSTAL BALL: MUST USE
+[Adventure Game #1] Item LAMP: don’t use
+[Adventure Game #1] Item HARD DRIVE: don’t use
+[Adventure Game #1] Item BELLOWS: don’t use
+[Rainbow Arrows #1] The display shows "89".
+[Rainbow Arrows #1] ----------
+[Rainbow Arrows #1] (East - Binary Rotation) Base four bit number is 0b1010, or 10.
+[Rainbow Arrows #1] (East - Binary Rotation) Rotate right by 1 gives 0b0101, or 5.
+[Rainbow Arrows #1] (East - Binary Rotation) Moving 5 steps from North gives an answer of southwest.
+[Rainbow Arrows #1] ----------
+[Rainbow Arrows #1] (Southeast - Previous) Moving counter-clockwise from southwest, the first arrow not pressed is south.
+[Rainbow Arrows #1] (Southeast - Previous) Moving 1 step clockwise from that position leads to an answer of southwest.
+[Rainbow Arrows #1] The above rule returned southwest, which wasn't unique. The closest unique arrow was west.
+[Rainbow Arrows #1] ----------
+[Rainbow Arrows #1] (South - Letter String) After modification 1, the string is "HABCDEFG".
+[Rainbow Arrows #1] (South - Letter String) We want character 7 in the final string, and that's F.
+[Rainbow Arrows #1] (South - Letter String) The assigned arrow that corresponds to letter F is northwest.
+[Rainbow Arrows #1] ----------
+[Rainbow Arrows #1] (Southwest - Head Count) For the word "red", 0 serial number matches + 0 module matches = value of 0.
+[Rainbow Arrows #1] (Southwest - Head Count) For the word "orange", 0 serial number matches + 0 module matches = value of 0.
+[Rainbow Arrows #1] (Southwest - Head Count) For the word "yellow", 1 serial number matches + 0 module matches = value of 1.
+[Rainbow Arrows #1] (Southwest - Head Count) For the word "green", 0 serial number matches + 0 module matches = value of 0.
+[Rainbow Arrows #1] (Southwest - Head Count) For the word "blue", 1 serial number matches + 0 module matches = value of 1.
+[Rainbow Arrows #1] (Southwest - Head Count) For the word "indigo", 0 serial number matches + 0 module matches = value of 0.
+[Rainbow Arrows #1] (Southwest - Head Count) For the word "purple", 1 serial number matches + 0 module matches = value of 1.
+[Rainbow Arrows #1] (Southwest - Head Count) For the word "double", 1 serial number matches + 0 module matches = value of 1.
+[Rainbow Arrows #1] (Southwest - Head Count) The best value obtained was from the word "yellow", so move 3 steps from the white arrow; the answer is southwest.
+[Rainbow Arrows #1] The above rule returned southwest, which wasn't unique. The closest unique arrow was south.
+[Rainbow Arrows #1] ----------
+[Rainbow Arrows #1] (West - Adjacent Words) The word with the most letters in common with the serial number is "white", with 2.
+[Rainbow Arrows #1] (West - Adjacent Words) The starting letter is 'l'.
+[Rainbow Arrows #1] (West - Adjacent Words) The letter 'l' gives us a match in the southwest direction ('lower'), so the answer is southwest.
+[Rainbow Arrows #1] The above rule returned southwest, which wasn't unique. The closest unique arrow was southeast.
+[Rainbow Arrows #1] ----------
+[Rainbow Arrows #1] (Northwest - Appearance) Right digit present. The answer is east.
+[Rainbow Arrows #1] ----------
+[Rainbow Arrows #1] (North - Maze Navigation) Starting position (9) and ending position (9) are the same.
+[Rainbow Arrows #1] (North - Maze Navigation) Press the diagonal arrow corresponding to the relative location of square 9; the answer is southwest.
+[Rainbow Arrows #1] The above rule returned southwest, which wasn't unique. The closest unique arrow was north.
+[Rainbow Arrows #1] ----------
+[Rainbow Arrows #1] (Northeast - Arrow Direction) Rotating 356 degrees from the white arrow brings us closest to the east arrow.
+[Rainbow Arrows #1] (Northeast - Arrow Direction) ... but we want the arrow directly opposite of that one; the answer is west.
+[Rainbow Arrows #1] The above rule returned west, which wasn't unique. The closest unique arrow was northeast.
+[Rainbow Arrows #1] ----------
+[Rainbow Arrows #1] The full correct sequence is: southwest, west, northwest, south, southeast, east, north, northeast.
+[PaceMaker] Round start! Mission: 5 Mods Pacing Enabled: True
+
+[PaceMaker] Next idle action in 33.31157 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !bomb flip
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !1 help
+[PaceMaker] PlayerSuccessRating: 0.3110891 (Factors: solved: 0, strikes: 0.3, time: 0.01108909)
+
+[PaceMaker] Next idle action in 59.22149 seconds.
+
+:crunchipchip!crunchipchip@crunchipchip.tmi.twitch.tv JOIN #heres_fangy
+:turnedtrove100!turnedtrove100@turnedtrove100.tmi.twitch.tv JOIN #heres_fangy
+:exhaustedmicrowave!exhaustedmicrowave@exhaustedmicrowave.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !1 use potion
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !rank
+[PaceMaker] PlayerSuccessRating: 0.3308349 (Factors: solved: 0, strikes: 0.3, time: 0.03083487)
+
+[PaceMaker] Next idle action in 40.52852 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !1 cycle
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !1 Cycle
+[PaceMaker] PlayerSuccessRating: 0.3443522 (Factors: solved: 0, strikes: 0.3, time: 0.0443522)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 47.64138 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !1 cycle
+[PaceMaker] PlayerSuccessRating: 0.3602427 (Factors: solved: 0, strikes: 0.3, time: 0.06024271)
+
+[PaceMaker] Next idle action in 29.30221 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !edgework
+[PaceMaker] PlayerSuccessRating: 0.3700212 (Factors: solved: 0, strikes: 0.3, time: 0.07002115)
+
+[PaceMaker] Next idle action in 52.9598 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !1 cv
+[PaceMaker] PlayerSuccessRating: 0.3876764 (Factors: solved: 0, strikes: 0.3, time: 0.08767643)
+
+[PaceMaker] Next idle action in 20.52207 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.39453 (Factors: solved: 0, strikes: 0.3, time: 0.09452997)
+
+[PaceMaker] Next idle action in 56.66755 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.413435 (Factors: solved: 0, strikes: 0.3, time: 0.113435)
+
+[PaceMaker] Next idle action in 40.17203 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !1 use crystal ball
+[Adventure Game #1] Item CRYSTAL BALL used correctly.
+[PaceMaker] PlayerSuccessRating: 0.4268328 (Factors: solved: 0, strikes: 0.3, time: 0.1268328)
+
+[PaceMaker] Next idle action in 40.77934 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.4404191 (Factors: solved: 0, strikes: 0.3, time: 0.1404191)
+
+[PaceMaker] Next idle action in 53.69952 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !1 use Grimoire
+[Adventure Game #1] Weapon GRIMOIRE used correctly. Module passed.
+[ModBombComponent #12] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"spwizAdventureGame","bombTime":425.824341,"realTime":433.499023,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5669415 (Factors: solved: 0.125, strikes: 0.3, time: 0.1419415)
+
+[PaceMaker] PlayerSuccessRating: 0.5833312 (Factors: solved: 0.125, strikes: 0.3, time: 0.1583312)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 1999.262
+
+[PaceMaker] Next idle action in 25.69955 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5918977 (Factors: solved: 0.125, strikes: 0.3, time: 0.1668977)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Cut the lights at 2024.992
+
+[PaceMaker] Next idle action in 53.82644 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.6098555 (Factors: solved: 0.125, strikes: 0.3, time: 0.1848554)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 42.11537 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 cv
+[PaceMaker] PlayerSuccessRating: 0.6239004 (Factors: solved: 0.125, strikes: 0.3, time: 0.1989004)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 55.68382 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 help
+[PaceMaker] PlayerSuccessRating: 0.625 (Factors: solved: 0.125, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 23.82058 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.625 (Factors: solved: 0.125, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 26.11919 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.625 (Factors: solved: 0.125, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 48.19161 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 cycle
+[PaceMaker] PlayerSuccessRating: 0.625 (Factors: solved: 0.125, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 25.81731 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.625 (Factors: solved: 0.125, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 47.07968 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.625 (Factors: solved: 0.125, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 25.29061 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.625 (Factors: solved: 0.125, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 42.10758 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.625 (Factors: solved: 0.125, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 39.46345 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.625 (Factors: solved: 0.125, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 50.22246 seconds.
+
+:geekyiwen!geekyiwen@geekyiwen.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 place in A6
+[Qwirkle #1] Strike! Tried to place green_4star at A6, which violates placement rules.
+[Bomb] Strike from Mod! 1 / 3 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"qwirkle","bombTime":976.7651,"realTime":984.4291,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 1 / 4 strikes
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[Qwirkle #1] Stage 1 board: orange_square orange_8star orange_cross empty empty empty empty empty red_8star empty green_diamond empty empty empty purple_cross purple_8star purple_4star purple_diamond empty empty empty blue_cross empty purple_diamond empty yellow_4star empty empty empty purple_square purple_8star purple_circle purple_4star purple_cross empty purple_square purple_cross empty green_circle empty purple_circle purple_8star empty empty yellow_square yellow_circle yellow_cross empty green_8star 
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 39.04634 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !rank
+[TwitchPlays] [M] Dbros1000 (, 274893701): bruhhh LUL
+[TwitchPlays] [M] Dbros1000 (, 274893701): !bomb flip
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 44.02724 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): lmao what a bomb
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): sup
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): well this is what I do when I am the only person
+[TwitchPlays] [M] Dbros1000 (, 274893701): F
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 51.33931 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): training mode, oof
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): yeah, I run 5 modules in training mode and then try to learn the modules I don't know
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): oh boy rainbow
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 57.78211 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 place in E2
+[Qwirkle #1] Successfully placed green_4star at E2.
+[Qwirkle #1] Initial board did not have a line of 6 tiles. No effect.
+[Qwirkle #1] Stage 2 board: orange_square orange_8star orange_cross empty empty empty empty empty red_8star empty green_diamond green_4star empty empty purple_cross purple_8star purple_4star purple_diamond empty empty empty blue_cross empty purple_diamond empty yellow_4star empty empty empty purple_square purple_8star purple_circle purple_4star purple_cross empty purple_square purple_cross empty green_circle empty purple_circle purple_8star empty empty yellow_square yellow_circle yellow_cross empty green_8star 
+[TwitchPlays] [M] Dbros1000 (, 274893701): nice
+:dbros1000!dbros1000@dbros1000.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): lol
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): that was the wasy part
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): the hard part is to come
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): this has like 4 stages lol
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 51.69767 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 52.83858 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): well where the hell do I put this one?!
+:bananalord!bananalord@bananalord.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 41.7749 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 49.37254 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): Is Qwirkle bugged?
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): i doubt it
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): then solve this
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 22.17196 seconds.
+
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): how am i supposed to, i dont even know how it works DansGame
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 30.46341 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): I sent it to you in discord
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): AS i said
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 44.99316 seconds.
+
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): i dont know how it works
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): oh well then, yeah, I don't see anywhere to put it
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 33.75208 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.9491 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 select p 4
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.17427 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 48.18024 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 51.78983 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 place F4
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 place in F4
+[Qwirkle #1] Successfully placed purple_4star at F4.
+[Qwirkle #1] Previously placed tile was not a square, diamond, or circle. Mirroring about the X-axis.
+[Qwirkle #1] Stage 3 board: empty empty yellow_square yellow_circle yellow_cross empty green_8star purple_square purple_cross empty green_circle empty purple_circle purple_8star empty purple_square purple_8star purple_circle purple_4star purple_cross empty blue_cross empty purple_diamond empty yellow_4star purple_4star empty purple_cross purple_8star purple_4star purple_diamond empty empty empty empty red_8star empty green_diamond green_4star empty empty orange_square orange_8star orange_cross empty empty empty empty 
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.88113 seconds.
+
+:k_s_!k_s_@k_s_.tmi.twitch.tv JOIN #heres_fangy
+:dbros1000!dbros1000@dbros1000.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 23.77094 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 48.57669 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 select p d
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 53.33985 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 place in F5
+[Qwirkle #1] Successfully placed purple_diamond at F5.
+[Qwirkle #1] Exactly two of the previous three tiles placed were the same color. Rotating 90° CW.
+[Qwirkle #1] Stage 4 board: orange_square empty purple_cross blue_cross empty purple_square empty orange_8star red_8star purple_8star empty purple_square purple_cross empty orange_cross empty purple_4star purple_diamond purple_8star empty yellow_square empty green_diamond purple_diamond empty purple_circle green_circle yellow_circle empty green_4star empty yellow_4star purple_4star empty yellow_cross empty empty purple_diamond purple_4star purple_cross purple_circle empty empty empty empty empty empty purple_8star green_8star 
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.3896 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 24.53421 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): training mode random run? LUL
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !bomb turn4
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !bomb turn
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): bruhus
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 32.03399 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !4 screen
+[Number Nimbleness #1]  Starting warmup.  Minigame is Nebulous Numbers.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !4 ehlp
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !4 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !bomb time
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !4 screen
+[Number Nimbleness #1]  Starting round.  Minigame is Nebulous Numbers.  Time earned was 22.  Buttons are 901825
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !4 press 9
+[PaceMaker] PlayerSuccessRating: 0.525 (Factors: solved: 0.125, strikes: 0.2, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 41.83593 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !4 press 8
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !4 press 2
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !4 press 1
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !4 press 0 5
+[Number Nimbleness #1]  This round was a Strike.  Input string was: 98210-.  Answer string was: 982105.
+[Bomb] Strike from Mod! 2 / 4 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"numberNimbleness","bombTime":2280.48242,"realTime":2027.60168,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 2 / 5 strikes
+[PaceMaker] PlayerSuccessRating: 0.475 (Factors: solved: 0.125, strikes: 0.15, time: 0.2)
+
+[Number Nimbleness #1]  Starting warmup.  Minigame is Nifty Numbers.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): ah wahtever
+[PaceMaker] PlayerSuccessRating: 0.475 (Factors: solved: 0.125, strikes: 0.15, time: 0.2)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 43.64462 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): we can quit this bomb after qwirkle
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): fair enough
+:thelegendwilleh!thelegendwilleh@thelegendwilleh.tmi.twitch.tv JOIN #heres_fangy
+:dinu!dinu@dinu.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.475 (Factors: solved: 0.125, strikes: 0.15, time: 0.2)
+
+[PaceMaker] Next idle action in 58.16513 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.475 (Factors: solved: 0.125, strikes: 0.15, time: 0.2)
+
+[PaceMaker] Next idle action in 33.14101 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.475 (Factors: solved: 0.125, strikes: 0.15, time: 0.2)
+
+[PaceMaker] Next idle action in 49.7234 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 select p c
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 place in C6
+[Qwirkle #1] Strike! Tried to place a tile at C6, which isn't empty.
+[Bomb] Strike from Mod! 3 / 5 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"qwirkle","bombTime":2545.493,"realTime":2204.30518,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 3 / 6 strikes
+[PaceMaker] PlayerSuccessRating: 0.445 (Factors: solved: 0.125, strikes: 0.12, time: 0.2)
+
+[Qwirkle #1] Stage 1 board: orange_square green_square red_square empty empty empty empty empty green_circle empty empty empty empty empty green_4star green_diamond green_8star empty blue_diamond empty empty green_circle empty green_square empty blue_4star empty empty green_8star blue_8star empty purple_square blue_square red_square yellow_square green_diamond empty purple_square empty blue_8star empty red_square green_cross yellow_cross purple_cross orange_cross blue_cross red_cross empty 
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): ...
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): oof
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !bomb endtrainingmode
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !bomb detonate
+[Bomb] Strike from TwitchPlays! 5 / 6 strikes
+[Bomb] Strike from None! 6 / 6 strikes
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"U92HW9","bombTime":2586.66772,"realTime":2227.72363,"solves":1,"strikes":6}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

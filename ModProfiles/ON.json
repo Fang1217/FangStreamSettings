@@ -1,0 +1,22 @@
+{
+  "DisabledList": [
+    "BusGameplayRoom",
+    "Portal Room",
+    "複雑漢字Module",
+    "TextAdventureModule",
+    "MagickaModule",
+    "oldFogey",
+    "R4YMultiColoredSwitches",
+    "theSamsung",
+    "manometers",
+    "answerTo",
+    "powModule",
+    "nameChanger",
+    "KritLockpickMaze",
+    "punctuationMarks",
+    "burgerAlarm",
+    "Krit4CardMonte",
+    "kataCheatCheckout"
+  ],
+  "Operation": 1
+}

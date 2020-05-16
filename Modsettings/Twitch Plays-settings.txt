@@ -1,0 +1,7 @@
+{
+    "authToken": "oauth:rzmyfl7h2fwaan3jyfetwo25vwvohi",
+    "userName": "bot_fangy",
+    "channelName": "heres_fangy",
+    "serverName": "irc.twitch.tv",
+    "serverPort": 6697
+}

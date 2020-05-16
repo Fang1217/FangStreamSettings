@@ -1,0 +1,5 @@
+{
+  "Respawn": true,
+  "RespawnDelay": 30.0,
+  "Strength": 5.0
+}

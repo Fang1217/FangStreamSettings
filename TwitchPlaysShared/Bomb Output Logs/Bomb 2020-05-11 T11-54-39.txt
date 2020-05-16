@@ -1,0 +1,258 @@
+Initialize engine version: Twitch Plays
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 753654275
+
+[BombGenerator] Generator settings: Time: 600, NumStrikes: 3, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 11
+
+
+[BombGenerator] Selected crystalMaze (crystalMaze (ModBombComponent))
+
+[BombGenerator] Selected westeros (Westeros (ModBombComponent))
+
+[BombGenerator] Selected jewelVault (jewelVault (ModBombComponent))
+
+[BombGenerator] Selected triangle (triangle (ModBombComponent))
+
+[BombGenerator] Selected modulo (modulo (ModBombComponent))
+
+[BombGenerator] Selected jewelVault (jewelVault (ModBombComponent))
+
+[BombGenerator] Selected sonicKnuckles (sonicKnuckles (ModBombComponent))
+
+[BombGenerator] Selected christmasPresents (christmasPresents (ModBombComponent))
+
+[BombGenerator] Selected modulo (modulo (ModBombComponent))
+
+[BombGenerator] Selected sonicKnuckles (sonicKnuckles (ModBombComponent))
+
+[BombGenerator] Selected spinningButtons (SpinningButtons (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [crystalMaze (ModBombComponent), Westeros (ModBombComponent), jewelVault (ModBombComponent), triangle (ModBombComponent), modulo (ModBombComponent), jewelVault (ModBombComponent), sonicKnuckles (ModBombComponent), christmasPresents (ModBombComponent), modulo (ModBombComponent), sonicKnuckles (ModBombComponent), SpinningButtons (ModBombComponent)]
+
+[BombGenerator] Instantiated crystalMaze on face FrontFace, spawn index 4
+
+[BombGenerator] Instantiated Westeros on face FrontFace, spawn index 1
+
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+[BombGenerator] Instantiated jewelVault on face RearFace, spawn index 3
+
+[The Triangle #1] Colorblind mode: False
+[BombGenerator] Instantiated triangle on face RearFace, spawn index 1
+
+[BombGenerator] Instantiated modulo on face FrontFace, spawn index 0
+
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+[BombGenerator] Instantiated jewelVault on face FrontFace, spawn index 5
+
+[BombGenerator] Instantiated sonicKnuckles on face FrontFace, spawn index 2
+
+[BombGenerator] Instantiated christmasPresents on face RearFace, spawn index 5
+
+[BombGenerator] Instantiated modulo on face RearFace, spawn index 4
+
+[BombGenerator] Instantiated sonicKnuckles on face RearFace, spawn index 2
+
+[BombGenerator] Instantiated SpinningButtons on face RearFace, spawn index 0
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: Q02BH8
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: lit NSA (IndicatorWidget/LABEL7)
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit SIG (IndicatorWidget/LABEL6)
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: RJ45
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+The Playlist 'GameRoomA' is already loaded. Ignoring Change Playlist request.
+[The Crystal Maze #1] Welcome to The Crystal Maze! Reckless Rick at your service!
+[The Crystal Maze #1] Colorblind mode: False
+37
+56
+61
+84
+[Westeros #1] The possible sigils are: Hightower, Tarly, Greyjoy, Frey, and Cerwyn
+[Westeros #1] The possible forenames are: Dickon, Balon, Cley, Addam, and Olenna
+[Westeros #1] The possible houses are: Tyrell, Marbrand, Tarly, Hightower, and Penrose
+[Westeros #1] The possible words are: "Winter is Coming", "We Remember", "First in Battle", "Honed and Ready", and "Burning Bright"
+[Westeros #1] The possible seats are: The Eyrie, Hightower, Horn Hill, Highgarden, and Dragonstone
+[Westeros #1] The correct sigil is: Tarly
+[Westeros #1] The correct forename is: Dickon
+[Westeros #1] The correct house is: Tarly
+[Westeros #1] The correct words are: "First in Battle"
+[Westeros #1] The correct seat is: Horn Hill
+[Jewel Wheels #1] The first wheel (outermost) gemstones are sapphire, poudretteite, amethyst & glass.
+[Jewel Wheels #1] The second wheel (second outermost) gemstones are glass, poudretteite, sapphire & scapolite.
+[Jewel Wheels #1] The third wheel (second innermost) gemstones are poudretteite, scapolite, amethyst & sapphire.
+[Jewel Wheels #1] The fourth wheel (innermost) gemstones are ruby, sapphire, poudretteite & scapolite.
+[Jewel Wheels #1] There are four poudretteite gemstones. These are most abundant.
+[Jewel Wheels #1] There are four sapphire gemstones. These are most abundant.
+[Jewel Wheels #1] The first wheel runes are ζ & δ.
+[Jewel Wheels #1] The second wheel runes are λ & μ.
+[Jewel Wheels #1] The third wheel runes are π & ξ.
+[Jewel Wheels #1] The fourth wheel runes are υ & φ.
+[Jewel Wheels #1] North is left.
+[Jewel Wheels #1] The correct jewel of the first wheel (outermost) is amethyst.
+[Jewel Wheels #1] The correct jewel of the second wheel (second outermost) is sapphire.
+[Jewel Wheels #1] The correct jewel of the third wheel (second innermost) is amethyst.
+[Jewel Wheels #1] The correct jewel of the fourth wheel (innermost) is sapphire.
+[Jewel Wheels #1] The target orientation is north.
+[Jewel Wheels #1] Wheel A is the second wheel. Wheel B is the first wheel. Wheel C is the fourth wheel. Wheel D is the third wheel.
+[Jewel Wheels #1] The correct jewel of wheel A is sapphire and is facing south.
+[Jewel Wheels #1] The correct jewel of wheel B is amethyst and is facing south.
+[Jewel Wheels #1] The correct jewel of wheel C is sapphire and is facing east.
+[Jewel Wheels #1] The correct jewel of wheel D is amethyst and is facing south.
+[The Triangle #1] Rotation: counterclockwise. Background: Concentric. Letter: N.
+[The Triangle #1] Large triangle: yellow. Top left triangle: blue. Bottom left triangle: red. Bottom right triangle: green.
+[The Triangle #1] Correct colour: yellow.
+1
+[Modulo #1] Your number is 73.
+[Modulo #1] You must modulo 9.
+[Modulo #1] The correct answer is 1.
+[Jewel Wheels #2] The first wheel (outermost) gemstones are amethyst, poudretteite, glass & ruby.
+[Jewel Wheels #2] The second wheel (second outermost) gemstones are glass, amethyst, onyx & emerald.
+[Jewel Wheels #2] The third wheel (second innermost) gemstones are ruby, scapolite, poudretteite & glass.
+[Jewel Wheels #2] The fourth wheel (innermost) gemstones are ruby, poudretteite, emerald & onyx.
+[Jewel Wheels #2] There are three glass gemstones. These are most abundant.
+[Jewel Wheels #2] There are three poudretteite gemstones. These are most abundant.
+[Jewel Wheels #2] There are three ruby gemstones. These are most abundant.
+[Jewel Wheels #2] The first wheel runes are α & ζ.
+[Jewel Wheels #2] The second wheel runes are μ & κ.
+[Jewel Wheels #2] The third wheel runes are ρ & ξ.
+[Jewel Wheels #2] The fourth wheel runes are φ & ω.
+[Jewel Wheels #2] North is up.
+[Jewel Wheels #2] The correct jewel of the first wheel (outermost) is glass.
+[Jewel Wheels #2] The correct jewel of the second wheel (second outermost) is glass.
+[Jewel Wheels #2] The correct jewel of the third wheel (second innermost) is glass.
+[Jewel Wheels #2] The correct jewel of the fourth wheel (innermost) is onyx.
+[Jewel Wheels #2] The target orientation is north.
+[Jewel Wheels #2] Wheel A is the fourth wheel. Wheel B is the first wheel. Wheel C is the second wheel. Wheel D is the third wheel.
+[Jewel Wheels #2] The correct jewel of wheel A is onyx and is facing west.
+[Jewel Wheels #2] The correct jewel of wheel B is glass and is facing south.
+[Jewel Wheels #2] The correct jewel of wheel C is glass and is facing north.
+[Jewel Wheels #2] The correct jewel of wheel D is glass and is facing west.
+[Christmas Presents #1] You have received 2 presents from Auntie Marge, 1 from Uncle Simon, 3 from Cousin Bob, 2 from Granny May & 5 from Great Uncle Bertie.
+[Christmas Presents #1] Value X is 2. Value Y is 4. Value Z is 11.
+[Christmas Presents #1] Open your presents when the hour time is 18.
+2
+[Modulo #2] Your number is 359.
+[Modulo #2] You must modulo 3.
+[Modulo #2] The correct answer is 2.
+[Spinning Buttons #1] Button #1 is blue and says d. Its value is 10.
+[Spinning Buttons #1] Button #2 is grey and says w. Its value is 6.
+[Spinning Buttons #1] Button #3 is purple and says l. Its value is 2.
+[Spinning Buttons #1] Button #4 is orange and says y. Its value is 6.
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] Switching bomb
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[The Crystal Maze #1] Twitch Plays mode: True
+[PaceMaker] Round start! Mission: Free Play Pacing Enabled: True
+
+[PaceMaker] Next idle action in 55.98406 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled

@@ -1,0 +1,2091 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 1514498774
+
+[BombGenerator] Generator settings: Time: 420, NumStrikes: 9, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 23
+
+
+[BombGenerator] Selected FaultyBackgrounds (1286383144 (ModBombComponent))
+
+[BombGenerator] Selected SpotTheDifference (2085516950 (ModBombComponent))
+
+[BombGenerator] Selected SamRedButtons (1863021809 (ModBombComponent))
+
+[BombGenerator] Selected CornersModule (1905267506 (ModBombComponent))
+
+[BombGenerator] Selected Color Generator (1145222040 (ModBombComponent))
+
+[BombGenerator] Selected NotComplicatedWires (2003251353 (ModBombComponent))
+
+[BombGenerator] Selected ultimateCipher (1932944041 (ModBombComponent))
+
+[BombGenerator] Selected calcModule (2080945967 (ModBombComponent))
+
+[BombGenerator] Selected daylightDirections (1743335011 (ModBombComponent))
+
+[BombGenerator] Selected dimensionDisruption (1988104942 (ModBombComponent))
+
+[BombGenerator] Selected numberNimbleness (1577535909 (ModBombComponent))
+
+[BombGenerator] Selected curriculum (1185966688 (ModBombComponent))
+
+[BombGenerator] Selected CrazyTalk (747816940 (ModBombComponent))
+
+[BombGenerator] Selected DateFinder (1768537189 (ModBombComponent))
+
+[BombGenerator] Selected theSwan (1309699497 (ModBombComponent))
+
+[BombGenerator] Selected X01 (1381875427 (ModBombComponent))
+
+[BombGenerator] Selected whiteCipher (1894852193 (ModBombComponent))
+
+[BombGenerator] Selected JuckAlchemy (1758247115 (ModBombComponent))
+
+[BombGenerator] Selected CryptModule (751147696 (ModBombComponent))
+
+[BombGenerator] Selected skyrim (1318015164 (ModBombComponent))
+
+[BombGenerator] Selected ShapesBombs (1619949331 (ModBombComponent))
+
+[BombGenerator] Selected subways (1403740204 (ModBombComponent))
+
+[BombGenerator] Selected hangover (1603535261 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1286383144 (ModBombComponent), 2085516950 (ModBombComponent), 1863021809 (ModBombComponent), 1905267506 (ModBombComponent), 1145222040 (ModBombComponent), 2003251353 (ModBombComponent), 1932944041 (ModBombComponent), 2080945967 (ModBombComponent), 1743335011 (ModBombComponent), 1988104942 (ModBombComponent), 1577535909 (ModBombComponent), 1185966688 (ModBombComponent), 747816940 (ModBombComponent), 1768537189 (ModBombComponent), 1309699497 (ModBombComponent), 1381875427 (ModBombComponent), 1894852193 (ModBombComponent), 1758247115 (ModBombComponent), 751147696 (ModBombComponent), 1318015164 (ModBombComponent), 1619949331 (ModBombComponent), 1403740204 (ModBombComponent), 1603535261 (ModBombComponent)]
+
+[Mod-Backgrounds] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1286383144" has ID:"Backgrounds"
+
+[Mod-Backgrounds] Loading assemblies...
+
+[Mod-Backgrounds] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1286383144\Newtonsoft.Json.dll"...
+
+[Mod-Backgrounds] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1286383144\Backgrounds.dll"
+
+[Mod-Backgrounds] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1286383144" complete.
+
+[Mod-Backgrounds] Loading GameObjects...
+
+[Mod-Backgrounds] Replacing shaders...
+
+[Mod-Backgrounds] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Backgrounds] Replacing shaders...
+
+[Mod-Backgrounds] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Backgrounds] Loading KMMissions...
+
+[Mod-Backgrounds] Loading KMMissionTableOfContents...
+
+[Mod-Backgrounds] Loading AudioClips...
+
+[BombGenerator] Instantiated 1286383144 on face FrontFace, spawn index 6
+
+[Mod-SpotTheDifference] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2085516950" has ID:"SpotTheDifference"
+
+[Mod-SpotTheDifference] Loading assemblies...
+
+[Mod-SpotTheDifference] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2085516950\Newtonsoft.Json.dll"...
+
+[Mod-SpotTheDifference] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2085516950\SpotTheDifference.dll"
+
+[Mod-SpotTheDifference] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2085516950" complete.
+
+[Mod-SpotTheDifference] Loading GameObjects...
+
+[Mod-SpotTheDifference] Replacing shaders...
+
+[Mod-SpotTheDifference] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-SpotTheDifference] Loading KMMissions...
+
+[Mod-SpotTheDifference] Loading KMMissionTableOfContents...
+
+[Mod-SpotTheDifference] Loading AudioClips...
+
+[BombGenerator] Instantiated 2085516950 on face FrontFace, spawn index 3
+
+[Mod-RedButtons] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1863021809" has ID:"RedButtons"
+
+[Mod-RedButtons] Loading assemblies...
+
+[Mod-RedButtons] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1863021809\Newtonsoft.Json.dll"...
+
+[Mod-RedButtons] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1863021809\RedButtons.dll"
+
+[Mod-RedButtons] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1863021809" complete.
+
+[Mod-RedButtons] Loading GameObjects...
+
+[Mod-RedButtons] Replacing shaders...
+
+[Mod-RedButtons] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-RedButtons] Loading KMMissions...
+
+[Mod-RedButtons] Loading KMMissionTableOfContents...
+
+[Mod-RedButtons] Loading AudioClips...
+
+[BombGenerator] Instantiated 1863021809 on face RearFace, spawn index 3
+
+[Mod-Corners] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1905267506" has ID:"Corners"
+
+[Mod-Corners] Loading assemblies...
+
+[Mod-Corners] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1905267506\Newtonsoft.Json.dll"...
+
+[Mod-Corners] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1905267506\Corners.dll"
+
+[Mod-Corners] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1905267506" complete.
+
+[Mod-Corners] Loading GameObjects...
+
+[Mod-Corners] Replacing shaders...
+
+[Mod-Corners] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-Corners] Loading KMMissions...
+
+[Mod-Corners] Loading KMMissionTableOfContents...
+
+[Mod-Corners] Loading AudioClips...
+
+[BombGenerator] Instantiated 1905267506 on face FrontFace, spawn index 8
+
+[Mod-Color Generator] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1145222040" has ID:"Color Generator"
+
+[Mod-Color Generator] Loading assemblies...
+
+[Mod-Color Generator] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1145222040\Newtonsoft.Json.dll"...
+
+[Mod-Color Generator] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1145222040\Color Generator.dll"
+
+[Mod-Color Generator] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1145222040" complete.
+
+[Mod-Color Generator] Loading GameObjects...
+
+[Mod-Color Generator] Replacing shaders...
+
+[Mod-Color Generator] ModUnityVersion: 2017.2.0f3 Game: 2017.4.22f1
+
+[Mod-Color Generator] Loading KMMissions...
+
+[Mod-Color Generator] Loading KMMissionTableOfContents...
+
+[Mod-Color Generator] Loading AudioClips...
+
+[BombGenerator] Instantiated 1145222040 on face FrontFace, spawn index 10
+
+[Mod-NotVanillaModules] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2003251353" has ID:"NotVanillaModules"
+
+[Mod-NotVanillaModules] Loading assemblies...
+
+[Mod-NotVanillaModules] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2003251353\Newtonsoft.Json.dll"...
+
+[Mod-NotVanillaModules] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2003251353\NotVanillaModulesLib.dll"...
+
+[Mod-NotVanillaModules] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2003251353\NotVanillaModules.dll"
+
+[Mod-NotVanillaModules] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2003251353" complete.
+
+[Mod-NotVanillaModules] Loading GameObjects...
+
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Replacing shaders...
+
+[Mod-NotVanillaModules] ModUnityVersion: 2017.4.37f1 Game: 2017.4.22f1
+
+[Mod-NotVanillaModules] Loading KMMissions...
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeButton_DisplayName: "Not the Button"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeButton_Description: "A practice mission featuring Not the Button."
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeCapacitorDischarge_DisplayName: "Not Capacitor Discharge"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeCapacitorDischarge_Description: "A practice mission featuring Not Capacitor Discharge."
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeComplicatedWires_DisplayName: "Not Complicated Wires"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeComplicatedWires_Description: "A practice mission featuring Not Complicated Wires."
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeKeypad_DisplayName: "Not Keypad"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeKeypad_Description: "A practice mission featuring Not Keypads."
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeMaze_DisplayName: "Not Maze"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeMaze_Description: "A practice mission featuring Not Mazes."
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeMemory_DisplayName: "Not Memory"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeMemory_Description: "A practice mission featuring Not Memory."
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeMorseCode_DisplayName: "Not Morse Code"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeMorseCode_Description: "A practice mission featuring Not Morse Code."
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticePassword_DisplayName: "Not Password"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticePassword_Description: "A practice mission featuring Not Passwords."
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeSimaze_DisplayName: "Not Simaze"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeSimaze_Description: "A practice mission featuring Not Simazes."
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeVentingGas_DisplayName: "Not Venting Gas"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeVentingGas_Description: "A practice mission featuring Not Venting Gas."
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeWhosOnFirst_DisplayName: "Not Who's on First"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeWhosOnFirst_Description: "A practice mission featuring Not Who's on First."
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeWireSequence_DisplayName: "Not Wire Sequence"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeWireSequence_Description: "A practice mission featuring Not Wire Sequences."
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeWiresword_DisplayName: "Not Wiresword"
+
+[Localization] Adding mod term: mod/NotVanillaModules_PracticeWiresword_Description: "A practice mission featuring Not Wireswords."
+
+[Localization] Adding mod term: mod/NotVanillaModules_FairGame_DisplayName: "Fair Game"
+
+[Localization] Adding mod term: mod/NotVanillaModules_FairGame_Description: "There are more tricks with this one. Study the manuals carefully."
+
+[Localization] Adding mod term: mod/NotVanillaModules_NotFirstBomb_DisplayName: "Not the First Bomb"
+
+[Localization] Adding mod term: mod/NotVanillaModules_NotFirstBomb_Description: "There's something unusual about this bomb.
+
+Make sure your experts have the right manual and are ready to help."
+
+[Localization] Adding mod term: mod/NotVanillaModules_SomethingOldSomethingNew_DisplayName: "Something Old, Something New"
+
+[Localization] Adding mod term: mod/NotVanillaModules_SomethingOldSomethingNew_Description: "When did seeing a familiar bomb become comforting?
+
+No matter. This bomb will be not comforting at all."
+
+[Localization] Adding mod term: mod/NotVanillaModules_WiresWiresEverywhere_DisplayName: "Wires! Wires everywhere!"
+
+[Localization] Adding mod term: mod/NotVanillaModules_WiresWiresEverywhere_Description: "It's only logical that there are more wires here."
+
+[Localization] Adding mod term: mod/NotVanillaModules_BiggerWrinkle_DisplayName: "A Bigger Wrinkle"
+
+[Localization] Adding mod term: mod/NotVanillaModules_BiggerWrinkle_Description: "This bomb demands attention, but is very particular about it."
+
+[Localization] Adding mod term: mod/NotVanillaModules_CapacitorJumble_DisplayName: "Capacitor Jumble"
+
+[Localization] Adding mod term: mod/NotVanillaModules_CapacitorJumble_Description: "In bomb defusing as in electronics, you must be careful not to get the components mixed up, or they might just explode."
+
+[Localization] Adding mod term: mod/NotVanillaModules_HomeRun_DisplayName: "The Home Run"
+
+[Localization] Adding mod term: mod/NotVanillaModules_HomeRun_Description: "This is no Souvenir, but don't forget to keep track of all the solutions on the way."
+
+[Localization] Adding mod term: mod/NotVanillaModules_MorseMarathon_DisplayName: "Morse Marathon"
+
+[Localization] Adding mod term: mod/NotVanillaModules_MorseMarathon_Description: "For those who have no trouble with just one encoded word."
+
+[Localization] Adding mod term: mod/NotVanillaModules_NotComputerHacking_DisplayName: "Not Computer Hacking"
+
+[Localization] Adding mod term: mod/NotVanillaModules_NotComputerHacking_Description: "The technically correct term would be ‘cracking’. ‘Hacking’ just meant clever programming, like how this module was made."
+
+[Localization] Adding mod term: mod/NotVanillaModules_OneWithNotEverything_DisplayName: "One with Not Everything"
+
+[Localization] Adding mod term: mod/NotVanillaModules_OneWithNotEverything_Description: "The good news is that we've managed to separate the strange modules from the others! The bad news is that the bomb is still armed."
+
+[Localization] Adding mod term: mod/NotVanillaModules_RTFM_DisplayName: "RTFM"
+
+[Localization] Adding mod term: mod/NotVanillaModules_RTFM_Description: "It’s all there in the manual. Never blindly press ‘Y’."
+
+[Mod-NotVanillaModules] Loading KMMissionTableOfContents...
+
+[Localization] Adding mod term: mod/mod_toc_NotVanillaModules_0_ToCName: "Not Vanilla Missions"
+
+[Localization] Adding mod term: mod/mod_toc_NotVanillaModules_0_SectionTitle_0: "Practice"
+
+[Localization] Adding mod term: mod/mod_toc_NotVanillaModules_0_SectionTitle_1: "Slightly Strange"
+
+[Localization] Adding mod term: mod/mod_toc_NotVanillaModules_0_SectionTitle_2: "Devilishly Devious"
+
+[Mod-NotVanillaModules] Loading AudioClips...
+
+[BombGenerator] Instantiated 2003251353 on face RearFace, spawn index 6
+
+[Mod-ultimateCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1932944041" has ID:"ultimateCipher"
+
+[Mod-ultimateCipher] Loading assemblies...
+
+[Mod-ultimateCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1932944041\Newtonsoft.Json.dll"...
+
+[Mod-ultimateCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1932944041\ultimateCipher.dll"
+
+[Mod-ultimateCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1932944041" complete.
+
+[Mod-ultimateCipher] Loading GameObjects...
+
+[Mod-ultimateCipher] Replacing shaders...
+
+[Mod-ultimateCipher] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ultimateCipher] Loading KMMissions...
+
+[Mod-ultimateCipher] Loading KMMissionTableOfContents...
+
+[Mod-ultimateCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1932944041 on face RearFace, spawn index 9
+
+[Mod-calcModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2080945967" has ID:"calcModule"
+
+[Mod-calcModule] Loading assemblies...
+
+[Mod-calcModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2080945967\Newtonsoft.Json.dll"...
+
+[Mod-calcModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2080945967\calcModule.dll"
+
+[Mod-calcModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2080945967" complete.
+
+[Mod-calcModule] Loading GameObjects...
+
+[Mod-calcModule] Replacing shaders...
+
+[Mod-calcModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-calcModule] Loading KMMissions...
+
+[Mod-calcModule] Loading KMMissionTableOfContents...
+
+[Mod-calcModule] Loading AudioClips...
+
+[BombGenerator] Instantiated 2080945967 on face FrontFace, spawn index 11
+
+[BombGenerator] Instantiated 1743335011 on face FrontFace, spawn index 1
+
+[Mod-dimensionDisruption] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1988104942" has ID:"dimensionDisruption"
+
+[Mod-dimensionDisruption] Loading assemblies...
+
+[Mod-dimensionDisruption] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1988104942\Newtonsoft.Json.dll"...
+
+[Mod-dimensionDisruption] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1988104942\dimensionDisruption.dll"
+
+[Mod-dimensionDisruption] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1988104942" complete.
+
+[Mod-dimensionDisruption] Loading GameObjects...
+
+[Mod-dimensionDisruption] Replacing shaders...
+
+[Mod-dimensionDisruption] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-dimensionDisruption] Loading KMMissions...
+
+[Mod-dimensionDisruption] Loading KMMissionTableOfContents...
+
+[Mod-dimensionDisruption] Loading AudioClips...
+
+[BombGenerator] Instantiated 1988104942 on face FrontFace, spawn index 4
+
+[Mod-numberNimbleness] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1577535909" has ID:"numberNimbleness"
+
+[Mod-numberNimbleness] Loading assemblies...
+
+[Mod-numberNimbleness] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1577535909\Newtonsoft.Json.dll"...
+
+[Mod-numberNimbleness] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1577535909\numberNimbleness.dll"
+
+[Mod-numberNimbleness] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1577535909" complete.
+
+[Mod-numberNimbleness] Loading GameObjects...
+
+[Mod-numberNimbleness] Replacing shaders...
+
+[Mod-numberNimbleness] ModUnityVersion: 2017.1.1f1 Game: 2017.4.22f1
+
+[Mod-numberNimbleness] Loading KMMissions...
+
+[Mod-numberNimbleness] Loading KMMissionTableOfContents...
+
+[Mod-numberNimbleness] Loading AudioClips...
+
+[BombGenerator] Instantiated 1577535909 on face FrontFace, spawn index 7
+
+[Mod-curriculum] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1185966688" has ID:"curriculum"
+
+[Mod-curriculum] Loading assemblies...
+
+[Mod-curriculum] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1185966688\Newtonsoft.Json.dll"...
+
+[Mod-curriculum] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1185966688\curriculum.dll"
+
+[Mod-curriculum] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1185966688" complete.
+
+[Mod-curriculum] Loading GameObjects...
+
+[Mod-curriculum] Replacing shaders...
+
+[Mod-curriculum] ModUnityVersion: 2017.2.1f1 Game: 2017.4.22f1
+
+[Mod-curriculum] Loading KMMissions...
+
+[Mod-curriculum] Loading KMMissionTableOfContents...
+
+[Mod-curriculum] Loading AudioClips...
+
+[BombGenerator] Instantiated 1185966688 on face RearFace, spawn index 1
+
+[Mod-crazytalk] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\747816940" has ID:"crazytalk"
+
+[Mod-crazytalk] Loading assemblies...
+
+[Mod-crazytalk] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\747816940\Newtonsoft.Json.dll"...
+
+[Mod-crazytalk] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\747816940\crazytalk.dll"
+
+[Mod-crazytalk] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\747816940" complete.
+
+[Mod-crazytalk] Loading GameObjects...
+
+[Mod-crazytalk] Replacing shaders...
+
+[Mod-crazytalk] ModUnityVersion: Not set Game: 2017.4.22f1
+
+[Mod-crazytalk] Loading KMMissions...
+
+[Mod-crazytalk] Loading KMMissionTableOfContents...
+
+[Mod-crazytalk] Loading AudioClips...
+
+[BombGenerator] Instantiated 747816940 on face RearFace, spawn index 10
+
+[Mod-findDate] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1768537189" has ID:"findDate"
+
+[Mod-findDate] Loading assemblies...
+
+[Mod-findDate] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1768537189\Newtonsoft.Json.dll"...
+
+[Mod-findDate] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1768537189\findDate.dll"
+
+[Mod-findDate] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1768537189" complete.
+
+[Mod-findDate] Loading GameObjects...
+
+[Mod-findDate] Replacing shaders...
+
+[Mod-findDate] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-findDate] Loading KMMissions...
+
+[Mod-findDate] Loading KMMissionTableOfContents...
+
+[Mod-findDate] Loading AudioClips...
+
+Current century id:1
+Current year id:3
+Year century result: 4
+[Date Finder #1] Generated date: 26 Feb, 1359, which is on Tuesday
+[BombGenerator] Instantiated 1768537189 on face RearFace, spawn index 0
+
+[Mod-theSwan] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1309699497" has ID:"theSwan"
+
+[Mod-theSwan] Loading assemblies...
+
+[Mod-theSwan] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1309699497\Newtonsoft.Json.dll"...
+
+[Mod-theSwan] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1309699497\theSwan.dll"
+
+[Mod-theSwan] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1309699497" complete.
+
+[Mod-theSwan] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-theSwan] Replacing shaders...
+
+[Mod-theSwan] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-theSwan] Loading KMMissions...
+
+[Mod-theSwan] Loading KMMissionTableOfContents...
+
+[Mod-theSwan] Loading AudioClips...
+
+[BossModuleManager] Request for The Swan’s ignore list successful.
+[KMBossModule] Boss Module Manager returned list for “The Swan”: 14, Bamboozling Time Keeper, Brainf---, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Iconic, Organization, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Swan, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+[BombGenerator] Instantiated 1309699497 on face FrontFace, spawn index 9
+
+[Mod-X01] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1381875427" has ID:"X01"
+
+[Mod-X01] Loading assemblies...
+
+[Mod-X01] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1381875427\Newtonsoft.Json.dll"...
+
+[Mod-X01] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1381875427\X01.dll"
+
+[Mod-X01] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1381875427" complete.
+
+[Mod-X01] Loading GameObjects...
+
+[Mod-X01] Replacing shaders...
+
+[Mod-X01] ModUnityVersion: 2017.4.0f1 Game: 2017.4.22f1
+
+[Mod-X01] Replacing shaders...
+
+[Mod-X01] ModUnityVersion: 2017.4.0f1 Game: 2017.4.22f1
+
+[Mod-X01] Loading KMMissions...
+
+[Mod-X01] Loading KMMissionTableOfContents...
+
+[Mod-X01] Loading AudioClips...
+
+[ModSettings] Couldn't find modSettings.json file at path: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes/Modsettings/X01-settings.txt
+
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+[BombGenerator] Instantiated 1381875427 on face FrontFace, spawn index 2
+
+[Mod-whiteCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894852193" has ID:"whiteCipher"
+
+[Mod-whiteCipher] Loading assemblies...
+
+[Mod-whiteCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894852193\Newtonsoft.Json.dll"...
+
+[Mod-whiteCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894852193\whiteCipher.dll"
+
+[Mod-whiteCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894852193" complete.
+
+[Mod-whiteCipher] Loading GameObjects...
+
+[Mod-whiteCipher] Replacing shaders...
+
+[Mod-whiteCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-whiteCipher] Loading KMMissions...
+
+[Mod-whiteCipher] Loading KMMissionTableOfContents...
+
+[Mod-whiteCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1894852193 on face FrontFace, spawn index 0
+
+[Mod-JuckAlchemy] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1758247115" has ID:"JuckAlchemy"
+
+[Mod-JuckAlchemy] Loading assemblies...
+
+[Mod-JuckAlchemy] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1758247115\Newtonsoft.Json.dll"...
+
+[Mod-JuckAlchemy] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1758247115\JuckAlchemy.dll"
+
+[Mod-JuckAlchemy] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1758247115" complete.
+
+[Mod-JuckAlchemy] Loading GameObjects...
+
+[Mod-JuckAlchemy] Replacing shaders...
+
+[Mod-JuckAlchemy] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-JuckAlchemy] Loading KMMissions...
+
+[Mod-JuckAlchemy] Loading KMMissionTableOfContents...
+
+[Mod-JuckAlchemy] Loading AudioClips...
+
+[BombGenerator] Instantiated 1758247115 on face RearFace, spawn index 11
+
+[Mod-CryptMod] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\751147696" has ID:"CryptMod"
+
+[Mod-CryptMod] Loading assemblies...
+
+[Mod-CryptMod] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\751147696\Newtonsoft.Json.dll"...
+
+[Mod-CryptMod] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\751147696\CryptMod.dll"
+
+[Mod-CryptMod] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\751147696" complete.
+
+[Mod-CryptMod] Loading GameObjects...
+
+[Mod-CryptMod] Replacing shaders...
+
+[Mod-CryptMod] ModUnityVersion: Not set Game: 2017.4.22f1
+
+[Mod-CryptMod] Loading KMMissions...
+
+[Mod-CryptMod] Loading KMMissionTableOfContents...
+
+[Mod-CryptMod] Loading AudioClips...
+
+NO WARMTH COULD WARM NO WINTRY WEATHER CHILL HIM
+WRTCD
+[BombGenerator] Instantiated 751147696 on face RearFace, spawn index 8
+
+[Mod-skyrim] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1318015164" has ID:"skyrim"
+
+[Mod-skyrim] Loading assemblies...
+
+[Mod-skyrim] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1318015164\Newtonsoft.Json.dll"...
+
+[Mod-skyrim] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1318015164\skyrim.dll"
+
+[Mod-skyrim] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1318015164" complete.
+
+[Mod-skyrim] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-skyrim] Replacing shaders...
+
+[Mod-skyrim] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-skyrim] Loading KMMissions...
+
+[Mod-skyrim] Loading KMMissionTableOfContents...
+
+[Mod-skyrim] Loading AudioClips...
+
+[BombGenerator] Instantiated 1318015164 on face RearFace, spawn index 5
+
+[Mod-ShapesBombs] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1619949331" has ID:"ShapesBombs"
+
+[Mod-ShapesBombs] Loading assemblies...
+
+[Mod-ShapesBombs] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1619949331\Newtonsoft.Json.dll"...
+
+[Mod-ShapesBombs] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1619949331\ShapesBombs.dll"
+
+[Mod-ShapesBombs] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1619949331" complete.
+
+[Mod-ShapesBombs] Loading GameObjects...
+
+[Mod-ShapesBombs] Replacing shaders...
+
+[Mod-ShapesBombs] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ShapesBombs] Loading KMMissions...
+
+[Mod-ShapesBombs] Loading KMMissionTableOfContents...
+
+[Mod-ShapesBombs] Loading AudioClips...
+
+[BombGenerator] Instantiated 1619949331 on face RearFace, spawn index 4
+
+[Mod-subways] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1403740204" has ID:"subways"
+
+[Mod-subways] Loading assemblies...
+
+[Mod-subways] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1403740204\Newtonsoft.Json.dll"...
+
+[Mod-subways] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1403740204\subways.dll"
+
+[Mod-subways] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1403740204" complete.
+
+[Mod-subways] Loading GameObjects...
+
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Mod-subways] Replacing shaders...
+
+[Mod-subways] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-subways] Loading KMMissions...
+
+[Mod-subways] Loading KMMissionTableOfContents...
+
+[Mod-subways] Loading AudioClips...
+
+[BombGenerator] Instantiated 1403740204 on face RearFace, spawn index 7
+
+[Mod-hangover] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1603535261" has ID:"hangover"
+
+[Mod-hangover] Loading assemblies...
+
+[Mod-hangover] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1603535261\Newtonsoft.Json.dll"...
+
+[Mod-hangover] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1603535261\hangover.dll"
+
+[Mod-hangover] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1603535261" complete.
+
+[Mod-hangover] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-hangover] Replacing shaders...
+
+[Mod-hangover] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-hangover] Loading KMMissions...
+
+[Mod-hangover] Loading KMMissionTableOfContents...
+
+[Mod-hangover] Loading AudioClips...
+
+[BombGenerator] Instantiated 1603535261 on face RearFace, spawn index 2
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: 1Z0TM9
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 1, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit SIG (IndicatorWidget/LABEL6)
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: DVI, RJ45
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit MSA (IndicatorWidget/LABEL8)
+
+[Faulty Backgrounds #1] Fake Button is on the left
+[Faulty Backgrounds #1] Fake Button was determined by rule 11
+[Faulty Backgrounds #1] Backing is white, Button is black, Fake Button is green
+[Faulty Backgrounds #1] Row in table is D due to rule 4
+[Faulty Backgrounds #1] Column in table is A due to rule 10
+[Faulty Backgrounds #1] Number needed is 6
+[Spot The Difference #1] The faulty sphere is 15 (Starting from the bottom row, then the bottom left sphere according to the image and going in geometric order starting from 1). The color of the sphere is Green.
+[Red Buttons #1] The displayed digit for 'stage' 1 is 4
+[Red Buttons #1] The number before modulo-ing 6 was 2920
+[Red Buttons #1] The number after modulo-ing 6 was 4
+[Corners #1] Using rule seed: 1
+[Corners #1] TL corner is Green.
+[Corners #1] BL corner is Blue.
+[Corners #1] TR corner is Yellow.
+[Corners #1] BR corner is Green.
+[Corners #1] Solution is: TL, BL, TR, BR
+[Not Complicated Wires #1] Wire 1: True (symbol) IMPLIES True (light) is True.
+[Not Complicated Wires #1] Wire 2: True (symbol) OR False (light) is True.
+[Not Complicated Wires #1] Wire 3: True (symbol) IMPLIES True (light) is True.
+[Not Complicated Wires #1] Wire 4: True (symbol) AND False (light) is False.
+[Not Complicated Wires #1] Wire 5: True (symbol) IMPLIES True (light) is True.
+[Not Complicated Wires #1] Wire 6: True (symbol) IMPLIES True (light) is True.
+[Ultimate Cipher #1] Generated Word: KITTEN
+[Ultimate Cipher #1] Testing to see if it works here.
+[Ultimate Cipher #1] ----------------------------------------
+[Ultimate Cipher #1] Begin Red Cipher
+[Ultimate Cipher #1] ----------------------------------------
+[Ultimate Cipher #1] [RED] Trisquare Key 1: RAVEBCDFGHIKLMNOPQSTUWXYZ
+[Ultimate Cipher #1] [RED] Trisquare Key 2: TRASHBCDEFGIKLMNOPQUVWXYZ
+[Ultimate Cipher #1] [RED] Trisquare Key 3: MAIORBCDEFGHKLNPQSTUVWXYZ
+[Ultimate Cipher #1] [RED] Begin Trisquare Encryption
+[Ultimate Cipher #1] [RED] KI -> HH
+[Ultimate Cipher #1] [RED] TT -> PR
+[Ultimate Cipher #1] [RED] EN -> MT
+[Ultimate Cipher #1] [RED] CM Bifid Key 1: RAVEBCDFGHIKLMNOPQSTUWXYZ
+[Ultimate Cipher #1] [RED] CM Bifid Key 2: TRASHBCDEFGIKLMNOPQUVWXYZ
+[Ultimate Cipher #1] [RED] Begin CM Bifid Encryption
+[Ultimate Cipher #1] [RED] Rows|Columns: 113023|441034
+[Ultimate Cipher #1] [RED] H -> 11 -> C
+[Ultimate Cipher #1] [RED] H -> 30 -> N
+[Ultimate Cipher #1] [RED] P -> 23 -> L
+[Ultimate Cipher #1] [RED] R -> 44 -> Z
+[Ultimate Cipher #1] [RED] M -> 10 -> B
+[Ultimate Cipher #1] [RED] T -> 34 -> U
+[Ultimate Cipher #1] [RED] Playfair Key: RAVEBCDFGHIKLMNOPQSTUWXYZ
+[Ultimate Cipher #1] [RED] Begin Playfair Encryption
+[Ultimate Cipher #1] [RED] CN -> HI
+[Ultimate Cipher #1] [RED] LZ -> NX
+[Ultimate Cipher #1] [RED] BU -> RZ
+[Ultimate Cipher #1] ----------------------------------------
+[Ultimate Cipher #1] Begin Inverted Indigo Cipher
+[Ultimate Cipher #1] ----------------------------------------
+[Ultimate Cipher #1] [INV INDIGO] Begin Condi Encryption
+[Ultimate Cipher #1] [INV INDIGO] Key: ADFGHIJKLMNPQTVWXYZOBSCURE
+[Ultimate Cipher #1] [INV INDIGO] Offset: 10
+[Ultimate Cipher #1] [INV INDIGO] H -> B
+[Ultimate Cipher #1] [INV INDIGO] Offset: 21
+[Ultimate Cipher #1] [INV INDIGO] I -> N
+[Ultimate Cipher #1] [INV INDIGO] Offset: 11
+[Ultimate Cipher #1] [INV INDIGO] N -> E
+[Ultimate Cipher #1] [INV INDIGO] Offset: 26
+[Ultimate Cipher #1] [INV INDIGO] X -> X
+[Ultimate Cipher #1] [INV INDIGO] Offset: 17
+[Ultimate Cipher #1] [INV INDIGO] R -> K
+[Ultimate Cipher #1] [INV INDIGO] Offset: 8
+[Ultimate Cipher #1] [INV INDIGO] Z -> N
+[Ultimate Cipher #1] [INV INDIGO] Begin Logic Encryption
+[Ultimate Cipher #1] [INV INDIGO] Gate: <-
+[Ultimate Cipher #1] [INV INDIGO] 00001 + 11110 = 00001
+[Ultimate Cipher #1] [INV INDIGO] 01101 + 11111 = 01101
+[Ultimate Cipher #1] [INV INDIGO] 00100 + 11111 = 00100
+[Ultimate Cipher #1] [INV INDIGO] 10101 + 01001 = 10111
+[Ultimate Cipher #1] [INV INDIGO] 00010 + 10111 = 01010
+[Ultimate Cipher #1] [INV INDIGO] 00100 + 10010 = 01101
+[Ultimate Cipher #1] [INV INDIGO] Logic Encryption Keyword: EFFJXS
+[Ultimate Cipher #1] [INV INDIGO] Logic Encrypted Word: BNEVCE
+[Ultimate Cipher #1] [INV INDIGO] Binary 1: 110100
+[Ultimate Cipher #1] [INV INDIGO] Binary 2: 101101
+[Ultimate Cipher #1] [INV INDIGO] Binary 3: 110110
+[Ultimate Cipher #1] [INV INDIGO] Begin Fractionated Morse Encryption
+[Ultimate Cipher #1] [INV INDIGO] Key: ADFGHIJKLMNPQTVWXYZOBSCURE
+[Ultimate Cipher #1] [INV INDIGO] E -> .
+[Ultimate Cipher #1] [INV INDIGO] F -> ..-.
+[Ultimate Cipher #1] [INV INDIGO] F -> ..-.
+[Ultimate Cipher #1] [INV INDIGO] J -> .---
+[Ultimate Cipher #1] [INV INDIGO] X -> -..-
+[Ultimate Cipher #1] [INV INDIGO] S -> ...
+[Ultimate Cipher #1] [INV INDIGO] Morse rows:
+[Ultimate Cipher #1] [INV INDIGO] ..x-.-.x.
+[Ultimate Cipher #1] [INV INDIGO] x-..-x..x
+[Ultimate Cipher #1] [INV INDIGO] ...x---.x
+[Ultimate Cipher #1] [INV INDIGO] .x. -> J
+[Ultimate Cipher #1] [INV INDIGO] .-. -> G
+[Ultimate Cipher #1] [INV INDIGO] x.. -> Z
+[Ultimate Cipher #1] [INV INDIGO] -.x -> P
+[Ultimate Cipher #1] [INV INDIGO] .-- -> H
+[Ultimate Cipher #1] [INV INDIGO] -x- -> X
+[Ultimate Cipher #1] [INV INDIGO] ..- -> D
+[Ultimate Cipher #1] [INV INDIGO] x.. -> Z
+[Ultimate Cipher #1] [INV INDIGO] .xx -> L
+[Ultimate Cipher #1] ----------------------------------------
+[Ultimate Cipher #1] Begin Inverted Violet Cipher
+[Ultimate Cipher #1] ----------------------------------------
+[Ultimate Cipher #1] [INV VIOLET] Begin Porta Encryption
+[Ultimate Cipher #1] [INV VIOLET] B -> Q
+[Ultimate Cipher #1] [INV VIOLET] N -> I
+[Ultimate Cipher #1] [INV VIOLET] E -> R
+[Ultimate Cipher #1] [INV VIOLET] V -> B
+[Ultimate Cipher #1] [INV VIOLET] C -> N
+[Ultimate Cipher #1] [INV VIOLET] E -> N
+[Ultimate Cipher #1] [INV VIOLET] Begin Route Transposition
+[Ultimate Cipher #1] [INV VIOLET] QIRBNN + 26 => NQNIBR
+[Ultimate Cipher #1] [INV VIOLET] Begin Quagmire Encryption
+[Ultimate Cipher #1] [INV VIOLET] Quagmire Rows: 
+[Ultimate Cipher #1] [INV VIOLET] EFHJKLNPQRSTUVWXYGIZMOABCD
+[Ultimate Cipher #1] [INV VIOLET] LNPQRSTUVWXYGIZMOABCDEFHJK
+[Ultimate Cipher #1] [INV VIOLET] BCDEFHJKLNPQRSTUVWXYGIZMOA
+[Ultimate Cipher #1] [INV VIOLET] OABCDEFHJKLNPQRSTUVWXYGIZM
+[Ultimate Cipher #1] [INV VIOLET] WXYGIZMOABCDEFHJKLNPQRSTUV
+[Ultimate Cipher #1] [INV VIOLET] STUVWXYGIZMOABCDEFHJKLNPQR
+[Ultimate Cipher #1] [INV VIOLET] N -> G
+[Ultimate Cipher #1] [INV VIOLET] Q -> D
+[Ultimate Cipher #1] [INV VIOLET] N -> J
+[Ultimate Cipher #1] [INV VIOLET] I -> X
+[Ultimate Cipher #1] [INV VIOLET] B -> J
+[Ultimate Cipher #1] [INV VIOLET] R -> Z
+[Daylight Directions #2] Starting rotation is 315 degrees. 0 degrees will point to the right.
+[Daylight Directions #2] Bomb has a Serial or DVI-D port but no Parallel ports. Starting solution rotation is 225 degrees.
+[Daylight Directions #2] Arrow is green, so it rotates 135 degrees counterclockwise. Final solution rotation is 360 degrees.
+[Dimension Disruption #1] Chosen letters: 2, 0, T.
+[Dimension Disruption #1] The missing rectangle corner is in the Bottom Right position
+[White Cipher #1] Generated Word: DEPTHS
+[White Cipher #1] Begin Sean Encryption
+[White Cipher #1] Key: ETYPQZFBUMDNACGHIJKLORSVWX
+[White Cipher #1] D -> V 
+[White Cipher #1] Key: CETYPQZFBUMDNGHIJKLORSVWXA
+[White Cipher #1] E -> H 
+[White Cipher #1] Key: GCETYPQZFBUMDHIJKLORSVWXAN
+[White Cipher #1] P -> O 
+[White Cipher #1] Key: HGCETYPQZFBUMIJKLORSVWXAND
+[White Cipher #1] T -> O 
+[White Cipher #1] Key: IHGCETYPQZFBUJKLORSVWXANDM
+[White Cipher #1] H -> K 
+[White Cipher #1] Key: JIHGCETYPQZFBKLORSVWXANDMU
+[White Cipher #1] S -> C 
+[White Cipher #1] Key: KJIHGCETYPQZFLORSVWXANDMUB
+[White Cipher #1] Begin Base Caesar Encryption
+[White Cipher #1] Generated Offset: 34
+[White Cipher #1] V -> N
+[White Cipher #1] H -> Z
+[White Cipher #1] O -> G
+[White Cipher #1] O -> G
+[White Cipher #1] K -> C
+[White Cipher #1] C -> U
+[White Cipher #1] Generated Base: ((14 + 26 + 7 + 7 + 3 + 21 ) % 8) + 2 = 8
+[White Cipher #1] Begin Grille Transposition
+[White Cipher #1] Clockwise rotations: 2
+[White Cipher #1] ETYPQPPZFBUZMZDN -> FQPMEZTBYUPZZDNP
+[Alchemy #1] The symbol is Terra.
+[Alchemy #1] Drawing a new circle.
+[Alchemy #1] The symbol is Strucota.
+[Alchemy #1] Circle is imperfect
+[Alchemy #1] Frequency to press is Life, button to press is ReDraw, your final frequency is None
+[Skyrim #1] The chosen races are Altmer, Nord, Redguard.
+[Skyrim #1] The chosen weapons are Axe of Whiterun, Volendrung, Windshear.
+[Skyrim #1] The chosen enemies are Dragon Priest, Draugr, Frostbite Spider.
+[Skyrim #1] The chosen cities are Solitude, Dawnstar, Windhelm.
+[Skyrim #1] The chosen shouts are fas-ru-mar (Dismay), yol-tor-shul (Fire Breath), kan-drem-ov (Kyne's Peace).
+[Skyrim #1] The correct race is Nord.
+[Skyrim #1] The correct weapon is Volendrung.
+[Skyrim #1] The correct enemy is Frostbite Spider.
+[Skyrim #1] The correct home city is Windhelm.
+[Skyrim #1] The correct shout is fas-ru-mar (Dismay).
+[Shapes Bombs #1] Using rule seed: 1
+[Shapes Bombs #1] Initial letter is: A
+[Shapes Bombs #1] Color for the squares is: Blue
+[Shapes Bombs #1] Arrow sequence is: Left-Down (0) Right-Up (1) Right (2) Up (3) Right-Down (4) Center (5) Up (6) Left (7) Left (8) Right-Down (9) Right-Down (10) Left-Down (11) Up-Left (12) Right (13) Right (14) 
+[Shapes Bombs #1] Initial number of table is: 20
+[Shapes Bombs #1] Starting table arrow sequence at: 5
+[Shapes Bombs #1] Letter table is:
+[Shapes Bombs #1]    ABD
+[Shapes Bombs #1]    EGI
+[Shapes Bombs #1]    KLN
+[Shapes Bombs #1]    OPS
+[Shapes Bombs #1]    TXY
+[Shapes Bombs #1] Ended table at letter: E
+[Shapes Bombs #1] Initial square location is: 21
+[Shapes Bombs #1] Module starting arrow sequence at: 3
+[Shapes Bombs #1] Counting unlit squares
+[Shapes Bombs #1] The final unlit square count in the upper-half is: 12
+[Shapes Bombs #1] Even solved modules final shape is:
+[Shapes Bombs #1]    XXXXX
+[Shapes Bombs #1]    XX000
+[Shapes Bombs #1]    XX000
+[Shapes Bombs #1]    XX000
+[Shapes Bombs #1]    XXX0X
+[Shapes Bombs #1]    0X0XX
+[Shapes Bombs #1]    X00XX
+[Shapes Bombs #1]    X00XX
+[Shapes Bombs #1] Odd solved modules final shape is:
+[Shapes Bombs #1]    0X0X0
+[Shapes Bombs #1]    0X0X0
+[Shapes Bombs #1]    0X0X0
+[Shapes Bombs #1]    0X0X0
+[Shapes Bombs #1]    0X0X0
+[Shapes Bombs #1]    0X0X0
+[Shapes Bombs #1]    0X0X0
+[Shapes Bombs #1]    0X0X0
+[The Hangover #1] - Never drink red wine again! - You hurled your guts up on the cat! - You woke up on the stove! - You shotted Absinthe! - You bought a doner kebab! Eww! - You walked all the way home! -
+[The Hangover #1] Your hangover elixir recipe is as follows: Family-pack of Oreos, 2 raw eggs, Bacon crisps, BLEND, Avocado toast, STIR, Sliced apple, Lard.
+[TwitchPlays] [M] garuda2002 (, 138444820): I think normal would be better personally, just because we're all good at the game
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): Yes
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"31 Mods"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 8
+{"serial":"1Z0TM9","displayNames":{"Timer":"Timer","FaultyBackgrounds":"Faulty Backgrounds","SpotTheDifference":"Spot the Difference","SamRedButtons":"Red Buttons","CornersModule":"Corners","Color Generator":"Color Generator","NotComplicatedWires":"N
+ot Complicated Wires","ultimateCipher":"Ultimate Cipher","calcModule":"Calculus","daylightDirections":"Daylight Directions","dimensionDisruption":"Dimension Disruption","numberNimbleness":"Number Nimbleness","curriculum":"Curriculum","CrazyTalk":"Cra
+zy Talk","DateFinder":"Find The Date","theSwan":"The Swan","X01":"X01","whiteCipher":"White Cipher","JuckAlchemy":"Alchemy","CryptModule":"Cryptography","skyrim":"Skyrim","ShapesBombs":"Shapes And Bombs","subways":"Subways","hangover":"The Hangover"}
+,"ids":{"FaultyBackgrounds":[1],"SpotTheDifference":[1],"SamRedButtons":[1],"CornersModule":[1],"Color Generator":[1],"NotComplicatedWires":[1],"ultimateCipher":[1],"calcModule":[1],"daylightDirections":[2],"dimensionDisruption":[1],"numberNimbleness
+":[1],"curriculum":[1],"DateFinder":[1],"theSwan":[1],"X01":[1],"whiteCipher":[1],"JuckAlchemy":[1],"skyrim":[1],"ShapesBombs":[1],"subways":[1],"hangover":[1]},"anchors":[[-0.221,0.341],[-0.001,0.341],[0.220,0.341],[-0.221,0.125],[-0.001,0.125],[0.2
+20,0.125],[-0.221,-0.128],[-0.001,-0.128],[0.220,-0.128],[-0.221,-0.344],[-0.001,-0.344],[0.220,-0.344],[0.221,0.341],[0.001,0.341],[-0.220,0.341],[0.221,0.125],[0.001,0.125],[-0.220,0.125],[0.221,-0.128],[0.001,-0.128],[-0.220,-0.128],[0.221,-0.344]
+,[0.001,-0.344],[-0.220,-0.344]],"modules":["whiteCipher 1","daylightDirections 2","X01 1","CrazyTalk -","dimensionDisruption 1","Timer -","FaultyBackgrounds 1","numberNimbleness 1","CornersModule 1","theSwan 1","Color Generator 1","calcModule 1","Da
+teFinder 1","curriculum 1","hangover 1","SamRedButtons 1","ShapesBombs 1","skyrim 1","NotComplicatedWires 1","subways 1","CryptModule -","ultimateCipher 1","SpotTheDifference 1","JuckAlchemy 1"]}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'FaultyBackgrounds(Clone)'.
+[Profile Revealer] Attaching to 'SpotTheDifference(Clone)'.
+[Profile Revealer] Attaching to 'Red Buttons(Clone)'.
+[Profile Revealer] Attaching to 'CornersModule(Clone)'.
+[Profile Revealer] Attaching to 'ColorGeneratorModule(Clone)'.
+[Profile Revealer] Attaching to 'Not Complicated Wires(Clone)'.
+[Profile Revealer] Attaching to 'ultimateCipher(Clone)'.
+[Profile Revealer] Attaching to 'CalcModule(Clone)'.
+[Profile Revealer] Attaching to 'Daylight Directions(Clone)'.
+[Profile Revealer] Attaching to 'Template(Clone)'.
+[Profile Revealer] Attaching to 'NumberNimblenessModule(Clone)'.
+[Profile Revealer] Attaching to 'Curriculum(Clone)'.
+[Profile Revealer] Attaching to 'CrazyTalkModule(Clone)'.
+[Profile Revealer] Attaching to 'Find the Date(Clone)'.
+[Profile Revealer] Attaching to 'theSwan(Clone)'.
+[Profile Revealer] Attaching to 'X01(Clone)'.
+[Profile Revealer] Attaching to 'whiteCipher(Clone)'.
+[Profile Revealer] Attaching to 'Alchemy(Clone)'.
+[Profile Revealer] Attaching to 'CryptModule(Clone)'.
+[Profile Revealer] Attaching to 'skyrim(Clone)'.
+[Profile Revealer] Attaching to 'ShapesBombs(Clone)'.
+[Profile Revealer] Attaching to 'subway(Clone)'.
+[Profile Revealer] Attaching to 'Hangover(Clone)'.
+custom
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 cv
+[Color Generator #1] Serial numbers converted to numbers, modulo 16: 1 10 0 4 13 9
+[Color Generator #1] Your color code is 26 4 217 (#1A04D9)
+[Calculus #1] The equation is Rx^2 + -1x^2
+[Calculus #1] The answer's degree is 3, meaning that an Integral must be taken
+[Calculus #1] The correct answer to the calculus equation is 0x^3
+[Curriculum #1] Condition: FreshmanYear
+[Curriculum #1] Classes on the buttons, in reading order (Asterisks indicate the correct class in each pair):
+[Curriculum #1] (P)hysics - *(M)ath
+[Curriculum #1] *(P)hilosophy - (L)iterature
+[Curriculum #1] (L)ogic - *(E)lectronics
+[Curriculum #1] *(P)rogramming - (E)conomy
+[Curriculum #1] *(L)inguistics - (M)anagement
+[Curriculum #1] Guaranteed solution: M 2 - P 2 - E 3 - P 2 - L 2
+[X01 #1] Generated a solvable board with 4 correct solutions. For example, SB S1 S3 D2.
+[X01 #1] Segment Values, clockwise, starting with North: 5, 1, 19, 18, 9, 15, 2, 20, 3, 10
+[X01 #1] Defuser needs to throw 4 darts for exactly 33 points, with restrictions: CEI.
+[Subways #1] Name Selected: Katie
+[Subways #1] Day Selected: We
+[Subways #1] Map Selected: London
+[Subways #1] Correct time: 6 AM.
+[Subways #1] Correct stops (in order): Green Park > Piccadilly Circus > Leicester Square
+[PaceMaker] Round start! Mission: 31 Mods Pacing Enabled: True
+
+[PaceMaker] Next idle action in 53.83447 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): oh no
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !10 cv
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !15 cv
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): Come here, boy.,
+[TwitchPlays] [M] garuda2002 (, 138444820): !16 cv
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !15 cv
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): aw
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): so why does ultimate cipher get announced, but RPSJ does not
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !bomb flip
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !bomb turn
+:rimastino!rimastino@rimastino.tmi.twitch.tv JOIN #heres_fangy
+:virgoproz!virgoproz@virgoproz.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 screen
+[TwitchPlays] [M] garuda2002 (, 138444820): this is fine, probably
+[Number Nimbleness #1]  Starting warmup.  Minigame is Nuisance Numbers.
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): *shrugs*
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): because its fangy
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): just one of those mysteries i guess
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 cv
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !find hang
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !bomb turn
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 cv
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): Spot the difference?
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): oh gosh
+[TwitchPlays] [M] garuda2002 (, 138444820): !18 cv
+[TwitchPlays] Enabling camera wall
+[TwitchPlays] Camera wall enabled
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !22 cv
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): spot the difference
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !3 cv
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): what in the world is that
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !2 show
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): SPOT THE DIFFERENCE
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !2 cv
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !15 time
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !2 score
+[TwitchPlays] [M] garuda2002 (, 138444820): !13 cv
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 help
+[PaceMaker] PlayerSuccessRating: 0.4743665 (Factors: solved: 0, strikes: 0.3, time: 0.1743665)
+
+[PaceMaker] Next idle action in 46.05475 seconds.
+
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 note
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !12 claim
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): My god that looks like cruel ustores
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !10 cycle
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !10 help
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 zoom
+[The Swan #1] Keyboard unlocked!
+[TwitchPlays] [M] garuda2002 (, 138444820): I thought it was ustores for a sec
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): its actually
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !15 execute 12 8 3 11 9 2
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): Not even close to ustores
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): I know
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !10 press br
+[TwitchPlays] [M] garuda2002 (, 138444820): and let's not give speaking ideas of making bamboozling cruel ustores
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !2 zoom 6 tilt down
+[The Swan #1] The system has been reset 1 time(s).
+[ModBombComponent #104] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"dimensionDisruption","bombTime":333.1035,"realTime":103.672852,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.4942051 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.1714779)
+
+[Dimension Disruption #1] Bottom Right button pressed, which is correct. Module solved.
+[PaceMaker] PlayerSuccessRating: 0.4923005 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.1695732)
+
+[PaceMaker] Next idle action in 50.23941 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !12 toggle
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !4 cv
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): I wanna die
+[TwitchPlays] [M] garuda2002 (, 138444820): !13 help
+[TwitchPlays] [M] garuda2002 (, 138444820): !13 toggle 5 3
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 screen
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 help
+[ModBombComponent #110] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"CrazyTalk","bombTime":323.9347,"realTime":139.8418}
+[PaceMaker] PlayerSuccessRating: 0.509233 (Factors: solved: 0.04545455, strikes: 0.3, time: 0.1637784)
+
+[Number Nimbleness #1]  Starting round.  Minigame is Nuisance Numbers.  Time earned was 90.  Buttons are 135462
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !2 uc
+[TwitchPlays] [M] garuda2002 (, 138444820): !8 cv
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): My eyes are the dead
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !12 toggle 2 4 5
+:v_and_k!v_and_k@v_and_k.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5006154 (Factors: solved: 0.04545455, strikes: 0.3, time: 0.1551608)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Cut the lights at 6143.066
+
+[PaceMaker] Next idle action in 35.23896 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !18 show
+---PING--- ---PONG--- :tmi.twitch.tv
+[The Swan #1] Keyboard unlocked!
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 press 5 4 3 2 1 6
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !12 click 1
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): uh
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !claims
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !2 cv
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !15 execute 2 4 6 11 1 3
+[PaceMaker] PlayerSuccessRating: 0.4838211 (Factors: solved: 0.04545455, strikes: 0.3, time: 0.1383665)
+
+[PaceMaker] Next idle action in 52.83787 seconds.
+
+[The Swan #1] The system has been reset 2 time(s).
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !2 help
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !12 click 2
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): This corners is evil
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !12 click 3
+[TwitchPlays] [M] garuda2002 (, 138444820): !18 press life redraw
+[Alchemy #1] Drawing a new circle.
+[Alchemy #1] The symbol is Heva.
+[Alchemy #1] Circle is imperfect
+[Alchemy #1] Frequency to press is None, button to press is ReDraw, your final frequency is None
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !12 click 4
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !2 zoom 5
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !12 submit
+[Curriculum #1] Submit pressed
+[Curriculum #1] Current button states: M 2 - P 2 - E 2 - P 2 - L 1
+[Curriculum #1] Bookworm: True
+[ModBombComponent #108] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"curriculum","bombTime":270.503174,"realTime":222.473145,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5539452 (Factors: solved: 0.06818182, strikes: 0.3, time: 0.1857634)
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 claim
+[Number Nimbleness #1]  This round was a Success.  Input string was: 543216.  Answer string was: 543216.
+[Number Nimbleness #1]  Starting warmup.  Minigame is Nonary Numbers.
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 help
+[TwitchPlays] [M] garuda2002 (, 138444820): !18 redraw
+[Alchemy #1] Drawing a new circle.
+[Alchemy #1] The symbol is Strucota.
+[Alchemy #1] Circle is perfect
+[Alchemy #1] Frequency to press is None, buttons to press are Heva, Submit, your final frequency is Energy
+[PaceMaker] PlayerSuccessRating: 0.5427078 (Factors: solved: 0.06818182, strikes: 0.3, time: 0.174526)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 6231.199
+
+[PaceMaker] Next idle action in 22.60164 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 d
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !22 add family-pack of oreos
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !2 tilt
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 D
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 add family-pack of oreos
+[The Hangover #1] 1) *Family-pack of Oreos* added to your elixir.
+[The Swan #1] Keyboard unlocked!
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !4 press tl bl tr br
+[Corners #1] You clicked corner: TL
+[Corners #1] You clicked corner: BL
+[Corners #1] You clicked corner: TR
+[Corners #1] You clicked corner: BR
+[ModBombComponent #92] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"CornersModule","bombTime":345.971649,"realTime":266.604,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5778004 (Factors: solved: 0.09090909, strikes: 0.3, time: 0.1868913)
+
+[Corners #1] Module solved.
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 add 2 raw eggs
+[PaceMaker] PlayerSuccessRating: 0.5768008 (Factors: solved: 0.09090909, strikes: 0.3, time: 0.1858917)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 49.81218 seconds.
+
+[The Hangover #1] 2) *2 raw eggs* added to your elixir.
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 add bacon crisps
+[The Hangover #1] 3) *Bacon crisps* added to your elixir.
+:starbucks___employee!starbucks___employee@starbucks___employee.tmi.twitch.tv JOIN #heres_fangy
+:dinu!dinu@dinu.tmi.twitch.tv JOIN #heres_fangy
+:jmanrocks152!jmanrocks152@jmanrocks152.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 set race nord
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 add blend
+[The Hangover #1] 4) *BLEND* your elixir.
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 weapons
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !15 execute 10 8 2 11 9 1
+[The Swan #1] The system has been reset 3 time(s).
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 add avocado toast
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !6 cv
+[The Hangover #1] 5) *Avocado toast* added to your elixir.
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 add stir
+[The Hangover #1] 6) *STIR* your elixir.
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 screen
+[Number Nimbleness #1]  Starting round.  Minigame is Nonary Numbers.  Time earned was 68.  Buttons are 798031
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 d
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 add sliced apple
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 add lard
+[The Hangover #1] 7) *Sliced apple* added to your elixir.
+[The Hangover #1] 8) *Lard* added to your elixir.
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 press 8
+[TwitchPlays] [M] garuda2002 (, 138444820): !18 press l submit energy submit
+[ModBombComponent #120] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"JuckAlchemy","bombTime":352.9913,"realTime":315.484375,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6136364 (Factors: solved: 0.1136364, strikes: 0.3, time: 0.2)
+
+[Alchemy #1] Module solved!
+[PaceMaker] PlayerSuccessRating: 0.6136364 (Factors: solved: 0.1136364, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.37357 seconds.
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 press 3
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 D
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 press 1
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !6 cut 1 2 3 5 6
+[Not Complicated Wires #1] Wire 1 was cut. That was correct.
+[Not Complicated Wires #1] Wire 2 was cut. That was correct.
+[Not Complicated Wires #1] Wire 3 was cut. That was correct.
+[Not Complicated Wires #1] Wire 5 was cut. That was correct.
+[Not Complicated Wires #1] Wire 6 was cut. That was correct.
+[ModBombComponent #96] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"NotComplicatedWires","bombTime":411.592224,"realTime":332.0835,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6363636 (Factors: solved: 0.1363636, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 press 9
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !23 submit
+[The Hangover #1] Your elixir was correct. Module disarmed.
+[ModBombComponent #130] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"hangover","bombTime":462.855743,"realTime":337.819824,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6590909 (Factors: solved: 0.1590909, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 press 0 7
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 set weapon volendrung
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 r
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 enemies
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): @ScopingLandscape have you strarted upher?
+[Number Nimbleness #1]  This round was a Success.  Input string was: 831907.  Answer string was: 831907.
+[Number Nimbleness #1]  Starting warmup.  Minigame is Nagging Numbers.
+[The Swan #1] Keyboard unlocked!
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): oh
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !22 time set 6am
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !22 help
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !15 execute 9 6 2 12 3 4
+[The Swan #1] The system has been reset 4 time(s).
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 d
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 R
+[PaceMaker] PlayerSuccessRating: 0.6590909 (Factors: solved: 0.1590909, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.29344 seconds.
+
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !22 set time 6 am
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 D
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): Yeet feet delete
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Four
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 r
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 R
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !claim 1 5
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 L
+[TwitchPlays] [M] garuda2002 (, 138444820): !8 submit 0
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !1 press left 5
+[Calculus #1] Submitted answer: 0x^3, which is correct! Module disarmed!
+[ModBombComponent #100] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"calcModule","bombTime":481.3906,"realTime":396.184082,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6818182 (Factors: solved: 0.1818182, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !1 press right 3
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !1 press left 2
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !22 set route Green park, Piccadilly circus, leicester square
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 set enemy frostbite spider
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 r
+[TwitchPlays] [M] garuda2002 (, 138444820): I assure you calculus isn't that easy, having taken it
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 cities
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !2 zoom 5 tilt
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !22 submit
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.6818182 (Factors: solved: 0.1818182, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 35.80829 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !17 cv
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 d
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !19 cv
+[ModBombComponent #128] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"subways","bombTime":493.057861,"realTime":423.3169,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7045455 (Factors: solved: 0.2045455, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !5 press bigred 6 smallred 1 bigred 2 smallred 2
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 R
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !5 press biggreen 4
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 D
+[The Swan #1] Keyboard unlocked!
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 r
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 screen
+[Number Nimbleness #1]  Starting round.  Minigame is Nagging Numbers.  Time earned was 89.  Buttons are 819642
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 press 4
+[PaceMaker] PlayerSuccessRating: 0.7045455 (Factors: solved: 0.2045455, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 35.4763 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !15 execute 3 12 2 6 11 4
+[The Swan #1] The system has been reset 5 time(s).
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 set city windhelm
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Five
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 press 6
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 shouts
+:starbucks___employee!starbucks___employee@starbucks___employee.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 press 8
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !5 press biggreen 7 smallred 1 biggreen 1 smallred 1 biggreen 2 smallred 1
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 press 2
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !11 press 1 9
+[PaceMaker] PlayerSuccessRating: 0.7045455 (Factors: solved: 0.2045455, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.62553 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 d
+[Number Nimbleness #1]  This round was a Complete.  Input string was: 468219.  Answer string was: 468219.
+[ModBombComponent #106] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"numberNimbleness","bombTime":472.292,"realTime":493.182617,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7272727 (Factors: solved: 0.2272727, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !19 press w r t c d
+W
+WR
+WRT
+WRTC
+WRTCD
+[ModBombComponent #122] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"CryptModule","bombTime":578.2245,"realTime":496.1499}
+[PaceMaker] PlayerSuccessRating: 0.75 (Factors: solved: 0.25, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !16 show
+[The Swan #1] Keyboard unlocked!
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !3 press 4
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !1 press right 6 submit
+[Red Buttons #1] You pressed 4
+[Red Buttons #1] The displayed digit for 'stage' 2 is 6
+[Red Buttons #1] The number before modulo-ing 6 was 4380
+[Red Buttons #1] The number after modulo-ing 6 was 0
+[Faulty Backgrounds #1] Submitted 6, Goal was 6
+[ModBombComponent #86] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"FaultyBackgrounds","bombTime":618.4753,"realTime":535.8994,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7727273 (Factors: solved: 0.2727273, strikes: 0.3, time: 0.2)
+
+[Faulty Backgrounds #1] The module has been defused.
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !3 press 0
+[Red Buttons #1] You pressed 0
+[Red Buttons #1] The displayed digit for 'stage' 3 is 5
+[Red Buttons #1] The number before modulo-ing 6 was 3650
+[Red Buttons #1] The number after modulo-ing 6 was 2
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 D
+[PaceMaker] PlayerSuccessRating: 0.7727273 (Factors: solved: 0.2727273, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 25.84078 seconds.
+
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !3 press 2
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !15 execute 12 2 1 11 3 9
+[Red Buttons #1] You pressed 2
+[Red Buttons #1] The displayed digit for 'stage' 4 is 1
+[Red Buttons #1] The number before modulo-ing 6 was 730
+[Red Buttons #1] The number after modulo-ing 6 was 4
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Six
+[The Swan #1] The system has been reset 6 time(s).
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !3 press 4
+[Red Buttons #1] You pressed 4
+[Red Buttons #1] The displayed digit for 'stage' 5 is 5
+[Red Buttons #1] The number before modulo-ing 6 was 3650
+[Red Buttons #1] The number after modulo-ing 6 was 2
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !5 press smallgreen 1
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !3 press 2
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !2 show
+[Red Buttons #1] You pressed 2
+[Red Buttons #1] The displayed digit for 'stage' 6 is 7
+[Red Buttons #1] The number before modulo-ing 6 was 5110
+[Red Buttons #1] The number after modulo-ing 6 was 4
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !3 press 4
+[Red Buttons #1] You pressed 4
+[Red Buttons #1] The sequence was correct! Module solved.
+[PaceMaker] PlayerSuccessRating: 0.7727273 (Factors: solved: 0.2727273, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 27.88334 seconds.
+
+[ModBombComponent #90] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"SamRedButtons","bombTime":634.7074,"realTime":570.2666,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7954546 (Factors: solved: 0.2954545, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 set shout dismay
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 submit
+[ModBombComponent #124] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"skyrim","bombTime":685.976,"realTime":580.197754,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.8181818 (Factors: solved: 0.3181818, strikes: 0.3, time: 0.2)
+
+[Skyrim #1] Module disarmed, Dovahkin.
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !claims
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !5 press bigblue 7 biggreen 4 bigred 6 smallred 1 bigred 2 bigblue 1 smallred 1 bigblue 2 smallred 1
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !9 claim
+[PaceMaker] PlayerSuccessRating: 0.8181818 (Factors: solved: 0.3181818, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 26.53643 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !14 cv
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !2 help
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !2 ball 15
+14
+[ModBombComponent #88] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"SpotTheDifference","bombTime":767.907959,"realTime":611.5659,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.8409091 (Factors: solved: 0.3409091, strikes: 0.3, time: 0.2)
+
+[Spot The Difference #1] You pressed the right sphere. Module disarmed.
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): there we go
+[The Swan #1] Keyboard unlocked!
+[PaceMaker] PlayerSuccessRating: 0.8409091 (Factors: solved: 0.3409091, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 50.27017 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !15 execute 1 6 4 8 11 9
+[The Swan #1] The system has been reset 7 time(s).
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !5 press smallblue 1
+[Color Generator #1] Submitted the correct color! Module solved.
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): spot the difference is not that hard tbh
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !9 zoom
+[ModBombComponent #94] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"Color Generator","bombTime":789.466248,"realTime":652.506348,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.8636364 (Factors: solved: 0.3636364, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !16 help
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !21 help
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Seven resets so far
+[PaceMaker] PlayerSuccessRating: 0.8636364 (Factors: solved: 0.3636364, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 29.90174 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !14 submit tuesday
+Current century id:7
+Current year id:2
+Year century result: 2
+[Date Finder #1] Generated date: 10 Feb, 1713, which is on Friday
+[TwitchPlays] [M] garuda2002 (, 138444820): !16 press sb in3 in1 d2
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !9 CW CW CW
+[X01 #1] Defuser pressed Single Bull, valued at 25.
+[X01 #1] Player Now has 8 points and 3 dart(s) remaining.
+[X01 #1] Defuser pressed Inner Single 3, valued at 3.
+[X01 #1] Player Now has 5 points and 2 dart(s) remaining.
+[X01 #1] Defuser pressed Inner Single 1, valued at 1.
+[X01 #1] Player Now has 4 points and 1 dart(s) remaining.
+[X01 #1] Defuser pressed Double 2, valued at 4.
+[X01 #1] Player Now has 0 points and 0 dart(s) remaining.
+[ModBombComponent #116] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"X01","bombTime":806.275269,"realTime":698.697266,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.8863636 (Factors: solved: 0.3863636, strikes: 0.3, time: 0.2)
+
+[X01 #1] Module Solved with Solution: SB S3 S1 D2 
+[TwitchPlays] Disabling camera wall
+[TwitchPlays] Camera wall disabled
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+[The Swan #1] Keyboard unlocked!
+[PaceMaker] PlayerSuccessRating: 0.8863636 (Factors: solved: 0.3863636, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 57.22542 seconds.
+
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): wHAT THE
+[TwitchPlays] [M] garuda2002 (, 138444820): umm
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): uh
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !15 execute 10 11 5 12 2 9
+[The Swan #1] Ready to solve!
+[The Swan #1] The system has been reset 8 time(s).
+[The Swan #1] Rule 1 applies. Enter '>: D H A R M A '.
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): uh
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): where is the bomb
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Eight
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): oh
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): LUL
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !9 cw cw cw
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): whoops
+[Daylight Directions #2] Twitch plays command cw registered; clockwise button pressed.
+[Daylight Directions #2] Rotated arrow clockwise. Rotation is now 270 degrees.
+[Daylight Directions #2] Twitch plays command cw registered; clockwise button pressed.
+[Daylight Directions #2] Rotated arrow clockwise. Rotation is now 225 degrees.
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !bomb flip
+[Daylight Directions #2] Twitch plays command cw registered; clockwise button pressed.
+[Daylight Directions #2] Rotated arrow clockwise. Rotation is now 180 degrees.
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): Superzoom activate
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): lol
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !14 submit friday
+Current century id:4
+Current year id:1
+Year century result: 5
+[Date Finder #1] Generated date: 29 Sep, 1040, which is on Monday
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): zupersoom
+[TwitchPlays] [M] garuda2002 (, 138444820): !17 r
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): someone zupersoom
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): heh spot the difference still cycles even in a solved state
+[PaceMaker] PlayerSuccessRating: 0.8863636 (Factors: solved: 0.3863636, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 23.43224 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !9 cw cw cw cw
+[Daylight Directions #2] Twitch plays command cw registered; clockwise button pressed.
+[Daylight Directions #2] Rotated arrow clockwise. Rotation is now 135 degrees.
+[Daylight Directions #2] Twitch plays command cw registered; clockwise button pressed.
+[Daylight Directions #2] Rotated arrow clockwise. Rotation is now 90 degrees.
+[Daylight Directions #2] Twitch plays command cw registered; clockwise button pressed.
+[Daylight Directions #2] Rotated arrow clockwise. Rotation is now 45 degrees.
+[Daylight Directions #2] Twitch plays command cw registered; clockwise button pressed.
+[Daylight Directions #2] Rotated arrow clockwise. Rotation is now 0 degrees.
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !9 submit
+[Daylight Directions #2] Twitch plays command submit registered; submit button pressed.
+[ModBombComponent #102] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"daylightDirections","bombTime":872.2941,"realTime":770.5781,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.9090909 (Factors: solved: 0.4090909, strikes: 0.3, time: 0.2)
+
+[Daylight Directions #2] Submitted rotation is correct. Module passed.
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !14 submit monday
+[ModBombComponent #112] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"DateFinder","bombTime":930.652954,"realTime":776.418945,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.9318182 (Factors: solved: 0.4318182, strikes: 0.3, time: 0.2)
+
+[Date Finder #1] Submitted date is correct.
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !15 time
+[PaceMaker] PlayerSuccessRating: 0.9318182 (Factors: solved: 0.4318182, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 39.08083 seconds.
+
+[The Swan #1] Keyboard unlocked!
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !15 execute 11 1 10 8 7 10
+[The Swan #1] Failsafe sequence initiated.
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): idk shapes and bombs
+[The Swan #1] System disarmed. Module disarmed. Namaste.
+[ModBombComponent #114] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"theSwan","bombTime":942.8455,"realTime":818.2261,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.9545455 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): me neither
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !21 show
+[PaceMaker] PlayerSuccessRating: 0.9545455 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 32.0245 seconds.
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): im sightreading
+:crunchipchip!crunchipchip@crunchipchip.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !21 zoom 10
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): this sequence is so slow
+[PaceMaker] PlayerSuccessRating: 0.9545455 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.01588 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.9545455 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 29.90753 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.9545455 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 26.16649 seconds.
+
+:universe!universe@universe.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.9545455 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 35.00108 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.9545455 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 46.09206 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.9545455 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 57.37618 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.9545455 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 38.67154 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !17 submit depths
+[ModBombComponent #118] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"whiteCipher","bombTime":667.604065,"realTime":1137.06689,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 38.14886 seconds.
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): garuda do u know shapes and bombs
+[TwitchPlays] [M] garuda2002 (, 138444820): nope, sorry
+[TwitchPlays] [M] garuda2002 (, 138444820): lets learn it together I gess
+[TwitchPlays] [M] garuda2002 (, 138444820): *guess
+[TwitchPlays] [M] garuda2002 (, 138444820): !21 help
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 37.45603 seconds.
+
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 R
+:trpas33!trpas33@trpas33.tmi.twitch.tv JOIN #heres_fangy
+:marksam32!marksam32@marksam32.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Oof
+[TwitchPlays] [M] garuda2002 (, 138444820): how you doing there scoping?
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 46.80719 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): Something goes wrong within the first 2 colors, which is just absolutely perfect.
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 23.26059 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): ucipher is rough, it's just a super long mod
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !notes1 LD RU R U RD / U L L RD RD LD LU R R
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 22.86589 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): mind if i shadow ucipher?
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 22.57846 seconds.
+
+:trpas33!trpas33@trpas33.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 37.19517 seconds.
+
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): Sure.
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 57.21568 seconds.
+
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): You got the word, Zaphod?
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): yes
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): er the pigpen
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): ELBOWS 26 GIZMO
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): IV
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): i was about to ask what color that was, didn't notice thats what the IV was for at first
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 40.87614 seconds.
+
+:mythers45!mythers45@mythers45.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 24.71719 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 20.6086 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.9772727 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 46.2832 seconds.
+
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): Can you give me the letters, coming out of IV?
+[PaceMaker] PlayerSuccessRating: 0.9651051 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.1878324)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 20.91327 seconds.
+
+:zcaercat!zcaercat@zcaercat.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.9551509 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.1778782)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 28.82747 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.9413998 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.164127)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 53.8677 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.9157363 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.1384635)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 21.87253 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.9053205 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.1280477)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 48.67501 seconds.
+
+:zcaercat!zcaercat@zcaercat.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): ive got BNEVCE after IV
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): JGZPHXDZL OBSCURE 000000 111000 52 ? 45 = 54
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): ii
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): II
+[TwitchPlays] [M] garuda2002 (, 138444820): shapes and bombs is too much for my head right now
+[PaceMaker] PlayerSuccessRating: 0.88213 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.1048573)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 21.80233 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.8717397 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.09446703)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 24.53372 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.8600456 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.0827729)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.98767 seconds.
+
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): Can you confirm Morse Logic is EFFJXS?
+:jery2009!jery2009@jery2009.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.8338511 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.05657839)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 40.27117 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.8146548 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.03738204)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.06996 seconds.
+
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): yep i got that
+[PaceMaker] PlayerSuccessRating: 0.7879494 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.01067663)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.11229 seconds.
+
+:jery2009!jery2009@jery2009.tmi.twitch.tv PART #heres_fangy
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"1Z0TM9","bombTime":-0.011259079,"realTime":1958.76416,"solves":21,"strikes":0}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

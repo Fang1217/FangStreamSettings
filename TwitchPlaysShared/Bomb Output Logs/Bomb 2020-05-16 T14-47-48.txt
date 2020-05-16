@@ -1,0 +1,3773 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 2142210257
+
+[BombGenerator] Generator settings: Time: 3720, NumStrikes: 6, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 31
+
+
+[BombGenerator] Selected timeKeeper (1416853392 (ModBombComponent))
+
+[BombGenerator] Selected PointOfOrderModule (955137794 (ModBombComponent))
+
+[BombGenerator] Selected playfairCycle (1829885708 (ModBombComponent))
+
+[BombGenerator] Selected hyperlink (1898602367 (ModBombComponent))
+
+[BombGenerator] Selected turtleRobot (1406012108 (ModBombComponent))
+
+[BombGenerator] Selected SuperlogicModule (1364017029 (ModBombComponent))
+
+[BombGenerator] Selected minecraftParody (2044851803 (ModBombComponent))
+
+[BombGenerator] Selected vigenereCipher (1809303027 (ModBombComponent))
+
+[BombGenerator] Selected masyuModule (1850003378 (ModBombComponent))
+
+[BombGenerator] Selected graffitiNumbers (1377563237 (ModBombComponent))
+
+[BombGenerator] Selected mysterymodule (2069225943 (ModBombComponent))
+
+[BombGenerator] Selected ColoredSquaresModule (805590147 (ModBombComponent))
+
+[BombGenerator] Selected scavengerHunt (1923760982 (ModBombComponent))
+
+[BombGenerator] Selected PasswordsTranslated (850186070 (ModBombComponent))
+
+[BombGenerator] Selected forgetUsNot (1826273934 (ModBombComponent))
+
+[BombGenerator] Selected KritBlackjack (1541425240 (ModBombComponent))
+
+[BombGenerator] Selected RPSJudging (2048829561 (ModBombComponent))
+
+[BombGenerator] Selected radiator (1291601109 (ModBombComponent))
+
+[BombGenerator] Selected ArrowTalk (2075509471 (ModBombComponent))
+
+[BombGenerator] Selected vexillology (1705295112 (ModBombComponent))
+
+[BombGenerator] Selected blackCipher (1940168029 (ModBombComponent))
+
+[BombGenerator] Selected daylightDirections (1743335011 (ModBombComponent))
+
+[BombGenerator] Selected caesarCycle (1825385284 (ModBombComponent))
+
+[BombGenerator] Selected taxReturns (1370172381 (ModBombComponent))
+
+[BombGenerator] Selected coloredMaze (1894958987 (ModBombComponent))
+
+[BombGenerator] Selected kookyKeypadModule (1869640550 (ModBombComponent))
+
+[BombGenerator] Selected BitOps (925533475 (ModBombComponent))
+
+[BombGenerator] Selected flowerPatch (1828253734 (ModBombComponent))
+
+[BombGenerator] Selected qkForgetPerspective (1831737244 (ModBombComponent))
+
+[BombGenerator] Selected yellowCipher (1869671443 (ModBombComponent))
+
+[BombGenerator] Selected spwizAdventureGame (747854140 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1416853392 (ModBombComponent), 955137794 (ModBombComponent), 1829885708 (ModBombComponent), 1898602367 (ModBombComponent), 1406012108 (ModBombComponent), 1364017029 (ModBombComponent), 2044851803 (ModBombComponent), 1809303027 (ModBombComponent), 1850003378 (ModBombComponent), 1377563237 (ModBombComponent), 2069225943 (ModBombComponent), 805590147 (ModBombComponent), 1923760982 (ModBombComponent), 850186070 (ModBombComponent), 1826273934 (ModBombComponent), 1541425240 (ModBombComponent), 2048829561 (ModBombComponent), 1291601109 (ModBombComponent), 2075509471 (ModBombComponent), 1705295112 (ModBombComponent), 1940168029 (ModBombComponent), 1743335011 (ModBombComponent), 1825385284 (ModBombComponent), 1370172381 (ModBombComponent), 1894958987 (ModBombComponent), 1869640550 (ModBombComponent), 925533475 (ModBombComponent), 1828253734 (ModBombComponent), 1831737244 (ModBombComponent), 1869671443 (ModBombComponent), 747854140 (ModBombComponent)]
+
+[Mod-timeKeeper] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1416853392" has ID:"timeKeeper"
+
+[Mod-timeKeeper] Loading assemblies...
+
+[Mod-timeKeeper] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1416853392\Newtonsoft.Json.dll"...
+
+[Mod-timeKeeper] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1416853392\timeKeeper.dll"
+
+[Mod-timeKeeper] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1416853392" complete.
+
+[Mod-timeKeeper] Loading GameObjects...
+
+[Mod-timeKeeper] Replacing shaders...
+
+[Mod-timeKeeper] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-timeKeeper] Loading KMMissions...
+
+[Mod-timeKeeper] Loading KMMissionTableOfContents...
+
+[Mod-timeKeeper] Loading AudioClips...
+
+[BombGenerator] Instantiated 1416853392 on face RearFace, spawn index 0
+
+[Mod-PointOfOrder] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\955137794" has ID:"PointOfOrder"
+
+[Mod-PointOfOrder] Loading assemblies...
+
+[Mod-PointOfOrder] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\955137794\Newtonsoft.Json.dll"...
+
+[Mod-PointOfOrder] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\955137794\PointOfOrder.dll"
+
+[Mod-PointOfOrder] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\955137794" complete.
+
+[Mod-PointOfOrder] Loading GameObjects...
+
+[Mod-PointOfOrder] Replacing shaders...
+
+[Mod-PointOfOrder] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-PointOfOrder] Loading KMMissions...
+
+[Mod-PointOfOrder] Loading KMMissionTableOfContents...
+
+[Mod-PointOfOrder] Loading AudioClips...
+
+[BombGenerator] Instantiated 955137794 on face FrontFace, spawn index 8
+
+[Mod-playfairCycle] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1829885708" has ID:"playfairCycle"
+
+[Mod-playfairCycle] Loading assemblies...
+
+[Mod-playfairCycle] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1829885708\Newtonsoft.Json.dll"...
+
+[Mod-playfairCycle] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1829885708\playfairCycle.dll"
+
+[Mod-playfairCycle] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1829885708" complete.
+
+[Mod-playfairCycle] Loading GameObjects...
+
+[Mod-playfairCycle] Replacing shaders...
+
+[Mod-playfairCycle] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-playfairCycle] Loading KMMissions...
+
+[Mod-playfairCycle] Loading KMMissionTableOfContents...
+
+[Mod-playfairCycle] Loading AudioClips...
+
+[BombGenerator] Instantiated 1829885708 on face RearFace, spawn index 11
+
+[Mod-hyperlink] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1898602367" has ID:"hyperlink"
+
+[Mod-hyperlink] Loading assemblies...
+
+[Mod-hyperlink] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1898602367\Newtonsoft.Json.dll"...
+
+[Mod-hyperlink] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1898602367\hyperlink.dll"
+
+[Mod-hyperlink] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1898602367" complete.
+
+[Mod-hyperlink] Loading GameObjects...
+
+[Mod-hyperlink] Replacing shaders...
+
+[Mod-hyperlink] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-hyperlink] Loading KMMissions...
+
+[Mod-hyperlink] Loading KMMissionTableOfContents...
+
+[Mod-hyperlink] Loading AudioClips...
+
+[BombGenerator] Instantiated 1898602367 on face RearFace, spawn index 14
+
+[Mod-turtleRobot] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1406012108" has ID:"turtleRobot"
+
+[Mod-turtleRobot] Loading assemblies...
+
+[Mod-turtleRobot] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1406012108\Newtonsoft.Json.dll"...
+
+[Mod-turtleRobot] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1406012108\turtleRobot.dll"
+
+[Mod-turtleRobot] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1406012108" complete.
+
+[Mod-turtleRobot] Loading GameObjects...
+
+[Mod-turtleRobot] Replacing shaders...
+
+[Mod-turtleRobot] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-turtleRobot] Loading KMMissions...
+
+[Mod-turtleRobot] Loading KMMissionTableOfContents...
+
+[Mod-turtleRobot] Loading AudioClips...
+
+[BombGenerator] Instantiated 1406012108 on face RearFace, spawn index 8
+
+[Mod-Superlogic] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1364017029" has ID:"Superlogic"
+
+[Mod-Superlogic] Loading assemblies...
+
+[Mod-Superlogic] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1364017029\Newtonsoft.Json.dll"...
+
+[Mod-Superlogic] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1364017029\Superlogic.dll"
+
+[Mod-Superlogic] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1364017029" complete.
+
+[Mod-Superlogic] Loading GameObjects...
+
+[Mod-Superlogic] Replacing shaders...
+
+[Mod-Superlogic] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-Superlogic] Loading KMMissions...
+
+[Mod-Superlogic] Loading KMMissionTableOfContents...
+
+[Mod-Superlogic] Loading AudioClips...
+
+[BombGenerator] Instantiated 1364017029 on face FrontFace, spawn index 10
+
+[Mod-minecraftParody] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2044851803" has ID:"minecraftParody"
+
+[Mod-minecraftParody] Loading assemblies...
+
+[Mod-minecraftParody] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2044851803\Newtonsoft.Json.dll"...
+
+[Mod-minecraftParody] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2044851803\minecraftParody.dll"
+
+[Mod-minecraftParody] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2044851803" complete.
+
+[Mod-minecraftParody] Loading GameObjects...
+
+[Mod-minecraftParody] Replacing shaders...
+
+[Mod-minecraftParody] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-minecraftParody] Loading KMMissions...
+
+[Mod-minecraftParody] Loading KMMissionTableOfContents...
+
+[Mod-minecraftParody] Loading AudioClips...
+
+[BombGenerator] Instantiated 2044851803 on face RearFace, spawn index 6
+
+[Mod-vigenereCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1809303027" has ID:"vigenereCipher"
+
+[Mod-vigenereCipher] Loading assemblies...
+
+[Mod-vigenereCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1809303027\Newtonsoft.Json.dll"...
+
+[Mod-vigenereCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1809303027\vigenereCipher.dll"
+
+[Mod-vigenereCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1809303027" complete.
+
+[Mod-vigenereCipher] Loading GameObjects...
+
+[Mod-vigenereCipher] Replacing shaders...
+
+[Mod-vigenereCipher] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-vigenereCipher] Loading KMMissions...
+
+[Mod-vigenereCipher] Loading KMMissionTableOfContents...
+
+[Mod-vigenereCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1809303027 on face FrontFace, spawn index 3
+
+[Mod-masyuModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1850003378" has ID:"masyuModule"
+
+[Mod-masyuModule] Loading assemblies...
+
+[Mod-masyuModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1850003378\Newtonsoft.Json.dll"...
+
+[Mod-masyuModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1850003378\masyuModule.dll"
+
+[Mod-masyuModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1850003378" complete.
+
+[Mod-masyuModule] Loading GameObjects...
+
+[Mod-masyuModule] Replacing shaders...
+
+[Mod-masyuModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-masyuModule] Loading KMMissions...
+
+[Mod-masyuModule] Loading KMMissionTableOfContents...
+
+[Mod-masyuModule] Loading AudioClips...
+
+[BombGenerator] Instantiated 1850003378 on face FrontFace, spawn index 5
+
+[Mod-graffitiNumbers] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1377563237" has ID:"graffitiNumbers"
+
+[Mod-graffitiNumbers] Loading assemblies...
+
+[Mod-graffitiNumbers] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1377563237\Newtonsoft.Json.dll"...
+
+[Mod-graffitiNumbers] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1377563237\graffitiNumbers.dll"
+
+[Mod-graffitiNumbers] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1377563237" complete.
+
+[Mod-graffitiNumbers] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-graffitiNumbers] Replacing shaders...
+
+[Mod-graffitiNumbers] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-graffitiNumbers] Loading KMMissions...
+
+[Mod-graffitiNumbers] Loading KMMissionTableOfContents...
+
+[Mod-graffitiNumbers] Loading AudioClips...
+
+[BombGenerator] Instantiated 1377563237 on face FrontFace, spawn index 14
+
+[Mod-mysterymodule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2069225943" has ID:"mysterymodule"
+
+[Mod-mysterymodule] Loading assemblies...
+
+[Mod-mysterymodule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2069225943\Newtonsoft.Json.dll"...
+
+[Mod-mysterymodule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2069225943\mysterymodule.dll"
+
+[Mod-mysterymodule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2069225943" complete.
+
+[Mod-mysterymodule] Loading GameObjects...
+
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Mod-mysterymodule] Replacing shaders...
+
+[Mod-mysterymodule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-mysterymodule] Replacing shaders...
+
+[Mod-mysterymodule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-mysterymodule] Loading KMMissions...
+
+[Mod-mysterymodule] Loading KMMissionTableOfContents...
+
+[Mod-mysterymodule] Loading AudioClips...
+
+[BombGenerator] Instantiated 2069225943 on face FrontFace, spawn index 7
+
+[Mod-ColoredSquares] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\805590147" has ID:"ColoredSquares"
+
+[Mod-ColoredSquares] Loading assemblies...
+
+[Mod-ColoredSquares] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\805590147\Newtonsoft.Json.dll"...
+
+[Mod-ColoredSquares] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\805590147\ColoredSquares.dll"
+
+[Mod-ColoredSquares] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\805590147" complete.
+
+[Mod-ColoredSquares] Loading GameObjects...
+
+[Mod-ColoredSquares] Replacing shaders...
+
+[Mod-ColoredSquares] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColoredSquares] Replacing shaders...
+
+[Mod-ColoredSquares] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColoredSquares] Replacing shaders...
+
+[Mod-ColoredSquares] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColoredSquares] Replacing shaders...
+
+[Mod-ColoredSquares] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColoredSquares] Replacing shaders...
+
+[Mod-ColoredSquares] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColoredSquares] Replacing shaders...
+
+[Mod-ColoredSquares] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColoredSquares] Loading KMMissions...
+
+[Mod-ColoredSquares] Loading KMMissionTableOfContents...
+
+[Mod-ColoredSquares] Loading AudioClips...
+
+[BombGenerator] Instantiated 805590147 on face FrontFace, spawn index 12
+
+[Mod-scavengerHunt] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1923760982" has ID:"scavengerHunt"
+
+[Mod-scavengerHunt] Loading assemblies...
+
+[Mod-scavengerHunt] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1923760982\Newtonsoft.Json.dll"...
+
+[Mod-scavengerHunt] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1923760982\scavengerHunt.dll"
+
+[Mod-scavengerHunt] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1923760982" complete.
+
+[Mod-scavengerHunt] Loading GameObjects...
+
+[Mod-scavengerHunt] Replacing shaders...
+
+[Mod-scavengerHunt] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-scavengerHunt] Loading KMMissions...
+
+[Mod-scavengerHunt] Loading KMMissionTableOfContents...
+
+[Mod-scavengerHunt] Loading AudioClips...
+
+[BombGenerator] Instantiated 1923760982 on face RearFace, spawn index 9
+
+[Mod-TranslatedModules] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\850186070" has ID:"TranslatedModules"
+
+[Mod-TranslatedModules] Loading assemblies...
+
+[Mod-TranslatedModules] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\850186070\Newtonsoft.Json.dll"...
+
+[Mod-TranslatedModules] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\850186070\TranslatedModules.dll"
+
+[Mod-TranslatedModules] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\850186070" complete.
+
+[Mod-TranslatedModules] Loading GameObjects...
+
+[Mod-TranslatedModules] Replacing shaders...
+
+[Mod-TranslatedModules] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-TranslatedModules] Replacing shaders...
+
+[Mod-TranslatedModules] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-TranslatedModules] Replacing shaders...
+
+[Mod-TranslatedModules] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-TranslatedModules] Replacing shaders...
+
+[Mod-TranslatedModules] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-TranslatedModules] Replacing shaders...
+
+[Mod-TranslatedModules] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-TranslatedModules] Replacing shaders...
+
+[Mod-TranslatedModules] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-TranslatedModules] Loading KMMissions...
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_1_3_en_DisplayName: "The First Bomb"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_1_3_en_Description: "Everybody has to start somewhere. Let's just hope it doesn't end here too.
+
+Make sure your experts have the manual and are ready to help."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_2_1_en_DisplayName: "Something Old, Something New"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_2_1_en_Description: "When did seeing a familiar bomb become comforting?
+
+No matter. This bomb will only be half-comforting."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_2_2_en_DisplayName: "Double Your Money"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_2_2_en_Description: "The task is clear but the timer doesn't care about your workload."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_2_3_en_DisplayName: "One Step Up"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_2_3_en_Description: "For those who have made it this far and want something tougher, but not too tough."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_2_4_en_DisplayName: "Pick up the Pace"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_2_4_en_Description: "Reading this only uses up time you don't have.
+
+Chop chop."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_1_en_DisplayName: "A Hidden Message"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_1_en_Description: "Information can be obscured in ways that are time-consuming to decode.
+
+In the world of bomb defusing, that's a bad thing."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_2_en_DisplayName: "Something's Different"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_2_en_Description: "Do these wires look different to you? Does this bomb look exploded to you?"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_3_en_DisplayName: "One Giant Leap"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_3_en_Description: "60% of the time, this bomb explodes every time."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_4_en_DisplayName: "Fair Game"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_4_en_Description: "No more hand-holding. Remember everything you've learned, because anything can appear on this bomb."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_5_en_DisplayName: "Pick up the Pace II"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_5_en_Description: "Rdng ths nly uses time u dnt hve."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_6_en_DisplayName: "No Room for Error"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_6_en_Description: "One mistake and it's all over. Wipe the sweat of your palms and try not to let it get to you."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_7_en_DisplayName: "Eight Minutes"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_3_7_en_Description: "Eight modules, eight minutes. Take your time. Relax.
+
+(Note: never relax when defusing a bomb.)"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_4_1_en_DisplayName: "A Small Wrinkle"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_4_1_en_Description: "Something is different about this bomb, and it demands attention."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_4_2_en_DisplayName: "Pay Attention"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_4_2_en_Description: "Keep your eye on the prize! And also the clock."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_4_3_en_DisplayName: "The Knob"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_4_3_en_Description: "Needy knobs need the most attention."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_4_4_en_DisplayName: "Multi-tasker"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_4_4_en_Description: "An extra arm would really help here."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_5_1_en_DisplayName: "Wires! Wires Everywhere!"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_5_1_en_Description: "It's a rats nest. Cut carefully."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_5_2_en_DisplayName: "Computer Hacking"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_5_2_en_Description: "Note: Venting prevents explosion."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_5_3_en_DisplayName: "Who's on First?"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_5_3_en_Description: "Ambiguity and bombs are a dangerous combination."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_5_4_en_DisplayName: "Fiendish"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_5_4_en_Description: "You have all the experience you need to defuse this. You just need to execute."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_5_5_en_DisplayName: "Pick up the Pace III"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_5_5_en_Description: "NO TIME!"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_5_6_en_DisplayName: "One with Everything"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_5_6_en_Description: "A true test of teamwork that requires all-around competency."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_6_1_en_DisplayName: "Pick up the pace IV"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_6_1_en_Description: "Gotta go fast."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_6_2_en_DisplayName: "Juggler"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_6_2_en_Description: "It's a bit like trying to be at two places at once, except this is a bomb."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_6_3_en_DisplayName: "Double Trouble"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_6_3_en_Description: "Some bombs let you work at your own pace. This is not one of those bombs."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_6_4_en_DisplayName: "I am Hardcore"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_6_4_en_Description: "A bomb for true experts."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_7_1_en_DisplayName: "Blinkenlights"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_7_1_en_Description: "The colors! I hope you can enjoy this on as many levels as I do."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_7_2_en_DisplayName: "Applied Theory"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_7_2_en_Description: "In theory, you should be able to re-use knowledge to make this easier. In practise..."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_7_3_en_DisplayName: "A-maze-ing"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_7_3_en_Description: "Apologies fo making light of your predicament."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_7_4_en_DisplayName: "Snip Snap"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_7_4_en_Description: "With crisp communication and a steady hand, you'll be fine. Maybe."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_7_5_en_DisplayName: "Rainbow Table"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_7_5_en_Description: "You're going to need some help cracking this one."
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_7_6_en_DisplayName: "Blinkenlights II"
+
+[Localization] Adding mod term: mod/TranslatedModules_tm_mission_7_6_en_Description: "Please keep still and only watch astonished the blinkenlights."
+
+[Mod-TranslatedModules] Loading KMMissionTableOfContents...
+
+[Localization] Adding mod term: mod/mod_toc_TranslatedModules_0_ToCName: "Missions       (Translated Modules)"
+
+[Localization] Adding mod term: mod/mod_toc_TranslatedModules_0_SectionTitle_0: "Introduction"
+
+[Localization] Adding mod term: mod/mod_toc_TranslatedModules_0_SectionTitle_1: "The Basics"
+
+[Localization] Adding mod term: mod/mod_toc_TranslatedModules_0_SectionTitle_2: "Moderate"
+
+[Localization] Adding mod term: mod/mod_toc_TranslatedModules_0_SectionTitle_3: "Needy"
+
+[Localization] Adding mod term: mod/mod_toc_TranslatedModules_0_SectionTitle_4: "Challenging"
+
+[Localization] Adding mod term: mod/mod_toc_TranslatedModules_0_SectionTitle_5: "Extreme"
+
+[Localization] Adding mod term: mod/mod_toc_TranslatedModules_0_SectionTitle_6: "Exotic"
+
+[Mod-TranslatedModules] Loading AudioClips...
+
+[BombGenerator] Instantiated 850186070 on face FrontFace, spawn index 2
+
+[Mod-forgetUsNot] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1826273934" has ID:"forgetUsNot"
+
+[Mod-forgetUsNot] Loading assemblies...
+
+[Mod-forgetUsNot] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1826273934\Newtonsoft.Json.dll"...
+
+[Mod-forgetUsNot] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1826273934\forgetUsNot.dll"
+
+[Mod-forgetUsNot] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1826273934" complete.
+
+[Mod-forgetUsNot] Loading GameObjects...
+
+[Mod-forgetUsNot] Replacing shaders...
+
+[Mod-forgetUsNot] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-forgetUsNot] Loading KMMissions...
+
+[Mod-forgetUsNot] Loading KMMissionTableOfContents...
+
+[Mod-forgetUsNot] Loading AudioClips...
+
+[BossModuleManager] Request for Forget Us Not’s ignore list successful.
+[KMBossModule] Boss Module Manager returned list for “Forget Us Not”: 14, Bamboozling Time Keeper, Brainf---, Forget Enigma, Forget Everything, Forget Infinity, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Iconic, Organization, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+[BombGenerator] Instantiated 1826273934 on face FrontFace, spawn index 0
+
+[Mod-KritBlackjack] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1541425240" has ID:"KritBlackjack"
+
+[Mod-KritBlackjack] Loading assemblies...
+
+[Mod-KritBlackjack] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1541425240\Newtonsoft.Json.dll"...
+
+[Mod-KritBlackjack] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1541425240\KritBlackjack.dll"
+
+[Mod-KritBlackjack] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1541425240" complete.
+
+[Mod-KritBlackjack] Loading GameObjects...
+
+[Mod-KritBlackjack] Replacing shaders...
+
+[Mod-KritBlackjack] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-KritBlackjack] Loading KMMissions...
+
+[Mod-KritBlackjack] Loading KMMissionTableOfContents...
+
+[Mod-KritBlackjack] Loading AudioClips...
+
+[BombGenerator] Instantiated 1541425240 on face RearFace, spawn index 1
+
+[Mod-RPSJudging] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2048829561" has ID:"RPSJudging"
+
+[Mod-RPSJudging] Loading assemblies...
+
+[Mod-RPSJudging] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2048829561\Newtonsoft.Json.dll"...
+
+[Mod-RPSJudging] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2048829561\RPSJudging.dll"
+
+[Mod-RPSJudging] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2048829561" complete.
+
+[Mod-RPSJudging] Loading GameObjects...
+
+[Mod-RPSJudging] Replacing shaders...
+
+[Mod-RPSJudging] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-RPSJudging] Loading KMMissions...
+
+[Mod-RPSJudging] Loading KMMissionTableOfContents...
+
+[Mod-RPSJudging] Loading AudioClips...
+
+[BombGenerator] Instantiated 2048829561 on face RearFace, spawn index 13
+
+[Mod-radiator] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1291601109" has ID:"radiator"
+
+[Mod-radiator] Loading assemblies...
+
+[Mod-radiator] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1291601109\Newtonsoft.Json.dll"...
+
+[Mod-radiator] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1291601109\radiator.dll"
+
+[Mod-radiator] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1291601109" complete.
+
+[Mod-radiator] Loading GameObjects...
+
+[Mod-radiator] Replacing shaders...
+
+[Mod-radiator] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-radiator] Loading KMMissions...
+
+[Mod-radiator] Loading KMMissionTableOfContents...
+
+[Mod-radiator] Loading AudioClips...
+
+[BombGenerator] Instantiated 1291601109 on face FrontFace, spawn index 9
+
+[Mod-ColorTalks] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2075509471" has ID:"ColorTalks"
+
+[Mod-ColorTalks] Loading assemblies...
+
+[Mod-ColorTalks] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2075509471\Newtonsoft.Json.dll"...
+
+[Mod-ColorTalks] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2075509471\ColorTalks.dll"
+
+[Mod-ColorTalks] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2075509471" complete.
+
+[Mod-ColorTalks] Loading GameObjects...
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Loading KMMissions...
+
+[Mod-ColorTalks] Loading KMMissionTableOfContents...
+
+[Mod-ColorTalks] Loading AudioClips...
+
+[BombGenerator] Instantiated 2075509471 on face FrontFace, spawn index 6
+
+[Mod-vexillology] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1705295112" has ID:"vexillology"
+
+[Mod-vexillology] Loading assemblies...
+
+[Mod-vexillology] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1705295112\Newtonsoft.Json.dll"...
+
+[Mod-vexillology] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1705295112\vexillology.dll"
+
+[Mod-vexillology] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1705295112" complete.
+
+[Mod-vexillology] Loading GameObjects...
+
+[Mod-vexillology] Replacing shaders...
+
+[Mod-vexillology] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-vexillology] Loading KMMissions...
+
+[Mod-vexillology] Loading KMMissionTableOfContents...
+
+[Mod-vexillology] Loading AudioClips...
+
+[BombGenerator] Instantiated 1705295112 on face FrontFace, spawn index 15
+
+[Mod-blackCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029" has ID:"blackCipher"
+
+[Mod-blackCipher] Loading assemblies...
+
+[Mod-blackCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029\Newtonsoft.Json.dll"...
+
+[Mod-blackCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029\blackCipher.dll"
+
+[Mod-blackCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029" complete.
+
+[Mod-blackCipher] Loading GameObjects...
+
+[Mod-blackCipher] Replacing shaders...
+
+[Mod-blackCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-blackCipher] Loading KMMissions...
+
+[Mod-blackCipher] Loading KMMissionTableOfContents...
+
+[Mod-blackCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1940168029 on face RearFace, spawn index 4
+
+[Mod-daylightDirections] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1743335011" has ID:"daylightDirections"
+
+[Mod-daylightDirections] Loading assemblies...
+
+[Mod-daylightDirections] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1743335011\Newtonsoft.Json.dll"...
+
+[Mod-daylightDirections] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1743335011\daylightDirections.dll"
+
+[Mod-daylightDirections] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1743335011" complete.
+
+[Mod-daylightDirections] Loading GameObjects...
+
+[Mod-daylightDirections] Replacing shaders...
+
+[Mod-daylightDirections] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-daylightDirections] Loading KMMissions...
+
+[Mod-daylightDirections] Loading KMMissionTableOfContents...
+
+[Mod-daylightDirections] Loading AudioClips...
+
+[BombGenerator] Instantiated 1743335011 on face RearFace, spawn index 2
+
+[Mod-caesarCycle] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1825385284" has ID:"caesarCycle"
+
+[Mod-caesarCycle] Loading assemblies...
+
+[Mod-caesarCycle] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1825385284\Newtonsoft.Json.dll"...
+
+[Mod-caesarCycle] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1825385284\caesarCycle.dll"
+
+[Mod-caesarCycle] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1825385284" complete.
+
+[Mod-caesarCycle] Loading GameObjects...
+
+[Mod-caesarCycle] Replacing shaders...
+
+[Mod-caesarCycle] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-caesarCycle] Loading KMMissions...
+
+[Mod-caesarCycle] Loading KMMissionTableOfContents...
+
+[Mod-caesarCycle] Loading AudioClips...
+
+[BombGenerator] Instantiated 1825385284 on face RearFace, spawn index 10
+
+[Mod-taxReturns] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1370172381" has ID:"taxReturns"
+
+[Mod-taxReturns] Loading assemblies...
+
+[Mod-taxReturns] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1370172381\Newtonsoft.Json.dll"...
+
+[Mod-taxReturns] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1370172381\taxReturns.dll"
+
+[Mod-taxReturns] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1370172381" complete.
+
+[Mod-taxReturns] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-taxReturns] Replacing shaders...
+
+[Mod-taxReturns] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-taxReturns] Loading KMMissions...
+
+[Mod-taxReturns] Loading KMMissionTableOfContents...
+
+[Mod-taxReturns] Loading AudioClips...
+
+[BombGenerator] Instantiated 1370172381 on face RearFace, spawn index 3
+
+[Mod-coloredMaze] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894958987" has ID:"coloredMaze"
+
+[Mod-coloredMaze] Loading assemblies...
+
+[Mod-coloredMaze] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894958987\Newtonsoft.Json.dll"...
+
+[Mod-coloredMaze] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894958987\coloredMaze.dll"
+
+[Mod-coloredMaze] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894958987" complete.
+
+[Mod-coloredMaze] Loading GameObjects...
+
+[Mod-coloredMaze] Replacing shaders...
+
+[Mod-coloredMaze] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-coloredMaze] Loading KMMissions...
+
+[Mod-coloredMaze] Loading KMMissionTableOfContents...
+
+[Mod-coloredMaze] Loading AudioClips...
+
+[BombGenerator] Instantiated 1894958987 on face RearFace, spawn index 15
+
+[Mod-kookyKeypadModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869640550" has ID:"kookyKeypadModule"
+
+[Mod-kookyKeypadModule] Loading assemblies...
+
+[Mod-kookyKeypadModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869640550\Newtonsoft.Json.dll"...
+
+[Mod-kookyKeypadModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869640550\kookyKeypadModule.dll"
+
+[Mod-kookyKeypadModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869640550" complete.
+
+[Mod-kookyKeypadModule] Loading GameObjects...
+
+[Mod-kookyKeypadModule] Replacing shaders...
+
+[Mod-kookyKeypadModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-kookyKeypadModule] Loading KMMissions...
+
+[Mod-kookyKeypadModule] Loading KMMissionTableOfContents...
+
+[Mod-kookyKeypadModule] Loading AudioClips...
+
+[BombGenerator] Instantiated 1869640550 on face RearFace, spawn index 7
+
+[Mod-BitOps] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\925533475" has ID:"BitOps"
+
+[Mod-BitOps] Loading assemblies...
+
+[Mod-BitOps] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\925533475\Newtonsoft.Json.dll"...
+
+[Mod-BitOps] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\925533475\BitOps.dll"
+
+[Mod-BitOps] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\925533475" complete.
+
+[Mod-BitOps] Loading GameObjects...
+
+[Mod-BitOps] Replacing shaders...
+
+[Mod-BitOps] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-BitOps] Loading KMMissions...
+
+[Mod-BitOps] Loading KMMissionTableOfContents...
+
+[Mod-BitOps] Loading AudioClips...
+
+[BombGenerator] Instantiated 925533475 on face FrontFace, spawn index 13
+
+[Mod-flowerPatch] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1828253734" has ID:"flowerPatch"
+
+[Mod-flowerPatch] Loading assemblies...
+
+[Mod-flowerPatch] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1828253734\Newtonsoft.Json.dll"...
+
+[Mod-flowerPatch] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1828253734\flowerPatch.dll"
+
+[Mod-flowerPatch] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1828253734" complete.
+
+[Mod-flowerPatch] Loading GameObjects...
+
+[Mod-flowerPatch] Replacing shaders...
+
+[Mod-flowerPatch] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-flowerPatch] Loading KMMissions...
+
+[Mod-flowerPatch] Loading KMMissionTableOfContents...
+
+[Mod-flowerPatch] Loading AudioClips...
+
+[BombGenerator] Instantiated 1828253734 on face FrontFace, spawn index 11
+
+[Mod-qkForgetPerspective] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1831737244" has ID:"qkForgetPerspective"
+
+[Mod-qkForgetPerspective] Loading assemblies...
+
+[Mod-qkForgetPerspective] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1831737244\Newtonsoft.Json.dll"...
+
+[Mod-qkForgetPerspective] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1831737244\qkForgetPerspective.dll"
+
+[Mod-qkForgetPerspective] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1831737244" complete.
+
+[Mod-qkForgetPerspective] Loading GameObjects...
+
+[Mod-qkForgetPerspective] Replacing shaders...
+
+[Mod-qkForgetPerspective] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-qkForgetPerspective] Loading KMMissions...
+
+[Mod-qkForgetPerspective] Loading KMMissionTableOfContents...
+
+[Mod-qkForgetPerspective] Loading AudioClips...
+
+Awake
+[BombGenerator] Instantiated 1831737244 on face FrontFace, spawn index 1
+
+[Mod-yellowCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869671443" has ID:"yellowCipher"
+
+[Mod-yellowCipher] Loading assemblies...
+
+[Mod-yellowCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869671443\Newtonsoft.Json.dll"...
+
+[Mod-yellowCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869671443\yellowCipher.dll"
+
+[Mod-yellowCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869671443" complete.
+
+[Mod-yellowCipher] Loading GameObjects...
+
+[Mod-yellowCipher] Replacing shaders...
+
+[Mod-yellowCipher] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-yellowCipher] Loading KMMissions...
+
+[Mod-yellowCipher] Loading KMMissionTableOfContents...
+
+[Mod-yellowCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1869671443 on face FrontFace, spawn index 4
+
+[Mod-spwizAdventureGame] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\747854140" has ID:"spwizAdventureGame"
+
+[Mod-spwizAdventureGame] Loading assemblies...
+
+[Mod-spwizAdventureGame] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\747854140\Newtonsoft.Json.dll"...
+
+[Mod-spwizAdventureGame] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\747854140\spwizAdventureGame.dll"
+
+[Mod-spwizAdventureGame] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\747854140" complete.
+
+[Mod-spwizAdventureGame] Loading GameObjects...
+
+[Mod-spwizAdventureGame] Replacing shaders...
+
+[Mod-spwizAdventureGame] ModUnityVersion: 2017.2.1f1 Game: 2017.4.22f1
+
+[Mod-spwizAdventureGame] Loading KMMissions...
+
+[Mod-spwizAdventureGame] Loading KMMissionTableOfContents...
+
+[Mod-spwizAdventureGame] Loading AudioClips...
+
+[BombGenerator] Instantiated 747854140 on face RearFace, spawn index 5
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: F07GH0
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 0
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit SIG (IndicatorWidget/LABEL6)
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: DVI
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit MSA (IndicatorWidget/LABEL8)
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: Parallel, Serial
+
+[Playfair Cycle #1]The encrypted message was HKUYLPTU
+[Playfair Cycle #1]The dial rotations were 0, 4, 3, 3, 4, 0, 2, 0
+[Playfair Cycle #1] The keysquare was:
+[Playfair Cycle #1] E Y S T U
+[Playfair Cycle #1]  C K A B D
+[Playfair Cycle #1]  F G H I J
+[Playfair Cycle #1]  L M N O P
+[Playfair Cycle #1]  Q R V W Z
+[Playfair Cycle #1]The deciphered message was GATEPOST
+[Playfair Cycle #1]The response word was STANZAIC
+[Playfair Cycle #1]The correct response was TUHVVDFB
+[The Hyperlink #1] Encoding 1: ' F I  V E ' in Maritime Flags => ' F I  V E ' => 5
+[The Hyperlink #1] Encoding 2: ' t a  n  g o ' in Necronomicon => ' T A  N  G O ' => T
+[The Hyperlink #1] Encoding 3: ' Q ' in Boozleglyphs => ' Q ' => q
+[The Hyperlink #1] Encoding 4: '>/<' in Ogham => ' M ' => m
+[The Hyperlink #1] Encoding 5: ' t w  o ' in SYNC-125 [3] => ' T W  O ' => 2
+[The Hyperlink #1] Encoding 6: ' U N  I F O  R M ' in Standard Galactic Alphabet => ' U N  I F O  R M ' => U
+[The Hyperlink #1] Encoding 7: ' K I  L O ' in Zoni => ' K I  L O ' => K
+[The Hyperlink #1] Encoding 8: ' g o  l f ' in Elder Futhark => ' G O  L F ' => G
+[The Hyperlink #1] Encoding 9: ' R O  M  E O ' in Lombax => ' R O  M  E O ' => R
+[The Hyperlink #1] Encoding 10: ' D E  L  T A ' in Wingdings 2 => ' D E  L  T A ' => D
+[The Hyperlink #1] Encoding 11: ' O ' in 14-Segment Display => ' O ' => o
+[The Hyperlink #1] Video https://www.youtube.com/watch?v=5Tqm2UKGRDo references Third Base.
+[Turtle Robot #1] Pencil code: 
+speed 200
+pen black, 5
+fd 75
+lt 30
+fd 100
+lt 90
+rt 90, 25
+lt 90
+fd 25
+lt 180, 75
+fd 25
+lt 90
+rt 90, 25
+lt 90
+fd 100
+lt 30
+rt 180, 50
+fd 100
+lt 120
+fd 25
+rt 90, 50
+[Turtle Robot #1] Shape: Shape shift.
+[Turtle Robot #1] Solution, bugs marked with #:
+[Turtle Robot #1] - FD 9
+[Turtle Robot #1] - LT 30
+[Turtle Robot #1] - FD 12
+[Turtle Robot #1] - LT 90
+[Turtle Robot #1] - RT 90 3
+[Turtle Robot #1] - LT 90
+[Turtle Robot #1] - FD 3
+[Turtle Robot #1] - #LT 180 9
+[Turtle Robot #1] - FD 3
+[Turtle Robot #1] - LT 90
+[Turtle Robot #1] - RT 90 3
+[Turtle Robot #1] - LT 90
+[Turtle Robot #1] - FD 12
+[Turtle Robot #1] - LT 30
+[Turtle Robot #1] - #RT 180 6
+[Turtle Robot #1] - FD 12
+[Turtle Robot #1] - LT 120
+[Turtle Robot #1] - FD 3
+[Turtle Robot #1] - #RT 90 6
+[Superlogic #1] Equations:
+[Superlogic #1] A = ¬C ← B
+[Superlogic #1] B = A ↔ C
+[Superlogic #1] C = B ∧ A
+[Superlogic #1] Solution:
+[Superlogic #1] A = True
+[Superlogic #1] B = False
+[Superlogic #1] C = False
+[Minecraft Parody #1] Chosen song: Level Up
+[Minecraft Parody #1] Lyric 1: gonna power up and it starts today.
+[Minecraft Parody #1] Lyric 2: A change is due, a different view, we must go on.
+[Minecraft Parody #1] Lyric 3: I’ll find that key, inside of me, as we try to level up.
+[Minecraft Parody #1] Lyric 4: A change is due, a different view, we must go on.
+[Vigenère Cipher #1] Answer is 78FNYK
+[Masyu #1] The dots/circles are in the following pattern, where 0=blank,1=white,2=black...
+[Masyu #1] 000100
+[Masyu #1] 100101
+[Masyu #1] 000000
+[Masyu #1] 000200
+[Masyu #1] 000010
+[Masyu #1] 010000
+[Masyu #1] 100000
+[Masyu #1] 000202
+[Masyu #1] The horizontal connections pattern should be in this order, where 0=blank connection and 1=filled connection
+[Masyu #1] (This should be read as the first character being the tl horizontal connector, and the last being the br horizontal connector with all inbetween being read in reading order)
+[Masyu #1] 1011100110011100110100000000010100011011
+[Masyu #1] The vertical connections pattern should be in this order, where 0=blank connection and 1=filled connection
+[Masyu #1] (This should be read as the first character being the tl vertical connector, and the last being the br vertical connector with all inbetween being read from top to bottom of each column from left to right)
+[Masyu #1] 111111111011101000001000111101011001110011
+[Graffiti Numbers #1] The top row is red 8, green 6, blue 3.
+[Graffiti Numbers #1] The middle row is green 1, red 4, green 7.
+[Graffiti Numbers #1] The bottom row is red 2, red 5, red 9.
+[Graffiti Numbers #1] Start at rule 8 and work backwards.
+[Graffiti Numbers #1] The correct answer is 872.
+[Mystery Module Service] Settings successfully loaded
+[Mystery Module Service] Service is active
+[Colored Squares #1] Using rule seed: 1
+[Colored Squares #1] First stage color is Blue. Count: 1.
+<Colored Squares #1> Colors: Red, Magenta, Magenta, Yellow, Red, Magenta, Green, Yellow, Magenta, Magenta, Magenta, Magenta, Green, Red, Green, Blue
+[Scavenger Hunt #1] You are in maze 0.
+[Scavenger Hunt #1] You started in D1.
+[Scanvenger Hunt #1] The relevant color is red.
+[Scavenger Hunt #1] The relevant colored squares are at C3 and A3.
+[Scavenger Hunt #1] The decoy colored squares are at C1, A4, C2, and B3.
+[Scavenger Hunt #1] The solution square for stage 1 is at D4.
+[Passwords Translated #1] Language is Deutsch (de); Version is 1.0.
+[Passwords Translated #1] Available characters: Pos. 1: OFAÜMT, Pos. 2: BRGKLN, Pos. 3: SRMGVL, Pos. 4: LRBKUS, Pos. 5: TBKÜHC, Correct solution: ANGST
+[Blackjack #1] Your starting card is the King Of Diamonds
+[Blackjack #1] Your closed card is the Queen Of Hearts with a value of 10
+[Blackjack #1] The correct bet is $250
+[BossModuleManager] Request for RPS Judging’s ignore list successful.
+[KMBossModule] Boss Module Manager returned list for “RPS Judging”: 14, Bamboozling Time Keeper, Brainf---, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Iconic, Organization, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+[Radiator #1] Rule Seed: 1
+[Arrow Talk #1] The starting rotations with 1 being turned and 0 being correct is 11011001 (in the order given in the manual).
+[Arrow Talk #1] The screen says "4".
+[Vexillology #1] Flag Top Colours are White, White and White
+[Vexillology #1] Flag Type: 2-Colour Nordic Cross Flag
+[Vexillology #1] - - - - -
+[Vexillology #1] First Colour:
+[Vexillology #1] First and Third colour are the same = Yellow
+[Vexillology #1] - - - - -
+[Vexillology #1] Second Colour:
+[Vexillology #1] Serial port present = Yellow
+[Vexillology #1] - - - - -
+[Vexillology #1] Transposing:
+[Vexillology #1] Transposed the second colour from Yellow to Blue
+[Vexillology #1] The answers are Yellow and Blue
+[Black Cipher #1] Generated Word: HEREBY
+[Black Cipher #1] Begin Enigma Encryption
+[Black Cipher #1] H->G->Z->E->N->T->K->F->S->E
+[Black Cipher #1] E->D->J->L->U->R->I->K->U->K
+[Black Cipher #1] R->A->X->Q->Z->W->N->A->K->M
+[Black Cipher #1] E->H->D->Z->I->Y->P->Q->W->R
+[Black Cipher #1] B->A->L->I->R->U->L->K->W->Q
+[Black Cipher #1] Y->V->V->M->V->X->O->T->A->O
+[Black Cipher #1] Begin Railfence Transposition
+[Black Cipher #1] Railfence Row #1: E
+[Black Cipher #1] Railfence Row #2: K
+[Black Cipher #1] Railfence Row #3: M
+[Black Cipher #1] Railfence Row #4: RO
+[Black Cipher #1] Railfence Row #5: Q
+[Black Cipher #1] Begin Digrafid Encryption
+[Black Cipher #1] Key A: ABCDFGHJKLMNOPQRTUVWXYSIZE
+[Black Cipher #1] Key B: HUNTABCDEFGIJKLMOPQRSVWXYZ
+[Black Cipher #1] EK -> 885
+[Black Cipher #1] MR -> 262
+[Black Cipher #1] OQ -> 461
+[Black Cipher #1] Digrafid Row #1: 824 -> JJ
+[Black Cipher #1] Digrafid Row #2: 866 -> TX
+[Black Cipher #1] Digrafid Row #3: 521 -> FF
+[Daylight Directions #1] Starting rotation is 180 degrees. 0 degrees will point to the right.
+[Daylight Directions #1] None of the conditions met. Starting solution rotation is 45 degrees.
+[Daylight Directions #1] Sun conditions have flipped the orientation. Solution rotation is now 225 degrees.
+[Daylight Directions #1] Arrow is blue, so it rotates 180 degrees. Final solution rotation is 45 degrees.
+[Caesar Cycle #1]The encrypted message was DISWRWBS
+[Caesar Cycle #1]The dial rotations were 0, 0, 0, 7, 3, 4, 1, 7
+[Caesar Cycle #1]The deciphered message was DISPOSAL
+[Caesar Cycle #1]The response word was GLOOMING
+[Caesar Cycle #1]The correct response was GLOVPMON
+[Tax Returns #1] Your gross turnover is £106306.
+[Tax Returns #1] Your have contributed £15945 to a 15% pension.
+[Tax Returns #1] You have made 3 tax-free investments of £599, totalling £1797.
+[Tax Returns #1] Your total expenses are £18490.
+[Tax Returns #1] Your gross profit is £70074.
+[Tax Returns #1] Your personal tax-free allowance is £11850.
+[Tax Returns #1] Your taxable income is £58224.
+[Tax Returns #1] Your must pay £6900 in Basic Rate tax at 20%.
+[Tax Returns #1] Your must pay £9489 in Higher Rate tax at 40%.
+[Tax Returns #1] Your must pay £0 in Additional Rate tax at 45%.
+[Tax Returns #1] Your total income tax bill is £16389.
+[Tax Returns #1] Your must pay £3413 in National Insurance at 9%.
+[Tax Returns #1] Your must pay £829 in National Insurance at 2%.
+[Tax Returns #1] Your total National Insurance bill is £4242.
+[Tax Returns #1] YOUR TOTAL TAX BILL IS £20631.
+[The Colored Maze #1] The number that determines the column is 3.
+[The Colored Maze #1] The number that determines the row is 1.
+[The Colored Maze #1] 46
+[Kooky Keypad #1] -Step 1-
+[Kooky Keypad #1] The top left button has the symbol ㄿ (a value = 13)
+[Kooky Keypad #1] The top right button has the symbol ㄾ (a value = 15)
+[Kooky Keypad #1] The bottom left button has the symbol X (a value = 24)
+[Kooky Keypad #1] The bottom right button has the symbol ➵ (a value = 11)
+[Kooky Keypad #1] An HDMI or RJ-45 port is NOT present! The b value is the last serial # digit which is 0
+[Kooky Keypad #1] Top Left: A + B -> 13 + 0 = 13 < 20 | Press this button for step 2: False
+[Kooky Keypad #1] Top Right: A + B -> 15 + 0 = 15 < 20 | Press this button for step 2: False
+[Kooky Keypad #1] Bottom Left: A + B -> 24 + 0 = 24 >= 20 | Press this button for step 2: True
+[Kooky Keypad #1] Bottom Right: A + B -> 11 + 0 = 11 < 20 | Press this button for step 2: False
+[Kooky Keypad #1] -Step 2-
+[Kooky Keypad #1] If the correct buttons are pressed from step 1, then the leds should be showing the following in 'color mode'...
+[Kooky Keypad #1] Top Left: crimson | Top Right: coral | Bottom Left: unlit | Bottom Right: orange
+[Kooky Keypad #1] The used rules were: [ 2, 3, 4, 5, 9, 11 ]
+[Kooky Keypad #1] After applying the rules the correct buttons to submit are...
+[Kooky Keypad #1] Top Left: True | Top Right: True | Bottom Left: True | Bottom Right: True
+[Flower Patch #1] The colored flowers are: Orange Yellow Violet 
+[Flower Patch #1] The solution letter is: E
+[BossModuleManager] Request for Forget Perspective’s ignore list successful.
+[KMBossModule] Boss Module Manager returned list for “Forget Perspective”: 14, Bamboozling Time Keeper, Brainf---, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Iconic, Organization, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+[Yellow Cipher #1] Generated Word: OBJECT
+[Yellow Cipher #1] Begin Hill Encryption
+[Yellow Cipher #1] Number A: 11
+[Yellow Cipher #1] Number B: 20
+[Yellow Cipher #1] Number C: 10
+[Yellow Cipher #1] Number D: 5
+[Yellow Cipher #1] 15 2 -> 23 4
+[Yellow Cipher #1] 10 5 -> 2 21
+[Yellow Cipher #1] 3 20 -> 17 0
+[Yellow Cipher #1] Hill Encrypted Word: WDBUQZ
+[Yellow Cipher #1] Begin Trifid Encryption
+[Yellow Cipher #1] Trifid Key: BCFGHIJLMOPQRTUVWXYZKNEADS
+[Yellow Cipher #1] Trifid Numbers:
+231223
+331211
+211332
+[Yellow Cipher #1] Trifid Encrypted Word: VUDOOS
+[Yellow Cipher #1] Morbit Key: 21364758
+[Yellow Cipher #1] Morbit Encrypted Word: 6765576323
+[TwitchPlays] [M] InstantGameInsights (#8A2BE2, 126744222): @Heres_Fangy hey bud !@
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Mystery Module #1] Keys are: Blackjack, Turtle Robot, Black Cipher, Kooky Keypad, Point of Order, Superlogic, mystified module is: Flower Patch
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"31 Mods"}
+[Rule Seed Modifier] The Seed is 1
+[Point of Order #1] Point of order.
+[Point of Order #1] Rule 1: Allowed suits: ♠ → ♠/♦; ♥ → ♥/♠; ♣ → ♣/♥; ♦ → ♦/♣
+[Point of Order #1] Rule 2: Ranks must alternate between being divisible by 4 and not.
+[Point of Order #1] Rule 3: Consecutive ranks must have a difference between 4 and 5 (with wraparound allowed).
+[Point of Order #1] Pile: Q♠, 7♥, Q♥, 7♦, Q♣.
+[Point of Order #1] Active rules: 2, 3.
+[Point of Order #1] Acceptable cards to play: 3♠, 3♥, 3♣, 3♦, 7♠, 7♣.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[Mystery Module Service] List successfully loaded:
+[Mystery Module Service] 14 => MustNotBeHiddenOrKey
+[Mystery Module Service] alphabeticalRuling => MustNotBeKey
+[Mystery Module Service] answerTo => MustNotBeKey
+[Mystery Module Service] antichamber => MustNotBeKey
+[Mystery Module Service] BlindMaze => MustNotBeKey
+[Mystery Module Service] blueArrowsModule => MustNotBeKey
+[Mystery Module Service] brainf => MustNotBeHiddenOrKey
+[Mystery Module Service] burgerAlarm => MustNotBeKey
+[Mystery Module Service] colourcode => MustNotBeKey
+[Mystery Module Service] cookieJars => MustNotBeHiddenOrKey
+[Mystery Module Service] DividedSquaresModule => MustNotBeKey
+[Mystery Module Service] DrDoctorModule => MustNotBeKey
+[Mystery Module Service] encryptionBingo => MustNotBeHiddenOrKey
+[Mystery Module Service] FlavorText => MustNotBeKey
+[Mystery Module Service] forgetEnigma => MustNotBeHiddenOrKey
+[Mystery Module Service] HexiEvilFMN => MustNotBeHiddenOrKey
+[Mystery Module Service] forgetInfinity => MustNotBeHiddenOrKey
+[Mystery Module Service] forgetItNot => MustNotBeHiddenOrKey
+[Mystery Module Service] forgetMeLater => MustNotBeHiddenOrKey
+[Mystery Module Service] MemoryV2 => MustNotBeHiddenOrKey
+[Mystery Module Service] qkForgetPerspective => MustNotBeHiddenOrKey
+[Mystery Module Service] ForgetTheColors => MustNotBeHiddenOrKey
+[Mystery Module Service] forgetThemAll => MustNotBeHiddenOrKey
+[Mystery Module Service] forgetThis => MustNotBeHiddenOrKey
+[Mystery Module Service] forgetUsNot => MustNotBeHiddenOrKey
+[Mystery Module Service] Krit4CardMonte => MustNotBeKey
+[Mystery Module Service] freeParking => MustNotBeKey
+[Mystery Module Service] hereditaryBaseNotationModule => MustNotBeKey
+[Mystery Module Service] HogwartsModule => MustNotBeHiddenOrKey
+[Mystery Module Service] iconic => MustNotBeKey
+[Mystery Module Service] KritLockpickMaze => MustNotBeKey
+[Mystery Module Service] lunchtime => MustNotBeHidden
+[Mystery Module Service] lyingIndicators => MustNotBeKey
+[Mystery Module Service] MafiaModule => MustNotBeKey
+[Mystery Module Service] manometers => MustNotBeKey
+[Mystery Module Service] masherTheBottun => MustNotBeKey
+[Mystery Module Service] KritMicroModules => MustNotBeKey
+[Mystery Module Service] moduleListening => MustNotBeKey
+[Mystery Module Service] ModuleAgainstHumanity => MustNotBeKey
+[Mystery Module Service] mysterymodule => MustNotBeKey
+[Mystery Module Service] objectShows => MustNotBeKey
+[Mystery Module Service] organizationModule => RequiresAutoSolve
+[Mystery Module Service] pwGenerator => MustNotBeKey
+[Mystery Module Service] polygons => MustNotBeKey
+[Mystery Module Service] Pressure => MustNotBeHidden
+[Mystery Module Service] ksmRainbowArrows => MustNotBeKey
+[Mystery Module Service] RAM => MustNotBeHiddenOrKey
+[Mystery Module Service] RPSJudging => MustNotBeHiddenOrKey
+[Mystery Module Service] sevenWires => MustNotBeKey
+[Mystery Module Service] simonForgets => MustNotBeHiddenOrKey
+[Mystery Module Service] simonsStages => MustNotBeHiddenOrKey
+[Mystery Module Service] SouvenirModule => MustNotBeKey
+[Mystery Module Service] tallorderedKeys => MustNotBeHiddenOrKey
+[Mystery Module Service] taxReturns => MustNotBeHidden
+[Mystery Module Service] theNumber => MustNotBeKey
+[Mystery Module Service] StareModule => MustNotBeHiddenOrKey
+[Mystery Module Service] stopwatch => MustNotBeHidden
+[Mystery Module Service] theSwan => MustNotBeHiddenOrKey
+[Mystery Module Service] timeKeeper => MustNotBeHiddenOrKey
+[Mystery Module Service] troll => MustNotBeHiddenOrKey
+[Mystery Module Service] TheTwinModule => MustNotBeHiddenOrKey
+[Mystery Module Service] veryAnnoyingButton => MustNotBeHiddenOrKey
+[Mystery Module Service] timingIsEverything => MustNotBeHiddenOrKey
+[Mystery Module Service] TrainingText => MustNotBeHidden
+[Mystery Module Service] treasureHunt => MustNotBeKey
+[Mystery Module Service] TurnTheKey => MustNotBeHiddenOrKey
+[Mystery Module Service] TurnTheKeyAdvanced => RequiresAutoSolve
+[Mystery Module Service] qkUCN => MustNotBeHiddenOrKey
+[Mystery Module Service] vectorsModule => MustNotBeKey
+[Mystery Module Service] wastemanagement => MustNotBeKey
+[Mystery Module Service] ubermodule => MustNotBeKey
+[TwitchPlays] Switching bomb
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'timeKeeper(Clone)'.
+[Profile Revealer] Attaching to 'PointOfOrderModule(Clone)'.
+[Profile Revealer] Attaching to 'Playfair Cycle(Clone)'.
+[Profile Revealer] Attaching to 'Template(Clone)'.
+[Profile Revealer] Attaching to 'TurtleRobot(Clone)'.
+[Profile Revealer] Attaching to 'SuperlogicModule(Clone)'.
+[Profile Revealer] Attaching to 'MinecraftParody(Clone)'.
+[Profile Revealer] Attaching to 'vigenereCipher(Clone)'.
+[Profile Revealer] Attaching to 'Masyu(Clone)'.
+[Profile Revealer] Attaching to 'graffitiNumbers(Clone)'.
+[Profile Revealer] Attaching to 'Mystery Module(Clone)'.
+[Profile Revealer] Attaching to 'ColoredSquaresModule(Clone)'.
+[Profile Revealer] Attaching to 'scavengerHunt(Clone)'.
+[Profile Revealer] Attaching to 'PasswordsTranslated(Clone)'.
+[Profile Revealer] Attaching to 'forgetUsNot(Clone)'.
+[Profile Revealer] Attaching to 'BlackJackModuleBroke(Clone)'.
+[Profile Revealer] Attaching to 'RPSJudging(Clone)'.
+[Profile Revealer] Attaching to 'radiatorInova(Clone)'.
+[Profile Revealer] Attaching to 'Arrow(Clone)'.
+[Profile Revealer] Attaching to 'vexillology(Clone)'.
+[Profile Revealer] Attaching to 'blackCipher(Clone)'.
+[Profile Revealer] Attaching to 'Daylight Directions(Clone)'.
+[Profile Revealer] Attaching to 'Caesar Cycle(Clone)'.
+[Profile Revealer] Attaching to 'taxReturns(Clone)'.
+[Profile Revealer] Attaching to 'coloredMaze(Clone)'.
+[Profile Revealer] Attaching to 'KookyKeypad(Clone)'.
+[Profile Revealer] Attaching to 'BitwiseOperations(Clone)'.
+[Profile Revealer] Attaching to 'Template(Clone)'.
+[Profile Revealer] Attaching to 'qkForgetPerspective(Clone)'.
+[Profile Revealer] Attaching to 'yellowCipher(Clone)'.
+[Profile Revealer] Attaching to 'AdventureGameModule(Clone)'.
+custom
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 cv
+[TimeKeeper #1] Displayed Number: 41 in Yellow. LED One color: Black. LED Two color: Yellow. LED Three color: Yellow.
+[TimeKeeper #1] Rule 1 used.
+[TimeKeeper #1] Rule 3 = true.
+[TimeKeeper #1] Rule 4 added 4
+[TimeKeeper #1] Rule 4: DVI found.
+[TimeKeeper #1] Rule 7 used.
+[TimeKeeper #1] Rule 11 used.
+[TimeKeeper #1] Rule 12 = true.
+[TimeKeeper #1] Rule 13 added 2 and subtracted 3
+[TimeKeeper #1] Rule 15 = false.
+[TimeKeeper #1] Rule 17 used.
+[TimeKeeper #1] Rule 18 used.
+[TimeKeeper #1] Rule 20 Tie
+[TimeKeeper #1] Rule 21: added MSA
+[TimeKeeper #1] Correct LED: 2. Correct time (in seconds): 139.
+[Forget Us Not #1] Non-FUN modules: 27
+[Forget Us Not #1] Stage order: 20,6,1,4,8,15,3,17,23,5,11,18,27,16,13,10,26,22,19,21,14,2,7,25,9,12,24
+[RPS Judging #1] Round 1: Vampire vs Quicksand
+[RPS Judging #1] Vampire beats Quicksand. Blue Team gets a point!
+[RPS Judging #1] 
+[Radiator #1] Serial occurrences: 3.
+[Radiator #1] Added 30 to the temperature answer (serial occurrences).
+[Radiator #1] Temperature is now 30.
+[Radiator #1] Added 5 to the temperature answer (AA batteries).
+[Radiator #1] Temperature is now 35.
+[Radiator #1] Initial water value is 11.
+[Radiator #1] Adding 20 to the water value (lit indicators).
+[Radiator #1] Water answer is now 31.
+[Radiator #1] Adding 25 to the water value (unlit MSA).
+[Radiator #1] Water answer is now 56.
+[Radiator #1] Final answer for temperature is 35.
+[Radiator #1] Final answer for water is 56.
+[Bitwise Operators #1] First byte: 01000011
+[Bitwise Operators #1] Second byte: 01000001
+[Bitwise Operators #1] Byte #1 - 01000011
+[Bitwise Operators #1] Byte #2 - 01000001
+[Bitwise Operators #1] Operator - XOR
+[Bitwise Operators #1] Solution - 00000010
+[Adventure Game #1] Enemy: TROLL
+[Adventure Game #1] Player stats: 8 STR, 5 DEX, 7 INT
+[Adventure Game #1] Environment stats: 4' 6'', 45°C, 9.5 m/s², 85 kPa
+[Adventure Game #1] Weapon MAGIC ORB: player stat=7, enemy stat=4, score 3
+[Adventure Game #1] Weapon BROADSWORD: player stat=8, enemy stat=8, score 0
+[Adventure Game #1] Weapon LONGBOW: player stat=7, enemy stat=5, score 2
+[Adventure Game #1] Weapon MAGIC ORB: CAN USE
+[Adventure Game #1] Weapon BROADSWORD: don’t use
+[Adventure Game #1] Weapon LONGBOW: don’t use
+[Adventure Game #1] Item CHEAT CODE: don’t use
+[Adventure Game #1] Item HARD DRIVE: don’t use
+[Adventure Game #1] Item MOONSTONE: don’t use
+[Adventure Game #1] Item LAMP: don’t use
+[Adventure Game #1] Item SMALL DOG: don’t use
+Awake
+[Forget Perspective #0] ------Stage 1 ------
+[Forget Perspective #0] Face 1 is Magenta.
+[Forget Perspective #0] Face 2 is Orange.
+[Forget Perspective #0] Face 3 is Yellow.
+[Forget Perspective #0] Face 4 is Red.
+[Forget Perspective #0] Face 5 is Blue.
+[Forget Perspective #0] Face 6 is Green.
+[Forget Perspective #0] Time you got the stage on: 62
+[Forget Perspective #0] Starting rule 5 applied.
+[Forget Perspective #0] Net rule 2 applied.
+[Forget Perspective #0] Order made: B R O Y M G
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted order: I Y V F T N
+[Forget Perspective #0] Added value: F
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 cv
+[PaceMaker] Round start! Mission: 31 Mods Pacing Enabled: True
+
+[PaceMaker] Next idle action in 55.10732 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !11 view
+[TwitchPlays] [M] draket333 (#004000, 129362617): Um
+[TwitchPlays] [M] draket333 (#004000, 129362617): That's a problem
+[TwitchPlays] [M] draket333 (#004000, 129362617): !bomb flip
+[Tweaks] LFABombInfo 12
+{"serial":"F07GH0","displayNames":{"Timer":"Timer","timeKeeper":"The Time Keeper","PointOfOrderModule":"Point of Order","playfairCycle":"Playfair Cycle","hyperlink":"The Hyperlink","turtleRobot":"Turtle Robot","SuperlogicModule":"Superlogic","minecra
+ftParody":"Minecraft Parody","vigenereCipher":"Vigenère Cipher","masyuModule":"Masyu","graffitiNumbers":"Graffiti Numbers","mysterymodule":"Mystery Module","ColoredSquaresModule":"Colored Squares","scavengerHunt":"Scavenger Hunt","PasswordsTranslated
+":"Passwords Translated","forgetUsNot":"Forget Us Not","KritBlackjack":"Blackjack","RPSJudging":"RPS Judging","radiator":"Radiator","ArrowTalk":"Arrow Talk","vexillology":"Vexillology","blackCipher":"Black Cipher","daylightDirections":"Daylight Direc
+tions","caesarCycle":"Caesar Cycle","taxReturns":"Tax Returns","coloredMaze":"The Colored Maze","kookyKeypadModule":"Kooky Keypad","BitOps":"Bitwise Operations","flowerPatch":"Flower Patch","qkForgetPerspective":"Forget Perspective","yellowCipher":"Y
+ellow Cipher","spwizAdventureGame":"Adventure Game"},"ids":{"timeKeeper":[1],"PointOfOrderModule":[1],"playfairCycle":[1],"hyperlink":[1],"turtleRobot":[1],"SuperlogicModule":[1],"minecraftParody":[1],"vigenereCipher":[1],"masyuModule":[1],"graffitiN
+umbers":[1],"mysterymodule":[1],"ColoredSquaresModule":[1],"scavengerHunt":[1],"PasswordsTranslated":[1],"forgetUsNot":[1],"KritBlackjack":[1],"RPSJudging":[1],"radiator":[1],"ArrowTalk":[1],"vexillology":[1],"blackCipher":[1],"daylightDirections":[1
+],"caesarCycle":[1],"taxReturns":[1],"coloredMaze":[1],"kookyKeypadModule":[1],"BitOps":[1],"flowerPatch":[1],"yellowCipher":[1],"spwizAdventureGame":[1],"qkForgetPerspective":[0]},"anchors":[[-0.330,-0.330],[-0.330,-0.110],[-0.330,0.110],[-0.330,0.3
+30],[-0.110,-0.330],[-0.110,-0.110],[-0.110,0.110],[-0.110,0.330],[0.110,-0.330],[0.110,-0.110],[0.110,0.110],[0.110,0.330],[0.330,-0.330],[0.330,-0.110],[0.330,0.110],[0.330,0.330],[-0.330,-0.330],[-0.330,-0.110],[-0.330,0.110],[-0.330,0.330],[-0.11
+0,-0.330],[-0.110,-0.110],[-0.110,0.110],[-0.110,0.330],[0.110,-0.330],[0.110,-0.110],[0.110,0.110],[0.110,0.330],[0.330,-0.330],[0.330,-0.110],[0.330,0.110],[0.330,-0.335]],"modules":["forgetUsNot 1","coloredMaze 1","PasswordsTranslated 1","vigenere
+Cipher 1","yellowCipher 1","masyuModule 1","ArrowTalk 1","mysterymodule 1","PointOfOrderModule 1","radiator 1","SuperlogicModule 1","flowerPatch 1","ColoredSquaresModule 1","BitOps 1","graffitiNumbers 1","taxReturns 1","timeKeeper 1","KritBlackjack 1
+","daylightDirections 1","vexillology 1","blackCipher 1","spwizAdventureGame 1","minecraftParody 1","kookyKeypadModule 1","turtleRobot 1","scavengerHunt 1","caesarCycle 1","playfairCycle 1","Timer -","RPSJudging 1","hyperlink 1","qkForgetPerspective 
+0"]}
+[TwitchPlays] [M] draket333 (#004000, 129362617): RPS Judging is blocked
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): rps and hyperlink :O
+[TwitchPlays] [M] draket333 (#004000, 129362617): Oh wait
+[TwitchPlays] [M] draket333 (#004000, 129362617): It just wasn't announced
+[TwitchPlays] [M] draket333 (#004000, 129362617): Why
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): ...
+[TwitchPlays] [M] draket333 (#004000, 129362617): !17 view
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): sorry
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): MI problem
+[TwitchPlays] [M] draket333 (#004000, 129362617): !1 view
+[TwitchPlays] [M] draket333 (#004000, 129362617): !15 view
+[PaceMaker] PlayerSuccessRating: 0.4970365 (Factors: solved: 0, strikes: 0.3, time: 0.1970365)
+
+[PaceMaker] Next idle action in 35.74643 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !21 claim
+[TwitchPlays] [M] InstantGameInsights (#8A2BE2, 126744222): GG all !
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): that's what i get on making my MI custom
+[TwitchPlays] [M] draket333 (#004000, 129362617): Will anyone actually help with these bosses or no?
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): !17 cv
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): i got rps
+[PaceMaker] PlayerSuccessRating: 0.4951133 (Factors: solved: 0, strikes: 0.3, time: 0.1951133)
+
+[PaceMaker] Next idle action in 44.3408 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !callset 2
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): !16 cv
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !notes1 q
+:instantgameinsights!instantgameinsights@instantgameinsights.tmi.twitch.tv JOIN #heres_fangy
+:teushiro!teushiro@teushiro.tmi.twitch.tv JOIN #heres_fangy
+:danny7007!danny7007@danny7007.tmi.twitch.tv PART #heres_fangy
+:mrpeanut1028!mrpeanut1028@mrpeanut1028.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.4927261 (Factors: solved: 0, strikes: 0.3, time: 0.192726)
+
+[PaceMaker] Next idle action in 24.44853 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 viewpin
+[TwitchPlays] [M] draket333 (#004000, 129362617): !17 viewpin
+[TwitchPlays] [M] draket333 (#004000, 129362617): !15 viewpin
+[TwitchPlays] [M] draket333 (#004000, 129362617): !11 viewpin
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 view
+[PaceMaker] PlayerSuccessRating: 0.4914103 (Factors: solved: 0, strikes: 0.3, time: 0.1914103)
+
+[PaceMaker] Next idle action in 27.50906 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !15 cv
+[PaceMaker] PlayerSuccessRating: 0.4899319 (Factors: solved: 0, strikes: 0.3, time: 0.1899319)
+
+[PaceMaker] Next idle action in 48.08095 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 setspeed 2
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] garuda2002 (, 138444820): !23 cv
+[TwitchPlays] Enabling camera wall
+[TwitchPlays] Camera wall enabled
+[TwitchPlays] [M] garuda2002 (, 138444820): !31 cv
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 zoom 5
+[PaceMaker] PlayerSuccessRating: 0.4873459 (Factors: solved: 0, strikes: 0.3, time: 0.1873459)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 24.93012 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 cv
+[TwitchPlays] [M] garuda2002 (, 138444820): !23 zoom
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 superzoom 3 .9 .4
+[PaceMaker] PlayerSuccessRating: 0.4860021 (Factors: solved: 0, strikes: 0.3, time: 0.186002)
+
+[PaceMaker] Next idle action in 27.86151 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 zoom 5
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 right
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 zoom 5
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 right
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 zoom 5
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 right
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 zoom 5
+[PaceMaker] PlayerSuccessRating: 0.4845059 (Factors: solved: 0, strikes: 0.3, time: 0.1845059)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 30.39906 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 right
+:mrpeanut1028!mrpeanut1028@mrpeanut1028.tmi.twitch.tv JOIN #heres_fangy
+:instantgameinsights!instantgameinsights@instantgameinsights.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.4828715 (Factors: solved: 0, strikes: 0.3, time: 0.1828714)
+
+[PaceMaker] Next idle action in 48.25085 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 zoom 10
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !21 r
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 right
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): suddenly i got guests gotta go
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 zoom 10
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): ;_;
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 right
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): !unclaimall
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 zoom 10
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): i guess ill try rps
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !17 claim
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): rps is not that bad
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 right
+[TwitchPlays] [M] draket333 (#004000, 129362617): !24 zoom 10
+[PaceMaker] PlayerSuccessRating: 0.4802744 (Factors: solved: 0, strikes: 0.3, time: 0.1802744)
+
+[PaceMaker] Next idle action in 58.91639 seconds.
+
+:garuda2002!garuda2002@garuda2002.tmi.twitch.tv JOIN #heres_fangy
+:nicorobin8797!nicorobin8797@nicorobin8797.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] draket333 (#004000, 129362617): @Zaphod_Beeblebrox_IV I can swap one with you if you want
+[TwitchPlays] [M] garuda2002 (, 138444820): !q !23 glovpmon
+[PaceMaker] PlayerSuccessRating: 0.4771044 (Factors: solved: 0, strikes: 0.3, time: 0.1771043)
+
+[PaceMaker] Next idle action in 33.15636 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): ill stick with this one
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): thanks for the offer though
+[TwitchPlays] [M] garuda2002 (, 138444820): !16 cv
+[TwitchPlays] [M] garuda2002 (, 138444820): !3 zoom
+[TwitchPlays] [M] draket333 (#004000, 129362617): !q !24 submit 20631
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] draket333 (#004000, 129362617): !11 help
+[PaceMaker] PlayerSuccessRating: 0.4753212 (Factors: solved: 0, strikes: 0.3, time: 0.1753212)
+
+[PaceMaker] Next idle action in 39.87988 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !16 cv
+[TwitchPlays] [M] draket333 (#004000, 129362617): !16 zoom
+:nicorobin8797!nicorobin8797@nicorobin8797.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] draket333 (#004000, 129362617): !16 bet 250
+[Blackjack #1] Your extra card is the Ace Of Spades
+[Blackjack #1] Dealing Value is 1
+[Blackjack #1] Dealing Order is 4
+[Blackjack #1] The total sum of cards without hitting is 21
+[Blackjack #1] Blackjack!
+[PaceMaker] PlayerSuccessRating: 0.4731761 (Factors: solved: 0, strikes: 0.3, time: 0.1731761)
+
+[PaceMaker] Next idle action in 29.77929 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] garuda2002 (): !23 glovpmon
+[TwitchPlays] [M] draket333 (#004000, 129362617): !q !16 stand
+[ModBombComponent #46] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"caesarCycle","bombTime":3212.01953,"realTime":516.9957,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.4893559 (Factors: solved: 0.01666667, strikes: 0.3, time: 0.1726892)
+
+[Forget Us Not #1] Stage = 20
+[Forget Us Not #1] Previously Solved = Caesar Cycle
+[Forget Us Not #1] Code Used = 250
+[Forget Us Not #1] Stage 20 = 5
+[RPS Judging #1] Round 2: Blood vs Chain
+[RPS Judging #1] Blood loses to Chain. Red Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 2 ------
+[Forget Perspective #0] Face 1 is Magenta.
+[Forget Perspective #0] Face 2 is Green.
+[Forget Perspective #0] Face 3 is Orange.
+[Forget Perspective #0] Face 4 is Blue.
+[Forget Perspective #0] Face 5 is Red.
+[Forget Perspective #0] Face 6 is Yellow.
+[Forget Perspective #0] Time you got the stage on: 53
+[Forget Perspective #0] Starting rule 2 applied.
+[Forget Perspective #0] Net rule 3 applied.
+[Forget Perspective #0] Order made: G B R O M Y
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted order: N I Y V T F
+[Forget Perspective #0] Added value: V
+[TwitchPlays] [M] garuda2002 (, 138444820): !16 unclaim
+[PaceMaker] PlayerSuccessRating: 0.4882388 (Factors: solved: 0.01666667, strikes: 0.3, time: 0.1715721)
+
+[PaceMaker] Next idle action in 53.94921 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[PaceMaker] PlayerSuccessRating: 0.4853354 (Factors: solved: 0.01666667, strikes: 0.3, time: 0.1686687)
+
+[PaceMaker] Next idle action in 30.78138 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !9 cv
+[TwitchPlays] [M] draket333 (#004000, 129362617): !9 help
+[TwitchPlays] [M] draket333 (#004000, 129362617): !9 d help
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] draket333 (#004000): !24 submit 20631
+[ModBombComponent #48] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"taxReturns","bombTime":3109.83643,"realTime":619.152832,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5005289 (Factors: solved: 0.03333334, strikes: 0.3, time: 0.1671955)
+
+[Tax Returns #1] You have paid within £1 of £20631. Thank you for using HMRC self assessment. Module disarmed.
+[RPS Judging #1] Round 3: Butter vs Gold
+[RPS Judging #1] Butter beats Gold. Blue Team gets a point!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 6
+[Forget Us Not #1] Previously Solved = Tax Returns
+[Forget Us Not #1] Code Used = 555
+[Forget Us Not #1] Stage 6 = 3
+Awake
+[Forget Perspective #0] ------Stage 3 ------
+[Forget Perspective #0] Face 1 is Magenta.
+[Forget Perspective #0] Face 2 is Orange.
+[Forget Perspective #0] Face 3 is Blue.
+[Forget Perspective #0] Face 4 is Yellow.
+[Forget Perspective #0] Face 5 is Red.
+[Forget Perspective #0] Face 6 is Green.
+[Forget Perspective #0] Time you got the stage on: 51
+[Forget Perspective #0] Starting rule 6 applied.
+[Forget Perspective #0] Net rule 3 applied.
+[Forget Perspective #0] Order made: G M B R Y O
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted order: N T I Y F V
+[Forget Perspective #0] Added value: Y
+[PaceMaker] PlayerSuccessRating: 0.5003442 (Factors: solved: 0.03333334, strikes: 0.3, time: 0.1670108)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Cut the lights at 942.9163
+
+[PaceMaker] Next idle action in 56.53524 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): ping me if it's lagging (game), im pretty sure wifi will disconnect every one in a while
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] draket333 (#004000): !16 stand
+[Blackjack #1] Standing...
+[Blackjack #1] Your hand is worth 21
+[Blackjack #1] The dealer's hand is worth 20
+[Blackjack #1] You have Blackjack! Module passed.
+[ModBombComponent #32] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"KritBlackjack","bombTime":3051.5188,"realTime":677.454346,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5140602 (Factors: solved: 0.05, strikes: 0.3, time: 0.1640602)
+
+[RPS Judging #1] Round 4: Vulture vs Airplane
+[RPS Judging #1] Vulture beats Airplane. Blue Team gets a point!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 1
+[Forget Us Not #1] Previously Solved = Blackjack
+[Forget Us Not #1] Code Used = 543
+[Forget Us Not #1] Stage 1 = 4
+Awake
+[Forget Perspective #0] ------Stage 4 ------
+[Forget Perspective #0] Face 1 is Blue.
+[Forget Perspective #0] Face 2 is Yellow.
+[Forget Perspective #0] Face 3 is Orange.
+[Forget Perspective #0] Face 4 is Magenta.
+[Forget Perspective #0] Face 5 is Red.
+[Forget Perspective #0] Face 6 is Green.
+[Forget Perspective #0] Time you got the stage on: 50
+[Forget Perspective #0] Starting rule 5 applied.
+[Forget Perspective #0] Net rule 1 applied.
+[Forget Perspective #0] Order made: R Y M B G O
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted order: Y F T I N V
+[Forget Perspective #0] Added value: I
+[PaceMaker] PlayerSuccessRating: 0.5139689 (Factors: solved: 0.05, strikes: 0.3, time: 0.1639688)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 999.4562
+
+[PaceMaker] Next idle action in 46.25867 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[PaceMaker] PlayerSuccessRating: 0.5114839 (Factors: solved: 0.05, strikes: 0.3, time: 0.1614839)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 59.44342 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !11 next
+[Mystery Module #1] Advancing to the next stage after solving Blackjack
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 cv
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): vulture defeats airplane, huh
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): makes sense
+[PaceMaker] PlayerSuccessRating: 0.5082835 (Factors: solved: 0.05, strikes: 0.3, time: 0.1582835)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.28415 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !q !3 tuhvvdfb
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] garuda2002 (): !3 tuhvvdfb
+[ModBombComponent #6] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"playfairCycle","bombTime":2888.8252,"realTime":840.0873,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5219799 (Factors: solved: 0.06666667, strikes: 0.3, time: 0.1553132)
+
+[RPS Judging #1] Round 5: Electricity vs Rain
+[RPS Judging #1] Electricity loses to Rain. Red Team gets a point!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 4
+[Forget Us Not #1] Previously Solved = Playfair Cycle
+[Forget Us Not #1] Code Used = 253
+[Forget Us Not #1] Stage 4 = 4
+Awake
+[Forget Perspective #0] ------Stage 5 ------
+[Forget Perspective #0] Face 1 is Yellow.
+[Forget Perspective #0] Face 2 is Magenta.
+[Forget Perspective #0] Face 3 is Red.
+[Forget Perspective #0] Face 4 is Orange.
+[Forget Perspective #0] Face 5 is Green.
+[Forget Perspective #0] Face 6 is Blue.
+[Forget Perspective #0] Time you got the stage on: 48
+[Forget Perspective #0] Starting rule 1 applied.
+[Forget Perspective #0] Net rule 4 applied.
+[Forget Perspective #0] Order made: Y G M O R B
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted order: F N T V Y I
+[Forget Perspective #0] Added value: N
+[PaceMaker] PlayerSuccessRating: 0.5219206 (Factors: solved: 0.06666667, strikes: 0.3, time: 0.1552539)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 30.97542 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] garuda2002 (, 138444820): !31 cycle items
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[PaceMaker] PlayerSuccessRating: 0.5202533 (Factors: solved: 0.06666667, strikes: 0.3, time: 0.1535866)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.58353 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !31 cycle stats
+[PaceMaker] PlayerSuccessRating: 0.517909 (Factors: solved: 0.06666667, strikes: 0.3, time: 0.1512424)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 20.03977 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.516828 (Factors: solved: 0.06666667, strikes: 0.3, time: 0.1501613)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 45.70247 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !q !21 submit HEREBY
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[PaceMaker] PlayerSuccessRating: 0.5143698 (Factors: solved: 0.06666667, strikes: 0.3, time: 0.1477031)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 58.27446 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520): !21 submit HEREBY
+[ModBombComponent #42] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"blackCipher","bombTime":2739.116,"realTime":989.7532,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5305976 (Factors: solved: 0.08333334, strikes: 0.3, time: 0.1472643)
+
+[RPS Judging #1] Round 6: Train vs Fish
+[RPS Judging #1] Train beats Fish. Blue Team gets a point!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 8
+[Forget Us Not #1] Previously Solved = Black Cipher
+[Forget Us Not #1] Code Used = 179
+[Forget Us Not #1] Stage 8 = 3
+Awake
+[Forget Perspective #0] ------Stage 6 ------
+[Forget Perspective #0] Face 1 is Blue.
+[Forget Perspective #0] Face 2 is Green.
+[Forget Perspective #0] Face 3 is Yellow.
+[Forget Perspective #0] Face 4 is Magenta.
+[Forget Perspective #0] Face 5 is Orange.
+[Forget Perspective #0] Face 6 is Red.
+[Forget Perspective #0] Time you got the stage on: 45
+[Forget Perspective #0] Starting rule 6 applied.
+[Forget Perspective #0] Net rule 1 applied.
+[Forget Perspective #0] Order made: R O Y M G B
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted order: Y V F T N I
+[Forget Perspective #0] Added value: V
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] garuda2002 (, 138444820): !q !31 use magic orb
+:bananalord!bananalord@bananalord.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[PaceMaker] PlayerSuccessRating: 0.5278993 (Factors: solved: 0.08333334, strikes: 0.3, time: 0.144566)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 35.25281 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !10 cv
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] garuda2002 (): !31 use magic orb
+[Adventure Game #1] Weapon MAGIC ORB used correctly. Module passed.
+[ModBombComponent #62] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"spwizAdventureGame","bombTime":2673.58984,"realTime":1055.252,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5437414 (Factors: solved: 0.1, strikes: 0.3, time: 0.1437414)
+
+[RPS Judging #1] Round 7: Wall vs Dynamite
+[RPS Judging #1] Wall loses to Dynamite. Red Team gets a point!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 15
+[Forget Us Not #1] Previously Solved = Adventure Game
+[Forget Us Not #1] Code Used = 622
+[Forget Us Not #1] Stage 15 = 4
+Awake
+[Forget Perspective #0] ------Stage 7 ------
+[Forget Perspective #0] Face 1 is Magenta.
+[Forget Perspective #0] Face 2 is Yellow.
+[Forget Perspective #0] Face 3 is Orange.
+[Forget Perspective #0] Face 4 is Blue.
+[Forget Perspective #0] Face 5 is Green.
+[Forget Perspective #0] Face 6 is Red.
+[Forget Perspective #0] Time you got the stage on: 44
+[Forget Perspective #0] Starting rule 5 applied.
+[Forget Perspective #0] Net rule 3 applied.
+[Forget Perspective #0] Order made: G O B Y M R
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted order: N V I F T Y
+[Forget Perspective #0] Added value: F
+[TwitchPlays] [M] garuda2002 (, 138444820): !14 cv
+[TwitchPlays] [M] draket333 (#004000, 129362617): !9 d f1 llldrrdllluuldddddddrruluuurrddddrruuluuruuu
+[PaceMaker] PlayerSuccessRating: 0.5426693 (Factors: solved: 0.1, strikes: 0.3, time: 0.1426693)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 41.83307 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 claim
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.5404178 (Factors: solved: 0.1, strikes: 0.3, time: 0.1404178)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 36.19063 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 d 3
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 D 3
+[PaceMaker] PlayerSuccessRating: 0.5384708 (Factors: solved: 0.1, strikes: 0.3, time: 0.1384708)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 51.38741 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 d 3
+:bananalord!bananalord@bananalord.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 D 3
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 d 3
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 D 3
+[PaceMaker] PlayerSuccessRating: 0.5357065 (Factors: solved: 0.1, strikes: 0.3, time: 0.1357065)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 21.40456 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 #
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 d 3
+[TwitchPlays] [M] draket333 (#004000, 129362617): !q !9 submit
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 fill 1 yellow
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !20 fill 2 blue
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] draket333 (#004000): !9 submit
+[ModBombComponent #18] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"masyuModule","bombTime":2510.269,"realTime":1218.52563,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5516274 (Factors: solved: 0.1166667, strikes: 0.3, time: 0.1349607)
+
+[RPS Judging #1] Round 8: Vampire vs Snake
+[RPS Judging #1] Vampire loses to Snake. Red Team gets a point!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 3
+[Forget Us Not #1] Previously Solved = Masyu
+[Forget Us Not #1] Code Used = 950
+[Forget Us Not #1] Stage 3 = 2
+Awake
+[Forget Perspective #0] ------Stage 8 ------
+[Forget Perspective #0] Face 1 is Magenta.
+[Forget Perspective #0] Face 2 is Green.
+[Forget Perspective #0] Face 3 is Yellow.
+[Forget Perspective #0] Face 4 is Blue.
+[Forget Perspective #0] Face 5 is Orange.
+[Forget Perspective #0] Face 6 is Red.
+[Forget Perspective #0] Time you got the stage on: 41
+[Forget Perspective #0] Starting rule 2 applied.
+[Forget Perspective #0] Net rule 3 applied.
+[Forget Perspective #0] Order made: G B O Y M R
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted order: N I V F T Y
+[Forget Perspective #0] Added value: F
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 d 3
+[PaceMaker] PlayerSuccessRating: 0.551221 (Factors: solved: 0.1166667, strikes: 0.3, time: 0.1345543)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 55.50055 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 u 3
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !q !20 submit on 0
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 d 3
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 D 2
+[TwitchPlays] [M] garuda2002 (, 138444820): !10 help
+[PaceMaker] PlayerSuccessRating: 0.5482356 (Factors: solved: 0.1166667, strikes: 0.3, time: 0.1315689)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 55.0543 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 #
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 d 3
+:teushiro!teushiro@teushiro.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 D 3
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !8 claim
+[TwitchPlays] [M] draket333 (#004000, 129362617): !5 d
+[TwitchPlays] [M] draket333 (#004000, 129362617): !q !5 #
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520): !20 submit on 0
+[Vexillology #1] = = = = = = = = =
+[Vexillology #1] The submitted flag was Yellow and Blue at 40:25
+[Vexillology #1] Submit Time must include 0
+[ModBombComponent #40] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"vexillology","bombTime":2425.5083,"realTime":1303.25708,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.563737 (Factors: solved: 0.1333333, strikes: 0.3, time: 0.1304037)
+
+[Vexillology #1] Module Solved!
+[Forget Us Not #1] Stage = 17
+[Forget Us Not #1] Previously Solved = Vexillology
+[Forget Us Not #1] Code Used = 363
+[Forget Us Not #1] Stage 17 = 4
+[RPS Judging #1] Round 9: Money vs Butter
+[RPS Judging #1] Money beats Butter. Blue Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 9 ------
+[Forget Perspective #0] Face 1 is Red.
+[Forget Perspective #0] Face 2 is Yellow.
+[Forget Perspective #0] Face 3 is Blue.
+[Forget Perspective #0] Face 4 is Green.
+[Forget Perspective #0] Face 5 is Magenta.
+[Forget Perspective #0] Face 6 is Orange.
+[Forget Perspective #0] Time you got the stage on: 40
+[Forget Perspective #0] Starting rule 5 applied.
+[Forget Perspective #0] Net rule 5 applied.
+[Forget Perspective #0] Order made: M R G B Y O
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted order: T Y N I F V
+[Forget Perspective #0] Added value: I
+[TwitchPlays] [M] garuda2002 (, 138444820): !q !10 spray 1 6 7
+[TwitchPlays] [M] garuda2002 (, 138444820): !14 help
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] garuda2002 (, 138444820): someone should probably get on timekeeper
+[PaceMaker] PlayerSuccessRating: 0.5619426 (Factors: solved: 0.1333333, strikes: 0.3, time: 0.1286093)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 22.35688 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] draket333 (#004000, 129362617): !1 cv
+[TwitchPlays] [M] garuda2002 (, 138444820): !14 cycle 1 2 3
+[PaceMaker] PlayerSuccessRating: 0.5607372 (Factors: solved: 0.1333333, strikes: 0.3, time: 0.1274038)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 32.10958 seconds.
+
+[TwitchPlays] Unprocessed string: cycle
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] draket333 (#004000): !5 #
+[TwitchPlays] Unprocessed string: cycle
+---PING--- ---PONG--- :tmi.twitch.tv
+[ModBombComponent #10] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"turtleRobot","bombTime":2346.77,"realTime":1381.96094,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5761704 (Factors: solved: 0.15, strikes: 0.3, time: 0.1261704)
+
+[RPS Judging #1] Round 10: Gold vs Computer
+[RPS Judging #1] Gold beats Computer. Blue Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 10 ------
+[Forget Perspective #0] Face 1 is Yellow.
+[Forget Perspective #0] Face 2 is Magenta.
+[Forget Perspective #0] Face 3 is Blue.
+[Forget Perspective #0] Face 4 is Red.
+[Forget Perspective #0] Face 5 is Green.
+[Forget Perspective #0] Face 6 is Orange.
+[Forget Perspective #0] Time you got the stage on: 39
+[Forget Perspective #0] Starting rule 6 applied.
+[Forget Perspective #0] Net rule 6 applied.
+[Forget Perspective #0] Order made: O B R M Y G
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted order: V I Y T F N
+[Forget Perspective #0] Added value: T
+[Forget Us Not #1] Stage = 23
+[Forget Us Not #1] Previously Solved = Turtle Robot
+[Forget Us Not #1] Code Used = 855
+[Forget Us Not #1] Stage 23 = 6
+[PaceMaker] PlayerSuccessRating: 0.5756738 (Factors: solved: 0.15, strikes: 0.3, time: 0.1256738)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 59.82926 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] draket333 (#004000, 129362617): !11 next
+[Mystery Module #1] Advancing to the next stage after solving Turtle Robot
+[PaceMaker] PlayerSuccessRating: 0.5724557 (Factors: solved: 0.15, strikes: 0.3, time: 0.1224557)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 45.05404 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !11 nexT
+[Mystery Module #1] Advancing to the next stage after solving Black Cipher
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): oh so there is a backup stream
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !7 cv
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] garuda2002 (): !10 spray 1 6 7
+spray 1 6 7
+[Graffiti Numbers #1] You have sprayed 872. That is correct. Module disarmed.
+[ModBombComponent #20] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"graffitiNumbers","bombTime":2261.294,"realTime":1467.40186,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5882416 (Factors: solved: 0.1666667, strikes: 0.3, time: 0.1215749)
+
+[RPS Judging #1] Round 11: Whip vs Cage
+[RPS Judging #1] Whip beats Cage. Blue Team gets a point!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 5
+[Forget Us Not #1] Previously Solved = Graffiti Numbers
+[Forget Us Not #1] Code Used = 361
+[Forget Us Not #1] Stage 5 = 6
+Awake
+[Forget Perspective #0] ------Stage 11 ------
+[Forget Perspective #0] Face 1 is Orange.
+[Forget Perspective #0] Face 2 is Red.
+[Forget Perspective #0] Face 3 is Magenta.
+[Forget Perspective #0] Face 4 is Green.
+[Forget Perspective #0] Face 5 is Blue.
+[Forget Perspective #0] Face 6 is Yellow.
+[Forget Perspective #0] Time you got the stage on: 37
+[Forget Perspective #0] Starting rule 2 applied.
+[Forget Perspective #0] Net rule 1 applied.
+[Forget Perspective #0] Order made: R M B O Y G
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted order: Y T I V F N
+[Forget Perspective #0] Added value: V
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !unclaimed
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): and damn that's a few people
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !27 cv
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !27 help
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] garuda2002 (, 138444820): !14 cycle 4
+[PaceMaker] PlayerSuccessRating: 0.5866964 (Factors: solved: 0.1666667, strikes: 0.3, time: 0.1200298)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 27.46995 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[PaceMaker] PlayerSuccessRating: 0.5852154 (Factors: solved: 0.1666667, strikes: 0.3, time: 0.1185488)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 41.71542 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !q !14 angst
+[TwitchPlays] [M] garuda2002 (, 138444820): !25 cv
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !q !27 submit 00000010
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !7 help
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !7 zoom 10
+[PaceMaker] PlayerSuccessRating: 0.5829703 (Factors: solved: 0.1666667, strikes: 0.3, time: 0.1163036)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 36.98818 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] garuda2002 (): !14 angst
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !q !8 submit 78FNYK
+[Passwords Translated #1] Submitted correct password: "ANGST"!
+[ModBombComponent #28] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"PasswordsTranslated","bombTime":2135.144,"realTime":1593.49133,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5981261 (Factors: solved: 0.1833333, strikes: 0.3, time: 0.1147927)
+
+[RPS Judging #1] Round 12: Sword vs Water
+[RPS Judging #1] Sword loses to Water. Red Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 12 ------
+[Forget Perspective #0] Face 1 is Orange.
+[Forget Perspective #0] Face 2 is Blue.
+[Forget Perspective #0] Face 3 is Yellow.
+[Forget Perspective #0] Face 4 is Green.
+[Forget Perspective #0] Face 5 is Magenta.
+[Forget Perspective #0] Face 6 is Red.
+[Forget Perspective #0] Time you got the stage on: 35
+[Forget Perspective #0] Starting rule 6 applied.
+[Forget Perspective #0] Net rule 1 applied.
+[Forget Perspective #0] Order made: R M Y G B O
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted order: Y T F N I V
+[Forget Perspective #0] Added value: N
+[Forget Us Not #1] Stage = 11
+[Forget Us Not #1] Previously Solved = Passwords Translated
+[Forget Us Not #1] Code Used = 600
+[Forget Us Not #1] Stage 11 = 8
+:ktane1!ktane1@ktane1.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !7 zom 5
+[PaceMaker] PlayerSuccessRating: 0.5976472 (Factors: solved: 0.1833333, strikes: 0.3, time: 0.1143139)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 42.81126 seconds.
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !7 zoom 5
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !7 help
+[PaceMaker] PlayerSuccessRating: 0.595341 (Factors: solved: 0.1833333, strikes: 0.3, time: 0.1120077)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 50.4313 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] ktane1 (#FF0000): !27 submit 00000010
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !7 Blanana River LordKabewm Legend
+[TwitchPlays] [M] draket333 (#004000, 129362617): !26 cv
+[Bitwise Operators #1] Answer given is 00000010.
+[Bitwise Operators #1] Module solved.
+[ModBombComponent #54] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"BitOps","bombTime":2077.44873,"realTime":1651.158,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6116908 (Factors: solved: 0.2, strikes: 0.3, time: 0.1116908)
+
+[RPS Judging #1] Round 13: Planet vs Video Game
+[RPS Judging #1] Planet beats Video Game. Blue Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 13 ------
+[Forget Perspective #0] Face 1 is Yellow.
+[Forget Perspective #0] Face 2 is Magenta.
+[Forget Perspective #0] Face 3 is Green.
+[Forget Perspective #0] Face 4 is Orange.
+[Forget Perspective #0] Face 5 is Red.
+[Forget Perspective #0] Face 6 is Blue.
+[Forget Perspective #0] Time you got the stage on: 34
+[Forget Perspective #0] Starting rule 5 applied.
+[Forget Perspective #0] Net rule 1 applied.
+[Forget Perspective #0] Order made: R M O Y B G
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted order: Y T V F I N
+[Forget Perspective #0] Added value: F
+[Forget Us Not #1] Stage = 18
+[Forget Us Not #1] Previously Solved = Bitwise Operations
+[Forget Us Not #1] Code Used = 010
+[Forget Us Not #1] Stage 18 = 1
+[TwitchPlays] [M] garuda2002 (, 138444820): !25 help
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !q !7 submit
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !12 cv
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !18 cv
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] garuda2002 (, 138444820): !q !25 green cyan purple
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !12 help
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !12 d4
+[Colored Squares #1] 1 lit: next stage is Column.
+[TwitchPlays] [M] garuda2002 (, 138444820): !22 cv
+[PaceMaker] PlayerSuccessRating: 0.609296 (Factors: solved: 0.2, strikes: 0.3, time: 0.109296)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 28.93403 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520): !8 submit 78FNYK
+[Vigenère Cipher 1] Twitch input: 78FNYK
+[Vigenère Cipher #1] Pressed button 7. Input is 7.
+[Vigenère Cipher #1] Pressed button 8. Input is 78.
+[Vigenère Cipher #1] Pressed button F. Input is 78F.
+[Vigenère Cipher #1] Pressed button N. Input is 78FN.
+[Vigenère Cipher #1] Pressed button Y. Input is 78FNY.
+[Vigenère Cipher #1] Pressed button K. Input is 78FNYK.
+[Vigenère Cipher #1] Submitted 78FNYK, Expected 78FNYK.
+[ModBombComponent #16] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"vigenereCipher","bombTime":2024.7019,"realTime":1703.89978,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6255216 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.1088549)
+
+[RPS Judging #1] Round 14: Beer vs Satan
+[RPS Judging #1] Beer beats Satan. Blue Team gets a point!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 27
+[Forget Us Not #1] Previously Solved = Vigenère Cipher
+[Forget Us Not #1] Code Used = 159
+[Forget Us Not #1] Stage 27 = 1
+Awake
+[Forget Perspective #0] ------Stage 14 ------
+[Forget Perspective #0] Face 1 is Magenta.
+[Forget Perspective #0] Face 2 is Red.
+[Forget Perspective #0] Face 3 is Yellow.
+[Forget Perspective #0] Face 4 is Blue.
+[Forget Perspective #0] Face 5 is Green.
+[Forget Perspective #0] Face 6 is Orange.
+[Forget Perspective #0] Time you got the stage on: 33
+[Forget Perspective #0] Starting rule 6 applied.
+[Forget Perspective #0] Net rule 6 applied.
+[Forget Perspective #0] Order made: O Y B R M G
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted order: V F I Y T N
+[Forget Perspective #0] Added value: Y
+[TwitchPlays] [M] garuda2002 (, 138444820): this is going to be close on time I think
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !7 a1 a2 a3 a4
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 cv
+[PaceMaker] PlayerSuccessRating: 0.6244055 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.1077389)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 22.94425 seconds.
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !12 a1 a2 a3 a4
+[Colored Squares #1] 5 lit: next stage is Green.
+[TwitchPlays] [M] garuda2002 (, 138444820): !30 cv
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !12 b2 c1
+[Colored Squares #1] 7 lit: next stage is Column.
+[PaceMaker] PlayerSuccessRating: 0.6231733 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.1065066)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 31.41617 seconds.
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !12 b1 b3 b4
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[Colored Squares #1] 10 lit: next stage is Yellow.
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !30 claim
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] ktane1 (#FF0000): !7 submit
+[Minecraft Parody #1] Submitted user 1: Blanana. Correct answer: Blanana
+[Minecraft Parody #1] Submitted user 2: River. Correct answer: River
+[Minecraft Parody #1] Submitted user 3: LordKabewm. Correct answer: LordKabewm
+[Minecraft Parody #1] Submitted user 4: Legend. Correct answer: Legend
+[ModBombComponent #14] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"minecraftParody","bombTime":1966.9585,"realTime":1761.66028,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6390838 (Factors: solved: 0.2333333, strikes: 0.3, time: 0.1057505)
+
+[Minecraft Parody #1] Submission correct. You have defeated the Bomb-brine
+[Forget Us Not #1] Stage = 16
+[Forget Us Not #1] Previously Solved = Minecraft Parody
+[Forget Us Not #1] Code Used = 333
+[Forget Us Not #1] Stage 16 = 1
+[RPS Judging #1] Round 15: Vampire vs Chain
+[RPS Judging #1] Vampire beats Chain. Blue Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 15 ------
+[Forget Perspective #0] Face 1 is Yellow.
+[Forget Perspective #0] Face 2 is Red.
+[Forget Perspective #0] Face 3 is Green.
+[Forget Perspective #0] Face 4 is Blue.
+[Forget Perspective #0] Face 5 is Magenta.
+[Forget Perspective #0] Face 6 is Orange.
+[Forget Perspective #0] Time you got the stage on: 32
+[Forget Perspective #0] Starting rule 5 applied.
+[Forget Perspective #0] Net rule 5 applied.
+[Forget Perspective #0] Order made: M Y B G R O
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted order: T F I N Y V
+[Forget Perspective #0] Added value: N
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !12 d2
+[Colored Squares #1] 11 lit: next stage is Column.
+[PaceMaker] PlayerSuccessRating: 0.6381508 (Factors: solved: 0.2333333, strikes: 0.3, time: 0.1048174)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 38.32615 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !12 c2 c3 c4
+[Colored Squares #1] 14 lit: next stage is Column.
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !q !12 d1 d3
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !18 help
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[PaceMaker] PlayerSuccessRating: 0.63609 (Factors: solved: 0.2333333, strikes: 0.3, time: 0.1027567)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 38.90281 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] garuda2002 (): !25 green cyan purple
+[The Colored Maze #1] Moving Up.
+[The Colored Maze #1] Moving Right.
+[The Colored Maze #1] Moving Right.
+[The Colored Maze #1] In a corner. Module solved!
+[ModBombComponent #50] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"coloredMaze","bombTime":1903.0155,"realTime":1825.61365,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6523127 (Factors: solved: 0.25, strikes: 0.3, time: 0.1023127)
+
+[RPS Judging #1] Round 16: Spider vs Prince
+[RPS Judging #1] Spider loses to Prince. Red Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 16 ------
+[Forget Perspective #0] Face 1 is Orange.
+[Forget Perspective #0] Face 2 is Blue.
+[Forget Perspective #0] Face 3 is Red.
+[Forget Perspective #0] Face 4 is Green.
+[Forget Perspective #0] Face 5 is Yellow.
+[Forget Perspective #0] Face 6 is Magenta.
+[Forget Perspective #0] Time you got the stage on: 31
+[Forget Perspective #0] Starting rule 2 applied.
+[Forget Perspective #0] Net rule 2 applied.
+[Forget Perspective #0] Order made: B Y R G O M
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted order: I F Y N V T
+[Forget Perspective #0] Added value: N
+[Forget Us Not #1] Stage = 13
+[Forget Us Not #1] Previously Solved = The Colored Maze
+[Forget Us Not #1] Code Used = 318
+[Forget Us Not #1] Stage 13 = 6
+:xxj1llxx!xxj1llxx@xxj1llxx.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.6506644 (Factors: solved: 0.25, strikes: 0.3, time: 0.1006644)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 40.45392 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !30 r
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !q !18 submit 35 56
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] ktane1 (#FF0000): !12 d1 d3
+[Colored Squares #1] Module solved.
+[ModBombComponent #24] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"ColoredSquaresModule","bombTime":1849.29358,"realTime":1879.35193,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6660911 (Factors: solved: 0.2666667, strikes: 0.3, time: 0.09942438)
+
+[Forget Us Not #1] Stage = 10
+[Forget Us Not #1] Previously Solved = Colored Squares
+[Forget Us Not #1] Code Used = 830
+[Forget Us Not #1] Stage 10 = 9
+[RPS Judging #1] Round 17: Brain vs Fence
+[RPS Judging #1] Brain beats Fence. Blue Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 17 ------
+[Forget Perspective #0] Face 1 is Yellow.
+[Forget Perspective #0] Face 2 is Green.
+[Forget Perspective #0] Face 3 is Orange.
+[Forget Perspective #0] Face 4 is Red.
+[Forget Perspective #0] Face 5 is Blue.
+[Forget Perspective #0] Face 6 is Magenta.
+[Forget Perspective #0] Time you got the stage on: 30
+[Forget Perspective #0] Starting rule 1 applied.
+[Forget Perspective #0] Net rule 4 applied.
+[Forget Perspective #0] Order made: Y B G R O M
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted order: F I N Y V T
+[Forget Perspective #0] Added value: Y
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): STOP BUFFERING FFS
+[TwitchPlays] [M] garuda2002 (, 138444820): !22 show
+[PaceMaker] PlayerSuccessRating: 0.6651544 (Factors: solved: 0.2666667, strikes: 0.3, time: 0.0984877)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 47.52144 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] garuda2002 (, 138444820): !22 zoom
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 cv
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 help
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): AAAAA
+[TwitchPlays] [M] draket333 (#004000, 129362617): !26 press 3
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] ktane1 (#FF0000): !18 submit 35 56
+[Radiator #1] Temperature: received 35, expected 35.
+[Radiator #1] Temperature correct!
+[Radiator #1] Water: received 56, expected 56.
+[Radiator #1] Water correct!
+[Radiator #1] Module passed.
+[ModBombComponent #36] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"radiator","bombTime":1791.253,"realTime":1937.41,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6796373 (Factors: solved: 0.2833333, strikes: 0.3, time: 0.09630393)
+
+[Forget Us Not #1] Stage = 26
+[Forget Us Not #1] Previously Solved = Radiator
+[Forget Us Not #1] Code Used = 870
+[Forget Us Not #1] Stage 26 = 3
+[RPS Judging #1] Round 18: Princess vs Butter
+[RPS Judging #1] Princess beats Butter. Blue Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 18 ------
+[Forget Perspective #0] Face 1 is Green.
+[Forget Perspective #0] Face 2 is Red.
+[Forget Perspective #0] Face 3 is Magenta.
+[Forget Perspective #0] Face 4 is Blue.
+[Forget Perspective #0] Face 5 is Orange.
+[Forget Perspective #0] Face 6 is Yellow.
+[Forget Perspective #0] Time you got the stage on: 29
+[Forget Perspective #0] Starting rule 2 applied.
+[Forget Perspective #0] Net rule 1 applied.
+[Forget Perspective #0] Order made: R M O G Y B
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted order: Y T V N F I
+[Forget Perspective #0] Added value: T
+[TwitchPlays] [M] garuda2002 (, 138444820): that's blue/aqua for the arrow?
+[PaceMaker] PlayerSuccessRating: 0.6792642 (Factors: solved: 0.2833333, strikes: 0.3, time: 0.09593093)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 59.078 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): Wtf was that
+[TwitchPlays] [M] draket333 (#004000, 129362617): Why did it take like 10 seconds
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !claims
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): holy shit
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 zoom 5
+[TwitchPlays] [M] garuda2002 (, 138444820): !22 help
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] garuda2002 (, 138444820): !22 cw cw cw
+[Daylight Directions #1] Twitch plays command cw registered; clockwise button pressed.
+[Daylight Directions #1] Rotated arrow clockwise. Rotation is now 135 degrees.
+[Daylight Directions #1] Twitch plays command cw registered; clockwise button pressed.
+[Daylight Directions #1] Rotated arrow clockwise. Rotation is now 90 degrees.
+[Daylight Directions #1] Twitch plays command cw registered; clockwise button pressed.
+[Daylight Directions #1] Rotated arrow clockwise. Rotation is now 45 degrees.
+[PaceMaker] PlayerSuccessRating: 0.6760877 (Factors: solved: 0.2833333, strikes: 0.3, time: 0.09275433)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 36.48801 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !26 press 3
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 zoom 5
+[TwitchPlays] [M] draket333 (#004000, 129362617): WHY
+[TwitchPlays] [M] garuda2002 (, 138444820): !q !22 submit
+[TwitchPlays] [M] draket333 (#004000, 129362617): !26 press 3
+[PaceMaker] PlayerSuccessRating: 0.6741259 (Factors: solved: 0.2833333, strikes: 0.3, time: 0.09079258)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 41.84675 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): Wtf is happening to this kooky keypad
+[TwitchPlays] [M] draket333 (#004000, 129362617): !26 press 3
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): wait what is happening
+[TwitchPlays] [M] garuda2002 (, 138444820): also why are we getting warning music?
+[PaceMaker] PlayerSuccessRating: 0.6718739 (Factors: solved: 0.2833333, strikes: 0.3, time: 0.08854058)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 29.52756 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 show
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 help
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 zoom
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 right
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 zoom 5
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !disablecamerawall
+[TwitchPlays] Disabling camera wall
+[TwitchPlays] Enabling camera wall
+[TwitchPlays] Camera wall enabled
+[TwitchPlays] Camera wall disabled
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+[TwitchPlays] [M] draket333 (#004000, 129362617): It's taking like 10 seconds to show colors
+[TwitchPlays] [M] draket333 (#004000, 129362617): Which it doesn't normally
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[PaceMaker] PlayerSuccessRating: 0.6702844 (Factors: solved: 0.2833333, strikes: 0.3, time: 0.08695105)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 55.24509 seconds.
+
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): the fuck
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] garuda2002 (): !22 submit
+[Daylight Directions #1] Twitch plays command submit registered; submit button pressed.
+[ModBombComponent #44] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"daylightDirections","bombTime":1611.63232,"realTime":2117.079,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6866469 (Factors: solved: 0.3, strikes: 0.3, time: 0.0866469)
+
+[Daylight Directions #1] Submitted rotation is correct. Module passed.
+[RPS Judging #1] Round 19: Car vs Baby
+[RPS Judging #1] Car loses to Baby. Red Team gets a point!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 22
+[Forget Us Not #1] Previously Solved = Daylight Directions
+[Forget Us Not #1] Code Used = 873
+[Forget Us Not #1] Stage 22 = 0
+Awake
+[Forget Perspective #0] ------Stage 19 ------
+[Forget Perspective #0] Face 1 is Blue.
+[Forget Perspective #0] Face 2 is Yellow.
+[Forget Perspective #0] Face 3 is Red.
+[Forget Perspective #0] Face 4 is Magenta.
+[Forget Perspective #0] Face 5 is Orange.
+[Forget Perspective #0] Face 6 is Green.
+[Forget Perspective #0] Time you got the stage on: 26
+[Forget Perspective #0] Starting rule 5 applied.
+[Forget Perspective #0] Net rule 6 applied.
+[Forget Perspective #0] Order made: O M B G R Y
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted order: V T I N Y F
+[Forget Perspective #0] Added value: N
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 next
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 right
+Screen position out of view frustum (screen pos 1262.000000, 440.000000) (Camera rect 960 392 320 302)
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[PaceMaker] PlayerSuccessRating: 0.6839812 (Factors: solved: 0.3, strikes: 0.3, time: 0.08398115)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 53.23553 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] draket333 (#004000, 129362617): !26 press 3
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 right
+[TwitchPlays] [M] draket333 (#004000, 129362617): That doesn't look like anything in the manual :/
+[TwitchPlays] [M] draket333 (#004000, 129362617): I guess it's crimson
+[PaceMaker] PlayerSuccessRating: 0.6811189 (Factors: solved: 0.3, strikes: 0.3, time: 0.08111889)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 39.48245 seconds.
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !2 help
+[TwitchPlays] [M] draket333 (#004000, 129362617): !q !26 submit 1 2 3 4
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[PaceMaker] PlayerSuccessRating: 0.6789973 (Factors: solved: 0.3, strikes: 0.3, time: 0.07899731)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 27.87967 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !13 cv
+[TwitchPlays] [M] garuda2002 (, 138444820): !q !2 play 3/7 of c/h/s/d
+[PaceMaker] PlayerSuccessRating: 0.6774977 (Factors: solved: 0.3, strikes: 0.3, time: 0.07749774)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 41.13046 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !13 help
+[TwitchPlays] [M] garuda2002 (, 138444820): is mystery mod going to be fine? I don't know it
+[TwitchPlays] [M] draket333 (#004000, 129362617): !13 move llldd
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 right
+[TwitchPlays] [M] draket333 (#004000, 129362617): Yeah, it's fine
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] draket333 (#004000): !26 submit 1 2 3 4
+[Kooky Keypad #1] Submitted the following buttons...
+[Kooky Keypad #1] Top Left: True | Top Right: True | Bottom Left: True | Bottom Right: True
+[Kooky Keypad #1] The submitted buttons were correct! Module Disarmed!
+[ModBombComponent #52] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"kookyKeypadModule","bombTime":1415.33984,"realTime":2313.431,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6927602 (Factors: solved: 0.3166667, strikes: 0.3, time: 0.07609355)
+
+[Forget Us Not #1] Stage = 19
+[Forget Us Not #1] Previously Solved = Kooky Keypad
+[Forget Us Not #1] Code Used = 209
+[Forget Us Not #1] Stage 19 = 9
+[RPS Judging #1] Round 20: Blood vs Sky
+[RPS Judging #1] Blood loses to Sky. Red Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 20 ------
+[Forget Perspective #0] Face 1 is Green.
+[Forget Perspective #0] Face 2 is Orange.
+[Forget Perspective #0] Face 3 is Yellow.
+[Forget Perspective #0] Face 4 is Magenta.
+[Forget Perspective #0] Face 5 is Red.
+[Forget Perspective #0] Face 6 is Blue.
+[Forget Perspective #0] Time you got the stage on: 23
+[Forget Perspective #0] Starting rule 2 applied.
+[Forget Perspective #0] Net rule 6 applied.
+[Forget Perspective #0] Order made: O R G B M Y
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted order: V Y N I T F
+[Forget Perspective #0] Added value: I
+[TwitchPlays] [M] garuda2002 (, 138444820): !6 cv
+[PaceMaker] PlayerSuccessRating: 0.6919518 (Factors: solved: 0.3166667, strikes: 0.3, time: 0.07528515)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.26495 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+:sawyerlead!sawyerlead@sawyerlead.tmi.twitch.tv PART #heres_fangy
+:cartierlogic!cartierlogic@cartierlogic.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 zoom
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] draket333 (#004000, 129362617): !11 next
+[Mystery Module #1] Advancing to the next stage after solving Kooky Keypad
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 next
+[TwitchPlays] [M] draket333 (#004000, 129362617): Nice
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 right
+[TwitchPlays] [M] draket333 (#004000, 129362617): !13 move rdru
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] garuda2002 (): !2 play 3/7 of c/h/s/d
+[Point of Order #1] Received Twitch Plays command to play Three/Seven of Clubs/Hearts/Spades/Diamonds.
+[Point of Order #1] End of point of order.
+[Point of Order #1] Card #1 = 9♥ (wrong)
+[Point of Order #1] Card #2 = 2♦ (wrong)
+[Point of Order #1] Card #3 = 10♣ (wrong)
+[Point of Order #1] Card #4 = 3♦ (correct)
+[PaceMaker] PlayerSuccessRating: 0.6896263 (Factors: solved: 0.3166667, strikes: 0.3, time: 0.07295965)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 24.09501 seconds.
+
+[Point of Order #1] #4 played. Mao.
+[ModBombComponent #4] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"PointOfOrderModule","bombTime":1355.51636,"realTime":2373.27124,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7062106 (Factors: solved: 0.3333333, strikes: 0.3, time: 0.07287722)
+
+[Forget Us Not #1] Stage = 21
+[Forget Us Not #1] Previously Solved = Point of Order
+[Forget Us Not #1] Code Used = 540
+[Forget Us Not #1] Stage 21 = 7
+[RPS Judging #1] Round 21: King vs Beer
+[RPS Judging #1] King beats Beer. Blue Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 21 ------
+[Forget Perspective #0] Face 1 is Blue.
+[Forget Perspective #0] Face 2 is Yellow.
+[Forget Perspective #0] Face 3 is Green.
+[Forget Perspective #0] Face 4 is Magenta.
+[Forget Perspective #0] Face 5 is Orange.
+[Forget Perspective #0] Face 6 is Red.
+[Forget Perspective #0] Time you got the stage on: 22
+[Forget Perspective #0] Starting rule 5 applied.
+[Forget Perspective #0] Net rule 6 applied.
+[Forget Perspective #0] Order made: O M B R G Y
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted order: V T I Y N F
+[Forget Perspective #0] Added value: Y
+[TwitchPlays] [M] draket333 (#004000, 129362617): !13 move dr
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 zoom 5
+[PaceMaker] PlayerSuccessRating: 0.7049976 (Factors: solved: 0.3333333, strikes: 0.3, time: 0.07166426)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 25.76621 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 right
+[TwitchPlays] [M] draket333 (#004000, 129362617): !11 next
+[Mystery Module #1] Advancing to the next stage after solving Point of Order
+[PaceMaker] PlayerSuccessRating: 0.7036131 (Factors: solved: 0.3333333, strikes: 0.3, time: 0.07027977)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.03921 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !13 submit
+[Scavenger Hunt #1] You submitted at D4. That is correct. Progressing to the next stage.
+[Scavenger Hunt #1] The solution square for stage 2 is at D4.
+[TwitchPlays] [M] draket333 (#004000, 129362617): !13 move lll
+[TwitchPlays] [M] garuda2002 (, 138444820): does the negator in superlogic only apply to the letter it's before or the result of the logic?
+[TwitchPlays] [M] draket333 (#004000, 129362617): !13 move ru
+[TwitchPlays] [M] draket333 (#004000, 129362617): The letter
+[TwitchPlays] [M] draket333 (#004000, 129362617): Unless there are ()
+[TwitchPlays] [M] garuda2002 (, 138444820): ok
+:cartierlogic!cartierlogic@cartierlogic.tmi.twitch.tv JOIN #heres_fangy
+:sawyerlead!sawyerlead@sawyerlead.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] draket333 (#004000, 129362617): !13 ur
+[TwitchPlays] [M] draket333 (#004000, 129362617): !13 move ur
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 zoom
+[PaceMaker] PlayerSuccessRating: 0.7005979 (Factors: solved: 0.3333333, strikes: 0.3, time: 0.0672645)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 40.62334 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !13 move ldluurr
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 next
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 right
+[TwitchPlays] [M] draket333 (#004000, 129362617): !13 move llddrdrr
+[TwitchPlays] [M] draket333 (#004000, 129362617): !q !13 submit
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 cv
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[PaceMaker] PlayerSuccessRating: 0.6984121 (Factors: solved: 0.3333333, strikes: 0.3, time: 0.06507873)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 33.70911 seconds.
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 zoom 5
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !q !30 submit OBJECT
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] draket333 (#004000): !13 submit
+[Scavenger Hunt #1] You submitted at D4. That is correct. Module solved.
+[ModBombComponent #26] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"scavengerHunt","bombTime":1187.04114,"realTime":2541.79419,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7138194 (Factors: solved: 0.35, strikes: 0.3, time: 0.06381942)
+
+[RPS Judging #1] Round 22: Car vs Castle
+[RPS Judging #1] Car loses to Castle. Red Team gets a point!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 14
+[Forget Us Not #1] Previously Solved = Scavenger Hunt
+[Forget Us Not #1] Code Used = 332
+[Forget Us Not #1] Stage 14 = 2
+Awake
+[Forget Perspective #0] ------Stage 22 ------
+[Forget Perspective #0] Face 1 is Red.
+[Forget Perspective #0] Face 2 is Magenta.
+[Forget Perspective #0] Face 3 is Yellow.
+[Forget Perspective #0] Face 4 is Orange.
+[Forget Perspective #0] Face 5 is Blue.
+[Forget Perspective #0] Face 6 is Green.
+[Forget Perspective #0] Time you got the stage on: 19
+[Forget Perspective #0] Starting rule 2 applied.
+[Forget Perspective #0] Net rule 5 applied.
+[Forget Perspective #0] Order made: M R B O Y G
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted order: T Y I V F N
+[Forget Perspective #0] Added value: V
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 right
+[PaceMaker] PlayerSuccessRating: 0.7132636 (Factors: solved: 0.35, strikes: 0.3, time: 0.06326363)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 29.63702 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[PaceMaker] PlayerSuccessRating: 0.7116692 (Factors: solved: 0.35, strikes: 0.3, time: 0.06166919)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.40646 seconds.
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 right
+[TwitchPlays] [M] draket333 (#004000, 129362617): !1 press 2 at 18:32
+[ModBombComponent #2] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"timeKeeper","bombTime":1112.95593,"realTime":2615.902,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.726503 (Factors: solved: 0.3666667, strikes: 0.3, time: 0.05983634)
+
+[TwitchPlays] [M] garuda2002 (, 138444820): !6 help
+[PaceMaker] PlayerSuccessRating: 0.7260001 (Factors: solved: 0.3666667, strikes: 0.3, time: 0.05933341)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 59.11967 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 help
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 press 8
+[Arrow Talk #1] The screen says "Down and Left From Center".
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520): !30 submit OBJECT
+[TwitchPlays] [M] garuda2002 (, 138444820): !6 c
+[ModBombComponent #60] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"yellowCipher","bombTime":1073.44556,"realTime":2655.426,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7410455 (Factors: solved: 0.3833333, strikes: 0.3, time: 0.05771213)
+
+[Forget Us Not #1] Stage = 2
+[Forget Us Not #1] Previously Solved = Yellow Cipher
+[Forget Us Not #1] Code Used = 172
+[Forget Us Not #1] Stage 2 = 6
+[RPS Judging #1] Round 23: Gold vs Peace
+[RPS Judging #1] Gold beats Peace. Blue Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 23 ------
+[Forget Perspective #0] Face 1 is Magenta.
+[Forget Perspective #0] Face 2 is Blue.
+[Forget Perspective #0] Face 3 is Green.
+[Forget Perspective #0] Face 4 is Yellow.
+[Forget Perspective #0] Face 5 is Red.
+[Forget Perspective #0] Face 6 is Orange.
+[Forget Perspective #0] Time you got the stage on: 17
+[Forget Perspective #0] Starting rule 2 applied.
+[Forget Perspective #0] Net rule 2 applied.
+[Forget Perspective #0] Order made: B R G Y M O
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted order: I Y N F T V
+[Forget Perspective #0] Added value: F
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 ZOOM 5
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] garuda2002 (, 138444820): !q !6 submit
+[PaceMaker] PlayerSuccessRating: 0.73949 (Factors: solved: 0.3833333, strikes: 0.3, time: 0.05615669)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 21.63485 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): gold beats peace; seems about right in this day and age
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] garuda2002 (): !6 submit
+[Superlogic #1] Submitted:
+[Superlogic #1] A = True (correct)
+[Superlogic #1] B = False (correct)
+[Superlogic #1] C = False (correct)
+[Superlogic #1] Module solved.
+[ModBombComponent #12] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"SuperlogicModule","bombTime":1028.31921,"realTime":2700.56665,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.755286 (Factors: solved: 0.4, strikes: 0.3, time: 0.05528598)
+
+[Forget Us Not #1] Stage = 7
+[Forget Us Not #1] Previously Solved = Superlogic
+[Forget Us Not #1] Code Used = 112
+[Forget Us Not #1] Stage 7 = 2
+[RPS Judging #1] Round 24: Bowl vs Rainbow
+[RPS Judging #1] Bowl beats Rainbow. Blue Team gets a point!
+[RPS Judging #1] 
+Awake
+[Forget Perspective #0] ------Stage 24 ------
+[Forget Perspective #0] Face 1 is Orange.
+[Forget Perspective #0] Face 2 is Blue.
+[Forget Perspective #0] Face 3 is Red.
+[Forget Perspective #0] Face 4 is Green.
+[Forget Perspective #0] Face 5 is Magenta.
+[Forget Perspective #0] Face 6 is Yellow.
+[Forget Perspective #0] Time you got the stage on: 17
+[Forget Perspective #0] Starting rule 2 applied.
+[Forget Perspective #0] Net rule 2 applied.
+[Forget Perspective #0] Order made: B M R G O Y
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted order: I T Y N V F
+[Forget Perspective #0] Added value: N
+[TwitchPlays] [M] garuda2002 (, 138444820): haha, that's quite apt
+[PaceMaker] PlayerSuccessRating: 0.7549908 (Factors: solved: 0.4, strikes: 0.3, time: 0.05499081)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 35.58817 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 ZOOM 5
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): ????
+[TwitchPlays] [M] draket333 (#004000, 129362617): !11 next
+[Mystery Module #1] Advancing to the next stage after solving Superlogic
+[ModBombComponent #22] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"mysterymodule","bombTime":995.827,"realTime":2733.05884,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7702057 (Factors: solved: 0.4166667, strikes: 0.3, time: 0.05353909)
+
+[Mystery Module #1] The mystery module was successfully unlocked - Well done!
+[RPS Judging #1] Round 25: School vs Bicycle
+[RPS Judging #1] School beats Bicycle. Blue Team gets a point!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 25
+[Forget Us Not #1] Previously Solved = Mystery Module
+[Forget Us Not #1] Code Used = 902
+[Forget Us Not #1] Stage 25 = 9
+Awake
+[Forget Perspective #0] ------Stage 25 ------
+[Forget Perspective #0] Face 1 is Red.
+[Forget Perspective #0] Face 2 is Blue.
+[Forget Perspective #0] Face 3 is Green.
+[Forget Perspective #0] Face 4 is Magenta.
+[Forget Perspective #0] Face 5 is Orange.
+[Forget Perspective #0] Face 6 is Yellow.
+[Forget Perspective #0] Time you got the stage on: 16
+[Forget Perspective #0] Starting rule 3 applied.
+[Forget Perspective #0] Net rule 3 applied.
+[Forget Perspective #0] Order made: G O B M R Y
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted order: N V I T Y F
+[Forget Perspective #0] Added value: T
+[TwitchPlays] Disabling camera wall
+[TwitchPlays] Camera wall disabled
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+[TwitchPlays] [M] draket333 (#004000, 129362617): Oh
+[PaceMaker] PlayerSuccessRating: 0.7697465 (Factors: solved: 0.4166667, strikes: 0.3, time: 0.05307981)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 29.21625 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): That gives stages
+[TwitchPlays] [M] draket333 (#004000, 129362617): Cool
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): flower patch
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): i still got rps
+[PaceMaker] PlayerSuccessRating: 0.7681732 (Factors: solved: 0.4166667, strikes: 0.3, time: 0.05150652)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.27559 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] garuda2002 (, 138444820): !unclaimed
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): did it still lags
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): i might consider to change it to 720p
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 press 6
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): i dont even understand why
+[Arrow Talk #1] The screen says "1".
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 press 5
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[Arrow Talk #1] The screen says "ESE".
+[PaceMaker] PlayerSuccessRating: 0.7652537 (Factors: solved: 0.4166667, strikes: 0.3, time: 0.04858701)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 39.28479 seconds.
+
+:piissii!piissii@piissii.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): uh
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): hm
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 press 4
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 zoom 5
+[Arrow Talk #1] The screen says "Up and Right From Center".
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 press 2
+[Arrow Talk #1] The screen says "East South East".
+[Arrow Talk #1] The screen says "7".
+[Arrow Talk #1] The screen says "Left and Down".
+[Arrow Talk #1] The screen says "Left and Down".
+[Arrow Talk #1] The screen says "Left and Up From Center".
+[Arrow Talk #1] The screen says "SSE".
+[Arrow Talk #1] The screen says "Left and Down".
+[Arrow Talk #1] The screen says "South South East".
+[Arrow Talk #1] The screen says "1".
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !28 claim
+[PaceMaker] PlayerSuccessRating: 0.7631386 (Factors: solved: 0.4166667, strikes: 0.3, time: 0.04647194)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 47.31973 seconds.
+
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): dont even know why it keeps lagging
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 press 5
+[Arrow Talk #1] The screen says "Down and Left From Center".
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): fps is fine, stream is fine
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): not the game
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 press 6
+[Arrow Talk #1] The screen says "ESE".
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !28 zoom
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 press 4
+[Arrow Talk #1] The screen says "Right and Up".
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 press 3
+[Arrow Talk #1] The screen says "Up and Left".
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 press 1
+[Arrow Talk #1] The screen says "4".
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 press 8
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 ZOOM
+[Arrow Talk #1] The screen says "Left and Down".
+[TwitchPlays] [M] draket333 (#004000, 129362617): !19 press 7
+[Arrow Talk #1] The screen says "Up and Right".
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !28 help
+[TwitchPlays] [M] draket333 (#004000, 129362617): !q !19 press 2
+[PaceMaker] PlayerSuccessRating: 0.7605938 (Factors: solved: 0.4166667, strikes: 0.3, time: 0.04392711)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 27.07335 seconds.
+
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] draket333 (#004000): !19 press 2
+[ModBombComponent #38] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"ArrowTalk","bombTime":812.3081,"realTime":2916.57349,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7770059 (Factors: solved: 0.4333333, strikes: 0.3, time: 0.04367248)
+
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[RPS Judging #1] Round 26: Sword vs Medusa
+[RPS Judging #1] Sword loses to Medusa. Red Team gets a point!
+[RPS Judging #1] 
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Forget Us Not #1] Stage = 9
+[Forget Us Not #1] Previously Solved = Arrow Talk
+[Forget Us Not #1] Code Used = 227
+[Forget Us Not #1] Stage 9 = 5
+Awake
+[Forget Perspective #0] ------Stage 26 ------
+[Forget Perspective #0] Face 1 is Magenta.
+[Forget Perspective #0] Face 2 is Yellow.
+[Forget Perspective #0] Face 3 is Orange.
+[Forget Perspective #0] Face 4 is Blue.
+[Forget Perspective #0] Face 5 is Red.
+[Forget Perspective #0] Face 6 is Green.
+[Forget Perspective #0] Time you got the stage on: 13
+[Forget Perspective #0] Starting rule 2 applied.
+[Forget Perspective #0] Net rule 4 applied.
+[Forget Perspective #0] Order made: Y R G M O B
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted order: F Y N T V I
+[Forget Perspective #0] Added value: Y
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] The screen says "Arrow Talk".
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 right
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[PaceMaker] PlayerSuccessRating: 0.7758034 (Factors: solved: 0.4333333, strikes: 0.3, time: 0.04247002)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 27.98206 seconds.
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 righT
+[TwitchPlays] [M] draket333 (#004000, 129362617): That's it
+[TwitchPlays] [M] draket333 (#004000, 129362617): 11 characters
+[PaceMaker] PlayerSuccessRating: 0.7742977 (Factors: solved: 0.4333333, strikes: 0.3, time: 0.04096433)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 25.33803 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !q !28 flower 5 10 15
+[TwitchPlays] [M] draket333 (#004000, 129362617): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !call
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520): !28 flower 5 10 15
+[ModBombComponent #56] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"flowerPatch","bombTime":754.0104,"realTime":2974.87,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7905382 (Factors: solved: 0.45, strikes: 0.3, time: 0.04053819)
+
+[Flower Patch #1] All correct flowers selected, module solved.
+[RPS Judging #1] Round 27: Bowl vs Power
+[RPS Judging #1] Bowl beats Power. Blue Team gets a point!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 12
+[Forget Us Not #1] Previously Solved = Flower Patch
+[Forget Us Not #1] Code Used = 280
+[Forget Us Not #1] Stage 12 = 8
+Awake
+[Forget Perspective #0] ------Stage 27 ------
+[Forget Perspective #0] Face 1 is Red.
+[Forget Perspective #0] Face 2 is Blue.
+[Forget Perspective #0] Face 3 is Magenta.
+[Forget Perspective #0] Face 4 is Green.
+[Forget Perspective #0] Face 5 is Yellow.
+[Forget Perspective #0] Face 6 is Orange.
+[Forget Perspective #0] Time you got the stage on: 12
+[Forget Perspective #0] Starting rule 1 applied.
+[Forget Perspective #0] Net rule 1 applied.
+[Forget Perspective #0] Order made: R M Y G B O
+[Forget Perspective #0] X = 8
+[Forget Perspective #0] Y = 7
+[Forget Perspective #0] Character Shift rule = 6
+[Forget Perspective #0] Shifted: R => Y
+[Forget Perspective #0] Shifted: M => T
+[Forget Perspective #0] Shifted: Y => F
+[Forget Perspective #0] Shifted: G => N
+[Forget Perspective #0] Shifted: B => I
+[Forget Perspective #0] Shifted: O => V
+[Forget Perspective #0] Shifted order: Y T F N I V
+[Forget Perspective #0] Added value: N
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): HeyGuys
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[PaceMaker] PlayerSuccessRating: 0.789601 (Factors: solved: 0.45, strikes: 0.3, time: 0.03960096)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 33.90165 seconds.
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): may i submit
+[TwitchPlays] [M] draket333 (#004000, 129362617): Yeah
+[PaceMaker] PlayerSuccessRating: 0.7877765 (Factors: solved: 0.45, strikes: 0.3, time: 0.03777654)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 57.73481 seconds.
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 submti Third Base
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): submti
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 submit Third Base
+[The Hyperlink #1] Icon for Third Base selected, module solved.
+[ModBombComponent #8] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"hyperlink","bombTime":687.3415,"realTime":3041.53979,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.8036205 (Factors: solved: 0.4666667, strikes: 0.3, time: 0.03695384)
+
+[RPS Judging #1] The game is ended! These are the following results: Blue: 17 / Red 10
+[RPS Judging #1] Blue Team wins!
+[RPS Judging #1] 
+[Forget Us Not #1] Stage = 24
+[Forget Us Not #1] Previously Solved = The Hyperlink
+[Forget Us Not #1] Code Used = 890
+[Forget Us Not #1] Stage 24 = 5
+[Forget Us Not #1] Solution = 462463235988624141957065931
+Awake
+[Forget Perspective #0] ------Final------
+[Forget Perspective #0] Answer: FVYINVFFITVNFYNNYTNIYVFNTYN
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 submit fvyin fffit vnfyn nytni yvfnt yn
+[Forget Perspective #0] Pressed: F at stage 1
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: V at stage 2
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: Y at stage 3
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: I at stage 4
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: N at stage 5
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: F at stage 6
+[Forget Perspective #0] Which wasn't correct. Strike!
+[Bomb] Strike from Mod! 1 / 6 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"qkForgetPerspective","bombTime":682.8783,"realTime":3046.00269,"loggingID":0}
+[PaceMaker] PlayerSuccessRating: 0.7433805 (Factors: solved: 0.4666667, strikes: 0.24, time: 0.03671389)
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): oof
+[TwitchPlays] [M] draket333 (#004000, 129362617): Cool
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !17 help
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): BlessRNG
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 rotate
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !17 submit 17
+[TwitchPlays] [M] garuda2002 (, 138444820): you got this
+[RPS Judging #1] You provided the info: Blue Team: 17
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !17 submit 10
+[RPS Judging #1] You provided the info: Red Team: 10
+:piissii!piissii@piissii.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !17 submit blue
+[PaceMaker] PlayerSuccessRating: 0.7408268 (Factors: solved: 0.4666667, strikes: 0.24, time: 0.03416015)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 39.85473 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): oh
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !17 flag blue
+[RPS Judging #1] You declared the winner is the Blue Team
+[RPS Judging #1] You have provided correct informations. Module solved!
+[ModBombComponent #34] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"RPSJudging","bombTime":629.12915,"realTime":3089.0022,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7571575 (Factors: solved: 0.4833333, strikes: 0.24, time: 0.03382415)
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): oh yeah
+[TwitchPlays] [M] garuda2002 (, 138444820): nice
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): nice
+[TwitchPlays] [M] draket333 (#004000, 129362617): !29 submit vffit vnfyn nytni yvfnt yn
+[Forget Perspective #0] Pressed: V at stage 6
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: F at stage 7
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: F at stage 8
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: I at stage 9
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: T at stage 10
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: V at stage 11
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: N at stage 12
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: F at stage 13
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: Y at stage 14
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: N at stage 15
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: N at stage 16
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: Y at stage 17
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: T at stage 18
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: N at stage 19
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: I at stage 20
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: Y at stage 21
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: V at stage 22
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: F at stage 23
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: N at stage 24
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: T at stage 25
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: Y at stage 26
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Pressed: N at stage 27
+[Forget Perspective #0] Which was correct!
+[Forget Perspective #0] Module solved!
+[ModBombComponent #58] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"qkForgetPerspective","bombTime":606.6721,"realTime":3106.9668,"loggingID":0}
+[PaceMaker] PlayerSuccessRating: 0.7726168 (Factors: solved: 0.5, strikes: 0.24, time: 0.03261678)
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): nioce
+[TwitchPlays] [M] draket333 (#004000, 129362617): !15 press 46246 32359 88624 14195 70659 31
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): Nice
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): nice
+[TwitchPlays] Unprocessed string: Forget Us Not
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): ok fun left
+[Forget Us Not #1] Module solved.
+[ModBombComponent #30] Pass
+
+[Bomb] A winner is you!!
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_SOLVE","serial":"F07GH0","bombTime":594.916748,"realTime":3116.37036,"solves":31,"strikes":1}
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

@@ -1,0 +1,101 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 421757848
+
+[BombGenerator] Generator settings: Time: 240, NumStrikes: 3, FrontFaceOnly: False
+1 Pools:
+[bamboozlingButton, blackCipher, burgerAlarm, colorfulDials, ksmDreamcipher, dungeon2, dungeon, elderFuthark, factoryMaze, faultyrgbMaze, graphicMemory, heraldry, hillCycle, indigoCipher, KudosudokuModule, langtonAnt, lgndLombaxCubes, malfunctions, KritMicroModules, neutrinos, orangeCipher, redCipher, robotProgramming, scalarDials, MazeShifting, SimonSendsModule, the_cRule, cube, TheHypercubeModule, theSamsung, TheUltracubeModule, turtleRobot, unfairCipher, WonderCipher, yellowCipher] Count: 1
+
+
+[BombGenerator] Selected WonderCipher (2061443698 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [2061443698 (ModBombComponent)]
+
+[BombGenerator] Instantiated 2061443698 on face FrontFace, spawn index 0
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: EP4ZS1
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: PS2, StereoRCA
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit IND (IndicatorWidget/LABEL4)
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: Parallel
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: Serial
+
+[Wonder Cipher #3] The given message is ZGBLL YHXCP 0D6Y4 XR9R9
+[Wonder Cipher #3] The light on the module is red.
+[Wonder Cipher #3] The unmodified hexadecimal number is: F3952975FC5D40C3749CBA6E9
+[Wonder Cipher #3] The hexadecimal number after swaps is: F3FDC183628F3F4A441B8A757
+[Wonder Cipher #3] The decimal values of the twenty duotrigesimal are: 30, 15, 30, 28, 3, 0, 27, 2, 17, 28, 31, 20, 20, 17, 0, 27, 17, 9, 26, 23
+[Wonder Cipher #3] The decimal values after digit swaps are now: 0, 3, 28, 20, 28, 27, 31, 30, 17, 9, 2, 30, 23, 17, 0, 26, 27, 15, 17, 20
+[Wonder Cipher #3] The solution message is &N3H3 %W@50 7@K5& =%Y5H
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[TwitchPlays] Portal Room created
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"101 Light Hard Mix"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 1
+{"serial":"EP4ZS1","displayNames":{"Timer":"Timer","WonderCipher":"Wonder Cipher"},"ids":{"WonderCipher":[3]},"anchors":[[0.000,0.000],[0.000,0.000]],"modules":["WonderCipher 3","Timer -"]}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'WonderMail(Clone)'.
+custom
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): ew
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !bomb detonate
+[Bomb] Strike from TwitchPlays! 2 / 3 strikes
+[PaceMaker] Round start! Mission: 101 Light Hard Mix Pacing Enabled: True
+
+[PaceMaker] Next idle action in 30.62096 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[Bomb] Strike from None! 3 / 3 strikes
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"EP4ZS1","bombTime":1.23226035,"realTime":8.656738,"solves":0,"strikes":3}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

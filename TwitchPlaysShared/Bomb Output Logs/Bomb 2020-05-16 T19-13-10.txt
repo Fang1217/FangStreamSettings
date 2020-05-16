@@ -1,0 +1,890 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 1270198429
+
+[BombGenerator] Generator settings: Time: 1320, NumStrikes: 3, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 11
+
+
+[BombGenerator] Selected insanagrams (1893449064 (ModBombComponent))
+
+[BombGenerator] Selected quizBuzz (1666299204 (ModBombComponent))
+
+[BombGenerator] Selected AnagramsModule (733438645 (ModBombComponent))
+
+[BombGenerator] Selected flashingLights (1469292731 (ModBombComponent))
+
+[BombGenerator] Selected lgndGadgetronVendor (1639519489 (ModBombComponent))
+
+[BombGenerator] Selected codenames (1935171870 (ModBombComponent))
+
+[BombGenerator] Selected simonsStages (1612847920 (ModBombComponent))
+
+[BombGenerator] Selected quaternions (2017809479 (ModBombComponent))
+
+[BombGenerator] Selected FontSelect (1406694607 (ModBombComponent))
+
+[BombGenerator] Selected boneAppleTea (1847317926 (ModBombComponent))
+
+[BombGenerator] Selected caesarCycle (1825385284 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1893449064 (ModBombComponent), 1666299204 (ModBombComponent), 733438645 (ModBombComponent), 1469292731 (ModBombComponent), 1639519489 (ModBombComponent), 1935171870 (ModBombComponent), 1612847920 (ModBombComponent), 2017809479 (ModBombComponent), 1406694607 (ModBombComponent), 1847317926 (ModBombComponent), 1825385284 (ModBombComponent)]
+
+[Mod-insanagrams] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1893449064" has ID:"insanagrams"
+
+[Mod-insanagrams] Loading assemblies...
+
+[Mod-insanagrams] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1893449064\Newtonsoft.Json.dll"...
+
+[Mod-insanagrams] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1893449064\insanagrams.dll"
+
+[Mod-insanagrams] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1893449064" complete.
+
+[Mod-insanagrams] Loading GameObjects...
+
+[Mod-insanagrams] Replacing shaders...
+
+[Mod-insanagrams] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-insanagrams] Loading KMMissions...
+
+[Mod-insanagrams] Loading KMMissionTableOfContents...
+
+[Mod-insanagrams] Loading AudioClips...
+
+[BombGenerator] Instantiated 1893449064 on face BackFace, spawn index 3
+
+[Mod-quizBuzz] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1666299204" has ID:"quizBuzz"
+
+[Mod-quizBuzz] Loading assemblies...
+
+[Mod-quizBuzz] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1666299204\Newtonsoft.Json.dll"...
+
+[Mod-quizBuzz] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1666299204\quizBuzz.dll"
+
+[Mod-quizBuzz] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1666299204" complete.
+
+[Mod-quizBuzz] Loading GameObjects...
+
+[Mod-quizBuzz] Replacing shaders...
+
+[Mod-quizBuzz] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-quizBuzz] Loading KMMissions...
+
+[Mod-quizBuzz] Loading KMMissionTableOfContents...
+
+[Mod-quizBuzz] Loading AudioClips...
+
+[BombGenerator] Instantiated 1666299204 on face BackFace, spawn index 4
+
+[BombGenerator] Instantiated 733438645 on face BackFace, spawn index 5
+
+[Mod-flashingLights] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1469292731" has ID:"flashingLights"
+
+[Mod-flashingLights] Loading assemblies...
+
+[Mod-flashingLights] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1469292731\Newtonsoft.Json.dll"...
+
+[Mod-flashingLights] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1469292731\flashingLights.dll"
+
+[Mod-flashingLights] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1469292731" complete.
+
+[Mod-flashingLights] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-flashingLights] Replacing shaders...
+
+[Mod-flashingLights] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-flashingLights] Loading KMMissions...
+
+[Mod-flashingLights] Loading KMMissionTableOfContents...
+
+[Mod-flashingLights] Loading AudioClips...
+
+[BombGenerator] Instantiated 1469292731 on face BackFace, spawn index 0
+
+[Mod-lgndGadgetronVendor] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1639519489" has ID:"lgndGadgetronVendor"
+
+[Mod-lgndGadgetronVendor] Loading assemblies...
+
+[Mod-lgndGadgetronVendor] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1639519489\Newtonsoft.Json.dll"...
+
+[Mod-lgndGadgetronVendor] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1639519489\lgndGadgetronVendor.dll"
+
+[Mod-lgndGadgetronVendor] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1639519489" complete.
+
+[Mod-lgndGadgetronVendor] Loading GameObjects...
+
+[Mod-lgndGadgetronVendor] Replacing shaders...
+
+[Mod-lgndGadgetronVendor] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-lgndGadgetronVendor] Loading KMMissions...
+
+[Mod-lgndGadgetronVendor] Loading KMMissionTableOfContents...
+
+[Mod-lgndGadgetronVendor] Loading AudioClips...
+
+[BombGenerator] Instantiated 1639519489 on face FrontFace, spawn index 3
+
+[Mod-codenames] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1935171870" has ID:"codenames"
+
+[Mod-codenames] Loading assemblies...
+
+[Mod-codenames] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1935171870\Newtonsoft.Json.dll"...
+
+[Mod-codenames] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1935171870\codenames.dll"
+
+[Mod-codenames] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1935171870" complete.
+
+[Mod-codenames] Loading GameObjects...
+
+[Mod-codenames] Replacing shaders...
+
+[Mod-codenames] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-codenames] Loading KMMissions...
+
+[Mod-codenames] Loading KMMissionTableOfContents...
+
+[Mod-codenames] Loading AudioClips...
+
+[BombGenerator] Instantiated 1935171870 on face FrontFace, spawn index 5
+
+[Mod-simonsStages] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1612847920" has ID:"simonsStages"
+
+[Mod-simonsStages] Loading assemblies...
+
+[Mod-simonsStages] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1612847920\Newtonsoft.Json.dll"...
+
+[Mod-simonsStages] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1612847920\simonsStages.dll"
+
+[Mod-simonsStages] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1612847920" complete.
+
+[Mod-simonsStages] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-simonsStages] Replacing shaders...
+
+[Mod-simonsStages] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-simonsStages] Loading KMMissions...
+
+[Mod-simonsStages] Loading KMMissionTableOfContents...
+
+[Mod-simonsStages] Loading AudioClips...
+
+[BossModuleManager] Request for Simon's Stages’s ignore list successful.
+[KMBossModule] Boss Module Manager returned list for “Simon's Stages”: 14, Bamboozling Time Keeper, Brainf---, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget Them All, Forget The Colors, Forget This, Forget Us Not, Iconic, Organization, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+[BombGenerator] Instantiated 1612847920 on face BackFace, spawn index 2
+
+[Mod-quaternions] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2017809479" has ID:"quaternions"
+
+[Mod-quaternions] Loading assemblies...
+
+[Mod-quaternions] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2017809479\Newtonsoft.Json.dll"...
+
+[Mod-quaternions] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2017809479\quaternions.dll"
+
+[Mod-quaternions] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2017809479" complete.
+
+[Mod-quaternions] Loading GameObjects...
+
+[Mod-quaternions] Replacing shaders...
+
+[Mod-quaternions] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-quaternions] Loading KMMissions...
+
+[Mod-quaternions] Loading KMMissionTableOfContents...
+
+[Mod-quaternions] Loading AudioClips...
+
+[BombGenerator] Instantiated 2017809479 on face FrontFace, spawn index 2
+
+[Mod-FontSelect] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1406694607" has ID:"FontSelect"
+
+[Mod-FontSelect] Loading assemblies...
+
+[Mod-FontSelect] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1406694607\Newtonsoft.Json.dll"...
+
+[Mod-FontSelect] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1406694607\FontSelect.dll"
+
+[Mod-FontSelect] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1406694607" complete.
+
+[Mod-FontSelect] Loading GameObjects...
+
+[Mod-FontSelect] Replacing shaders...
+
+[Mod-FontSelect] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-FontSelect] Loading KMMissions...
+
+[Mod-FontSelect] Loading KMMissionTableOfContents...
+
+[Mod-FontSelect] Loading AudioClips...
+
+[BombGenerator] Instantiated 1406694607 on face FrontFace, spawn index 1
+
+[Mod-boneAppleTea] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1847317926" has ID:"boneAppleTea"
+
+[Mod-boneAppleTea] Loading assemblies...
+
+[Mod-boneAppleTea] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1847317926\Newtonsoft.Json.dll"...
+
+[Mod-boneAppleTea] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1847317926\boneAppleTea.dll"
+
+[Mod-boneAppleTea] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1847317926" complete.
+
+[Mod-boneAppleTea] Loading GameObjects...
+
+[Mod-boneAppleTea] Replacing shaders...
+
+[Mod-boneAppleTea] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-boneAppleTea] Loading KMMissions...
+
+[Mod-boneAppleTea] Loading KMMissionTableOfContents...
+
+[Mod-boneAppleTea] Loading AudioClips...
+
+[BombGenerator] Instantiated 1847317926 on face FrontFace, spawn index 4
+
+[Mod-caesarCycle] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1825385284" has ID:"caesarCycle"
+
+[Mod-caesarCycle] Loading assemblies...
+
+[Mod-caesarCycle] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1825385284\Newtonsoft.Json.dll"...
+
+[Mod-caesarCycle] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1825385284\caesarCycle.dll"
+
+[Mod-caesarCycle] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1825385284" complete.
+
+[Mod-caesarCycle] Loading GameObjects...
+
+[Mod-caesarCycle] Replacing shaders...
+
+[Mod-caesarCycle] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-caesarCycle] Loading KMMissions...
+
+[Mod-caesarCycle] Loading KMMissionTableOfContents...
+
+[Mod-caesarCycle] Loading AudioClips...
+
+[BombGenerator] Instantiated 1825385284 on face FrontFace, spawn index 0
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: 9L1QD0
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: PS2, StereoRCA
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: 0
+
+[Quiz Buzz #1] The starting stage for this run is 13.
+[Flashing Lights #1] For the top light: blue flashes = 4; green flashes = 1; red flashes = 3; purple flashes = 0; orange flashes = 4.
+[Flashing Lights #1] For the top light: blue score = 16; green score = 2; red score = 9; purple score = 0; orange score = 4.
+[Flashing Lights #1] The top total is 31.
+[Flashing Lights #1] For the bottom light: blue flashes = 4; green flashes = 2; red flashes = 1; purple flashes = 4; orange flashes = 1.
+[Flashing Lights #1] For the bottom light: blue score = 8; green score = 14; red score = 6; purple score = 36; orange score = 3.
+[Flashing Lights #1] The bottom total is 67.
+[Flashing Lights #1] Press button 2, then button 3.
+[Gadgetron Vendor #1] You have 152660 bolts.
+[Gadgetron Vendor #1] The PDA icon is unlit.
+[Gadgetron Vendor #1] Your weapon is the Blaster.
+[Gadgetron Vendor #1] The total price of your ammo is 117.
+[Gadgetron Vendor #1] You have enough bolts to buy a new weapon.
+[Gadgetron Vendor #1] The price of the weapon for sale is 15000.
+[Gadgetron Vendor #1] The correct amount to submit is 7543.
+[Codenames #1] Found a solution in 2 tries.
+[Codenames #1] You are on the red team.
+[Codenames #1] The card present is card 5, which is not rotated.
+[Codenames #1] You need to submit Partisanship.
+[Simon's Stages #1] The arrangement of colors is: white, magenta, cyan, lime, blue // red, green, pink, orange, yellow
+[Quaternions #1] Component colors: real=Green, i=Red, j=Yellow, k=Blue
+[Quaternions #1] Button colors: 0=Yellow, 1=White, 2=Blue, 3=White, 4=Red, 5=Red, 6=Green, 7=Green, 8=Yellow, 9=Blue
+[Quaternions #1] Submit button is Red, corresponds to i component
+[Quaternions #1] Clear button is White, but who cares?
+[Quaternions #1] Applicable Table A rules: Red, Green, Blue
+[Quaternions #1] q₁ = 6-4i+10j-2k
+[Quaternions #1] q₂ = 7-5i-8j+9k
+[Quaternions #1] q₁q₂ = 120+16i+68j+122k
+[Quaternions #1] Correct answer: 16
+[Font Select #1] Phrase is "Ewe Arr Won" which makes the List Number 1
+[Font Select #1] First Font is "SpecialElite-Regular", Second Font is "AnonymousPro-Bold", Third Font is "Karma-Regular"
+[Font Select #1] Correct font is the First Font
+[Bone Apple Tea #1] The top phrase is: "Bone Apple Tea"
+[Bone Apple Tea #1] The bottom phrase is: "Hey to break it to ya"
+[Bone Apple Tea #1] The correct left character is: 0 
+[Bone Apple Tea #1] The correct right character is: 2 
+[Caesar Cycle #1]The encrypted message was OVSNOIAP
+[Caesar Cycle #1]The dial rotations were 2, 1, 7, 2, 6, 2, 0, 2
+[Caesar Cycle #1]The deciphered message was MULLIGAN
+[Caesar Cycle #1]The response word was ROTATION
+[Caesar Cycle #1]The correct response was TPACZKOP
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"5 Mods"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 4
+{"serial":"9L1QD0","displayNames":{"Timer":"Timer","insanagrams":"Insanagrams","quizBuzz":"Quiz Buzz","AnagramsModule":"Anagrams","flashingLights":"Flashing Lights","lgndGadgetronVendor":"Gadgetron Vendor","codenames":"Codenames","simonsStages":"Simo
+n's Stages","quaternions":"Quaternions","FontSelect":"Font Select","boneAppleTea":"Bone Apple Tea","caesarCycle":"Caesar Cycle"},"ids":{"insanagrams":[1],"quizBuzz":[1],"flashingLights":[1],"lgndGadgetronVendor":[1],"codenames":[1],"simonsStages":[1]
+,"quaternions":[1],"FontSelect":[1],"boneAppleTea":[1],"caesarCycle":[1]},"anchors":[[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220],[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[
+0.003,0.220]],"modules":["caesarCycle 1","FontSelect 1","quaternions 1","lgndGadgetronVendor 1","boneAppleTea 1","codenames 1","flashingLights 1","Timer -","simonsStages 1","insanagrams 1","quizBuzz 1","AnagramsModule -"]}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'Insanagrams(Clone)'.
+[Profile Revealer] Attaching to 'quizBuzz(Clone)'.
+[Profile Revealer] Attaching to 'Anagrams_Module(Clone)'.
+[Profile Revealer] Attaching to 'flashingLights(Clone)'.
+[Profile Revealer] Attaching to 'GadgetronVendorModule(Clone)'.
+[Profile Revealer] Attaching to 'codenames(Clone)'.
+[Profile Revealer] Attaching to 'SimonsStages(Clone)'.
+[Profile Revealer] Attaching to 'quaternions(Clone)'.
+[Profile Revealer] Attaching to 'Font Select(Clone)'.
+[Profile Revealer] Attaching to 'Template(Clone)'.
+[Profile Revealer] Attaching to 'Caesar Cycle(Clone)'.
+custom
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !7 cv
+[Insanagrams #1] Anagram: 'Meet Guava Nerd', Answer: 'Adventure Game'
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): !10 cv
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !findclaim s.e.t; bartend
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !bomb flip
+[PaceMaker] Round start! Mission: 5 Mods Pacing Enabled: True
+
+[PaceMaker] Next idle action in 32.44665 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !11 cv
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !findclaim odd; robot p
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): !3 cv
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !1 cv
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 cv
+[TwitchPlays] [M] epictho (#0000FF, 151106665): !2 cv
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !4 cv
+[TwitchPlays] Enabling camera wall
+[TwitchPlays] Camera wall enabled
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !1 zoom
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): !notes1 QUEUE
+[TwitchPlays] [M] epictho (#0000FF, 151106665): !8 cv
+[TwitchPlays] [M] epictho (#0000FF, 151106665): time to learn this
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !7 zoom
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): !3 help
+[PaceMaker] PlayerSuccessRating: 0.4950862 (Factors: solved: 0, strikes: 0.3, time: 0.1950862)
+
+[PaceMaker] Next idle action in 31.00433 seconds.
+
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): !q !3 submit secure
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): Meet Guava, Nerd!
+:bigcrunch22!bigcrunch22@bigcrunch22.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] BigCrunch22 (#0000FF, 155806249): Guava
+[PaceMaker] PlayerSuccessRating: 0.490384 (Factors: solved: 0, strikes: 0.3, time: 0.190384)
+
+[PaceMaker] Next idle action in 58.9661 seconds.
+
+[TwitchPlays] [M] epictho (#0000FF, 151106665): !8 show
+[TwitchPlays] [M] epictho (#0000FF, 151106665): !8 zoom
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !call
+[TwitchPlays] [M] BananaLord (#FFE135): !3 submit secure
+[ModBombComponent #116] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"AnagramsModule","bombTime":1226.9032,"realTime":100.828125}
+[PaceMaker] PlayerSuccessRating: 0.5358945 (Factors: solved: 0.05, strikes: 0.3, time: 0.1858944)
+
+[Simon's Stages #1] STAGE #1:
+[Simon's Stages #1] Sequence #1: blue, green, white, blue, blue.
+[Simon's Stages #1] Indicator #1: cyan.
+[Simon's Stages #1] Solution #1: yellow, yellow.
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !q !1 submit Adventure Game
+[PaceMaker] PlayerSuccessRating: 0.5314506 (Factors: solved: 0.05, strikes: 0.3, time: 0.1814505)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 9497.374
+
+[PaceMaker] Next idle action in 55.55059 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !call
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0): !1 submit Adventure Game
+[ModBombComponent #112] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"insanagrams","bombTime":1189.376,"realTime":138.359375,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5802085 (Factors: solved: 0.1, strikes: 0.3, time: 0.1802085)
+
+[Insanagrams #1] Solved!
+[Simon's Stages #1] STAGE #2:
+[Simon's Stages #1] Sequence #2: magenta, lime, cyan.
+[Simon's Stages #1] Indicator #2: lime.
+[Simon's Stages #1] Solution #2: pink, orange, green.
+[TwitchPlays] [M] epictho (#0000FF, 151106665): !edgework
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 help
+[PaceMaker] PlayerSuccessRating: 0.573033 (Factors: solved: 0.1, strikes: 0.3, time: 0.173033)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Cut the lights at 9552.94
+
+[PaceMaker] Next idle action in 44.94633 seconds.
+
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): !10 help
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): @xarata98 Quizbuzz ready, tell me when I can go
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): go now
+[TwitchPlays] [M] BananaLord (#FFE135, 133758007): !q !10 submit 02
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 te 13
+1
+3
+[Quiz Buzz #1] Stage 13 is correct, it was a Number stage and you entered 13.
+[PaceMaker] PlayerSuccessRating: 0.5662179 (Factors: solved: 0.1, strikes: 0.3, time: 0.1662179)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 53.5458 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 te 14
+1
+4
+[Quiz Buzz #1] Stage 14 is correct, it was a Number stage and you entered 14.
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 te 116
+1
+1
+6
+[Quiz Buzz #1] Stage 15 is correct, it was a FizzBuzz stage and you entered 116, which was in position 1 of the list for Marble Tumble and position 2 for the list for Splitting the Loot.
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 te 16
+1
+6
+[Quiz Buzz #1] Stage 16 is correct, it was a Number stage and you entered 16.
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 te 17
+1
+7
+[Quiz Buzz #1] Stage 17 is correct, it was a Number stage and you entered 17.
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 te 3
+3
+[Quiz Buzz #1] Stage 18 is correct, it was a Fizz stage and you entered 3, which was in position 3 of the list for Monsplode, Fight!.
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 te 19
+1
+9
+[Quiz Buzz #1] Stage 19 is correct, it was a Number stage and you entered 19.
+[PaceMaker] PlayerSuccessRating: 0.5581042 (Factors: solved: 0.1, strikes: 0.3, time: 0.1581042)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 59.15804 seconds.
+
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 te 6
+6
+[Quiz Buzz #1] Stage 20 is correct, it was a Buzz stage and you entered 6, which was in position 4 of the list for Wire Sequence.
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 te 9
+9
+[Quiz Buzz #1] Stage 21 is correct, it was a Fizz stage and you entered 9, which was in position 6 of the list for Wire Sequence.
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !2 te 22
+2
+2
+[Quiz Buzz #1] Stage 22 is correct, it was a Number stage and you entered 22.
+[Quiz Buzz #1] That's a solve! Module disarmed!
+[ModBombComponent #114] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"quizBuzz","bombTime":1026.75671,"realTime":301.0205,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6055692 (Factors: solved: 0.15, strikes: 0.3, time: 0.1555692)
+
+[Simon's Stages #1] STAGE #3:
+[Simon's Stages #1] Sequence #3: cyan, white, white.
+[Simon's Stages #1] Indicator #3: magenta.
+[Simon's Stages #1] Solution #3: white, white.
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): !6 cv
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !CALL
+[TwitchPlays] [M] BananaLord (#FFE135): !10 submit 02
+[Bone Apple Tea #1] The characters you submitted are 0 and 2 , which are correct. Module solved.
+[ModBombComponent #130] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"boneAppleTea","bombTime":999.2564,"realTime":328.521484,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6514025 (Factors: solved: 0.2, strikes: 0.3, time: 0.1514025)
+
+[Simon's Stages #1] STAGE #4:
+[Simon's Stages #1] Sequence #4: cyan, lime, cyan, pink, green.
+[Simon's Stages #1] Indicator #4: cyan.
+[Simon's Stages #1] Solution #4: pink, magenta.
+[PaceMaker] PlayerSuccessRating: 0.6491399 (Factors: solved: 0.2, strikes: 0.3, time: 0.1491399)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 21.31296 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6459078 (Factors: solved: 0.2, strikes: 0.3, time: 0.1459078)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 24.79121 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !11 zoom
+[PaceMaker] PlayerSuccessRating: 0.6421503 (Factors: solved: 0.2, strikes: 0.3, time: 0.1421503)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 37.88999 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6364077 (Factors: solved: 0.2, strikes: 0.3, time: 0.1364077)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 29.68018 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6319078 (Factors: solved: 0.2, strikes: 0.3, time: 0.1319077)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 23.85902 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6282917 (Factors: solved: 0.2, strikes: 0.3, time: 0.1282917)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 46.90354 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !11 TPACZKOP
+[ModBombComponent #132] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"caesarCycle","bombTime":833.5542,"realTime":494.222656,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6762961 (Factors: solved: 0.25, strikes: 0.3, time: 0.1262961)
+
+[Simon's Stages #1] STAGE #5:
+[Simon's Stages #1] Sequence #5: magenta, orange, cyan, green.
+[Simon's Stages #1] Indicator #5: yellow.
+[Simon's Stages #1] Solution #5: magenta, orange.
+[TwitchPlays] Disabling camera wall
+[TwitchPlays] Camera wall disabled
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.6711844 (Factors: solved: 0.25, strikes: 0.3, time: 0.1211844)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 52.03188 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.663301 (Factors: solved: 0.25, strikes: 0.3, time: 0.113301)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 53.61415 seconds.
+
+:bigcrunch22!bigcrunch22@bigcrunch22.tmi.twitch.tv PART #heres_fangy
+:tachthecursedhunter!tachthecursedhunter@tachthecursedhunter.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !4 press 2
+[Flashing Lights #1] You pressed button 2. That is correct.
+[PaceMaker] PlayerSuccessRating: 0.6551749 (Factors: solved: 0.25, strikes: 0.3, time: 0.1051749)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 51.99432 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !4 press 3
+[ModBombComponent #118] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"flashingLights","bombTime":646.7195,"realTime":681.055664,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6979878 (Factors: solved: 0.3, strikes: 0.3, time: 0.0979878)
+
+[Flashing Lights #1] You pressed button 3. That is correct. Module disarmed.
+[Simon's Stages #1] STAGE #6:
+[Simon's Stages #1] Sequence #6: lime, lime, yellow.
+[Simon's Stages #1] Indicator #6: lime.
+[Simon's Stages #1] Solution #6: blue, orange, orange.
+[PaceMaker] PlayerSuccessRating: 0.697296 (Factors: solved: 0.3, strikes: 0.3, time: 0.09729595)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 30.1525 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 cv
+[PaceMaker] PlayerSuccessRating: 0.6927264 (Factors: solved: 0.3, strikes: 0.3, time: 0.09272639)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 27.54381 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6885543 (Factors: solved: 0.3, strikes: 0.3, time: 0.08855433)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.13839 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6820091 (Factors: solved: 0.3, strikes: 0.3, time: 0.08200907)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 47.87704 seconds.
+
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[IRC:Connect] Trying to reconnect.
+:tmi.twitch.tv 001 bot_fangy :Welcome, GLHF!
+[TwitchPlays] UserAccess: Writing User Access information data to file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\AccessLevels.json
+:tmi.twitch.tv 002 bot_fangy :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 bot_fangy :This server is rather new
+:tmi.twitch.tv 004 bot_fangy :-
+:tmi.twitch.tv 375 bot_fangy :-
+:tmi.twitch.tv 372 bot_fangy :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 bot_fangy :>
+:tmi.twitch.tv CAP * ACK :twitch.tv/tags
+:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[IRC:Connect] Successful.
+:bot_fangy!bot_fangy@bot_fangy.tmi.twitch.tv JOIN #heres_fangy
+@emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=94078726;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #heres_fangy
+:bot_fangy.tmi.twitch.tv 353 bot_fangy = #heres_fangy :heres_fangy lotsofs rimastino turnedtrove100 v_and_k virgoproz bot_fangy crunchipchip geekyiwen maxurian sanoytwooch anotherttvviewer epictho sawyerlead xarata98 bananalord commanderroot theguythatisweird cartierlogic k_s_
+:bot_fangy.tmi.twitch.tv 366 bot_fangy #heres_fangy :End of /NAMES list
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): ??????
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !help
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] [M] epictho (#0000FF, 151106665): !8 help
+[PaceMaker] PlayerSuccessRating: 0.6747587 (Factors: solved: 0.3, strikes: 0.3, time: 0.07475872)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 30.096 seconds.
+
+[TwitchPlays] [M] epictho (#0000FF, 151106665): !q !8 submit -24
+[TwitchPlays] [M] epictho (#0000FF, 151106665): BlessRNG
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): um
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !call
+[TwitchPlays] [M] epictho (#0000FF): !8 submit -24
+[Quaternions #1] Submitting -24...
+[Quaternions #1] Strike! Incorrect answer.
+[Bomb] Strike from Mod! 1 / 3 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"quaternions","bombTime":482.148926,"realTime":845.624,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5230529 (Factors: solved: 0.3, strikes: 0.15, time: 0.07305287)
+
+[TwitchPlays] [M] epictho (#0000FF, 151106665): god damn it
+[TwitchPlays] [M] epictho (#0000FF, 151106665): !8 clear
+[TwitchPlays] [M] epictho (#0000FF, 151106665): !8 uc
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): sorry, again wifi keeps disconnecting once for a while
+[PaceMaker] PlayerSuccessRating: 0.519486 (Factors: solved: 0.3, strikes: 0.15, time: 0.06948595)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.31557 seconds.
+
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): and i hate it
+[TwitchPlays] [M] epictho (#0000FF, 151106665): quaternions is confusing
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 help
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 right
+:xarata98!xarata98@xarata98.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5088156 (Factors: solved: 0.3, strikes: 0.15, time: 0.05881564)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 38.2173 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 righT
+[PaceMaker] PlayerSuccessRating: 0.5015726 (Factors: solved: 0.3, strikes: 0.15, time: 0.05157261)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 35.5509 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 left
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 lefT
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 unc
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !8 score
+[PaceMaker] PlayerSuccessRating: 0.4948305 (Factors: solved: 0.3, strikes: 0.15, time: 0.04483047)
+
+[PaceMaker] Next idle action in 33.15832 seconds.
+
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): !9 cv
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 score
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): !9 help
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): ouch 6
+[PaceMaker] PlayerSuccessRating: 0.4885491 (Factors: solved: 0.3, strikes: 0.15, time: 0.03854905)
+
+[PaceMaker] Next idle action in 50.06954 seconds.
+
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): wait
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): isn't this the correct one? LUL
+:xarata98!xarata98@xarata98.tmi.twitch.tv JOIN #heres_fangy
+:virgoproz!virgoproz@virgoproz.tmi.twitch.tv PART #heres_fangy
+:v_and_k!v_and_k@v_and_k.tmi.twitch.tv PART #heres_fangy
+:rimastino!rimastino@rimastino.tmi.twitch.tv PART #heres_fangy
+:theguythatisweird!theguythatisweird@theguythatisweird.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): yes
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): i think so
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): but i didnt risk it
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): why did you release it
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): did you strike?
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): no
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.4790554 (Factors: solved: 0.3, strikes: 0.15, time: 0.02905542)
+
+[PaceMaker] Next idle action in 35.08513 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): the other two look similar as well
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): which one and special elite?
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): Merriweather Karma Special Elite
+[PaceMaker] PlayerSuccessRating: 0.4724071 (Factors: solved: 0.3, strikes: 0.15, time: 0.02240707)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 53.65221 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): those 3 are there
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): !9 zoom
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): the uneven stroke width is unique to special elite
+[PaceMaker] PlayerSuccessRating: 0.4622456 (Factors: solved: 0.3, strikes: 0.15, time: 0.01224563)
+
+[PaceMaker] Next idle action in 31.13747 seconds.
+
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): !9 submit
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[ModBombComponent #128] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"FontSelect","bombTime":60.8627739,"realTime":1182.65625,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5092216 (Factors: solved: 0.35, strikes: 0.15, time: 0.009221633)
+
+[Simon's Stages #1] STAGE #7:
+[Simon's Stages #1] Sequence #7: orange, lime, magenta.
+[Simon's Stages #1] Indicator #7: white.
+[Simon's Stages #1] Solution #7: green, orange.
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): nice
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): I NEED MORE TIME!
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): might change to time mode next bomb then
+[PaceMaker] PlayerSuccessRating: 0.5063429 (Factors: solved: 0.35, strikes: 0.15, time: 0.0063429)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.66972 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): well u aint gettin it
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): !bomb add 1m
+[TwitchPlays] [M] TurnedTrove100 (#5F9EA0, 26758812): f
+[TwitchPlays] [M] SaNoyTwooch (#FF69B4, 272813236): fangy pls
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"9L1QD0","bombTime":-0.01037473,"realTime":1231.35547,"solves":7,"strikes":1}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+
