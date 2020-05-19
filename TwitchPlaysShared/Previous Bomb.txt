@@ -8,454 +8,220 @@ Initialize engine version: Twitch Plays
 Reloading mod settings file...
 [State] Enter GameplayState
 
-[BombGenerator] Generating bomb with seed 1187152443
+[BombGenerator] Generating bomb with seed 1116919284
 
-[BombGenerator] Generator settings: Time: 300, NumStrikes: 9, FrontFaceOnly: False
+[BombGenerator] Generator settings: Time: 1200, NumStrikes: 3, FrontFaceOnly: False
 1 Pools:
-[ALL_SOLVABLE] Count: 11
+[pwDestroyer] Count: 23
 
 
-[BombGenerator] Selected maze3 (1717175402 (ModBombComponent))
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[BombGenerator] Selected cheepCheckout (1912952468 (ModBombComponent))
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[BombGenerator] Selected timeKeeper (1416853392 (ModBombComponent))
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[BombGenerator] Selected numberNimbleness (1577535909 (ModBombComponent))
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[BombGenerator] Selected morseButtons (2031876189 (ModBombComponent))
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[BombGenerator] Selected radiator (1291601109 (ModBombComponent))
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[BombGenerator] Selected CryptModule (751147696 (ModBombComponent))
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[BombGenerator] Selected simonSamples (1462370946 (ModBombComponent))
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[BombGenerator] Selected ForeignExchangeRates (743442301 (ModBombComponent))
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[BombGenerator] Selected RAM (2064208850 (ModBombComponent))
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[BombGenerator] Selected BrailleModule (1187303490 (ModBombComponent))
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1717175402 (ModBombComponent), 1912952468 (ModBombComponent), 1416853392 (ModBombComponent), 1577535909 (ModBombComponent), 2031876189 (ModBombComponent), 1291601109 (ModBombComponent), 751147696 (ModBombComponent), 1462370946 (ModBombComponent), 743442301 (ModBombComponent), 2064208850 (ModBombComponent), 1187303490 (ModBombComponent)]
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[Mod-maze3] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1717175402" has ID:"maze3"
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[Mod-maze3] Loading assemblies...
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[Mod-maze3] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1717175402\Newtonsoft.Json.dll"...
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[Mod-maze3] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1717175402\maze3.dll"
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[Mod-maze3] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1717175402" complete.
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[Mod-maze3] Loading GameObjects...
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[Mod-maze3] Replacing shaders...
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[Mod-maze3] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[Mod-maze3] Loading KMMissions...
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[Mod-maze3] Loading KMMissionTableOfContents...
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[Mod-maze3] Loading AudioClips...
+[BombGenerator] Selected pwDestroyer (passwordDestroyer (ModBombComponent))
 
-[BombGenerator] Instantiated 1717175402 on face FrontFace, spawn index 4
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent), passwordDestroyer (ModBombComponent)]
 
-[Mod-cheepCheckout] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1912952468" has ID:"cheepCheckout"
+[Password Destroyer #48]: Initial base numbers are 2989199 and 272824, with starting 2FA of 787271.
+[BombGenerator] Instantiated passwordDestroyer on face RearFace, spawn index 4
 
-[Mod-cheepCheckout] Loading assemblies...
+[Password Destroyer #49]: Initial base numbers are 3806855 and 551218, with starting 2FA of 707486.
+[BombGenerator] Instantiated passwordDestroyer on face FrontFace, spawn index 6
 
-[Mod-cheepCheckout] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1912952468\Newtonsoft.Json.dll"...
+[Password Destroyer #50]: Initial base numbers are 1070571 and -798071, with starting 2FA of 609214.
+[BombGenerator] Instantiated passwordDestroyer on face RearFace, spawn index 7
 
-[Mod-cheepCheckout] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1912952468\cheepCheckout.dll"
+[Password Destroyer #51]: Initial base numbers are 5435486 and -354107, with starting 2FA of 715282.
+[BombGenerator] Instantiated passwordDestroyer on face FrontFace, spawn index 4
 
-[Mod-cheepCheckout] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1912952468" complete.
+[Password Destroyer #52]: Initial base numbers are 9542787 and 744746, with starting 2FA of 525552.
+[BombGenerator] Instantiated passwordDestroyer on face RearFace, spawn index 5
 
-[Mod-cheepCheckout] Loading GameObjects...
+[Password Destroyer #53]: Initial base numbers are 5303178 and -728337, with starting 2FA of 413561.
+[BombGenerator] Instantiated passwordDestroyer on face RearFace, spawn index 2
 
-The referenced script on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-[Mod-cheepCheckout] Replacing shaders...
+[Password Destroyer #54]: Initial base numbers are 7468649 and 339557, with starting 2FA of 832636.
+[BombGenerator] Instantiated passwordDestroyer on face RearFace, spawn index 6
 
-[Mod-cheepCheckout] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Password Destroyer #55]: Initial base numbers are 8375912 and -266266, with starting 2FA of 949615.
+[BombGenerator] Instantiated passwordDestroyer on face FrontFace, spawn index 1
 
-[Mod-cheepCheckout] Loading KMMissions...
+[Password Destroyer #56]: Initial base numbers are 2595931 and -408717, with starting 2FA of 282957.
+[BombGenerator] Instantiated passwordDestroyer on face RearFace, spawn index 0
 
-[Mod-cheepCheckout] Loading KMMissionTableOfContents...
+[Password Destroyer #57]: Initial base numbers are 1694245 and 173442, with starting 2FA of 328671.
+[BombGenerator] Instantiated passwordDestroyer on face RearFace, spawn index 11
 
-[Mod-cheepCheckout] Loading AudioClips...
+[Password Destroyer #58]: Initial base numbers are 6813013 and -555035, with starting 2FA of 829731.
+[BombGenerator] Instantiated passwordDestroyer on face FrontFace, spawn index 2
 
-[BombGenerator] Instantiated 1912952468 on face FrontFace, spawn index 3
+[Password Destroyer #59]: Initial base numbers are 8264399 and -713665, with starting 2FA of 298796.
+[BombGenerator] Instantiated passwordDestroyer on face FrontFace, spawn index 11
 
-[Mod-timeKeeper] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1416853392" has ID:"timeKeeper"
+[Password Destroyer #60]: Initial base numbers are 2300546 and 11373, with starting 2FA of 934719.
+[BombGenerator] Instantiated passwordDestroyer on face FrontFace, spawn index 10
 
-[Mod-timeKeeper] Loading assemblies...
+[Password Destroyer #61]: Initial base numbers are 1141896 and 317426, with starting 2FA of 412310.
+[BombGenerator] Instantiated passwordDestroyer on face FrontFace, spawn index 8
 
-[Mod-timeKeeper] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1416853392\Newtonsoft.Json.dll"...
+[Password Destroyer #62]: Initial base numbers are 5687997 and 345842, with starting 2FA of 194335.
+[BombGenerator] Instantiated passwordDestroyer on face RearFace, spawn index 1
 
-[Mod-timeKeeper] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1416853392\timeKeeper.dll"
+[Password Destroyer #63]: Initial base numbers are 2088564 and -264597, with starting 2FA of 556327.
+[BombGenerator] Instantiated passwordDestroyer on face FrontFace, spawn index 3
 
-[Mod-timeKeeper] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1416853392" complete.
+[Password Destroyer #64]: Initial base numbers are 6041322 and -990168, with starting 2FA of 837957.
+[BombGenerator] Instantiated passwordDestroyer on face RearFace, spawn index 8
 
-[Mod-timeKeeper] Loading GameObjects...
+[Password Destroyer #65]: Initial base numbers are 2127314 and 6661, with starting 2FA of 766867.
+[BombGenerator] Instantiated passwordDestroyer on face FrontFace, spawn index 9
 
-[Mod-timeKeeper] Replacing shaders...
+[Password Destroyer #66]: Initial base numbers are 5026867 and -983726, with starting 2FA of 895132.
+[BombGenerator] Instantiated passwordDestroyer on face FrontFace, spawn index 5
 
-[Mod-timeKeeper] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+[Password Destroyer #67]: Initial base numbers are 6942379 and -984845, with starting 2FA of 332990.
+[BombGenerator] Instantiated passwordDestroyer on face RearFace, spawn index 3
 
-[Mod-timeKeeper] Loading KMMissions...
+[Password Destroyer #68]: Initial base numbers are 5480776 and 321676, with starting 2FA of 259167.
+[BombGenerator] Instantiated passwordDestroyer on face FrontFace, spawn index 0
 
-[Mod-timeKeeper] Loading KMMissionTableOfContents...
+[Password Destroyer #69]: Initial base numbers are 6931564 and -628798, with starting 2FA of 575264.
+[BombGenerator] Instantiated passwordDestroyer on face FrontFace, spawn index 7
 
-[Mod-timeKeeper] Loading AudioClips...
-
-[BombGenerator] Instantiated 1416853392 on face RearFace, spawn index 1
-
-[Mod-numberNimbleness] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1577535909" has ID:"numberNimbleness"
-
-[Mod-numberNimbleness] Loading assemblies...
-
-[Mod-numberNimbleness] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1577535909\Newtonsoft.Json.dll"...
-
-[Mod-numberNimbleness] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1577535909\numberNimbleness.dll"
-
-[Mod-numberNimbleness] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1577535909" complete.
-
-[Mod-numberNimbleness] Loading GameObjects...
-
-[Mod-numberNimbleness] Replacing shaders...
-
-[Mod-numberNimbleness] ModUnityVersion: 2017.1.1f1 Game: 2017.4.22f1
-
-[Mod-numberNimbleness] Loading KMMissions...
-
-[Mod-numberNimbleness] Loading KMMissionTableOfContents...
-
-[Mod-numberNimbleness] Loading AudioClips...
-
-[BombGenerator] Instantiated 1577535909 on face RearFace, spawn index 4
-
-[Mod-morseButtons] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2031876189" has ID:"morseButtons"
-
-[Mod-morseButtons] Loading assemblies...
-
-[Mod-morseButtons] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2031876189\Newtonsoft.Json.dll"...
-
-[Mod-morseButtons] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2031876189\morseButtons.dll"
-
-[Mod-morseButtons] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2031876189" complete.
-
-[Mod-morseButtons] Loading GameObjects...
-
-[Mod-morseButtons] Replacing shaders...
-
-[Mod-morseButtons] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
-
-[Mod-morseButtons] Loading KMMissions...
-
-[Mod-morseButtons] Loading KMMissionTableOfContents...
-
-[Mod-morseButtons] Loading AudioClips...
-
-[BombGenerator] Instantiated 2031876189 on face RearFace, spawn index 5
-
-[Mod-radiator] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1291601109" has ID:"radiator"
-
-[Mod-radiator] Loading assemblies...
-
-[Mod-radiator] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1291601109\Newtonsoft.Json.dll"...
-
-[Mod-radiator] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1291601109\radiator.dll"
-
-[Mod-radiator] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1291601109" complete.
-
-[Mod-radiator] Loading GameObjects...
-
-[Mod-radiator] Replacing shaders...
-
-[Mod-radiator] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
-
-[Mod-radiator] Loading KMMissions...
-
-[Mod-radiator] Loading KMMissionTableOfContents...
-
-[Mod-radiator] Loading AudioClips...
-
-[BombGenerator] Instantiated 1291601109 on face FrontFace, spawn index 1
-
-[Mod-CryptMod] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\751147696" has ID:"CryptMod"
-
-[Mod-CryptMod] Loading assemblies...
-
-[Mod-CryptMod] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\751147696\Newtonsoft.Json.dll"...
-
-[Mod-CryptMod] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\751147696\CryptMod.dll"
-
-[Mod-CryptMod] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\751147696" complete.
-
-[Mod-CryptMod] Loading GameObjects...
-
-[Mod-CryptMod] Replacing shaders...
-
-[Mod-CryptMod] ModUnityVersion: Not set Game: 2017.4.22f1
-
-[Mod-CryptMod] Loading KMMissions...
-
-[Mod-CryptMod] Loading KMMissionTableOfContents...
-
-[Mod-CryptMod] Loading AudioClips...
-
-THEY OFTEN CAME DOWN HANDSOMELY AND SCROOGE NEVER DID
-THCAL
-[BombGenerator] Instantiated 751147696 on face FrontFace, spawn index 5
-
-[Mod-simonSamples] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1462370946" has ID:"simonSamples"
-
-[Mod-simonSamples] Loading assemblies...
-
-[Mod-simonSamples] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1462370946\Newtonsoft.Json.dll"...
-
-[Mod-simonSamples] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1462370946\simonSamples.dll"
-
-[Mod-simonSamples] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1462370946" complete.
-
-[Mod-simonSamples] Loading GameObjects...
-
-[Mod-simonSamples] Replacing shaders...
-
-[Mod-simonSamples] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
-
-[Mod-simonSamples] Loading KMMissions...
-
-[Mod-simonSamples] Loading KMMissionTableOfContents...
-
-[Mod-simonSamples] Loading AudioClips...
-
-[BombGenerator] Instantiated 1462370946 on face RearFace, spawn index 3
-
-[BombGenerator] Instantiated 743442301 on face FrontFace, spawn index 0
-
-[Mod-RAM] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2064208850" has ID:"RAM"
-
-[Mod-RAM] Loading assemblies...
-
-[Mod-RAM] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2064208850\Newtonsoft.Json.dll"...
-
-[Mod-RAM] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2064208850\RAM.dll"
-
-[Mod-RAM] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2064208850" complete.
-
-[Mod-RAM] Loading GameObjects...
-
-[Mod-RAM] Replacing shaders...
-
-[Mod-RAM] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
-
-[Mod-RAM] Loading KMMissions...
-
-[Mod-RAM] Loading KMMissionTableOfContents...
-
-[Mod-RAM] Loading AudioClips...
-
-[BombGenerator] Instantiated 2064208850 on face RearFace, spawn index 0
-
-[BombGenerator] Instantiated 1187303490 on face FrontFace, spawn index 2
+[Password Destroyer #70]: Initial base numbers are 3453797 and -862832, with starting 2FA of 748558.
+[BombGenerator] Instantiated passwordDestroyer on face RearFace, spawn index 10
 
 [BombGenerator] Generating Widgets
 
-[SerialNumber] Randomizing Serial Number: 536AR3
+[SerialNumber] Randomizing Serial Number: P28HZ8
 
-[WidgetGenerator] Added widget: SerialNumber at 0, 1
+[WidgetGenerator] Added widget: SerialNumber at 0, 0
 
-[WidgetGenerator] Added widget: ModWidget at 0, 1
+[WidgetGenerator] Added widget: ModWidget at 0, 0
 
 [WidgetGenerator] Added widget: PortWidget at 0, 0
 
-[PortWidget] Randomizing Port Widget: 0
+[PortWidget] Randomizing Port Widget: Parallel, Serial
 
-[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+[BatteryWidget] Randomizing Battery Widget: 1
 
-[IndicatorWidget] Randomizing Indicator Widget: unlit NSA (IndicatorWidget/LABEL7)
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
 
 [WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit IND (IndicatorWidget/LABEL4)
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
 
 [IndicatorWidget] Randomizing Indicator Widget: lit SND (IndicatorWidget/LABEL1)
 
 [WidgetGenerator] Added widget: IndicatorWidget at 0, 1
 
-[IndicatorWidget] Randomizing Indicator Widget: lit BOB (IndicatorWidget/LABEL10)
+[IndicatorWidget] Randomizing Indicator Widget: lit CAR (IndicatorWidget/LABEL3)
 
-[WidgetGenerator] Added widget: PortWidget at 0, 1
-
-[PortWidget] Randomizing Port Widget: Serial
-
-[Maze³ #1] Node mapping for logging purposes:
-[Maze³ #1] Correct color sequence is: Magenta, Yellow, Blue.
-[Maze³ #1] Starting face: Blue (rotated 180 degrees)
-[Maze³ #1] Starting node: 9
-Dove + Bluebird + Thrush + Umbrellabird + Yellowlegs = 13.45
-[Cheep Checkout #1] Bird 1: Medium, Low, High (Dove, costs $2.5)
-[Cheep Checkout #1] Bird 2: High, Low, Medium (Bluebird, costs $6.33)
-[Cheep Checkout #1] Bird 3: High, High, Medium (Thrush, costs $2.6)
-[Cheep Checkout #1] Bird 4: High, Low, High (Umbrellabird, costs $0.01)
-[Cheep Checkout #1] Bird 5: High, High, High (Yellowlegs, costs $2.01)
-[Cheep Checkout #1] All amounts total to $13.45.
-[Cheep Checkout #1] Customer paid $15.
-[Cheep Checkout #1] Correct change is $1.55.
-[Morse Buttons #1] Top Left button is flashing: Purple H
-[Morse Buttons #1] Top Middle button is flashing: Orange P
-[Morse Buttons #1] Top Right button is flashing: Red 1
-[Morse Buttons #1] Bottom Left button is flashing: Green 8
-[Morse Buttons #1] Bottom Middle button is flashing: Orange O
-[Morse Buttons #1] Bottom Right button is flashing: Purple H
-[Morse Buttons #1] Top Left button rule required: 13
-[Morse Buttons #1] Top Middle button rule required: 19
-[Morse Buttons #1] Top Right button rule required: 7
-[Morse Buttons #1] Bottom Left button rule required: 9
-[Morse Buttons #1] Bottom Middle button rule required: 3
-[Morse Buttons #1] Bottom Right button rule required: 11
-[Morse Buttons #1] The buttons to be pressed are [ Bottom Left, Bottom Right ]
-[Radiator #1] Rule Seed: 1
-[Simon Samples #2] Stage 1. Call: KKSH. Expected response: KKSO.
-[Simon Samples #2] Stage 2. Call: KKSH KOSO. Expected response: KKSO SOKO.
-[Simon Samples #2] Stage 3. Call: KKSH KOSO SHHS. Expected response: KKSO SOKO OHHS.
-[BossModuleManager] Request for Random Access Memory’s ignore list successful.
-[KMBossModule] Boss Module Manager returned list for “Random Access Memory”: 14, Bamboozling Time Keeper, Brainf---, Divided Squares, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Hogwarts, Iconic, Organization, Pressure, Purgatory, Random Access Memory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Swan, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
-[Random Access Memory #1]: Number of non-ignored modules = 9
-[Random Access Memory #1]: Desired Solve Percentage = 77%
 [Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
 [Vanilla Rule Modifier] Waiting for the bomb list to be available
 [MultipleBombs]Initializing gameplay state
 [MultipleBombs]Bombs to spawn: 1
-[Braille #2] Braille patterns on module: 1-2-4-6; 1-3-4-5; 2-3-4-5-6; 2-4-5-6
-[Braille #2] Braille patterns after flips: 1-2-4; 1-3-5; 3-4; 1-2-4-5-6
-[Braille #2] Solution word: foster (2)
-[Braille #2] Flipped positions in order: 6, 10, 17, 19, 14, 18
 [TwitchPlays] Found gameplay room of type Facility Room
 [TwitchPlays] Switching bomb
 [Tweaks] LFAEvent 1
-{"type":"ROUND_START","mission":"5 Mods"}
+{"type":"ROUND_START","mission":"Custom Freeplay"}
 [Rule Seed Modifier] The Seed is 1
-[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
-[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
-[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
-[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
-[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
-[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
-[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
-[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
 [TwitchPlays] Switching bomb
 [Tweaks] LFABombInfo 4
-{"serial":"536AR3","displayNames":{"Timer":"Timer","maze3":"Maze³","cheepCheckout":"Cheep Checkout","timeKeeper":"The Time Keeper","numberNimbleness":"Number Nimbleness","morseButtons":"Morse Buttons","radiator":"Radiator","CryptModule":"Cryptography
-","simonSamples":"Simon Samples","ForeignExchangeRates":"Foreign Exchange Rates","RAM":"Random Access Memory","BrailleModule":"Braille"},"ids":{"maze3":[1],"cheepCheckout":[1],"timeKeeper":[2],"numberNimbleness":[2],"morseButtons":[1],"radiator":[1],
-"simonSamples":[2],"RAM":[1],"BrailleModule":[2]},"anchors":[[-0.220,-0.110],[-0.220,0.110],[0.000,-0.110],[0.000,0.110],[0.220,-0.110],[0.220,0.110],[-0.220,-0.110],[-0.220,0.110],[0.000,-0.110],[0.000,0.110],[0.220,-0.110],[0.220,0.110]],"modules":
-["ForeignExchangeRates -","radiator 1","BrailleModule 2","cheepCheckout 1","maze3 1","CryptModule -","RAM 1","timeKeeper 2","Timer -","simonSamples 2","numberNimbleness 2","morseButtons 1"]}
+{"serial":"P28HZ8","displayNames":{"Timer":"Timer","pwDestroyer":"Password Destroyer"},"ids":{"pwDestroyer":[48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70]},"anchors":[[-0.330,-0.220],[-0.330,0.000],[-0.330,0.220],[-0.110,-0.22
+0],[-0.110,0.000],[-0.110,0.220],[0.110,-0.220],[0.110,0.000],[0.110,0.220],[0.330,-0.220],[0.330,0.000],[0.330,0.220],[-0.330,-0.220],[-0.330,0.000],[-0.330,0.220],[-0.110,-0.220],[-0.110,0.000],[-0.110,0.220],[0.110,-0.220],[0.110,0.000],[0.110,0.2
+20],[0.330,-0.220],[0.330,0.000],[0.330,0.220]],"modules":["pwDestroyer 68","pwDestroyer 55","pwDestroyer 58","pwDestroyer 63","pwDestroyer 51","pwDestroyer 66","pwDestroyer 49","pwDestroyer 69","pwDestroyer 61","pwDestroyer 65","pwDestroyer 60","pwD
+estroyer 59","pwDestroyer 56","pwDestroyer 62","pwDestroyer 53","pwDestroyer 67","pwDestroyer 48","pwDestroyer 52","pwDestroyer 54","pwDestroyer 50","pwDestroyer 64","Timer -","pwDestroyer 70","pwDestroyer 57"]}
 [Profile Revealer] Found 1 bomb(s).
-[Profile Revealer] Attaching to 'maze3(Clone)'.
-[Profile Revealer] Attaching to 'Template(Clone)'.
-[Profile Revealer] Attaching to 'timeKeeper(Clone)'.
-[Profile Revealer] Attaching to 'NumberNimblenessModule(Clone)'.
-[Profile Revealer] Attaching to 'morseButtons(Clone)'.
-[Profile Revealer] Attaching to 'radiatorInova(Clone)'.
-[Profile Revealer] Attaching to 'CryptModule(Clone)'.
-[Profile Revealer] Attaching to 'SimonSamples(Clone)'.
-[Profile Revealer] Attaching to 'ForeignExchangeRates(Clone)'.
-[Profile Revealer] Attaching to 'RandomAccessMemory(Clone)'.
-[Profile Revealer] Attaching to 'BrailleModule(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
 custom
-[TimeKeeper #2] Displayed Number: 16 in Blue. LED One color: Blue. LED Two color: Blue. LED Three color: Green.
-[TimeKeeper #2] Rule 1 used.
-[TimeKeeper #2] Rule 3 = true.
-[TimeKeeper #2] Rule 4 added 4
-[TimeKeeper #2] Rule 6 used.
-[TimeKeeper #2] Rule 7 used.
-[TimeKeeper #2] Rule 11 used.
-[TimeKeeper #2] Rule 12 = false.
-[TimeKeeper #2] Rule 13 added 4 and subtracted 3
-[TimeKeeper #2] Rule 15 = false.
-[TimeKeeper #2] Rule 16 used.
-[TimeKeeper #2] Correct LED: 1. Correct time (in seconds): 36.
-[Radiator #1] Serial occurrences: 2.
-[Radiator #1] Added 20 to the temperature answer (serial occurrences).
-[Radiator #1] Temperature is now 20.
-[Radiator #1] Initial water value is 6.
-[Radiator #1] Adding 20 to the water value (lit indicators).
-[Radiator #1] Water answer is now 26.
-[Radiator #1] Taking 10 from the water value (unlit NSA).
-[Radiator #1] Water answer is now 16.
-[Radiator #1] Final answer for temperature is 20.
-[Radiator #1] Final answer for water is 16.
-[PaceMaker] Round start! Mission: 5 Mods Pacing Enabled: True
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[PaceMaker] Round start! Mission: Custom Freeplay Pacing Enabled: True
 
-[PaceMaker] Next idle action in 56.72171 seconds.
+[PaceMaker] Next idle action in 27.81574 seconds.
 
 [PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
 
 [PaceMaker] Removed 0 pacing events.
 
-[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !bomb turn
-[TwitchPlays] [M] epictho (#0000FF, 151106665): !bomb flip
-[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): meh
-[PaceMaker] PlayerSuccessRating: 0.4621854 (Factors: solved: 0, strikes: 0.3, time: 0.1621854)
+:sawyerlead!sawyerlead@sawyerlead.tmi.twitch.tv PART #heres_fangy
+:cartierlogic!cartierlogic@cartierlogic.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.4953682 (Factors: solved: 0, strikes: 0.3, time: 0.1953682)
 
-[PaceMaker] Next idle action in 37.5552 seconds.
+[PaceMaker] Next idle action in 49.9907 seconds.
 
-[Bomb] Strike from Mod! 1 / 9 strikes
-
-[Tweaks] LFAEvent 1
-{"type":"STRIKE","moduleID":"RAM","bombTime":206.942047,"realTime":101.291016,"loggingID":1}
-[Bomb] Strike from TwitchPlays! 0 / 9 strikes
-[PaceMaker] PlayerSuccessRating: 0.4034711 (Factors: solved: 0, strikes: 0.3, time: 0.103471)
-
-[Random Access Memory #1]: RAM Exceeded Maximum, module striked.
-[PaceMaker] PlayerSuccessRating: 0.4026681 (Factors: solved: 0, strikes: 0.3, time: 0.102668)
-
-[PaceMaker] Next idle action in 30.89876 seconds.
-
-:thelegendwilleh!thelegendwilleh@thelegendwilleh.tmi.twitch.tv JOIN #heres_fangy
-:starbucks___employee!starbucks___employee@starbucks___employee.tmi.twitch.tv JOIN #heres_fangy
-:cyber12!cyber12@cyber12.tmi.twitch.tv PART #heres_fangy
-[PaceMaker] PlayerSuccessRating: 0.3820458 (Factors: solved: 0, strikes: 0.3, time: 0.08204576)
-
-[PaceMaker] Next idle action in 42.63304 seconds.
-
-[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): rgh
-[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): i forgot to update announceModule
-[Bomb] Strike from Mod! 1 / 9 strikes
-
-[Tweaks] LFAEvent 1
-{"type":"STRIKE","moduleID":"RAM","bombTime":81.79691,"realTime":174.701172,"loggingID":1}
-[Bomb] Strike from TwitchPlays! 0 / 9 strikes
-[PaceMaker] PlayerSuccessRating: 0.3408985 (Factors: solved: 0, strikes: 0.3, time: 0.04089846)
-
-[Random Access Memory #1]: RAM Exceeded Maximum, module striked.
-[PaceMaker] Executing random action of type OneMinuteLeft
-
-[PaceMaker] No pacing actions of type OneMinuteLeft found.
-
-[PaceMaker] PlayerSuccessRating: 0.3399856 (Factors: solved: 0, strikes: 0.3, time: 0.03998563)
-
-[PaceMaker] Skipping random idle action for variety's sake.
-
-[PaceMaker] Next idle action in 44.60398 seconds.
-
-[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !10 clear
-[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !10 cleaR
-[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !notes2 Starbucks is hosting test stream atm
 ---PING--- ---PONG--- :tmi.twitch.tv
-[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): i will be stop stream for a few
-[PaceMaker] PlayerSuccessRating: 0.3102402 (Factors: solved: 0, strikes: 0.3, time: 0.01024024)
-
-[PaceMaker] Next idle action in 22.27765 seconds.
-
-[LogfileHotkey] Post-bomb additional log capturing enabled
-[Tweaks] LFAEvent 1
-{"type":"BOMB_DETONATE","serial":"536AR3","bombTime":-0.0346315168,"realTime":236.083984,"solves":0,"strikes":0}
-[Bomb] Boom
-
-[State] OnRoundEnd()
-
-[PaceMaker] Round over.
-

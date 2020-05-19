@@ -248,3 +248,9 @@ Module ID: 6 | Player: Dbros1000 | Module Name: Dungeon | Strike
 Module ID: 5 | Player: TachtheCursedHunter | Module Name: Unfair Cipher | Value: 16
 Module ID: 10 | Module Name: Random Access Memory | Strike
 Module ID: 10 | Module Name: Random Access Memory | Strike
+Module ID: 1 | Player: heres_fangy | Module Name: Password Destroyer | Value: 5
+Module ID: 6 | Module Name: Password Destroyer | Strike
+Module ID: 12 | Player: heres_fangy | Module Name: Password Destroyer | Value: 5
+Module ID: 10 | Player: heres_fangy | Module Name: Password Destroyer | Value: 5
+Module ID: 24 | Module Name: Password Destroyer | Strike
+Module ID: 24 | Module Name: Password Destroyer | Strike
