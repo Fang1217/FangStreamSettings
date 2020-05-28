@@ -1,6 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <GameRecord>
+    <RecordID>210</RecordID>
+    <Result>ExplodedDueToStrikes</Result>
+    <Seed>1050722651</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+    </Components>
+    <MissionID>custom</MissionID>
+    <ModuleSolveCount>7</ModuleSolveCount>
+    <FreeplaySettings>
+      <ModuleCount>17</ModuleCount>
+      <Time>2040</Time>
+      <IsHardCore>false</IsHardCore>
+      <HasNeedy>false</HasNeedy>
+      <OnlyMods>false</OnlyMods>
+    </FreeplaySettings>
+    <TimeElapsed>867.5729</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>639.5425</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Label Priorities</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>96.53125</Time>
+      </StrikeSource>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Label Priorities</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>245.1023</Time>
+      </StrikeSource>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Orientation Cube</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>867.5729</Time>
+      </StrikeSource>
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
     <RecordID>209</RecordID>
     <Result>ExplodedDueToTime</Result>
     <Seed>1205899742</Seed>
@@ -6392,43 +6449,6 @@
     <RealTimeElapsed>191.0415</RealTimeElapsed>
     <Strikes>
       <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>110</RecordID>
-    <Result>Defused</Result>
-    <Seed>1062499307</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>mod_FMNpractice_146</MissionID>
-    <ModuleSolveCount>7</ModuleSolveCount>
-    <TimeElapsed>193.171875</TimeElapsed>
-    <LeaderboardRank>1</LeaderboardRank>
-    <RealTimeElapsed>172.405762</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Digital Root</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>49.19751</Time>
-      </StrikeSource>
       <StrikeSource xsi:nil="true" />
       <StrikeSource xsi:nil="true" />
       <StrikeSource xsi:nil="true" />

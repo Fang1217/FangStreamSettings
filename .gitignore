@@ -21,3 +21,6 @@ TwitchPlaysStats.json
 TwitchPlaysShared/Previous Bomb.txt
 TwitchPlaysLastClaimed.json
 output_log.txt
+playerSettings.xml
+records.xml
+TwitchPlaysShared/TPLog.txt
