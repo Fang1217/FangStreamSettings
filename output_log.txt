@@ -32624,3 +32624,127 @@ a is 5 and b is 8478
 [PaceMaker] Next idle action in 37.96324 seconds.
 
 [TwitchPlays] [M] jjroccss (, 526314480): !17 tilt u
+[PaceMaker] PlayerSuccessRating: 0.292707 (Factors: solved: 0.15625, strikes: 0, time: 0.136457)
+
+[PaceMaker] Next idle action in 34.34721 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !12 cv
+[ModuleCameras] Component's layer is 0. Camera's bitmask is 80000200
+[ModuleCameras] Camera's lossyScale is (0.7, 0.7, 0.7); Setting near plane to 0.7333334, far plane to 2.2
+:nomoreeromon!nomoreeromon@nomoreeromon.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] jjroccss (, 526314480): !17 tilt up
+[PaceMaker] PlayerSuccessRating: 0.2876533 (Factors: solved: 0.15625, strikes: 0, time: 0.1314033)
+
+[PaceMaker] Next idle action in 48.10309 seconds.
+
+[TwitchPlays] [M] nochibato (#008000, 64464829): !6 help
+[TwitchPlays] [M] jjroccss (, 526314480): !17 help
+[TwitchPlays] [M] jjroccss (, 526314480): !17 right
+[ModBombComponent #80] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"giantsDrink","bombTime":1323.71619,"realTime":537.2566,"loggingID":1}
+[ModuleCameras] Updating solves to 06
+[PaceMaker] PlayerSuccessRating: 0.3172761 (Factors: solved: 0.1875, strikes: 0, time: 0.1297761)
+
+[The Giant's Drink #1] Solved! Pressed the right goblet (strikes were even).
+[TwitchPlays] [M] nochibato (#008000, 64464829): !6 press 1 3 2
+[ModuleCameras] Component's layer is 0. Camera's bitmask is 80040000
+[ModuleCameras] Camera's lossyScale is (0.7, 0.7, 0.7); Setting near plane to 0.7333335, far plane to 2.2
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 16
+[ModuleCameras] Component's layer is 0. Camera's bitmask is 80001000
+[ModuleCameras] Camera's lossyScale is (0.7, 0.7, 0.7); Setting near plane to 0.7333334, far plane to 2.2
+[TwitchPlays] [M] nochibato (#008000, 64464829): !6 1 3 2
+[ModBombComponent #58] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"LabelPrioritiesModule","bombTime":1299.264,"realTime":553.557861,"loggingID":1}
+[ModuleCameras] Updating solves to 07
+[PaceMaker] PlayerSuccessRating: 0.3461288 (Factors: solved: 0.21875, strikes: 0, time: 0.1273788)
+
+[Label Priorities #1] Sequence correct. Module solved
+[ModuleCameras] Component's layer is 0. Camera's bitmask is 80000100
+[ModuleCameras] Camera's lossyScale is (0.7, 0.7, 0.7); Setting near plane to 0.7333333, far plane to 2.2
+[TwitchPlays] [M] Dbros1000 (, 274893701): !10 cv
+[ModuleCameras] Component's layer is 0. Camera's bitmask is 80000100
+[ModuleCameras] Camera's lossyScale is (0.7, 0.7, 0.7); Setting near plane to 0.7333334, far plane to 2.2
+[PaceMaker] PlayerSuccessRating: 0.343075 (Factors: solved: 0.21875, strikes: 0, time: 0.124325)
+
+[PaceMaker] Next idle action in 24.99784 seconds.
+
+[TwitchPlays] [M] nochibato (#008000, 64464829): !11 cv
+[ModuleCameras] Component's layer is 0. Camera's bitmask is 80020000
+[ModuleCameras] Camera's lossyScale is (0.7, 0.7, 0.7); Setting near plane to 0.7333334, far plane to 2.2
+[PaceMaker] PlayerSuccessRating: 0.3393946 (Factors: solved: 0.21875, strikes: 0, time: 0.1206446)
+
+[PaceMaker] Next idle action in 26.59891 seconds.
+
+[TwitchPlays] [M] epictho (#0000FF, 151106665): !9 uc
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 cv
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 l
+[TwitchPlays] [M] Dbros1000 (, 274893701): !12 press cw
+[Orientation Cube TP#12] Inputted commands: Clockwise rotation
+[PaceMaker] PlayerSuccessRating: 0.3354829 (Factors: solved: 0.21875, strikes: 0, time: 0.1167329)
+
+[PaceMaker] Next idle action in 56.01217 seconds.
+
+:dbros1000!dbros1000@dbros1000.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] Dbros1000 (, 274893701): !12 press cw set
+[Orientation Cube TP#12] Inputted commands: Clockwise rotation, Clockwise rotation, submit
+rule3
+[Bomb] Strike from Mod! 3 / 3 strikes
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"9L3ZX1","bombTime":1172.42712,"realTime":638.116943,"solves":7,"strikes":3}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+
+[AlarmClock] TurnOff
+
+[LogUploader] Posting new log to ktane.timwi.de
+[TwitchPlays] ModuleData: Loading Module information data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] TwitchPlayStrings: Loading Custom strings data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json
+[TwitchPlays] TwitchPlayStrings: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json
+[TwitchPlays] TwitchPlayStrings: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json completed successfully
+[Freeplay Helper] Current state = Transitioning
+[MultipleBombs]Cleaning up
+[SceneManager] Fading out...
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"OrientationCube","bombTime":1172.42712,"realTime":638.116943}
+Coroutine couldn't be started because the the game object 'ModuleCameras(Clone)' is inactive!
+ 
+(Filename:  Line: 758)
+
+[PaceMaker] PlayerSuccessRating: 0.3336938 (Factors: solved: 0.21875, strikes: 0, time: 0.1149438)
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 r
+[LogUploader] Logfile now available at https://ktane.timwi.de/lfa#file=4b5c8f589274726687097f005fb87dd6b47982bb
+[TwitchPlays] [M] nochibato (#008000, 64464829): !11 help
+[TwitchPlays] Leaderboard: Saving leaderboard data to file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaysUsers.xml
+[TwitchPlays] Leaderboard: Saving stats data to file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaysStats.json
+[Freeplay Helper] Current state = PostGame
+[Factory] Stage Change: PostGame
+[MultipleBombs]Cleaning up
+[PostGameState] Entered PostGameState.
+
+[SceneManager] Fading in...
+
+[TwitchPlays] [M] jjroccss (, 526314480): !16 help
+[TwitchPlays] [M] Dbros1000 (, 274893701): >:(
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): >(
+[ServicesSteam] Sent request to store stats to Steam.
+
+[ServicesSteam] Sent request to store stats to Steam.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): my dumbass thought this was time mode > (
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): )>
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): )<
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] Dbros1000 (, 274893701): )>
+[TwitchPlays] [M] Dbros1000 (, 274893701): !rank
+[TwitchPlays] [M] Dbros1000 (, 274893701): )<
