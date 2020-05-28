@@ -370,7 +370,8 @@
   },
   "yellowCipher": {
     "Zaphod_Beeblebrox_IV": 63725207108.233948,
-    "xarata98": 63725224509.086159
+    "xarata98": 63726261148.094513,
+    "epictho": 63726260559.008324
   },
   "hyperlink": {
     "ktane1": 63725207261.589928
@@ -598,7 +599,8 @@
     "f1r3ysoul": 63725226278.281189
   },
   "festiveJukebox": {
-    "TurnedTrove100": 63725226808.180656
+    "TurnedTrove100": 63725226808.180656,
+    "jjroccss": 63726260925.359741
   },
   "accumulation": {
     "TurnedTrove100": 63725226820.980209,
@@ -704,9 +706,38 @@
     "nochibato": 63726259259.9861
   },
   "Tangrams": {
-    "nochibato": 63726259390.066521
+    "nochibato": 63726259390.066521,
+    "Dbros1000": 63726261094.001564
   },
   "goofysgame": {
     "nochibato": 63726259553.628387
+  },
+  "LabelPrioritiesModule": {
+    "jjroccss": 63726260539.545959,
+    "nochibato": 63726260942.654518
+  },
+  "NandMs": {
+    "jjroccss": 63726260544.510872
+  },
+  "EncryptedEquationsModule": {
+    "nochibato": 63726260563.97583
+  },
+  "SplittingTheLootModule": {
+    "nochibato": 63726260577.710365
+  },
+  "qFunctions": {
+    "jjroccss": 63726260852.327515
+  },
+  "giantsDrink": {
+    "jjroccss": 63726260921.52552
+  },
+  "OrientationCube": {
+    "Dbros1000": 63726261035.167488
+  },
+  "NumberPad": {
+    "jjroccss": 63726261070.810524
+  },
+  "doubleArrows": {
+    "nochibato": 63726261107.901505
   }
 }

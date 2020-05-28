@@ -264,3 +264,6 @@ Module ID: 15 | Player: jjroccss | Module Name: N&Ms | Value: 2
 Module ID: 1 | Player: jjroccss | Module Name: Functions | Value: 9
 Module ID: 13 | Player: nochibato | Module Name: Splitting The Loot | Value: 13
 Module ID: 2 | Player: jjroccss | Module Name: The Festive Jukebox | Value: 2
+Module ID: 17 | Player: jjroccss | Module Name: The Giant's Drink | Value: 5
+Module ID: 6 | Player: nochibato | Module Name: Label Priorities | Value: 4
+Module ID: 12 | Player: Dbros1000 | Module Name: Orientation Cube | Strike
