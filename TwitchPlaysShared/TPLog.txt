@@ -268,3 +268,4 @@ Module ID: 17 | Player: jjroccss | Module Name: The Giant's Drink | Value: 5
 Module ID: 6 | Player: nochibato | Module Name: Label Priorities | Value: 4
 Module ID: 12 | Player: Dbros1000 | Module Name: Orientation Cube | Strike
 Module ID: 9 | Player: nochibato | Module Name: BoozleTalk | Value: 5
+Module ID: 6 | Player: xarata98 | Module Name: The Plunger Button | Value: 3
