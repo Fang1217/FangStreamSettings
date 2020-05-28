@@ -35,7 +35,19 @@
     "siffron",
     "SpotTheDifference",
     "yesandno",
-    "pwDestroyer"
+    "pwDestroyer",
+    "Binary",
+    "LifeIteration",
+    "multitask",
+    "simonStashes",
+    "TheHeart",
+    "PickupIdentification",
+    "hexOS",
+    "encryptedHangman",
+    "brawlerDatabaseModule",
+    "accelerando",
+    "threeLEDsModule",
+    "goofysgame"
   ],
   "EnabledList": [
     "countdown",
