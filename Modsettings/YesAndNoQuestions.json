@@ -1,0 +1,198 @@
+{
+  "SiteUrl": "http://forler.ddns.net:8000/YesAndNoAllQuestions.json",
+  "questions": [
+    {
+      "Output": "Is the sun hot?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is a dog a reptile?",
+      "Answer": 0
+    },
+    {
+      "Output": "Are you human?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is green a warm color?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is blue a cold color?",
+      "Answer": 1
+    },
+    {
+      "Output": "Do penguins wear a tuxedo?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is chile in china?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this a Module?",
+      "Answer": 1
+    },
+    {
+      "Output": "Are you currently sleeping?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is it the year 1992?",
+      "Answer": 0
+    },
+    {
+      "Output": "Are you affected by gravity?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is water wet?",
+      "Answer": 1
+    },
+    {
+      "Output": "Do pigs fly?",
+      "Answer": 0
+    },
+    {
+      "Output": "Do cows give milk?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is the skin an organ?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is human blood red?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is fire hot?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is KTaNE something to eat?",
+      "Answer": 0
+    },
+    {
+      "Output": "Press YES",
+      "Answer": 1
+    },
+    {
+      "Output": "Press NO",
+      "Answer": 0
+    },
+    {
+      "Output": "Don't press YES",
+      "Answer": 0
+    },
+    {
+      "Output": "Don't press NO",
+      "Answer": 1
+    },
+    {
+      "Output": "Don't not press YES",
+      "Answer": 1
+    },
+    {
+      "Output": "Don't not press NO",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this Left and Right?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this Yes and No?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is there a manual for this?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is wood a liquid?",
+      "Answer": 0
+    },
+    {
+      "Output": "Do submarines breathe?",
+      "Answer": 0
+    },
+    {
+      "Output": "I say the truth - press YES",
+      "Answer": 1
+    },
+    {
+      "Output": "I lie - press YES",
+      "Answer": 0
+    },
+    {
+      "Output": "I don't say the truth - press YES",
+      "Answer": 0
+    },
+    {
+      "Output": "I'm not lying - press YES",
+      "Answer": 1
+    },
+    {
+      "Output": "I pressed YES, do the same",
+      "Answer": 1
+    },
+    {
+      "Output": "Don't not press not YES",
+      "Answer": 0
+    },
+    {
+      "Output": "Don't not press not NO",
+      "Answer": 1
+    },
+    {
+      "Output": "SEY sserP",
+      "Answer": 1
+    },
+    {
+      "Output": "ON sserP",
+      "Answer": 0
+    },
+    {
+      "Output": "I pressed NO, do the same",
+      "Answer": 0
+    },
+    {
+      "Output": "I pressed YES, don't do the same",
+      "Answer": 0
+    },
+    {
+      "Output": "I pressed NO, don't do the same",
+      "Answer": 1
+    },
+    {
+      "Output": "Is the earth flat?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this Minecraft?",
+      "Answer": 0
+    },
+    {
+      "Output": "Should you press the display?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this thing solvable?",
+      "Answer": 1
+    },
+    {
+      "Output": "+",
+      "Answer": 1
+    },
+    {
+      "Output": "-",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this KTaNE?",
+      "Answer": 1
+    }
+  ],
+  "Version": 1
+}

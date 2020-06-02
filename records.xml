@@ -1,6 +1,571 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <GameRecord>
+    <RecordID>221</RecordID>
+    <Result>ExplodedDueToStrikes</Result>
+    <Seed>929521340</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+    </Components>
+    <MissionID>mod_fangspack_1ustores</MissionID>
+    <ModuleSolveCount>0</ModuleSolveCount>
+    <TimeElapsed>403.6317</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>411.681152</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>UltraStores</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>403.6317</Time>
+      </StrikeSource>
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
+    <RecordID>220</RecordID>
+    <Result>ExplodedDueToStrikes</Result>
+    <Seed>1158818845</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Wires</ComponentTypeEnum>
+      <ComponentTypeEnum>Wires</ComponentTypeEnum>
+      <ComponentTypeEnum>Wires</ComponentTypeEnum>
+      <ComponentTypeEnum>Wires</ComponentTypeEnum>
+      <ComponentTypeEnum>Wires</ComponentTypeEnum>
+      <ComponentTypeEnum>Wires</ComponentTypeEnum>
+      <ComponentTypeEnum>Wires</ComponentTypeEnum>
+      <ComponentTypeEnum>Wires</ComponentTypeEnum>
+    </Components>
+    <MissionID>mod_MPsMTM_M_Random_Access_Memory</MissionID>
+    <ModuleSolveCount>2</ModuleSolveCount>
+    <TimeElapsed>23.3823242</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>30.7226563</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Wires</ComponentType>
+        <InteractionType>CutWire</InteractionType>
+        <Time>19.8999023</Time>
+      </StrikeSource>
+      <StrikeSource>
+        <ComponentType>Wires</ComponentType>
+        <InteractionType>CutWire</InteractionType>
+        <Time>20.984375</Time>
+      </StrikeSource>
+      <StrikeSource>
+        <ComponentType>Wires</ComponentType>
+        <InteractionType>CutWire</InteractionType>
+        <Time>23.3823242</Time>
+      </StrikeSource>
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
+    <RecordID>219</RecordID>
+    <Result>ExplodedDueToTime</Result>
+    <Seed>1947141857</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+    </Components>
+    <MissionID>custom</MissionID>
+    <ModuleSolveCount>13</ModuleSolveCount>
+    <FreeplaySettings>
+      <ModuleCount>31</ModuleCount>
+      <Time>420</Time>
+      <IsHardCore>false</IsHardCore>
+      <HasNeedy>false</HasNeedy>
+      <OnlyMods>false</OnlyMods>
+    </FreeplaySettings>
+    <TimeElapsed>420.025726</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>1132.89453</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Ice Cream</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>238.287048</Time>
+      </StrikeSource>
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
+    <RecordID>218</RecordID>
+    <Result>ExplodedDueToTime</Result>
+    <Seed>1091932430</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+    </Components>
+    <MissionID>custom</MissionID>
+    <ModuleSolveCount>14</ModuleSolveCount>
+    <FreeplaySettings>
+      <ModuleCount>31</ModuleCount>
+      <Time>420</Time>
+      <IsHardCore>false</IsHardCore>
+      <HasNeedy>false</HasNeedy>
+      <OnlyMods>false</OnlyMods>
+    </FreeplaySettings>
+    <TimeElapsed>420.051239</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>1303.09473</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Adventure Game</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>363.766357</Time>
+      </StrikeSource>
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
+    <RecordID>217</RecordID>
+    <Result>Defused</Result>
+    <Seed>1426268030</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+    </Components>
+    <MissionID>custom</MissionID>
+    <ModuleSolveCount>23</ModuleSolveCount>
+    <FreeplaySettings>
+      <ModuleCount>23</ModuleCount>
+      <Time>420</Time>
+      <IsHardCore>false</IsHardCore>
+      <HasNeedy>false</HasNeedy>
+      <OnlyMods>false</OnlyMods>
+    </FreeplaySettings>
+    <TimeElapsed>200.962646</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>1397.39063</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Baccarat</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>84.45245</Time>
+      </StrikeSource>
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
+    <RecordID>216</RecordID>
+    <Result>ExplodedDueToTime</Result>
+    <Seed>1377165258</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+    </Components>
+    <MissionID>custom</MissionID>
+    <ModuleSolveCount>1</ModuleSolveCount>
+    <FreeplaySettings>
+      <ModuleCount>23</ModuleCount>
+      <Time>420</Time>
+      <IsHardCore>false</IsHardCore>
+      <HasNeedy>false</HasNeedy>
+      <OnlyMods>false</OnlyMods>
+    </FreeplaySettings>
+    <TimeElapsed>420.041534</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>353.999023</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Encryption Bingo</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>398.0157</Time>
+      </StrikeSource>
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
+    <RecordID>215</RecordID>
+    <Result>ExplodedDueToTime</Result>
+    <Seed>1053245343</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+    </Components>
+    <MissionID>custom</MissionID>
+    <ModuleSolveCount>10</ModuleSolveCount>
+    <FreeplaySettings>
+      <ModuleCount>11</ModuleCount>
+      <Time>420</Time>
+      <IsHardCore>false</IsHardCore>
+      <HasNeedy>false</HasNeedy>
+      <OnlyMods>false</OnlyMods>
+    </FreeplaySettings>
+    <TimeElapsed>420.042267</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>1049.582</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Yes and No</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>205.284134</Time>
+      </StrikeSource>
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
+    <RecordID>214</RecordID>
+    <Result>ExplodedDueToTime</Result>
+    <Seed>402170296</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+    </Components>
+    <MissionID>custom</MissionID>
+    <ModuleSolveCount>7</ModuleSolveCount>
+    <FreeplaySettings>
+      <ModuleCount>11</ModuleCount>
+      <Time>420</Time>
+      <IsHardCore>false</IsHardCore>
+      <HasNeedy>false</HasNeedy>
+      <OnlyMods>false</OnlyMods>
+    </FreeplaySettings>
+    <TimeElapsed>420.0438</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>827.743164</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
+    <RecordID>213</RecordID>
+    <Result>ExplodedDueToTime</Result>
+    <Seed>1791403807</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+    </Components>
+    <MissionID>custom</MissionID>
+    <ModuleSolveCount>18</ModuleSolveCount>
+    <FreeplaySettings>
+      <ModuleCount>47</ModuleCount>
+      <Time>420</Time>
+      <IsHardCore>false</IsHardCore>
+      <HasNeedy>false</HasNeedy>
+      <OnlyMods>false</OnlyMods>
+    </FreeplaySettings>
+    <TimeElapsed>420.022156</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>1435.91406</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Game of Life Simple</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>29.9117432</Time>
+      </StrikeSource>
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
+    <RecordID>212</RecordID>
+    <Result>ExplodedDueToStrikes</Result>
+    <Seed>1782922624</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+    </Components>
+    <MissionID>mod_fangspack_pinkuc</MissionID>
+    <ModuleSolveCount>0</ModuleSolveCount>
+    <TimeElapsed>3599.999</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>7.60546875</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Detonate Command</ComponentName>
+        <InteractionType>Other</InteractionType>
+        <Time>3599.999</Time>
+      </StrikeSource>
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
+    <RecordID>211</RecordID>
+    <Result>ExplodedDueToTime</Result>
+    <Seed>744677978</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+    </Components>
+    <MissionID>custom</MissionID>
+    <ModuleSolveCount>12</ModuleSolveCount>
+    <FreeplaySettings>
+      <ModuleCount>17</ModuleCount>
+      <Time>2040</Time>
+      <IsHardCore>false</IsHardCore>
+      <HasNeedy>false</HasNeedy>
+      <OnlyMods>false</OnlyMods>
+    </FreeplaySettings>
+    <TimeElapsed>2040.04773</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>1685.84131</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Cruel Keypads</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>220.389526</Time>
+      </StrikeSource>
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
     <RecordID>210</RecordID>
     <Result>ExplodedDueToStrikes</Result>
     <Seed>1050722651</Seed>
@@ -5676,785 +6241,6 @@
     <LeaderboardRank>0</LeaderboardRank>
     <RealTimeElapsed>0</RealTimeElapsed>
     <Strikes>
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>121</RecordID>
-    <Result>Defused</Result>
-    <Seed>358020903</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>mod_MPsMTM_M_Time_Signatures</MissionID>
-    <ModuleSolveCount>5</ModuleSolveCount>
-    <TimeElapsed>-1158.64893</TimeElapsed>
-    <LeaderboardRank>0</LeaderboardRank>
-    <RealTimeElapsed>2524.10742</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Time Signatures</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>3473.32227</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Time Signatures</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>3345.80444</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Time Signatures</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>3315.694</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Time Signatures</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2997.24023</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Time Signatures</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2455.45435</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Time Signatures</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2284.35352</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Time Signatures</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2024.1189</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Time Signatures</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>1161.617</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Time Signatures</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>1149.66187</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Time Signatures</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>1001.87476</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Time Signatures</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>771.6848</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Time Signatures</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>468.883545</Time>
-      </StrikeSource>
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>120</RecordID>
-    <Result>ExplodedDueToStrikes</Result>
-    <Seed>1370980519</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>mod_MPsMTM_M_UltraStores</MissionID>
-    <ModuleSolveCount>3</ModuleSolveCount>
-    <TimeElapsed>-2141.044</TimeElapsed>
-    <LeaderboardRank>0</LeaderboardRank>
-    <RealTimeElapsed>3456.88428</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>UltraStores</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2920.39185</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>UltraStores</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2609.30469</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>UltraStores</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2386.34546</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>UltraStores</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>897.452148</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>UltraStores</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>-273.3828</Time>
-      </StrikeSource>
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Detonate Command</ComponentName>
-        <InteractionType>Other</InteractionType>
-        <Time>-2141.044</Time>
-      </StrikeSource>
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>119</RecordID>
-    <Result>ExplodedDueToStrikes</Result>
-    <Seed>421757848</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>custom</MissionID>
-    <ModuleSolveCount>0</ModuleSolveCount>
-    <FreeplaySettings>
-      <ModuleCount>1</ModuleCount>
-      <Time>240</Time>
-      <IsHardCore>false</IsHardCore>
-      <HasNeedy>false</HasNeedy>
-      <OnlyMods>false</OnlyMods>
-    </FreeplaySettings>
-    <TimeElapsed>238.767746</TimeElapsed>
-    <LeaderboardRank>0</LeaderboardRank>
-    <RealTimeElapsed>10.88623</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Detonate Command</ComponentName>
-        <InteractionType>Other</InteractionType>
-        <Time>238.767746</Time>
-      </StrikeSource>
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>118</RecordID>
-    <Result>ExplodedDueToStrikes</Result>
-    <Seed>1799101144</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>mod_MPsMTM_M_Lousy_Chess</MissionID>
-    <ModuleSolveCount>4</ModuleSolveCount>
-    <TimeElapsed>-3349.8623</TimeElapsed>
-    <LeaderboardRank>0</LeaderboardRank>
-    <RealTimeElapsed>3678.40454</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>3311.79663</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>3251.539</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>3100.31372</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>3046.83765</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>3007.07227</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2732.14648</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2723.701</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2667.91138</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2598.28467</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2595.31348</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2430.47852</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2274.199</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>1831.708</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>1061.56689</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>-175.671143</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>-694.75</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>-842.2456</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>-968.4658</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>-996.1929</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>-1249.312</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>-1944.90186</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>-2599.63867</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>-2810.50928</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Lousy Chess</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>-3177.893</Time>
-      </StrikeSource>
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Detonate Command</ComponentName>
-        <InteractionType>Other</InteractionType>
-        <Time>-3349.8623</Time>
-      </StrikeSource>
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>117</RecordID>
-    <Result>Incomplete</Result>
-    <Seed>77977377</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>custom</MissionID>
-    <ModuleSolveCount>0</ModuleSolveCount>
-    <FreeplaySettings>
-      <ModuleCount>101</ModuleCount>
-      <Time>15720</Time>
-      <IsHardCore>false</IsHardCore>
-      <HasNeedy>false</HasNeedy>
-      <OnlyMods>false</OnlyMods>
-    </FreeplaySettings>
-    <TimeElapsed>0</TimeElapsed>
-    <LeaderboardRank>0</LeaderboardRank>
-    <RealTimeElapsed>0</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>116</RecordID>
-    <Result>Incomplete</Result>
-    <Seed>1166772789</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>mod_fangsbombs2_5in100encrypt</MissionID>
-    <ModuleSolveCount>0</ModuleSolveCount>
-    <TimeElapsed>0</TimeElapsed>
-    <LeaderboardRank>0</LeaderboardRank>
-    <RealTimeElapsed>0</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>115</RecordID>
-    <Result>Incomplete</Result>
-    <Seed>1495824010</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>mod_fangsbombs2_5in100math</MissionID>
-    <ModuleSolveCount>0</ModuleSolveCount>
-    <TimeElapsed>0</TimeElapsed>
-    <LeaderboardRank>0</LeaderboardRank>
-    <RealTimeElapsed>0</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>114</RecordID>
-    <Result>Defused</Result>
-    <Seed>1961613630</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>mod_MPsMTM_M_Tax_Returns</MissionID>
-    <ModuleSolveCount>3</ModuleSolveCount>
-    <TimeElapsed>-656.880859</TimeElapsed>
-    <LeaderboardRank>0</LeaderboardRank>
-    <RealTimeElapsed>3448.43115</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Tax Returns</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>2703.37256</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Tax Returns</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>431.598145</Time>
-      </StrikeSource>
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>113</RecordID>
-    <Result>ExplodedDueToStrikes</Result>
-    <Seed>1316471002</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>custom</MissionID>
-    <ModuleSolveCount>0</ModuleSolveCount>
-    <FreeplaySettings>
-      <ModuleCount>6</ModuleCount>
-      <Time>1800</Time>
-      <IsHardCore>false</IsHardCore>
-      <HasNeedy>false</HasNeedy>
-      <OnlyMods>false</OnlyMods>
-    </FreeplaySettings>
-    <TimeElapsed>15.7580566</TimeElapsed>
-    <LeaderboardRank>0</LeaderboardRank>
-    <RealTimeElapsed>25.6335449</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Detonate Command</ComponentName>
-        <InteractionType>Other</InteractionType>
-        <Time>15.7580566</Time>
-      </StrikeSource>
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>112</RecordID>
-    <Result>ExplodedDueToStrikes</Result>
-    <Seed>1876365871</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>mod_FMNpractice_1430</MissionID>
-    <ModuleSolveCount>1</ModuleSolveCount>
-    <TimeElapsed>58.5078125</TimeElapsed>
-    <LeaderboardRank>0</LeaderboardRank>
-    <RealTimeElapsed>64.96057</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Digital Root</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>53.25415</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Digital Root</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>56.4902344</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Digital Root</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>56.6896973</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Digital Root</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>56.9230957</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Digital Root</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>57.1911621</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Digital Root</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>57.44873</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Digital Root</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>57.7229</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Digital Root</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>57.9794922</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Digital Root</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>58.2556152</Time>
-      </StrikeSource>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Digital Root</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>58.5078125</Time>
-      </StrikeSource>
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>111</RecordID>
-    <Result>Defused</Result>
-    <Seed>1638713428</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>mod_FMNpractice_146</MissionID>
-    <ModuleSolveCount>7</ModuleSolveCount>
-    <TimeElapsed>182.992188</TimeElapsed>
-    <LeaderboardRank>1</LeaderboardRank>
-    <RealTimeElapsed>191.0415</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
-      <StrikeSource xsi:nil="true" />
       <StrikeSource xsi:nil="true" />
       <StrikeSource xsi:nil="true" />
       <StrikeSource xsi:nil="true" />

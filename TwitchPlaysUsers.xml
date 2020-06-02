@@ -8,10 +8,10 @@
       <b>0</b>
       <a>1</a>
     </UserColor>
-    <SolveCount>23</SolveCount>
+    <SolveCount>26</SolveCount>
     <StrikeCount>1</StrikeCount>
-    <SolveScore>401</SolveScore>
-    <LastAction>2020-05-16T14:47:46.2891988+08:00</LastAction>
+    <SolveScore>424</SolveScore>
+    <LastAction>2020-05-28T22:44:56.3779155+08:00</LastAction>
     <Rank>1</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
@@ -41,6 +41,26 @@
     <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
+    <UserName>jjroccss</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>34</SolveCount>
+    <StrikeCount>4</StrikeCount>
+    <SolveScore>157</SolveScore>
+    <LastAction>2020-05-28T22:20:56.782369+08:00</LastAction>
+    <Rank>3</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
     <UserName>ktane1</UserName>
     <UserColor>
       <r>1</r>
@@ -52,7 +72,27 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>151</SolveScore>
     <LastAction>2020-05-28T18:42:19.1699658+08:00</LastAction>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>xarata98</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>1</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>17</SolveCount>
+    <StrikeCount>1</StrikeCount>
+    <SolveScore>147</SolveScore>
+    <LastAction>2020-05-28T22:37:13.9223535+08:00</LastAction>
+    <Rank>5</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -72,87 +112,7 @@
     <StrikeCount>1</StrikeCount>
     <SolveScore>147</SolveScore>
     <LastAction>2020-05-16T15:43:47.9670448+08:00</LastAction>
-    <Rank>4</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>TurnedTrove100</UserName>
-    <UserColor>
-      <r>0.372549027</r>
-      <g>0.619607866</g>
-      <b>0.627451</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>21</SolveCount>
-    <StrikeCount>3</StrikeCount>
-    <SolveScore>111</SolveScore>
-    <LastAction>2020-05-16T20:12:50.1734008+08:00</LastAction>
     <Rank>5</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>GeekYiwen</UserName>
-    <UserColor>
-      <r>0.372549027</r>
-      <g>0.619607866</g>
-      <b>0.627451</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>10</SolveCount>
-    <StrikeCount>4</StrikeCount>
-    <SolveScore>92</SolveScore>
-    <LastAction>2020-05-16T18:29:25.6057553+08:00</LastAction>
-    <Rank>6</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>Cyber12</UserName>
-    <UserColor>
-      <r>0</r>
-      <g>0</g>
-      <b>1</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>5</SolveCount>
-    <StrikeCount>2</StrikeCount>
-    <SolveScore>85</SolveScore>
-    <LastAction>2020-05-16T20:28:04.4772024+08:00</LastAction>
-    <Rank>7</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>피씨</UserName>
-    <UserColor>
-      <r>0.6039216</r>
-      <g>0.8039216</g>
-      <b>0.196078435</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>3</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>84</SolveScore>
-    <LastAction>2020-05-13T23:06:21.8899715+08:00</LastAction>
-    <Rank>8</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -168,51 +128,11 @@
       <b>0</b>
       <a>1</a>
     </UserColor>
-    <SolveCount>10</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>84</SolveScore>
-    <LastAction>2020-05-28T19:11:22.3385561+08:00</LastAction>
-    <Rank>8</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>true</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>xarata98</UserName>
-    <UserColor>
-      <r>0</r>
-      <g>0</g>
-      <b>1</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>9</SolveCount>
+    <SolveCount>16</SolveCount>
     <StrikeCount>1</StrikeCount>
-    <SolveScore>72</SolveScore>
-    <LastAction>2020-05-16T20:46:51.4368438+08:00</LastAction>
-    <Rank>10</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>true</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>mythers45</UserName>
-    <UserColor>
-      <r>0.117647059</r>
-      <g>0.5647059</g>
-      <b>1</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>8</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>59</SolveScore>
-    <LastAction>2020-05-16T15:44:35.6140522+08:00</LastAction>
-    <Rank>11</Rank>
+    <SolveScore>127</SolveScore>
+    <LastAction>2020-05-28T19:41:21.3776956+08:00</LastAction>
+    <Rank>7</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -221,18 +141,18 @@
     <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
-    <UserName>TheGuyThatIsWeird</UserName>
+    <UserName>GeekYiwen</UserName>
     <UserColor>
-      <r>0.854901969</r>
-      <g>0.647058845</g>
-      <b>0.1254902</b>
+      <r>0.372549027</r>
+      <g>0.619607866</g>
+      <b>0.627451</b>
       <a>1</a>
     </UserColor>
-    <SolveCount>6</SolveCount>
-    <StrikeCount>1</StrikeCount>
-    <SolveScore>52</SolveScore>
-    <LastAction>2020-05-16T15:27:45.5313778+08:00</LastAction>
-    <Rank>12</Rank>
+    <SolveCount>14</SolveCount>
+    <StrikeCount>4</StrikeCount>
+    <SolveScore>120</SolveScore>
+    <LastAction>2020-05-28T21:36:18.2114929+08:00</LastAction>
+    <Rank>8</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -248,11 +168,131 @@
       <b>1</b>
       <a>1</a>
     </UserColor>
-    <SolveCount>2</SolveCount>
+    <SolveCount>10</SolveCount>
+    <StrikeCount>7</StrikeCount>
+    <SolveScore>118</SolveScore>
+    <LastAction>2020-05-28T23:18:31.4842739+08:00</LastAction>
+    <Rank>9</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>true</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>TurnedTrove100</UserName>
+    <UserColor>
+      <r>0.372549027</r>
+      <g>0.619607866</g>
+      <b>0.627451</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>21</SolveCount>
+    <StrikeCount>3</StrikeCount>
+    <SolveScore>111</SolveScore>
+    <LastAction>2020-05-16T20:12:50.1734008+08:00</LastAction>
+    <Rank>10</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>Cyber12</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>1</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>6</SolveCount>
+    <StrikeCount>2</StrikeCount>
+    <SolveScore>95</SolveScore>
+    <LastAction>2020-05-28T23:14:31.0144683+08:00</LastAction>
+    <Rank>11</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>true</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>피씨</UserName>
+    <UserColor>
+      <r>0.6039216</r>
+      <g>0.8039216</g>
+      <b>0.196078435</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>3</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>84</SolveScore>
+    <LastAction>2020-05-13T23:06:21.8899715+08:00</LastAction>
+    <Rank>12</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>TheGuyThatIsWeird</UserName>
+    <UserColor>
+      <r>0.854901969</r>
+      <g>0.647058845</g>
+      <b>0.1254902</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>8</SolveCount>
     <StrikeCount>1</StrikeCount>
-    <SolveScore>51</SolveScore>
-    <LastAction>2020-05-16T17:40:20.0425834+08:00</LastAction>
+    <SolveScore>70</SolveScore>
+    <LastAction>2020-05-28T22:20:56.782369+08:00</LastAction>
     <Rank>13</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>mythers45</UserName>
+    <UserColor>
+      <r>0.117647059</r>
+      <g>0.5647059</g>
+      <b>1</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>8</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>59</SolveScore>
+    <LastAction>2020-05-16T15:44:35.6140522+08:00</LastAction>
+    <Rank>14</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>marksam32</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>1</g>
+      <b>0.945098042</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>9</SolveCount>
+    <StrikeCount>3</StrikeCount>
+    <SolveScore>53</SolveScore>
+    <LastAction>2020-05-28T21:55:22.2187621+08:00</LastAction>
+    <Rank>15</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -272,13 +312,53 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>47</SolveScore>
     <LastAction>2020-05-18T02:14:54.4103118+08:00</LastAction>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
     <SoloRank>0</SoloRank>
     <Team xsi:nil="true" />
-    <Active>true</Active>
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>krispyalliance52133</UserName>
+    <UserColor>
+      <r>1</r>
+      <g>0.270588249</g>
+      <b>0</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>6</SolveCount>
+    <StrikeCount>1</StrikeCount>
+    <SolveScore>46</SolveScore>
+    <LastAction>2020-05-28T20:43:45.6105314+08:00</LastAction>
+    <Rank>17</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>TimwiTerby</UserName>
+    <UserColor>
+      <r>0.117647059</r>
+      <g>0.5647059</g>
+      <b>1</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>8</SolveCount>
+    <StrikeCount>4</StrikeCount>
+    <SolveScore>42</SolveScore>
+    <LastAction>2020-05-28T22:47:48.3779453+08:00</LastAction>
+    <Rank>18</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
     <UserName>epictho</UserName>
@@ -292,7 +372,27 @@
     <StrikeCount>7</StrikeCount>
     <SolveScore>38</SolveScore>
     <LastAction>2020-05-16T19:51:29.4568712+08:00</LastAction>
-    <Rank>15</Rank>
+    <Rank>19</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>KingMario2973</UserName>
+    <UserColor>
+      <r>0.372549027</r>
+      <g>0.619607866</g>
+      <b>0.627451</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>6</SolveCount>
+    <StrikeCount>1</StrikeCount>
+    <SolveScore>34</SolveScore>
+    <LastAction>2020-05-28T23:12:20.7344549+08:00</LastAction>
+    <Rank>20</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -301,18 +401,58 @@
     <Active>true</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
-    <UserName>jjroccss</UserName>
+    <UserName>r4y697</UserName>
     <UserColor>
       <r>0</r>
       <g>0</g>
       <b>0</b>
       <a>1</a>
     </UserColor>
-    <SolveCount>13</SolveCount>
+    <SolveCount>4</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>32</SolveScore>
+    <LastAction>2020-05-28T22:39:15.0251793+08:00</LastAction>
+    <Rank>21</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>Dbros1000</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>6</SolveCount>
     <StrikeCount>4</StrikeCount>
-    <SolveScore>36</SolveScore>
-    <LastAction>2020-05-28T19:11:06.0364667+08:00</LastAction>
-    <Rank>16</Rank>
+    <SolveScore>32</SolveScore>
+    <LastAction>2020-05-28T21:15:41.5755383+08:00</LastAction>
+    <Rank>21</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>Procyon_KTaNE</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>1</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>3</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>32</SolveScore>
+    <LastAction>2020-05-28T23:12:51.0365058+08:00</LastAction>
+    <Rank>21</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -321,18 +461,18 @@
     <Active>true</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
-    <UserName>marksam32</UserName>
+    <UserName>ScopingLandscape</UserName>
     <UserColor>
-      <r>0</r>
-      <g>1</g>
-      <b>0.945098042</b>
+      <r>0.117647059</r>
+      <g>0.5647059</g>
+      <b>1</b>
       <a>1</a>
     </UserColor>
-    <SolveCount>5</SolveCount>
+    <SolveCount>4</SolveCount>
     <StrikeCount>1</StrikeCount>
-    <SolveScore>29</SolveScore>
-    <LastAction>2020-05-16T15:40:27.6548883+08:00</LastAction>
-    <Rank>17</Rank>
+    <SolveScore>26</SolveScore>
+    <LastAction>2020-05-28T22:44:45.3033466+08:00</LastAction>
+    <Rank>24</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -352,87 +492,7 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>25</SolveScore>
     <LastAction>2020-05-13T23:04:15.2397146+08:00</LastAction>
-    <Rank>18</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>KingMario2973</UserName>
-    <UserColor>
-      <r>0.372549027</r>
-      <g>0.619607866</g>
-      <b>0.627451</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>2</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>19</SolveScore>
-    <LastAction>2020-05-13T22:30:05.9938998+08:00</LastAction>
-    <Rank>19</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>SaNoyTwooch</UserName>
-    <UserColor>
-      <r>1</r>
-      <g>0.4117647</g>
-      <b>0.7058824</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>3</SolveCount>
-    <StrikeCount>1</StrikeCount>
-    <SolveScore>19</SolveScore>
-    <LastAction>2020-05-16T19:29:22.0591342+08:00</LastAction>
-    <Rank>19</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>Danny7007</UserName>
-    <UserColor>
-      <r>0.4</r>
-      <g>0</g>
-      <b>1</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>2</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>17</SolveScore>
-    <LastAction>2020-05-13T22:43:05.6256513+08:00</LastAction>
-    <Rank>21</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>TachtheCursedHunter</UserName>
-    <UserColor>
-      <r>1</r>
-      <g>0.4117647</g>
-      <b>0.7058824</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>1</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>16</SolveScore>
-    <LastAction>2020-05-16T21:13:56.4287298+08:00</LastAction>
-    <Rank>22</Rank>
+    <Rank>25</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -448,17 +508,117 @@
       <b>1</b>
       <a>1</a>
     </UserColor>
-    <SolveCount>3</SolveCount>
+    <SolveCount>5</SolveCount>
     <StrikeCount>0</StrikeCount>
-    <SolveScore>15</SolveScore>
-    <LastAction>2020-05-28T18:27:19.4665129+08:00</LastAction>
-    <Rank>23</Rank>
+    <SolveScore>24</SolveScore>
+    <LastAction>2020-05-28T22:31:52.393442+08:00</LastAction>
+    <Rank>26</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
     <SoloRank>0</SoloRank>
     <Team xsi:nil="true" />
     <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>cky1975</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>3</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>22</SolveScore>
+    <LastAction>2020-05-28T23:13:55.5876572+08:00</LastAction>
+    <Rank>27</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>true</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>SaNoyTwooch</UserName>
+    <UserColor>
+      <r>1</r>
+      <g>0.4117647</g>
+      <b>0.7058824</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>3</SolveCount>
+    <StrikeCount>1</StrikeCount>
+    <SolveScore>19</SolveScore>
+    <LastAction>2020-05-16T19:29:22.0591342+08:00</LastAction>
+    <Rank>28</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>true</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>Danny7007</UserName>
+    <UserColor>
+      <r>0.4</r>
+      <g>0</g>
+      <b>1</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>2</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>17</SolveScore>
+    <LastAction>2020-05-13T22:43:05.6256513+08:00</LastAction>
+    <Rank>29</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>true</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>TachtheCursedHunter</UserName>
+    <UserColor>
+      <r>1</r>
+      <g>0.4117647</g>
+      <b>0.7058824</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>1</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>16</SolveScore>
+    <LastAction>2020-05-16T21:13:56.4287298+08:00</LastAction>
+    <Rank>30</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>xmaster6726</UserName>
+    <UserColor>
+      <r>0.5411765</r>
+      <g>0.168627456</g>
+      <b>0.8862745</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>3</SolveCount>
+    <StrikeCount>4</StrikeCount>
+    <SolveScore>15</SolveScore>
+    <LastAction>2020-05-28T23:07:31.1237771+08:00</LastAction>
+    <Rank>31</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>true</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
     <UserName>ShadowMeowMeow</UserName>
@@ -472,7 +632,27 @@
     <StrikeCount>1</StrikeCount>
     <SolveScore>14</SolveScore>
     <LastAction>2020-05-16T20:25:26.5100347+08:00</LastAction>
-    <Rank>24</Rank>
+    <Rank>32</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>TheLegendofKirbychu</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>1</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>2</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>14</SolveScore>
+    <LastAction>2020-05-28T22:20:56.782369+08:00</LastAction>
+    <Rank>32</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -492,7 +672,7 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>12</SolveScore>
     <LastAction>2020-05-16T18:58:06.3620998+08:00</LastAction>
-    <Rank>25</Rank>
+    <Rank>34</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -512,7 +692,7 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>10</SolveScore>
     <LastAction>2020-05-13T23:00:34.7956866+08:00</LastAction>
-    <Rank>26</Rank>
+    <Rank>35</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -521,18 +701,18 @@
     <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
-    <UserName>xmaster6726</UserName>
+    <UserName>xXTheDweebXx</UserName>
     <UserColor>
-      <r>0.5411765</r>
-      <g>0.168627456</g>
-      <b>0.8862745</b>
+      <r>0</r>
+      <g>0.5019608</g>
+      <b>0</b>
       <a>1</a>
     </UserColor>
     <SolveCount>1</SolveCount>
-    <StrikeCount>1</StrikeCount>
-    <SolveScore>8</SolveScore>
-    <LastAction>2020-05-13T23:22:12.1277268+08:00</LastAction>
-    <Rank>27</Rank>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>10</SolveScore>
+    <LastAction>2020-05-28T21:39:59.9555539+08:00</LastAction>
+    <Rank>35</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -552,33 +732,13 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>7</SolveScore>
     <LastAction>2020-05-16T18:27:04.6407238+08:00</LastAction>
-    <Rank>28</Rank>
+    <Rank>37</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
     <SoloRank>0</SoloRank>
     <Team xsi:nil="true" />
     <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>Dbros1000</UserName>
-    <UserColor>
-      <r>0</r>
-      <g>0</g>
-      <b>0</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>3</SolveCount>
-    <StrikeCount>4</StrikeCount>
-    <SolveScore>7</SolveScore>
-    <LastAction>2020-05-28T19:12:47.0305215+08:00</LastAction>
-    <Rank>28</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>true</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
     <UserName>f1r3ysoul</UserName>
@@ -592,27 +752,7 @@
     <StrikeCount>1</StrikeCount>
     <SolveScore>5</SolveScore>
     <LastAction>2020-05-16T20:08:59.9382512+08:00</LastAction>
-    <Rank>30</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>krispyalliance52133</UserName>
-    <UserColor>
-      <r>1</r>
-      <g>0.270588249</g>
-      <b>0</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>1</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>4</SolveScore>
-    <LastAction>2020-05-13T22:33:03.9596139+08:00</LastAction>
-    <Rank>31</Rank>
+    <Rank>38</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -632,7 +772,7 @@
     <StrikeCount>1</StrikeCount>
     <SolveScore>3</SolveScore>
     <LastAction>2020-05-16T13:41:16.3337101+08:00</LastAction>
-    <Rank>32</Rank>
+    <Rank>39</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -652,227 +792,7 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>3</SolveScore>
     <LastAction>2020-05-16T20:43:03.6811682+08:00</LastAction>
-    <Rank>32</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>hhvanillaice</UserName>
-    <UserColor>
-      <r>0.5411765</r>
-      <g>0.168627456</g>
-      <b>0.8862745</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>edan456</UserName>
-    <UserColor>
-      <r>0.5411765</r>
-      <g>0.168627456</g>
-      <b>0.8862745</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>2020-05-10T13:04:26.6393261+08:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>NicoRobin8797</UserName>
-    <UserColor>
-      <r>0.117647059</r>
-      <g>0.5647059</g>
-      <b>1</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>InstantGameInsights</UserName>
-    <UserColor>
-      <r>0.5411765</r>
-      <g>0.168627456</g>
-      <b>0.8862745</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>MrPeanut1028</UserName>
-    <UserColor>
-      <r>0.02745098</r>
-      <g>0.772549033</g>
-      <b>0.4117647</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>K_S_</UserName>
-    <UserColor>
-      <r>1</r>
-      <g>0</g>
-      <b>0</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>luckykid289</UserName>
-    <UserColor>
-      <r>0</r>
-      <g>0</g>
-      <b>0</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>kusi01</UserName>
-    <UserColor>
-      <r>0.6039216</r>
-      <g>0.8039216</g>
-      <b>0.196078435</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>Cooldoom5</UserName>
-    <UserColor>
-      <r>0.117647059</r>
-      <g>0.5647059</g>
-      <b>1</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>cky1975</UserName>
-    <UserColor>
-      <r>0</r>
-      <g>0</g>
-      <b>0</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>SwYellowtail</UserName>
-    <UserColor>
-      <r>0.8235294</r>
-      <g>0.4117647</g>
-      <b>0.117647059</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>39</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -892,7 +812,7 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
     <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -901,18 +821,18 @@
     <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
-    <UserName>haveagr8day1</UserName>
+    <UserName>edan456</UserName>
     <UserColor>
-      <r>0</r>
-      <g>0</g>
-      <b>0</b>
+      <r>0.5411765</r>
+      <g>0.168627456</g>
+      <b>0.8862745</b>
       <a>1</a>
     </UserColor>
     <SolveCount>0</SolveCount>
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <LastAction>2020-05-10T13:04:26.6393261+08:00</LastAction>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -932,7 +852,7 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
     <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -941,7 +861,167 @@
     <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
-    <UserName>Zcaercat</UserName>
+    <UserName>someplayer</UserName>
+    <UserColor>
+      <r>0.8235294</r>
+      <g>0.4117647</g>
+      <b>0.117647059</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>InstantGameInsights</UserName>
+    <UserColor>
+      <r>0.5411765</r>
+      <g>0.168627456</g>
+      <b>0.8862745</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>luckykid289</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>haveagr8day1</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>SwYellowtail</UserName>
+    <UserColor>
+      <r>0.8235294</r>
+      <g>0.4117647</g>
+      <b>0.117647059</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>Pokeminee</UserName>
+    <UserColor>
+      <r>0.180392161</r>
+      <g>0.545098066</g>
+      <b>0.34117648</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>GhostSalt12</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>true</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>kavinkul</UserName>
+    <UserColor>
+      <r>0.117647059</r>
+      <g>0.5647059</g>
+      <b>1</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>true</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>K_S_</UserName>
     <UserColor>
       <r>1</r>
       <g>0</g>
@@ -952,7 +1032,7 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
     <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -961,7 +1041,27 @@
     <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
-    <UserName>exhaustedmicrowave</UserName>
+    <UserName>hhvanillaice</UserName>
+    <UserColor>
+      <r>0.5411765</r>
+      <g>0.168627456</g>
+      <b>0.8862745</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>posee_gamer</UserName>
     <UserColor>
       <r>0</r>
       <g>0</g>
@@ -972,7 +1072,7 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
     <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -981,18 +1081,18 @@
     <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
-    <UserName>Goofy1807</UserName>
+    <UserName>kusi01</UserName>
     <UserColor>
-      <r>0</r>
-      <g>0</g>
-      <b>0</b>
+      <r>0.6039216</r>
+      <g>0.8039216</g>
+      <b>0.196078435</b>
       <a>1</a>
     </UserColor>
     <SolveCount>0</SolveCount>
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
     <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -1012,7 +1112,7 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
     <LastAction>2020-05-10T09:32:12.2421289+08:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -1021,9 +1121,9 @@
     <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
-    <UserName>imonlyhere_for_brendan</UserName>
+    <UserName>Zcaercat</UserName>
     <UserColor>
-      <r>0</r>
+      <r>1</r>
       <g>0</g>
       <b>0</b>
       <a>1</a>
@@ -1032,47 +1132,7 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
     <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>BigCrunch22</UserName>
-    <UserColor>
-      <r>0</r>
-      <g>0</g>
-      <b>1</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>mobyflyer</UserName>
-    <UserColor>
-      <r>0</r>
-      <g>0</g>
-      <b>0</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -1092,7 +1152,7 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
     <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -1101,18 +1161,18 @@
     <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
-    <UserName>nerfarian0169</UserName>
+    <UserName>Goofy1807</UserName>
     <UserColor>
-      <r>0.5411765</r>
-      <g>0.168627456</g>
-      <b>0.8862745</b>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
       <a>1</a>
     </UserColor>
     <SolveCount>0</SolveCount>
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
     <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -1121,7 +1181,107 @@
     <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
-    <UserName>ScopingLandscape</UserName>
+    <UserName>exhaustedmicrowave</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>mobyflyer</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>imonlyhere_for_brendan</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>BigCrunch22</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>1</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>MrPeanut1028</UserName>
+    <UserColor>
+      <r>0.02745098</r>
+      <g>0.772549033</g>
+      <b>0.4117647</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>NicoRobin8797</UserName>
     <UserColor>
       <r>0.117647059</r>
       <g>0.5647059</g>
@@ -1131,8 +1291,8 @@
     <SolveCount>0</SolveCount>
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
-    <LastAction>2020-05-16T15:26:07.0808457+08:00</LastAction>
-    <Rank>34</Rank>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -1141,38 +1301,18 @@
     <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
-    <UserName>Limeboy0603</UserName>
+    <UserName>Cooldoom5</UserName>
     <UserColor>
-      <r>0.6039216</r>
-      <g>0.8039216</g>
-      <b>0.196078435</b>
+      <r>0.117647059</r>
+      <g>0.5647059</g>
+      <b>1</b>
       <a>1</a>
     </UserColor>
     <SolveCount>0</SolveCount>
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
     <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
-    <RecordSoloTime>0</RecordSoloTime>
-    <TotalSoloTime>0</TotalSoloTime>
-    <TotalSoloClears>0</TotalSoloClears>
-    <SoloRank>0</SoloRank>
-    <Team xsi:nil="true" />
-    <Active>false</Active>
-  </LeaderboardEntry>
-  <LeaderboardEntry>
-    <UserName>xXTheDweebXx</UserName>
-    <UserColor>
-      <r>0</r>
-      <g>0.5019608</g>
-      <b>0</b>
-      <a>1</a>
-    </UserColor>
-    <SolveCount>0</SolveCount>
-    <StrikeCount>0</StrikeCount>
-    <SolveScore>0</SolveScore>
-    <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -1192,7 +1332,67 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
     <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>duperheld</UserName>
+    <UserColor>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>Limeboy0603</UserName>
+    <UserColor>
+      <r>0.6039216</r>
+      <g>0.8039216</g>
+      <b>0.196078435</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
+    <RecordSoloTime>0</RecordSoloTime>
+    <TotalSoloTime>0</TotalSoloTime>
+    <TotalSoloClears>0</TotalSoloClears>
+    <SoloRank>0</SoloRank>
+    <Team xsi:nil="true" />
+    <Active>false</Active>
+  </LeaderboardEntry>
+  <LeaderboardEntry>
+    <UserName>nerfarian0169</UserName>
+    <UserColor>
+      <r>0.5411765</r>
+      <g>0.168627456</g>
+      <b>0.8862745</b>
+      <a>1</a>
+    </UserColor>
+    <SolveCount>0</SolveCount>
+    <StrikeCount>0</StrikeCount>
+    <SolveScore>0</SolveScore>
+    <LastAction>0001-01-01T00:00:00</LastAction>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -1212,7 +1412,7 @@
     <StrikeCount>0</StrikeCount>
     <SolveScore>0</SolveScore>
     <LastAction>0001-01-01T00:00:00</LastAction>
-    <Rank>34</Rank>
+    <Rank>41</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
@@ -1232,7 +1432,7 @@
     <StrikeCount>1</StrikeCount>
     <SolveScore>-6</SolveScore>
     <LastAction>2020-05-16T18:44:14.697842+08:00</LastAction>
-    <Rank>62</Rank>
+    <Rank>72</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>

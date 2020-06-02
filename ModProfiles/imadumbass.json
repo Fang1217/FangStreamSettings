@@ -47,7 +47,9 @@
     "brawlerDatabaseModule",
     "accelerando",
     "threeLEDsModule",
-    "goofysgame"
+    "goofysgame",
+    "7",
+    "AdjacentLettersModule_Rus"
   ],
   "EnabledList": [
     "countdown",

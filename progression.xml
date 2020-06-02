@@ -150,5 +150,8 @@
     <ComponentTypeEnum>Simon</ComponentTypeEnum>
     <ComponentTypeEnum>Password</ComponentTypeEnum>
     <ComponentTypeEnum>Morse</ComponentTypeEnum>
+    <ComponentTypeEnum>Memory</ComponentTypeEnum>
+    <ComponentTypeEnum>WhosOnFirst</ComponentTypeEnum>
+    <ComponentTypeEnum>Venn</ComponentTypeEnum>
   </DisarmedComponentTypes>
 </ProgressionData>

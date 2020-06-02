@@ -1,0 +1,868 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 402170296
+
+[BombGenerator] Generator settings: Time: 420, NumStrikes: 9, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 11
+
+
+[BombGenerator] Selected dragonEnergy (1582260436 (ModBombComponent))
+
+[BombGenerator] Selected moon (1364758032 (ModBombComponent))
+
+[BombGenerator] Selected TenButtonColorCode (1584004315 (ModBombComponent))
+
+[BombGenerator] Selected Painting (1145292169 (ModBombComponent))
+
+[BombGenerator] Selected buttonSequencesModule (1649097661 (ModBombComponent))
+
+[BombGenerator] Selected sphere (1525239111 (ModBombComponent))
+
+[BombGenerator] Selected bamboozlingButtonGrid (1864521463 (ModBombComponent))
+
+[BombGenerator] Selected mashematics (1290077112 (ModBombComponent))
+
+[BombGenerator] Selected booleanVennModule (952882149 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected FestivePianoKeys (720356976 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1582260436 (ModBombComponent), 1364758032 (ModBombComponent), 1584004315 (ModBombComponent), 1145292169 (ModBombComponent), 1649097661 (ModBombComponent), 1525239111 (ModBombComponent), 1864521463 (ModBombComponent), 1290077112 (ModBombComponent), 952882149 (ModBombComponent), 2012092376 (ModBombComponent), 720356976 (ModBombComponent)]
+
+[Mod-dragonEnergy] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1582260436" has ID:"dragonEnergy"
+
+[Mod-dragonEnergy] Loading assemblies...
+
+[Mod-dragonEnergy] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1582260436\Newtonsoft.Json.dll"...
+
+[Mod-dragonEnergy] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1582260436\dragonEnergy.dll"
+
+[Mod-dragonEnergy] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1582260436" complete.
+
+[Mod-dragonEnergy] Loading GameObjects...
+
+[Mod-dragonEnergy] Replacing shaders...
+
+[Mod-dragonEnergy] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-dragonEnergy] Loading KMMissions...
+
+[Mod-dragonEnergy] Loading KMMissionTableOfContents...
+
+[Mod-dragonEnergy] Loading AudioClips...
+
+[BombGenerator] Instantiated 1582260436 on face BackFace, spawn index 4
+
+[Mod-moon] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1364758032" has ID:"moon"
+
+[Mod-moon] Loading assemblies...
+
+[Mod-moon] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1364758032\Newtonsoft.Json.dll"...
+
+[Mod-moon] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1364758032\moon.dll"
+
+[Mod-moon] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1364758032" complete.
+
+[Mod-moon] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-moon] Replacing shaders...
+
+[Mod-moon] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-moon] Loading KMMissions...
+
+[Mod-moon] Loading KMMissionTableOfContents...
+
+[Mod-moon] Loading AudioClips...
+
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+[BombGenerator] Instantiated 1364758032 on face FrontFace, spawn index 3
+
+[Mod-TenButtonColorCode] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1584004315" has ID:"TenButtonColorCode"
+
+[Mod-TenButtonColorCode] Loading assemblies...
+
+[Mod-TenButtonColorCode] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1584004315\Newtonsoft.Json.dll"...
+
+[Mod-TenButtonColorCode] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1584004315\TenButtonColorCode.dll"
+
+[Mod-TenButtonColorCode] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1584004315" complete.
+
+[Mod-TenButtonColorCode] Loading GameObjects...
+
+[Mod-TenButtonColorCode] Replacing shaders...
+
+[Mod-TenButtonColorCode] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-TenButtonColorCode] Loading KMMissions...
+
+[Mod-TenButtonColorCode] Loading KMMissionTableOfContents...
+
+[Mod-TenButtonColorCode] Loading AudioClips...
+
+[BombGenerator] Instantiated 1584004315 on face FrontFace, spawn index 0
+
+[Mod-Painting] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1145292169" has ID:"Painting"
+
+[Mod-Painting] Loading assemblies...
+
+[Mod-Painting] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1145292169\Newtonsoft.Json.dll"...
+
+[Mod-Painting] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1145292169\Painting.dll"
+
+[Mod-Painting] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1145292169" complete.
+
+[Mod-Painting] Loading GameObjects...
+
+[Mod-Painting] Replacing shaders...
+
+[Mod-Painting] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-Painting] Replacing shaders...
+
+[Mod-Painting] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-Painting] Loading KMMissions...
+
+[Mod-Painting] Loading KMMissionTableOfContents...
+
+[Mod-Painting] Loading AudioClips...
+
+[Painting #1] Generating painting...
+[Painting #1] Cell #1 => Red.
+[Painting #1] Cell #2 => Yellow.
+[Painting #1] Cell #3 => Grey.
+[Painting #1] Cell #4 => Purple.
+[Painting #1] Cell #5 => Green.
+[Painting #1] Cell #6 => Orange.
+[Painting #1] Cell #7 => Blue.
+[Painting #1] Cell #8 => Purple.
+[Painting #1] Cell #9 => Black.
+[BombGenerator] Instantiated 1145292169 on face BackFace, spawn index 2
+
+[Mod-CrossoverModules] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1649097661" has ID:"CrossoverModules"
+
+[Mod-CrossoverModules] Loading assemblies...
+
+[Mod-CrossoverModules] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1649097661\Newtonsoft.Json.dll"...
+
+[Mod-CrossoverModules] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1649097661\CrossoverModules.dll"
+
+[Mod-CrossoverModules] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1649097661" complete.
+
+[Mod-CrossoverModules] Loading GameObjects...
+
+[Mod-CrossoverModules] Replacing shaders...
+
+[Mod-CrossoverModules] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-CrossoverModules] Replacing shaders...
+
+[Mod-CrossoverModules] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-CrossoverModules] Replacing shaders...
+
+[Mod-CrossoverModules] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-CrossoverModules] Replacing shaders...
+
+[Mod-CrossoverModules] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-CrossoverModules] Replacing shaders...
+
+[Mod-CrossoverModules] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-CrossoverModules] Loading KMMissions...
+
+[Mod-CrossoverModules] Loading KMMissionTableOfContents...
+
+[Mod-CrossoverModules] Loading AudioClips...
+
+[Button Sequences #1] Panel Count: 4
+[Button Sequences #1] Solution:
+[Button Sequences #1] Panel 1 Button 1 (WHITE SQUARE HOLD): Occurence #1 PRESS
+[Button Sequences #1] Panel 1 Button 2 (YELLOW SQUARE PRESS): Occurence #1 DO NOTHING
+[Button Sequences #1] Panel 1 Button 3 (YELLOW SQUARE DETONATE): Occurence #2 DO NOTHING
+[Button Sequences #1] Panel 2 Button 1 (WHITE HEXAGON ABORT): Occurence #2 DO NOTHING
+[Button Sequences #1] Panel 2 Button 2 (WHITE CIRCLE ABORT): Occurence #3 DO NOTHING
+[Button Sequences #1] Panel 2 Button 3 (RED SQUARE DETONATE): Occurence #1 PRESS
+[Button Sequences #1] Panel 3 Button 1 (WHITE CIRCLE HOLD): Occurence #4 PRESS
+[Button Sequences #1] Panel 3 Button 2 (BLUE CIRCLE PRESS): Occurence #1 PRESS
+[Button Sequences #1] Panel 3 Button 3 (WHITE CIRCLE HOLD): Occurence #5 DO NOTHING
+[Button Sequences #1] Panel 4 Button 1 (YELLOW HEXAGON PRESS): Occurence #3 DO NOTHING
+[Button Sequences #1] Panel 4 Button 2 (YELLOW HEXAGON ABORT): Occurence #4 DO NOTHING
+[Button Sequences #1] Panel 4 Button 3 (WHITE HEXAGON DETONATE): Occurence #6 PRESS
+[BombGenerator] Instantiated 1649097661 on face BackFace, spawn index 0
+
+[Mod-sphere] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1525239111" has ID:"sphere"
+
+[Mod-sphere] Loading assemblies...
+
+[Mod-sphere] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1525239111\Newtonsoft.Json.dll"...
+
+[Mod-sphere] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1525239111\sphere.dll"
+
+[Mod-sphere] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1525239111" complete.
+
+[Mod-sphere] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-sphere] Replacing shaders...
+
+[Mod-sphere] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-sphere] Loading KMMissions...
+
+[Mod-sphere] Loading KMMissionTableOfContents...
+
+[Mod-sphere] Loading AudioClips...
+
+[BombGenerator] Instantiated 1525239111 on face BackFace, spawn index 5
+
+[Mod-bamboozlingButtonGrid] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1864521463" has ID:"bamboozlingButtonGrid"
+
+[Mod-bamboozlingButtonGrid] Loading assemblies...
+
+[Mod-bamboozlingButtonGrid] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1864521463\Newtonsoft.Json.dll"...
+
+[Mod-bamboozlingButtonGrid] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1864521463\bamboozlingButtonGrid.dll"
+
+[Mod-bamboozlingButtonGrid] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1864521463" complete.
+
+[Mod-bamboozlingButtonGrid] Loading GameObjects...
+
+[Mod-bamboozlingButtonGrid] Replacing shaders...
+
+[Mod-bamboozlingButtonGrid] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-bamboozlingButtonGrid] Loading KMMissions...
+
+[Mod-bamboozlingButtonGrid] Loading KMMissionTableOfContents...
+
+[Mod-bamboozlingButtonGrid] Loading AudioClips...
+
+[BombGenerator] Instantiated 1864521463 on face FrontFace, spawn index 4
+
+[Mod-mashematics] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1290077112" has ID:"mashematics"
+
+[Mod-mashematics] Loading assemblies...
+
+[Mod-mashematics] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1290077112\Newtonsoft.Json.dll"...
+
+[Mod-mashematics] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1290077112\mashematics.dll"
+
+[Mod-mashematics] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1290077112" complete.
+
+[Mod-mashematics] Loading GameObjects...
+
+[Mod-mashematics] Replacing shaders...
+
+[Mod-mashematics] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-mashematics] Loading KMMissions...
+
+[Mod-mashematics] Loading KMMissionTableOfContents...
+
+[Mod-mashematics] Loading AudioClips...
+
+[BombGenerator] Instantiated 1290077112 on face FrontFace, spawn index 5
+
+[Mod-BooleanVenn] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\952882149" has ID:"BooleanVenn"
+
+[Mod-BooleanVenn] Loading assemblies...
+
+[Mod-BooleanVenn] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\952882149\Newtonsoft.Json.dll"...
+
+[Mod-BooleanVenn] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\952882149\BooleanVenn.dll"
+
+[Mod-BooleanVenn] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\952882149" complete.
+
+[Mod-BooleanVenn] Loading GameObjects...
+
+[Mod-BooleanVenn] Replacing shaders...
+
+[Mod-BooleanVenn] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-BooleanVenn] Replacing shaders...
+
+[Mod-BooleanVenn] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-BooleanVenn] Replacing shaders...
+
+[Mod-BooleanVenn] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-BooleanVenn] Replacing shaders...
+
+[Mod-BooleanVenn] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-BooleanVenn] Replacing shaders...
+
+[Mod-BooleanVenn] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-BooleanVenn] Replacing shaders...
+
+[Mod-BooleanVenn] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-BooleanVenn] Loading KMMissions...
+
+[Mod-BooleanVenn] Loading KMMissionTableOfContents...
+
+[Mod-BooleanVenn] Loading AudioClips...
+
+[BombGenerator] Instantiated 952882149 on face BackFace, spawn index 3
+
+[Mod-PolesOfDifference] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2012092376" has ID:"PolesOfDifference"
+
+[Mod-PolesOfDifference] Loading assemblies...
+
+[Mod-PolesOfDifference] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2012092376\Newtonsoft.Json.dll"...
+
+[Mod-PolesOfDifference] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2012092376\PolesOfDifference.dll"
+
+[Mod-PolesOfDifference] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2012092376" complete.
+
+[Mod-PolesOfDifference] Loading GameObjects...
+
+[Mod-PolesOfDifference] Replacing shaders...
+
+[Mod-PolesOfDifference] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-PolesOfDifference] Replacing shaders...
+
+[Mod-PolesOfDifference] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-PolesOfDifference] Loading KMMissions...
+
+[Mod-PolesOfDifference] Loading KMMissionTableOfContents...
+
+[Mod-PolesOfDifference] Loading AudioClips...
+
+[BombGenerator] Instantiated 2012092376 on face FrontFace, spawn index 2
+
+[BombGenerator] Instantiated 720356976 on face BackFace, spawn index 1
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: D77ID4
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 0
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: 0
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: Parallel, Serial
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: 0
+
+The Playlist 'GameRoomE' is already loaded. Ignoring Change Playlist request.
+[Dragon Energy #1] Indicator color: Cyan.
+[Dragon Energy #1] You have 0 strikes. Forbidden digits for submitting are: 4, 5, 6, 7, 8.
+[Dragon Energy #1] Before swapping, the displayed words are:
+[Dragon Energy #1] Loyal = Green + Red
+[Dragon Energy #1] River = Cyan
+[Dragon Energy #1] Night = Red
+[Dragon Energy #1] Swap 4 has occurred: GPR ↔ GRC, CPG ↔ RCP, P ↔ C
+[Dragon Energy #1] After swapping, the displayed words are:
+[Dragon Energy #1] Loyal = Green + Red + Cyan + Purple
+[Dragon Energy #1] River = Purple
+[Dragon Energy #1] Night = Red
+[Dragon Energy #1] Otherwise rule → submit a word from a tertiary section.
+[Dragon Energy #1] Any of the following would be a correct answer: Heaven, Happiness, Dragon, Kindness.
+[The Moon #1] Lit sets are: southwest, west, northwest & north.
+[The Moon #1] Count 18 on unlit sets from south position.
+[The Moon #1] Your start position is east.
+[The Moon #1] # of D batteries = 0.
+[The Moon #1] # of consonants = 2.
+[The Moon #1] # of serial digits = 3.
+[The Moon #1] # of AA batteries = 2.
+[The Moon #1] # of ports = 2.
+[The Moon #1] # of modules = 4.
+[The Moon #1] # of indicators = 0.
+[The Moon #1] # of port plates = 4.
+[The Moon #1] The first button is outer east.
+[The Moon #1] The second button is inner north.
+[The Moon #1] The third button is outer southeast.
+[The Moon #1] The fourth button is outer southwest.
+[The Moon #1] The fifth button is inner northeast.
+[The Moon #1] The sixth button is inner northwest.
+[The Moon #1] The seventh button is outer south.
+[The Moon #1] The eighth button is outer west.
+[Ten-Button Color Code #1] The initial colors for stage 1 are: Red Green Green Red Blue Red Red Blue Red Red 
+[Ten-Button Color Code #1] Starting rule number in stage 1 is: 4
+[Ten-Button Color Code #1] The solution for stage 1 is: Blue Green Red Green Blue Blue Blue Green Blue Red 
+[The Sphere #1] The cycling colours are orange, grey, orange, green & grey.
+[The Sphere #1] The converted serial number digits are 477944.
+[The Sphere #1] Orange yields 3.
+[The Sphere #1] Grey yields 6.
+[The Sphere #1] Orange yields 3.
+[The Sphere #1] Green yields 8.
+[The Sphere #1] Grey yields 6.
+[The Sphere #1] Use order 8 when submitting your answer.
+[The Sphere #1] Stage 1: tap the sphere when the last digit of the second timer is 9.
+[The Sphere #1] Stage 2: tap the sphere when the last digit of the second timer is 4.
+[The Sphere #1] Stage 3: hold the sphere for 3 seconds.
+[The Sphere #1] Stage 4: tap the sphere when the last digit of the second timer is 4.
+[The Sphere #1] Stage 5: tap the sphere when the last digit of the second timer is 7.
+[The Sphere #1] Stage 6: hold the sphere for 6 seconds.
+[The Sphere #1] Stage 7: hold the sphere for 3 seconds.
+[The Sphere #1] Stage 8: tap the sphere when the last digit of the second timer is 7.
+[The Sphere #1] Stage 9: hold the sphere for 6 seconds.
+[The Sphere #1] Stage 10: tap the sphere when the last digit of the second timer is 4.
+[The Sphere #1] Stage 11: hold the sphere for 8 seconds.
+[Bamboozling Button Grid #1]Resetting to stage 1
+7, 10, 13, 12, 16, 14, 6, 15, 3, 8, 5, 11, 4, 2, 1, 9
+[Bamboozling Button Grid #1]The grid has the buttons:
+[Bamboozling Button Grid #1]RGBRG GRYBY GBGYY BGRBR 
+[Bamboozling Button Grid #1]RRGGY YBBBY RRYRR BBBBR 
+[Bamboozling Button Grid #1]BRBYR GYYBB YRBGB YRGBY 
+[Bamboozling Button Grid #1]RRGRY YBYGB GGGYB RGBRB 
+[Bamboozling Button Grid #1]The upper screen reads MISSPELT OSKAR - MISSPELT ZULU - THE WORD GULIET - MISSPELT ZULU
+[Bamboozling Button Grid #1]The upper screen gives the values 88, 62, 83, 62
+[Bamboozling Button Grid #1]The upper screen has the text colours: JADE, YELLOW, VIOLET, LIME
+[Bamboozling Button Grid #1]The altered values are 88, 26, 38, 26
+[Bamboozling Button Grid #1]The first set of desired properties are R2, B4, R1, B4 
+[Bamboozling Button Grid #1]The right screen reads THE WORD HOTELL - THE LETTER ECCO - THE WORD Q - MISSPELT ECHO
+[Bamboozling Button Grid #1]The right screen gives the values 81, 78, 17, 41
+[Bamboozling Button Grid #1]The right screen has the text colours: GREY, GREY, GREY, MAGENTA
+[Bamboozling Button Grid #1]The altered values are 69, 87, 65, 85
+[Bamboozling Button Grid #1]The second set of desired properties are 14, //, Y5, G3 
+[The Simpleton #1] Push the button!
+[Festive Piano Keys #2] Module generated with the following symbols: Marcato, Mordent, D.S. / Dal Segno
+[Festive Piano Keys #2] The correct rule is the following:
+  Symbols: D.S. / Dal Segno or Semiquaver Note
+  Further Requirements: Any duplicate characters or digits in serial number
+
+The current valid sequence is the following: ['We Three Kings Of Orient Are'] C#/Db, B, A, F#/Gb, G#/Ab, A, G#/Ab, F#/Gb
+
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"23 Fair Mix"}
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Rule Seed Modifier] The Seed is 1
+[Tweaks] LFABombInfo 5
+{"serial":"D77ID4","displayNames":{"Timer":"Timer","dragonEnergy":"Dragon Energy","moon":"The Moon","TenButtonColorCode":"Ten-Button Color Code","Painting":"Painting","buttonSequencesModule":"Button Sequence","sphere":"The Sphere","bamboozlingButtonG
+rid":"Bamboozling Button Grid","mashematics":"Mashematics","booleanVennModule":"Boolean Venn Diagram","SimpleButton":"The Simpleton","FestivePianoKeys":"Festive Piano Keys"},"ids":{"Painting":[1],"FestivePianoKeys":[2],"dragonEnergy":[1],"moon":[1],"
+TenButtonColorCode":[1],"buttonSequencesModule":[1],"sphere":[1],"bamboozlingButtonGrid":[1],"mashematics":[1],"booleanVennModule":[1],"SimpleButton":[1]},"anchors":[[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.
+220],[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220]],"modules":["dragonEnergy 1","Timer -","sphere 1","buttonSequencesModule 1","bamboozlingButtonGrid 1","FestivePianoKeys 2","moon 1","mashematics 1","Paintin
+g 1","booleanVennModule 1","TenButtonColorCode 1","SimpleButton 1"]}
+[TwitchPlays] Switching bomb
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'DragonEnergy(Clone)'.
+[Profile Revealer] Attaching to 'theMoon(Clone)'.
+[Profile Revealer] Attaching to 'pfb_colorCode(Clone)'.
+[Profile Revealer] Attaching to 'Painting #1'.
+[Profile Revealer] Attaching to 'ButtonSequencesModule(Clone)'.
+[Profile Revealer] Attaching to 'theSphere(Clone)'.
+[Profile Revealer] Attaching to 'BamboozlingButtonGrid(Clone)'.
+[Profile Revealer] Attaching to 'mashematics(Clone)'.
+[Profile Revealer] Attaching to 'LogicVennModule(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'Festive Piano Keys #2'.
+custom
+[TwitchPlays] [M] Dbros1000 (, 274893701): oh shit
+[Painting #1] Determining active color-blind set...
+[Painting #1] Rule A total = 6 (battery count (2) + indicator count (0) + port count (2) + 2.
+[Painting #1] No match for rule A.
+[Painting #1] Rule B unique character set from indicators = {}.
+[Painting #1] Protanomaly scores 0 on rule B.
+[Painting #1] Deuteranomaly scores 0 on rule B.
+[Painting #1] Tritanopia scores 0 on rule B.
+[Painting #1] No match for rule B (duplicate scores found).
+[Painting #1] Rule C matched against color-blind set Protanomaly.
+[Painting #1] Cell #1 must remain as Red.
+[Painting #1] Cell #2 must remain as Yellow.
+[Painting #1] Cell #3 must remain as Grey.
+[Painting #1] Cell #4 must swap from Purple to Pink.
+[Painting #1] Cell #5 must swap from Green to Orange.
+[Painting #1] Cell #6 must swap from Orange to Red.
+[Painting #1] Cell #7 must swap from Blue to Red.
+[Painting #1] Cell #8 must swap from Purple to Pink.
+[Painting #1] Cell #9 must swap from Black to Red.
+[Mashematics #1] Math problem: 10 - 99 - 21 = -110 (requires push 40)
+[Boolean Venn Diagram #1] Expression: "A ∨ (B ∨ C)"
+[Boolean Venn Diagram #1]
+                       , - ~ ~ ~ - ,                  _ _
+                   , '               ' ,          , '     ' ,
+                 ,           A           ,      ,    NONE     ,
+                ,          TRUE           ,     ,    FALSE    ,
+               ,                           ,    ,             ,
+               , - ~ ~ ~ - ,   , - ~ ~ ~ - |      ,         ,
+           , ' ,    AB     , ^ ,     AC    , ' ,    ' - - '
+         ,      ,  TRUE  ,       ,  TRUE  ,      ,
+        ,        ,      ,   ABC   ,      ,        ,
+       ,           ,   ,   TRUE    ,  , '          ,
+       |       B     ' + , _ _ _ , +'      C       ,
+       ,     TRUE      ,           ,     TRUE      ,
+        ,               ,   BC    ,               ,
+         ,               , TRUE  ,               ,
+           ,               ,  , '             , '
+             ' - , _ _ _ , -'' - , _ _ _ ,  '
+[PaceMaker] Round start! Mission: 23 Fair Mix Pacing Enabled: True
+
+[PaceMaker] Next idle action in 42.85664 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !bomb flip
+[TwitchPlays] [M] Dbros1000 (, 274893701): !5 cv
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 10
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 9
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 8
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !bomb turn
+[TwitchPlays] [M] pikachuplays07 (#1E90FF, 444635897): aww i was about to get simplton
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] jjroccss (, 526314480): !10 help
+[TwitchPlays] [M] pikachuplays07 (#1E90FF, 444635897): !11 cv
+[TwitchPlays] [M] jjroccss (, 526314480): !10 push
+[The Simpleton #1] You pushed the button. Good job!
+[ModBombComponent #248] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"SimpleButton","bombTime":378.556183,"realTime":49.1582031,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5397887 (Factors: solved: 0.05, strikes: 0.3, time: 0.1897887)
+
+[PaceMaker] PlayerSuccessRating: 0.5391418 (Factors: solved: 0.05, strikes: 0.3, time: 0.1891418)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Cut the lights at 11109.87
+
+[PaceMaker] Next idle action in 44.54772 seconds.
+
+[TwitchPlays] [M] pikachuplays07 (#1E90FF, 444635897): !11 help
+:cky1975!cky1975@cky1975.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] jjroccss (, 526314480): !8 help
+[TwitchPlays] [M] jjroccss (, 526314480): !8 submit 40
+[Mashematics #1] Submitting 40
+[Mashematics #1] Module disarmed.
+[ModBombComponent #244] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"mashematics","bombTime":359.375031,"realTime":88.33789,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5806548 (Factors: solved: 0.1, strikes: 0.3, time: 0.1806548)
+
+[PaceMaker] PlayerSuccessRating: 0.5774286 (Factors: solved: 0.1, strikes: 0.3, time: 0.1774285)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 11154.46
+
+[PaceMaker] Next idle action in 57.50002 seconds.
+
+[TwitchPlays] [M] Dbros1000 (, 274893701): !5 tap 1 down
+[Button Sequences #1] Panel 1 Button 1 pressed successfully.
+[Button Sequences #1] Panel 1 completed successfully.
+[TwitchPlays] [M] Dbros1000 (, 274893701): !5 tap 3 down
+[TwitchPlays] [M] jjroccss (, 526314480): !9 help
+[Button Sequences #1] Panel 2 Button 3 pressed successfully.
+[Button Sequences #1] Panel 2 completed successfully.
+[TwitchPlays] [M] pikachuplays07 (#1E90FF, 444635897): !11 play C# B A F# G# A G# F#
+[Festive Piano Keys #2] Input matches 'We Three Kings Of Orient Are'; inputting melody
+[Festive Piano Keys #2] The current valid sequence is the following: ['We Three Kings Of Orient Are'] C#/Db, B, A, F#/Gb, G#/Ab, A, G#/Ab, F#/Gb
+[Festive Piano Keys #2] Input C#/Db was received; valid input at this stage is C#/Db
+[Festive Piano Keys #2] Input was valid; continuing the sequence...
+[Festive Piano Keys #2] The current valid sequence is the following: ['We Three Kings Of Orient Are'] C#/Db, B, A, F#/Gb, G#/Ab, A, G#/Ab, F#/Gb
+[Festive Piano Keys #2] Input B was received; valid input at this stage is B
+[Festive Piano Keys #2] Input was valid; continuing the sequence...
+[Festive Piano Keys #2] The current valid sequence is the following: ['We Three Kings Of Orient Are'] C#/Db, B, A, F#/Gb, G#/Ab, A, G#/Ab, F#/Gb
+[Festive Piano Keys #2] Input A was received; valid input at this stage is A
+[Festive Piano Keys #2] Input was valid; continuing the sequence...
+[Festive Piano Keys #2] The current valid sequence is the following: ['We Three Kings Of Orient Are'] C#/Db, B, A, F#/Gb, G#/Ab, A, G#/Ab, F#/Gb
+[Festive Piano Keys #2] Input F#/Gb was received; valid input at this stage is F#/Gb
+[Festive Piano Keys #2] Input was valid; continuing the sequence...
+[Festive Piano Keys #2] The current valid sequence is the following: ['We Three Kings Of Orient Are'] C#/Db, B, A, F#/Gb, G#/Ab, A, G#/Ab, F#/Gb
+[Festive Piano Keys #2] Input G#/Ab was received; valid input at this stage is G#/Ab
+[Festive Piano Keys #2] Input was valid; continuing the sequence...
+[Festive Piano Keys #2] The current valid sequence is the following: ['We Three Kings Of Orient Are'] C#/Db, B, A, F#/Gb, G#/Ab, A, G#/Ab, F#/Gb
+[Festive Piano Keys #2] Input A was received; valid input at this stage is A
+[Festive Piano Keys #2] Input was valid; continuing the sequence...
+[Festive Piano Keys #2] The current valid sequence is the following: ['We Three Kings Of Orient Are'] C#/Db, B, A, F#/Gb, G#/Ab, A, G#/Ab, F#/Gb
+[Festive Piano Keys #2] Input G#/Ab was received; valid input at this stage is G#/Ab
+[Festive Piano Keys #2] Input was valid; continuing the sequence...
+[Festive Piano Keys #2] The current valid sequence is the following: ['We Three Kings Of Orient Are'] C#/Db, B, A, F#/Gb, G#/Ab, A, G#/Ab, F#/Gb
+[Festive Piano Keys #2] Input F#/Gb was received; valid input at this stage is F#/Gb
+[Festive Piano Keys #2] Input was valid and sequence complete; module defused!
+[ModBombComponent #250] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"FestivePianoKeys","bombTime":317.098724,"realTime":150.611328,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.6229042 (Factors: solved: 0.15, strikes: 0.3, time: 0.1729042)
+
+[PaceMaker] PlayerSuccessRating: 0.6219359 (Factors: solved: 0.15, strikes: 0.3, time: 0.1719359)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 57.758 seconds.
+
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !2 cv
+[TwitchPlays] [M] jjroccss (, 526314480): !9 a b c ab bc abc ac
+[Boolean Venn Diagram #1] A button pressed correctly!
+[Boolean Venn Diagram #1] B button pressed correctly!
+[Boolean Venn Diagram #1] C button pressed correctly!
+[Boolean Venn Diagram #1] AB button pressed correctly!
+[Boolean Venn Diagram #1] BC button pressed correctly!
+[Boolean Venn Diagram #1] ABC button pressed correctly!
+[Boolean Venn Diagram #1] AC button pressed correctly!
+[Boolean Venn Diagram #1] Module Solved!
+[ModBombComponent #246] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"booleanVennModule","bombTime":332.8065,"realTime":180.902344,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6894793 (Factors: solved: 0.2, strikes: 0.3, time: 0.1894793)
+
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 4
+:pikachuplays07!pikachuplays07@pikachuplays07.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.6754271 (Factors: solved: 0.2, strikes: 0.3, time: 0.1754271)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 57.09368 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6482202 (Factors: solved: 0.2, strikes: 0.3, time: 0.1482202)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.80477 seconds.
+
+[TwitchPlays] [M] jjroccss (, 526314480): !4 help
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] Dbros1000 (, 274893701): !5 tap 1 2 down
+[Button Sequences #1] Panel 3 Button 1 pressed successfully.
+[Button Sequences #1] Panel 3 Button 2 pressed successfully.
+[PaceMaker] PlayerSuccessRating: 0.6221406 (Factors: solved: 0.2, strikes: 0.3, time: 0.1221406)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 39.95074 seconds.
+
+[Button Sequences #1] Panel 3 completed successfully.
+:pikachuplays07!pikachuplays07@pikachuplays07.tmi.twitch.tv PART #heres_fangy
+:nomoreeromon!nomoreeromon@nomoreeromon.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] jjroccss (, 526314480): !4 paint 3 red
+[Painting #1] Painting Cell #6 with Red.
+[TwitchPlays] [M] Dbros1000 (, 274893701): !5 tap 3 down
+[Button Sequences #1] Panel 4 Button 3 pressed successfully.
+[Button Sequences #1] Panel 4 completed successfully.
+[Button Sequences #1] Module Solved.
+[ModBombComponent #238] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"buttonSequencesModule","bombTime":240.201187,"realTime":338.603516,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7001911 (Factors: solved: 0.25, strikes: 0.3, time: 0.1501911)
+
+[TwitchPlays] [M] jjroccss (, 526314480): !4 paint 4 red
+[Painting #1] Painting Cell #9 with Red.
+[TwitchPlays] [M] jjroccss (, 526314480): !4 paint 1 red
+[Painting #1] Painting Cell #7 with Red.
+[PaceMaker] PlayerSuccessRating: 0.6888261 (Factors: solved: 0.25, strikes: 0.3, time: 0.1388261)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.15355 seconds.
+
+[TwitchPlays] [M] jjroccss (, 526314480): !paint 8 orange
+[TwitchPlays] [M] jjroccss (, 526314480): !4 paint 8 orange
+[Painting #1] Painting Cell #5 with Orange.
+[TwitchPlays] [M] jjroccss (, 526314480): !4 paint 9 pink
+[Painting #1] Painting Cell #4 with Pink.
+[PaceMaker] PlayerSuccessRating: 0.662063 (Factors: solved: 0.25, strikes: 0.3, time: 0.112063)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 24.38948 seconds.
+
+[TwitchPlays] [M] jjroccss (, 526314480): !4 paint 5 pink
+[Painting #1] Painting Cell #8 with Pink.
+[Painting #1] All cells are now at their final color.
+[ModBombComponent #236] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"Painting","bombTime":233.106934,"realTime":420.894531,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.74267 (Factors: solved: 0.3, strikes: 0.3, time: 0.14267)
+
+[PaceMaker] PlayerSuccessRating: 0.7320946 (Factors: solved: 0.3, strikes: 0.3, time: 0.1320946)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 28.04629 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.7187291 (Factors: solved: 0.3, strikes: 0.3, time: 0.1187291)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 42.167 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6986213 (Factors: solved: 0.3, strikes: 0.3, time: 0.0986213)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 53.93313 seconds.
+
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !bomb flip
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.6729344 (Factors: solved: 0.3, strikes: 0.3, time: 0.0729344)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 38.85184 seconds.
+
+:romz3k57!romz3k57@romz3k57.tmi.twitch.tv JOIN #heres_fangy
+:dbros1000!dbros1000@dbros1000.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.6544067 (Factors: solved: 0.3, strikes: 0.3, time: 0.05440665)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.58965 seconds.
+
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !2 HELP
+[TwitchPlays] [M] jjroccss (, 526314480): !3 help
+[TwitchPlays] [M] jjroccss (, 526314480): !3 press 1 4 6 9
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[PaceMaker] PlayerSuccessRating: 0.627439 (Factors: solved: 0.3, strikes: 0.3, time: 0.02743893)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 30.24132 seconds.
+
+[TwitchPlays] [M] jjroccss (, 526314480): !3 press 1 4
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !2 press outer E;inner N;Outer SE;Outer SW;inner NE;inner nW;outer S;outer w
+[The Moon #1] You pressed outer east. That is correct.
+[The Moon #1] You pressed inner north. That is correct.
+[The Moon #1] You pressed outer southeast. That is correct.
+[The Moon #1] You pressed outer southwest. That is correct.
+[The Moon #1] You pressed inner northeast. That is correct.
+[The Moon #1] You pressed inner northwest. That is correct.
+[The Moon #1] You pressed outer south. That is correct.
+[The Moon #1] You pressed outer west. That is correct.
+[The Moon #1] Module disarmed.
+[ModBombComponent #232] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"moon","bombTime":37.52125,"realTime":682.9756,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.718153 (Factors: solved: 0.35, strikes: 0.3, time: 0.06815299)
+
+[PaceMaker] PlayerSuccessRating: 0.7132983 (Factors: solved: 0.35, strikes: 0.3, time: 0.06329825)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 50.73232 seconds.
+
+:geekyiwen!geekyiwen@geekyiwen.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] jjroccss (, 526314480): !3 press 1 2 3 5 6 7 8 9 10
+[PaceMaker] PlayerSuccessRating: 0.6891373 (Factors: solved: 0.35, strikes: 0.3, time: 0.03913732)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 23.09605 seconds.
+
+[TwitchPlays] [M] jjroccss (, 526314480): !3 press 3 4
+[PaceMaker] PlayerSuccessRating: 0.6781221 (Factors: solved: 0.35, strikes: 0.3, time: 0.02812211)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 33.97391 seconds.
+
+[TwitchPlays] [M] jjroccss (, 526314480): !3 press 1 2 2
+[PaceMaker] PlayerSuccessRating: 0.6619318 (Factors: solved: 0.35, strikes: 0.3, time: 0.01193179)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 53.21505 seconds.
+
+[TwitchPlays] [M] jjroccss (, 526314480): gg
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): Yeah, I'm reading through the BBG manual
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"D77ID4","bombTime":-0.04379937,"realTime":826.1406,"solves":7,"strikes":0}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

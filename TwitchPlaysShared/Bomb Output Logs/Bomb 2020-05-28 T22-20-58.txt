@@ -1,0 +1,1881 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 1426268030
+
+[BombGenerator] Generator settings: Time: 420, NumStrikes: 9, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 23
+
+
+[BombGenerator] Selected radiator (1291601109 (ModBombComponent))
+
+[BombGenerator] Selected subscribeToPewdiepie (1660338848 (ModBombComponent))
+
+[BombGenerator] Selected TheUltracubeModule (1779853069 (ModBombComponent))
+
+[BombGenerator] Selected ksmHighScore (1907465755 (ModBombComponent))
+
+[BombGenerator] Selected ArrowTalk (2075509471 (ModBombComponent))
+
+[BombGenerator] Selected roleReversal (2014025799 (ModBombComponent))
+
+[BombGenerator] Selected snooker (1535185348 (ModBombComponent))
+
+[BombGenerator] Selected RubiksCubeModule (916589421 (ModBombComponent))
+
+[BombGenerator] Selected complexKeypad (1399287254 (ModBombComponent))
+
+[BombGenerator] Selected alphaBits (1832051156 (ModBombComponent))
+
+[BombGenerator] Selected unorderedKeys (1763726416 (ModBombComponent))
+
+[BombGenerator] Selected the_cRule (1944953727 (ModBombComponent))
+
+[BombGenerator] Selected Mastermind Simple (1102360624 (ModBombComponent))
+
+[BombGenerator] Selected mortalKombat (1289161023 (ModBombComponent))
+
+[BombGenerator] Selected booleanWires (1823713337 (ModBombComponent))
+
+[BombGenerator] Selected KanjiModule (1890676453 (ModBombComponent))
+
+[BombGenerator] Selected unfairCipher (1632675253 (ModBombComponent))
+
+[BombGenerator] Selected baccarat (1997030889 (ModBombComponent))
+
+[BombGenerator] Selected sevenChooseFour (1916614873 (ModBombComponent))
+
+[BombGenerator] Selected harmonySequence (1632495656 (ModBombComponent))
+
+[BombGenerator] Selected WirePlacementModule (836617860 (ModBombComponent))
+
+[BombGenerator] Selected digitalDials (1942340222 (ModBombComponent))
+
+[BombGenerator] Selected OrientationCube (744171602 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1291601109 (ModBombComponent), 1660338848 (ModBombComponent), 1779853069 (ModBombComponent), 1907465755 (ModBombComponent), 2075509471 (ModBombComponent), 2014025799 (ModBombComponent), 1535185348 (ModBombComponent), 916589421 (ModBombComponent), 1399287254 (ModBombComponent), 1832051156 (ModBombComponent), 1763726416 (ModBombComponent), 1944953727 (ModBombComponent), 1102360624 (ModBombComponent), 1289161023 (ModBombComponent), 1823713337 (ModBombComponent), 1890676453 (ModBombComponent), 1632675253 (ModBombComponent), 1997030889 (ModBombComponent), 1916614873 (ModBombComponent), 1632495656 (ModBombComponent), 836617860 (ModBombComponent), 1942340222 (ModBombComponent), 744171602 (ModBombComponent)]
+
+[Mod-radiator] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1291601109" has ID:"radiator"
+
+[Mod-radiator] Loading assemblies...
+
+[Mod-radiator] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1291601109\Newtonsoft.Json.dll"...
+
+[Mod-radiator] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1291601109\radiator.dll"
+
+[Mod-radiator] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1291601109" complete.
+
+[Mod-radiator] Loading GameObjects...
+
+[Mod-radiator] Replacing shaders...
+
+[Mod-radiator] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-radiator] Loading KMMissions...
+
+[Mod-radiator] Loading KMMissionTableOfContents...
+
+[Mod-radiator] Loading AudioClips...
+
+[BombGenerator] Instantiated 1291601109 on face FrontFace, spawn index 10
+
+[Mod-subscribeToPewdiepie] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1660338848" has ID:"subscribeToPewdiepie"
+
+[Mod-subscribeToPewdiepie] Loading assemblies...
+
+[Mod-subscribeToPewdiepie] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1660338848\Newtonsoft.Json.dll"...
+
+[Mod-subscribeToPewdiepie] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1660338848\subscribeToPewdiepie.dll"
+
+[Mod-subscribeToPewdiepie] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1660338848" complete.
+
+[Mod-subscribeToPewdiepie] Loading GameObjects...
+
+[Mod-subscribeToPewdiepie] Replacing shaders...
+
+[Mod-subscribeToPewdiepie] ModUnityVersion: 2017.4.20f2 Game: 2017.4.22f1
+
+[Mod-subscribeToPewdiepie] Loading KMMissions...
+
+[Mod-subscribeToPewdiepie] Loading KMMissionTableOfContents...
+
+[Mod-subscribeToPewdiepie] Loading AudioClips...
+
+[BombGenerator] Instantiated 1660338848 on face RearFace, spawn index 0
+
+[Mod-TheUltracube] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1779853069" has ID:"TheUltracube"
+
+[Mod-TheUltracube] Loading assemblies...
+
+[Mod-TheUltracube] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1779853069\Newtonsoft.Json.dll"...
+
+[Mod-TheUltracube] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1779853069\TheUltracube.dll"
+
+[Mod-TheUltracube] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1779853069" complete.
+
+[Mod-TheUltracube] Loading GameObjects...
+
+[Mod-TheUltracube] Replacing shaders...
+
+[Mod-TheUltracube] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-TheUltracube] Loading KMMissions...
+
+[Mod-TheUltracube] Loading KMMissionTableOfContents...
+
+[Mod-TheUltracube] Loading AudioClips...
+
+[BombGenerator] Instantiated 1779853069 on face FrontFace, spawn index 8
+
+[Mod-ksmHighScore] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1907465755" has ID:"ksmHighScore"
+
+[Mod-ksmHighScore] Loading assemblies...
+
+[Mod-ksmHighScore] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1907465755\Newtonsoft.Json.dll"...
+
+[Mod-ksmHighScore] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1907465755\ksmHighScore.dll"
+
+[Mod-ksmHighScore] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1907465755" complete.
+
+[Mod-ksmHighScore] Loading GameObjects...
+
+[Mod-ksmHighScore] Replacing shaders...
+
+[Mod-ksmHighScore] ModUnityVersion: 2017.4.29f1 Game: 2017.4.22f1
+
+[Mod-ksmHighScore] Loading KMMissions...
+
+[Mod-ksmHighScore] Loading KMMissionTableOfContents...
+
+[Mod-ksmHighScore] Loading AudioClips...
+
+[BombGenerator] Instantiated 1907465755 on face RearFace, spawn index 11
+
+[BombGenerator] Instantiated 2075509471 on face FrontFace, spawn index 9
+
+[Mod-roleReversal] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2014025799" has ID:"roleReversal"
+
+[Mod-roleReversal] Loading assemblies...
+
+[Mod-roleReversal] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2014025799\Newtonsoft.Json.dll"...
+
+[Mod-roleReversal] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2014025799\roleReversal.dll"
+
+[Mod-roleReversal] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2014025799" complete.
+
+[Mod-roleReversal] Loading GameObjects...
+
+[Mod-roleReversal] Replacing shaders...
+
+[Mod-roleReversal] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-roleReversal] Loading KMMissions...
+
+[Mod-roleReversal] Loading KMMissionTableOfContents...
+
+[Mod-roleReversal] Loading AudioClips...
+
+[BombGenerator] Instantiated 2014025799 on face RearFace, spawn index 2
+
+[Mod-snooker] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1535185348" has ID:"snooker"
+
+[Mod-snooker] Loading assemblies...
+
+[Mod-snooker] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1535185348\Newtonsoft.Json.dll"...
+
+[Mod-snooker] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1535185348\snooker.dll"
+
+[Mod-snooker] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1535185348" complete.
+
+[Mod-snooker] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-snooker] Replacing shaders...
+
+[Mod-snooker] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-snooker] Loading KMMissions...
+
+[Mod-snooker] Loading KMMissionTableOfContents...
+
+[Mod-snooker] Loading AudioClips...
+
+[BombGenerator] Instantiated 1535185348 on face FrontFace, spawn index 2
+
+[Mod-RubiksCube] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\916589421" has ID:"RubiksCube"
+
+[Mod-RubiksCube] Loading assemblies...
+
+[Mod-RubiksCube] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\916589421\Newtonsoft.Json.dll"...
+
+[Mod-RubiksCube] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\916589421\RubiksCube.dll"
+
+[Mod-RubiksCube] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\916589421" complete.
+
+[Mod-RubiksCube] Loading GameObjects...
+
+[Mod-RubiksCube] Replacing shaders...
+
+[Mod-RubiksCube] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-RubiksCube] Loading KMMissions...
+
+[Mod-RubiksCube] Loading KMMissionTableOfContents...
+
+[Mod-RubiksCube] Loading AudioClips...
+
+[BombGenerator] Instantiated 916589421 on face FrontFace, spawn index 3
+
+[Mod-complexKeypad] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1399287254" has ID:"complexKeypad"
+
+[Mod-complexKeypad] Loading assemblies...
+
+[Mod-complexKeypad] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1399287254\Newtonsoft.Json.dll"...
+
+[Mod-complexKeypad] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1399287254\complexKeypad.dll"
+
+[Mod-complexKeypad] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1399287254" complete.
+
+[Mod-complexKeypad] Loading GameObjects...
+
+[Mod-complexKeypad] Replacing shaders...
+
+[Mod-complexKeypad] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-complexKeypad] Loading KMMissions...
+
+[Mod-complexKeypad] Loading KMMissionTableOfContents...
+
+[Mod-complexKeypad] Loading AudioClips...
+
+[BombGenerator] Instantiated 1399287254 on face FrontFace, spawn index 1
+
+[Mod-alphaBits] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1832051156" has ID:"alphaBits"
+
+[Mod-alphaBits] Loading assemblies...
+
+[Mod-alphaBits] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1832051156\Newtonsoft.Json.dll"...
+
+[Mod-alphaBits] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1832051156\alphaBits.dll"
+
+[Mod-alphaBits] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1832051156" complete.
+
+[Mod-alphaBits] Loading GameObjects...
+
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-alphaBits] Replacing shaders...
+
+[Mod-alphaBits] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-alphaBits] Loading KMMissions...
+
+[Mod-alphaBits] Loading KMMissionTableOfContents...
+
+[Mod-alphaBits] Loading AudioClips...
+
+[BombGenerator] Instantiated 1832051156 on face RearFace, spawn index 3
+
+[Mod-unorderedKeys] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1763726416" has ID:"unorderedKeys"
+
+[Mod-unorderedKeys] Loading assemblies...
+
+[Mod-unorderedKeys] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1763726416\Newtonsoft.Json.dll"...
+
+[Mod-unorderedKeys] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1763726416\unorderedKeys.dll"
+
+[Mod-unorderedKeys] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1763726416" complete.
+
+[Mod-unorderedKeys] Loading GameObjects...
+
+[Mod-unorderedKeys] Replacing shaders...
+
+[Mod-unorderedKeys] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-unorderedKeys] Replacing shaders...
+
+[Mod-unorderedKeys] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-unorderedKeys] Loading KMMissions...
+
+[Mod-unorderedKeys] Loading KMMissionTableOfContents...
+
+[Mod-unorderedKeys] Loading AudioClips...
+
+[BombGenerator] Instantiated 1763726416 on face RearFace, spawn index 6
+
+[Mod-the_cRule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1944953727" has ID:"the_cRule"
+
+[Mod-the_cRule] Loading assemblies...
+
+[Mod-the_cRule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1944953727\Newtonsoft.Json.dll"...
+
+[Mod-the_cRule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1944953727\the_cRule.dll"
+
+[Mod-the_cRule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1944953727" complete.
+
+[Mod-the_cRule] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-the_cRule] Replacing shaders...
+
+[Mod-the_cRule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-the_cRule] Loading KMMissions...
+
+[Mod-the_cRule] Loading KMMissionTableOfContents...
+
+[Mod-the_cRule] Loading AudioClips...
+
+[BombGenerator] Instantiated 1944953727 on face RearFace, spawn index 1
+
+[Mod-Mastermind Simple] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1102360624" has ID:"Mastermind Simple"
+
+[Mod-Mastermind Simple] Loading assemblies...
+
+[Mod-Mastermind Simple] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1102360624\Newtonsoft.Json.dll"...
+
+[Mod-Mastermind Simple] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1102360624\Mastermind Simple.dll"
+
+[Mod-Mastermind Simple] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1102360624" complete.
+
+[Mod-Mastermind Simple] Loading GameObjects...
+
+[Mod-Mastermind Simple] Replacing shaders...
+
+[Mod-Mastermind Simple] ModUnityVersion: 5.4.3p3 Game: 2017.4.22f1
+
+[Mod-Mastermind Simple] Loading KMMissions...
+
+[Mod-Mastermind Simple] Loading KMMissionTableOfContents...
+
+[Mod-Mastermind Simple] Loading AudioClips...
+
+[BombGenerator] Instantiated 1102360624 on face RearFace, spawn index 8
+
+[Mod-mortalKombat] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1289161023" has ID:"mortalKombat"
+
+[Mod-mortalKombat] Loading assemblies...
+
+[Mod-mortalKombat] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1289161023\Newtonsoft.Json.dll"...
+
+[Mod-mortalKombat] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1289161023\mortalKombat.dll"
+
+[Mod-mortalKombat] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1289161023" complete.
+
+[Mod-mortalKombat] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-mortalKombat] Replacing shaders...
+
+[Mod-mortalKombat] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-mortalKombat] Loading KMMissions...
+
+[Mod-mortalKombat] Loading KMMissionTableOfContents...
+
+[Mod-mortalKombat] Loading AudioClips...
+
+[BombGenerator] Instantiated 1289161023 on face FrontFace, spawn index 6
+
+[BombGenerator] Instantiated 1823713337 on face FrontFace, spawn index 5
+
+[Mod-KanjiModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1890676453" has ID:"KanjiModule"
+
+[Mod-KanjiModule] Loading assemblies...
+
+[Mod-KanjiModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1890676453\Newtonsoft.Json.dll"...
+
+[Mod-KanjiModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1890676453\KanjiModule.dll"
+
+[Mod-KanjiModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1890676453" complete.
+
+[Mod-KanjiModule] Loading GameObjects...
+
+[Mod-KanjiModule] Replacing shaders...
+
+[Mod-KanjiModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-KanjiModule] Loading KMMissions...
+
+[Mod-KanjiModule] Loading KMMissionTableOfContents...
+
+[Mod-KanjiModule] Loading AudioClips...
+
+[BombGenerator] Instantiated 1890676453 on face RearFace, spawn index 9
+
+[Mod-unfairCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632675253" has ID:"unfairCipher"
+
+[Mod-unfairCipher] Loading assemblies...
+
+[Mod-unfairCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632675253\Newtonsoft.Json.dll"...
+
+[Mod-unfairCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632675253\unfairCipher.dll"
+
+[Mod-unfairCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632675253" complete.
+
+[Mod-unfairCipher] Loading GameObjects...
+
+[Mod-unfairCipher] Replacing shaders...
+
+[Mod-unfairCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-unfairCipher] Loading KMMissions...
+
+[Mod-unfairCipher] Loading KMMissionTableOfContents...
+
+[Mod-unfairCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1632675253 on face FrontFace, spawn index 11
+
+[Mod-baccarat] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1997030889" has ID:"baccarat"
+
+[Mod-baccarat] Loading assemblies...
+
+[Mod-baccarat] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1997030889\Newtonsoft.Json.dll"...
+
+[Mod-baccarat] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1997030889\baccarat.dll"
+
+[Mod-baccarat] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1997030889" complete.
+
+[Mod-baccarat] Loading GameObjects...
+
+[Mod-baccarat] Replacing shaders...
+
+[Mod-baccarat] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-baccarat] Loading KMMissions...
+
+[Mod-baccarat] Loading KMMissionTableOfContents...
+
+[Mod-baccarat] Loading AudioClips...
+
+[BombGenerator] Instantiated 1997030889 on face FrontFace, spawn index 4
+
+[Mod-sevenChooseFour] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1916614873" has ID:"sevenChooseFour"
+
+[Mod-sevenChooseFour] Loading assemblies...
+
+[Mod-sevenChooseFour] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1916614873\Newtonsoft.Json.dll"...
+
+[Mod-sevenChooseFour] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1916614873\sevenChooseFour.dll"
+
+[Mod-sevenChooseFour] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1916614873" complete.
+
+[Mod-sevenChooseFour] Loading GameObjects...
+
+[Mod-sevenChooseFour] Replacing shaders...
+
+[Mod-sevenChooseFour] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-sevenChooseFour] Loading KMMissions...
+
+[Mod-sevenChooseFour] Loading KMMissionTableOfContents...
+
+[Mod-sevenChooseFour] Loading AudioClips...
+
+[BombGenerator] Instantiated 1916614873 on face RearFace, spawn index 7
+
+[Mod-harmonySequence] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632495656" has ID:"harmonySequence"
+
+[Mod-harmonySequence] Loading assemblies...
+
+[Mod-harmonySequence] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632495656\Newtonsoft.Json.dll"...
+
+[Mod-harmonySequence] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632495656\harmonySequence.dll"
+
+[Mod-harmonySequence] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632495656" complete.
+
+[Mod-harmonySequence] Loading GameObjects...
+
+[Mod-harmonySequence] Replacing shaders...
+
+[Mod-harmonySequence] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-harmonySequence] Loading KMMissions...
+
+[Mod-harmonySequence] Loading KMMissionTableOfContents...
+
+[Mod-harmonySequence] Loading AudioClips...
+
+[BombGenerator] Instantiated 1632495656 on face RearFace, spawn index 4
+
+[Mod-WirePlacement] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\836617860" has ID:"WirePlacement"
+
+[Mod-WirePlacement] Loading assemblies...
+
+[Mod-WirePlacement] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\836617860\Newtonsoft.Json.dll"...
+
+[Mod-WirePlacement] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\836617860\WirePlacement.dll"
+
+[Mod-WirePlacement] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\836617860" complete.
+
+[Mod-WirePlacement] Loading GameObjects...
+
+[Mod-WirePlacement] Replacing shaders...
+
+[Mod-WirePlacement] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-WirePlacement] Loading KMMissions...
+
+[Mod-WirePlacement] Loading KMMissionTableOfContents...
+
+[Mod-WirePlacement] Loading AudioClips...
+
+[BombGenerator] Instantiated 836617860 on face RearFace, spawn index 10
+
+[BombGenerator] Instantiated 1942340222 on face RearFace, spawn index 5
+
+[Mod-orientation] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\744171602" has ID:"orientation"
+
+[Mod-orientation] Loading assemblies...
+
+[Mod-orientation] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\744171602\Newtonsoft.Json.dll"...
+
+[Mod-orientation] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\744171602\orientation.dll"
+
+[Mod-orientation] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\744171602" complete.
+
+[Mod-orientation] Loading GameObjects...
+
+[Mod-orientation] Replacing shaders...
+
+[Mod-orientation] ModUnityVersion: Not set Game: 2017.4.22f1
+
+[Mod-orientation] Loading KMMissions...
+
+[Mod-orientation] Loading KMMissionTableOfContents...
+
+[Mod-orientation] Loading AudioClips...
+
+[BombGenerator] Instantiated 744171602 on face FrontFace, spawn index 0
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: VW1CS7
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 0
+
+[WidgetGenerator] Added widget: ModWidget at 0, 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: Serial
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit CAR (IndicatorWidget/LABEL3)
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+The Playlist 'GameRoomA' is already loaded. Ignoring Change Playlist request.
+[Radiator #1] Rule Seed: 1
+[Subscribe to Pewdiepie #1] PewDiePie starts with 79018517 subscribers and T-Series starts with 32424241 subscribers.
+[Subscribe to Pewdiepie #1] The number 79018747 multiplied by .95 is 75067809
+[Subscribe to Pewdiepie #1] The number 75067809 multiplied by .95 is 71314418
+[Subscribe to Pewdiepie #1] The number 71314418 multiplied by .95 is 67748697
+[Subscribe to Pewdiepie #1] PewDiePie actually has 67748697 subscribers and T-Series actually has 48636361 subscribers.
+[Subscribe to Pewdiepie #1] You should submit 12336.
+[The Ultracube #1] Using rule seed: 1
+<The Ultracube #1> Rules:
+XY=zag-top-right face
+YX=ping-top-back face
+XZ=top-back-right face
+ZX=zag-front-right face
+XW=pong-top-left face
+WX=ping-zig-back face
+XV=bottom-back-right face
+VX=ping-zig-top face
+YZ=zig-top-back face
+ZY=zag-top-back face
+YW=pong-back-left face
+WY=zag-bottom-right face
+YV=zig-front-right face
+VY=pong-top-right face
+ZW=pong-zag-right face
+WZ=ping-bottom-back face
+ZV=ping-zig-bottom face
+VZ=pong-zag-left face
+WV=ping-zag-back face
+VW=pong-back-right face
+[The Ultracube #1] Rotations are: VW, YV, VZ, VY, VX
+[Arrow Talk #1] The starting rotations with 1 being turned and 0 being correct is 01001010 (in the order given in the manual).
+[Arrow Talk #1] The screen says "West North West".
+[Snooker #1] You have 9 red balls available.
+[Snooker #1] Your four breaks are 6, 15, 23 & 25.
+[Snooker #1] There are multiple ways to achieve your four breaks; suggestions are given below.
+[Snooker #1] 1st break: red, brown, red.
+[Snooker #1] 2nd break: red, black, red, blue, red.
+[Snooker #1] 3rd break: red, black, red, brown, red, yellow, red, brown, yellow.
+[Snooker #1] 4th break: green, brown, blue, pink, black.
+[Alpha-Bits #1] Stage 1: Top display is 1; Answer1 AND Answer2 = 00001
+[Alpha-Bits #1] Stage 1: Middle display is R; Answer1 IMPBY Answer2 = 11011
+[Alpha-Bits #1] Stage 1: Bottom display is T; Answer1 OR Answer2 = 11101
+[Alpha-Bits #1] Stage 2: Top display is V; Answer1 IMP Answer2 = 11111
+[Alpha-Bits #1] Stage 2: Middle display is V; Answer1 OR Answer2 = 11111
+[Alpha-Bits #1] Stage 2: Bottom display is 3; Answer1 IMPBY Answer2 = 00011
+[Alpha-Bits #1] Stage 1 answers are P (11001) and 5 (00101)
+[Alpha-Bits #1] Stage 2 answers are 3 (00011) and V (11111)
+[Unordered Keys #2] After 0 reset(s), the keys had the colours: Yellow, Blue, Cyan, Magenta, Yellow, Magenta
+[Unordered Keys #2] After 0 reset(s), the labels had the colours: Green, Yellow, Cyan, Magenta, Yellow, Yellow
+[Unordered Keys #2] After 0 reset(s), the keys have the values 516224
+[Unordered Keys #2] Valid key(s) after 0 reset(s) and 0 pressed key(s): 3
+[The cRule #1] Red Rule Number is 14 (♧♢); (1,1) --> 1; (1,0) --> 1; (0,1) --> 1; (0,0) --> 0 
+[The cRule #1] Green Rule Number is 9 (♤♧); (1,1) --> 1; (1,0) --> 0; (0,1) --> 0; (0,0) --> 1 
+[The cRule #1] Blue Rule Number is 12 (♧♤); (1,1) --> 1; (1,0) --> 1; (0,1) --> 0; (0,0) --> 0 
+[The cRule #1] Initially filled squares are 1C, 5B, 7K, 10W, 11Y, 16M, 20W, 21Y, 23W, 24Y 
+[The cRule #1] Symbols: Red 1, Green 16, Blue 11
+[The cRule #1] One possible solution is:
+C B R M B R K R 
+ B W Y W W Y Y 
+  M W Y W W Y 
+   M W Y W W 
+[Mastermind Simple #1] The correct code is W B R R W
+[Mortal Kombat #1] The selected player is Sub-Zero.
+[Mortal Kombat #1] The selected opponent is Liu Kang.
+[Mortal Kombat #1] The attack order is Ground Freeze (⇨⇩C), Slide (⇨⇨A), Ice Freeze (⇨⇧B).
+[Mortal Kombat #1] The correct fatality is Sub-Zero Stage (⇧⇨A⇦⇧B).
+[Kanji #1] Current stage: 1.
+[Kanji #1] The display says 'みず'.
+[Kanji #1] The buttons display 九, 火, 円 and 水.
+[Baccarat #1] Table limits are $10 to $1500
+[Baccarat #1] Ratio of max/min = 150
+[Baccarat #1] Relevant characters: W, 1
+[Baccarat #1] Starting card index at zero solves: 49
+[Baccarat #1] Most common vanilla port: Serial
+[Baccarat #1] Creating new deck at 0 solves, color is Green
+[Baccarat #1] Index of first card is 49
+[Baccarat #1] Successor multiplier is 19
+[Seven Choose Four #1] Morse key is Y -.--
+[Seven Choose Four #1] Tap code key is O
+[Seven Choose Four #1] Color seq is CBWMW
+[Seven Choose Four #1] Number key is 1=R
+[Seven Choose Four #1] The correct key order is WORY
+[Seven Choose Four #1] Cyan Puzzle: Key is W
+[Seven Choose Four #1] Cyan Puzzle: Colors are GBWM
+[Seven Choose Four #1] Cyan Puzzle: There are 3P and 2S
+[Seven Choose Four #1] Cyan solution is: 4231
+[Seven Choose Four #1] Blue Puzzle: Key is O
+[Seven Choose Four #1] Blue Puzzle: Starting Table Position is (C,5)
+[Seven Choose Four #1] Blue Puzzle: Intermediate Table Position is (C,5)
+[Seven Choose Four #1] Blue Puzzle: Final Table Position is (C,2)
+[Seven Choose Four #1] Blue solution is: 1342
+[Seven Choose Four #1] White Puzzle: Key is R
+[Seven Choose Four #1] Red Puzzle: Key is R
+[Seven Choose Four #1] Red Puzzle: Gate used is OR
+[Seven Choose Four #1] Red solution is: 4123
+[Seven Choose Four #1] Green Puzzle: Key is R
+[Seven Choose Four #1] Green Puzzle: Sum of the lines is 22
+[Seven Choose Four #1] Green solution is: 2334
+[Seven Choose Four #1] Blue Puzzle: Key is R
+[Seven Choose Four #1] Blue Puzzle: Starting Table Position is (C,3)
+[Seven Choose Four #1] Blue Puzzle: Intermediate Table Position is (C,3)
+[Seven Choose Four #1] Blue Puzzle: Final Table Position is (C,5)
+[Seven Choose Four #1] Blue solution is: 4312
+[Seven Choose Four #1] Magenta Puzzle: Key is R
+[Seven Choose Four #1] Magenta Puzzle: Letters to find are VWBC
+[Seven Choose Four #1] Magenta solution is: 3323
+[Seven Choose Four #1] Cyan Puzzle: Key is R
+[Seven Choose Four #1] Cyan Puzzle: Colors are MCBM
+[Seven Choose Four #1] Cyan Puzzle: There are 1P and 3S
+[Seven Choose Four #1] Cyan solution is: 1324
+[Seven Choose Four #1] Yellow Puzzle: Key is R
+[Seven Choose Four #1] Yellow Puzzle: Shifted Letters: ELWY
+[Seven Choose Four #1] Yellow solution is: 1234
+[Seven Choose Four #1] White solutions are: R: 4123 G: 2334 B: 4312 M: 3323 C: 1324 Y: 1234 
+[Seven Choose Four #1] Magenta Puzzle: Key is Y
+[Seven Choose Four #1] Magenta Puzzle: Letters to find are VWBC
+[Seven Choose Four #1] Magenta solution is: 4232
+[Seven Choose Four #1] Stage 1 solution is 4231
+[Wire Placement #1] Using rule seed: 1
+[Wire Placement #1] C3 wire is Blue.
+[Wire Placement #1] Black wire (#1) horizontal from A1 must not be cut.
+[Wire Placement #1] Red wire (#2) horizontal from C1 must not be cut.
+[Wire Placement #1] Black wire (#3) horizontal from A2 must not be cut.
+[Wire Placement #1] Blue wire (#4) vertical from C2 must be cut.
+[Wire Placement #1] Red wire (#5) vertical from D2 must be cut.
+[Wire Placement #1] Yellow wire (#6) horizontal from A3 must not be cut.
+[Wire Placement #1] White wire (#7) horizontal from A4 must not be cut.
+[Wire Placement #1] Yellow wire (#8) horizontal from C4 must not be cut.
+[Digital Dials #2] Dial 1 Values:
+[Digital Dials #2] 24
+[Digital Dials #2] 42
+[Digital Dials #2] 52
+[Digital Dials #2] 61
+[Digital Dials #2] 67
+[Digital Dials #2] 38
+[Digital Dials #2] 49
+[Digital Dials #2] 38
+[Digital Dials #2] 58
+[Digital Dials #2] 82
+[Digital Dials #2] Dial 2 Values:
+[Digital Dials #2] 84
+[Digital Dials #2] 34
+[Digital Dials #2] 99
+[Digital Dials #2] 57
+[Digital Dials #2] 11
+[Digital Dials #2] 64
+[Digital Dials #2] 53
+[Digital Dials #2] 99
+[Digital Dials #2] 14
+[Digital Dials #2] 56
+[Digital Dials #2] Dial 3 Values:
+[Digital Dials #2] 43
+[Digital Dials #2] 77
+[Digital Dials #2] 20
+[Digital Dials #2] 71
+[Digital Dials #2] 92
+[Digital Dials #2] 14
+[Digital Dials #2] 0
+[Digital Dials #2] 61
+[Digital Dials #2] 0
+[Digital Dials #2] 5
+[Digital Dials #2] Main Screen Value: 831
+[Digital Dials #2] 1A: 1 + 8 = 9
+[Digital Dials #2] 1B: 7 + 3 = 10
+[Digital Dials #2] 1C: 1 + 1 = 2
+[Digital Dials #2] 1D: (9 * 10 * 2) % 1000 = 180
+[Digital Dials #2] Initial Dial Positions: 1 8 0
+[Digital Dials #2] Dial 1: 42 => (5 + 1) % 10 = 6
+[Digital Dials #2] Dial 2: 14 => (0 + 8) % 10 = 8
+[Digital Dials #2] Dial 3: 43 => (9 + 0) % 10 = 9
+[Digital Dials #2] Final Dial Positions: 6 8 9
+[Digital Dials #2] 2A: 49 * 14 * 5 = 3430
+[Digital Dials #2] 2B: 3430 => 10
+[Digital Dials #2] 2B: 10 => 1
+[Digital Dials #2] Submit when the last digit is a 1
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[Rubik’s Cube #2] Face colors: U=Red, L=Green, F=White, R=Yellow, D=Orange
+[Rubik’s Cube #2] Column shifts: U=3, L=4, F=6
+[Rubik’s Cube #2] Ignoring serial number character #5: V=U/B’, W=L/D, 1=L/D, C=B’/L’, 7=U’/F
+[Rubik’s Cube #2] R face is NOT red/green/blue. Moves now: U L L B’ U’ B’ D D L’ F
+[Rubik’s Cube #2] R face is red/yellow: change the first five moves to their opposites.
+[Rubik’s Cube #2] Solution: U’ L’ L’ B U B’ D D L’ F
+[Rubik’s Cube #2] Minimized solution: U’ L’ L’ B U B’ D D L’ F
+[Unfair Cipher #1] :::Unfair Cipher Version: 1.1.5:::
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"23 Fair Mix"}
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[Tweaks] LFABombInfo 8
+{"serial":"VW1CS7","displayNames":{"Timer":"Timer","radiator":"Radiator","subscribeToPewdiepie":"Subscribe to Pewdiepie","TheUltracubeModule":"The Ultracube","ksmHighScore":"The High Score","ArrowTalk":"Arrow Talk","roleReversal":"Role Reversal","sno
+oker":"Snooker","RubiksCubeModule":"Rubik's Cube","complexKeypad":"Complex Keypad","alphaBits":"Alpha-Bits","unorderedKeys":"Unordered Keys","the_cRule":"The cRule","Mastermind Simple":"Mastermind Simple","mortalKombat":"Mortal Kombat","booleanWires"
+:"Boolean Wires","KanjiModule":"Kanji","unfairCipher":"Unfair Cipher","baccarat":"Baccarat","sevenChooseFour":"Seven Choose Four","harmonySequence":"Harmony Sequence","WirePlacementModule":"Wire Placement","digitalDials":"Digital Dials","OrientationC
+ube":"Orientation Cube"},"ids":{"radiator":[1],"subscribeToPewdiepie":[1],"TheUltracubeModule":[1],"ArrowTalk":[1],"roleReversal":[1],"snooker":[1],"RubiksCubeModule":[2],"complexKeypad":[1],"alphaBits":[1],"unorderedKeys":[2],"the_cRule":[1],"Master
+mind Simple":[1],"mortalKombat":[1],"booleanWires":[1],"KanjiModule":[1],"unfairCipher":[1],"baccarat":[1],"sevenChooseFour":[1],"harmonySequence":[1],"WirePlacementModule":[1],"digitalDials":[2]},"anchors":[[-0.330,-0.220],[-0.330,0.000],[-0.330,0.2
+20],[-0.110,-0.220],[-0.110,0.000],[-0.110,0.220],[0.110,-0.220],[0.110,0.000],[0.110,0.220],[0.330,-0.220],[0.330,0.000],[0.330,0.220],[-0.330,-0.220],[-0.330,0.000],[-0.330,0.220],[-0.110,-0.220],[-0.110,0.000],[-0.110,0.220],[0.110,-0.220],[0.110,
+0.000],[0.110,0.220],[0.330,-0.220],[0.330,0.000],[0.330,0.220]],"modules":["OrientationCube -","complexKeypad 1","snooker 1","RubiksCubeModule 2","baccarat 1","booleanWires 1","mortalKombat 1","Timer -","digitalDials 2","ArrowTalk 1","radiator 1","u
+nfairCipher 1","subscribeToPewdiepie 1","the_cRule 1","roleReversal 1","alphaBits 1","harmonySequence 1","TheUltracubeModule 1","unorderedKeys 2","sevenChooseFour 1","Mastermind Simple 1","KanjiModule 1","WirePlacementModule 1","ksmHighScore -"]}
+[TwitchPlays] Switching bomb
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'radiatorInova(Clone)'.
+[Profile Revealer] Attaching to 'SubscribeToPewdiepie(Clone)'.
+[Profile Revealer] Attaching to 'TheUltracubeModule(Clone)'.
+[Profile Revealer] Attaching to 'ksmHighScore(Clone)'.
+[Profile Revealer] Attaching to 'Arrow(Clone)'.
+[Profile Revealer] Attaching to 'roleReversal(Clone)'.
+[Profile Revealer] Attaching to 'snooker(Clone)'.
+[Profile Revealer] Attaching to 'RubiksCubeModule(Clone)'.
+[Profile Revealer] Attaching to 'complexKeypads(Clone)'.
+[Profile Revealer] Attaching to 'AlphaBits(Clone)'.
+[Profile Revealer] Attaching to 'UnorderedKeys(Clone)'.
+[Profile Revealer] Attaching to 'cRule(Clone)'.
+[Profile Revealer] Attaching to 'Mastermind(Clone)'.
+[Profile Revealer] Attaching to 'mortalKombat(Clone)'.
+[Profile Revealer] Attaching to 'booleanWires(Clone)'.
+[Profile Revealer] Attaching to 'KanjiModule(Clone)'.
+[Profile Revealer] Attaching to 'unfairCipher(Clone)'.
+[Profile Revealer] Attaching to 'baccarat(Clone)'.
+[Profile Revealer] Attaching to 'SevenChooseFour(Clone)'.
+[Profile Revealer] Attaching to 'Harmony Sequence(Clone)'.
+[Profile Revealer] Attaching to 'WirePlacementModule(Clone)'.
+[Profile Revealer] Attaching to 'template(Clone)'.
+[Profile Revealer] Attaching to 'OrientationModule(Clone)'.
+custom
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !claimall
+[TwitchPlays] [M] r4y697 (, 166342202): dude @timwiterby not everyone is ready
+[Radiator #1] Serial occurrences: 1.
+[Radiator #1] Added 10 to the temperature answer (serial occurrences).
+[Radiator #1] Temperature is now 10.
+[Radiator #1] Taken 15 from the temperature answer (AA batteries).
+[Radiator #1] Temperature is now -5.
+[Radiator #1] Temperature answer is negative, multiplying by -1 to make it positive.
+[Radiator #1] Temperature answer is now 5.
+[Radiator #1] Initial water value is 1.
+[Radiator #1] Adding 20 to the water value (lit indicators).
+[Radiator #1] Water answer is now 21.
+[Radiator #1] Final answer for temperature is 5.
+[Radiator #1] Final answer for water is 21.
+[The High Score #1] DOG is 1st with a score of 915,450.
+[The High Score #1] ZEF is 2nd with a score of 910,350.
+[The High Score #1] PKA is 3rd with a score of 870,180.
+[The High Score #1] The defuser is 4th with a score of 778,750.
+[The High Score #1] K.S is 5th with a score of 605,740.
+[The High Score #1] --------------------
+[The High Score #1] The starting index is V.
+[The High Score #1] Rule V is true, which results in the following:
+[The High Score #1] Rule V sets character 3 to D. (V, with an offset of 34.)
+[The High Score #1] Rule 8 is true, which results in the following:
+[The High Score #1] Rule 8 tries to set character 3 to B, but that character is already set.
+[The High Score #1] Rule G is true, which results in the following:
+[The High Score #1] Rule G sets character 1 to W.
+[The High Score #1] Rule 4 is true, which results in the following:
+[The High Score #1] Rule 4 tries to set character 3 to W, but that character is already set.
+[The High Score #1] Rule C is true, which results in the following:
+[The High Score #1] Rule C jumped to index C.
+[The High Score #1] Rule U is true, which results in the following:
+[The High Score #1] Rule S tries to set character 3 to S, but that character is already set.
+[The High Score #1] Rule X is true, which results in the following:
+[The High Score #1] Rule X sets character 2 to X.
+[The High Score #1] --------------------
+[The High Score #1] The name to enter is WXD.
+
+[Role Reversal #1] Seed: 201174
+[Role Reversal #1] Amount of Wires: 2
+[Role Reversal #1] Final Wires: Blue Orange 
+
+[Complex Keypad #1] Random symbol row selected: 5
+[Complex Keypad #1] Battery count: 3. Does not contain match either prior rule. Rule 3 in use (press left - right according to chart)
+[Complex Keypad #1] Symbol removed from manual's list: ω
+[Complex Keypad #1] Button press order: 1:6(Γ), 2:8(μ), 3:7(δ), 4:1(ن), 5:3(⊃), 6:2(Ξ), 7:0(α), 8:4(η), 9:5(β)
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !findclaim hexOS, destroyer
+[Unfair Cipher #1] == KEY A ==
+[Unfair Cipher #1] The first letter of the serial has been neglected (V = 22)
+[Unfair Cipher #1] Serial after number conversion: 2313197
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #1: 2313197 / 16 = 144574 (remainder 13)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #2: 144574 / 16 = 9035 (remainder 14)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #3: 9035 / 16 = 564 (remainder 11)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #4: 564 / 16 = 35 (remainder 4)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #5: 35 / 16 = 2 (remainder 3)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #6: 2 / 16 = 0 (remainder 2)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #7: 0 / 16 = 0 (remainder 0)
+[Unfair Cipher #1] CONVERTING TO HEX – Quotient Zero! – END
+[Unfair Cipher #1] Final Hex number: 234BED
+[Unfair Cipher #1] Module ID is 1, which is equal to A:
+ ((1- 1 % 26) + 1 = 1)
+[Unfair Cipher #1] There are 1 port plates, which equal to A:
+ ((1 - 1 % 26) + 1 = 1)
+[Unfair Cipher #1] There are 3 battery holders, which equal to C:
+ ((3 - 1 % 26) + 1 = 3)
+[Unfair Cipher #1] Calculated Key A: WDBEDAAC
+[Unfair Cipher #1] == KEY B  ==
+[Unfair Cipher #1] Month: 5, Day of Week: Thursday (4)
+[Unfair Cipher #1] Key B: DBIH ( D 5, M 4)
+[Unfair Cipher #1] == KEY C ==
+[Unfair Cipher #1] Playfair Enc: WDBEDAAC, DBIH
+[Unfair Cipher #1] Key C: VBEMBDDK
+[Unfair Cipher #1]  == OFFSET CALCULATION (CAESAR CIPHER) == 
+[Unfair Cipher #1] Port Serial is unique. Offset -2 (-2)
+[Unfair Cipher #1] Offset increased by 1 (Port Plates)  (-1)
+[Unfair Cipher #1] V is not a vowel. Offset +1! (0)
+[Unfair Cipher #1] W is not a vowel. Offset +1! (1)
+[Unfair Cipher #1] C is not a vowel. Offset +1! (2)
+[Unfair Cipher #1] S is not a vowel. Offset +1! (3)
+[Unfair Cipher #1] Indicator CAR is on, Offset +2! (5)
+[Unfair Cipher #1] Offset decreased by 3! (Batteries) (2)
+[Unfair Cipher #1] Final Offset for Caesar Ciphering is: 2
+[Unfair Cipher #1] == ORDERS AND ENCRYPTIONS ==
+[Unfair Cipher #1] After Caesar Cipher (Offset 2): KDSTMPSOSZDH
+[Unfair Cipher #1] Orders string last encryption (Key C): IBQRKNQMQXBF
+[Unfair Cipher #1] Orders string first encryption (Key A): AWPQFHSBRWMA
+[Unfair Cipher #1] Original orders string: EATPCGREPBOB
+[Unfair Cipher #1] Current Order: EAT
+[Unfair Cipher #1] No previous action. Press Inner Center.
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !17 cv
+[PaceMaker] Round start! Mission: 23 Fair Mix Pacing Enabled: True
+
+[PaceMaker] Next idle action in 31.23084 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 1
+:jjroccss!jjroccss@jjroccss.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !bomb flip
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 22
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !11 unc
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !2 unc
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !18 cv
+[TwitchPlays] Enabling camera wall
+[TwitchPlays] Camera wall enabled
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !19 show
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !19 view
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !6 cv
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !4 cv
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !14 cv
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): Fantstic
+[TwitchPlays] [M] r4y697 (, 166342202): !16 cv
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 cv
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !17 zoom
+[PaceMaker] PlayerSuccessRating: 0.4851416 (Factors: solved: 0, strikes: 0.3, time: 0.1851416)
+
+[PaceMaker] Next idle action in 20.25345 seconds.
+
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !4 help
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): @TimwiTerby role reversal is interesting
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !reloaddata
+[TwitchPlays] TwitchPlayStrings: Loading Custom strings data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json
+[TwitchPlays] TwitchPlayStrings: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json
+[TwitchPlays] TwitchPlayStrings: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json completed successfully
+[TwitchPlays] UserAccess: Loading User Access information data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\AccessLevels.json
+[TwitchPlays] Unable to match these modules when loading the default information: Answer to..., The Digits, Shape Memory
+[TwitchPlays] ModuleData: Loading Module information data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 press 8
+[PaceMaker] PlayerSuccessRating: 0.4754807 (Factors: solved: 0, strikes: 0.3, time: 0.1754807)
+
+[PaceMaker] Next idle action in 53.77243 seconds.
+
+[Arrow Talk #1] The screen says "1".
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !unclaimed
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 press 5
+[Arrow Talk #1] The screen says "6".
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !unclaimeD
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): stop lagging
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !3 cv
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 view
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !unclaimed
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !12 cv
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 press 3
+[TwitchPlays] [M] jjroccss (, 526314480): !1 help
+[Arrow Talk #1] The screen says "WSW".
+[Arrow Talk #1] The screen says "1".
+[Arrow Talk #1] The screen says "NNW".
+[Arrow Talk #1] The screen says "Right and Up From Center".
+[Arrow Talk #1] The screen says "Left and Down".
+[Arrow Talk #1] The screen says "Down and Left".
+[Arrow Talk #1] The screen says "Left and Down".
+[Arrow Talk #1] The screen says "Right and Up From Center".
+[Arrow Talk #1] The screen says "Right and Up From Center".
+[TwitchPlays] [M] jjroccss (, 526314480): !1 submit 5 21
+[Radiator #1] Temperature: received 5, expected 5.
+[Radiator #1] Temperature correct!
+[Radiator #1] Water: received 21, expected 21.
+[Radiator #1] Water correct!
+[Radiator #1] Module passed.
+[ModBombComponent #320] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"radiator","bombTime":319.134521,"realTime":109.359375,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.4961247 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.1733974)
+
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !14 help
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 Press 3
+[Arrow Talk #1] The screen says "WNW".
+[PaceMaker] PlayerSuccessRating: 0.4940188 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.1712915)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 27.82219 seconds.
+
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 11
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 press 8
+[Arrow Talk #1] The screen says "2".
+:thelegendwilleh!thelegendwilleh@thelegendwilleh.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !4 submit MWD
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 press 1
+[The High Score #1] STRIKE: Submitted 'MWD'. Wrong.
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"ksmHighScore","bombTime":332.110443,"realTime":141.382813}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.4492455 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.1265183)
+
+[PaceMaker] PlayerSuccessRating: 0.4491349 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.1264076)
+
+[PaceMaker] Next idle action in 40.22061 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !3 go
+[Arrow Talk #1] The screen says "South South East".
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !3 help
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !bomb date
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !unclaimall
+[The Ultracube #1] Stage 1 correct face: pong-back-right face
+[The Ultracube #1] Stage 1 correct color: yellow
+[The Ultracube #1] Stage 1 correct vertex: pong-zig-bottom-back-right vertex
+[TwitchPlays] [M] r4y697 (, 166342202): !!16 zoom
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !3 zoom tilt t
+[TwitchPlays] [M] r4y697 (, 166342202): !16 zoom
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !14 ⇨⇩C⇨⇨A⇨⇧B⇧⇨A⇦⇧B
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !3 pong back right bottom zig
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 press 5
+[Mortal Kombat #1] You pressed ⇨⇩C and hit Liu Kang with Ground Freeze.
+[Mortal Kombat #1] You pressed ⇨⇨A and hit Liu Kang with Slide.
+[Mortal Kombat #1] You pressed ⇨⇧B and hit Liu Kang with Ice Freeze. FINISH HIM!
+[Mortal Kombat #1] You pressed ⇧⇨A⇦⇧B and performed the Sub-Zero Stage fatality on Liu Kang. Sub-Zero wins. Module disarmed.
+[ModBombComponent #346] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"mortalKombat","bombTime":233.055222,"realTime":174.015625,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.475719 (Factors: solved: 0.04545455, strikes: 0.3, time: 0.1302644)
+
+[The Ultracube #1] Stage 2 correct face: zig-front-right face
+[The Ultracube #1] Stage 2 correct color: red
+[The Ultracube #1] Stage 2 correct vertex: ping-zig-top-front-right vertex
+[Arrow Talk #1] The screen says "Left and Down From Center".
+[PaceMaker] PlayerSuccessRating: 0.4719888 (Factors: solved: 0.04545455, strikes: 0.3, time: 0.1265342)
+
+[PaceMaker] Next idle action in 22.95411 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !3 zig front right ping top
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 cv
+[The Ultracube #1] Stage 3 correct face: pong-zag-left face
+[The Ultracube #1] Stage 3 correct color: green
+[The Ultracube #1] Stage 3 correct vertex: pong-zag-top-back-left vertex
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] r4y697 (, 166342202): !16 help
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 query
+[Mastermind Simple #1] Query: W W W W W
+[Mastermind Simple #1] Query result: 2 correct, 0 correct, but in wrong positions
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): PLEASE END
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !3 pong zag left baack top
+[PaceMaker] PlayerSuccessRating: 0.4610526 (Factors: solved: 0.04545455, strikes: 0.3, time: 0.115598)
+
+[PaceMaker] Next idle action in 52.28849 seconds.
+
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 press 7
+[Arrow Talk #1] The screen says "North North East".
+[TwitchPlays] [M] r4y697 (, 166342202): !16 press 4
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !3 pong zag left back top
+[Kanji #1] You pressed '水'.
+[Kanji #1] Correct! Advancing Stage...
+[The Ultracube #1] Stage 4 correct face: pong-top-right face
+[The Ultracube #1] Stage 4 correct color: blue
+[The Ultracube #1] Stage 4 correct vertex: pong-zag-top-back-right vertex
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 help
+[Kanji #1] Current stage: 2.
+[Kanji #1] The display says '外'.
+[Kanji #1] The buttons display あかい, そと, いえ and ながい.
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 press 2
+[Arrow Talk #1] The screen says "East South East".
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !3 pong top right back zag
+[The Ultracube #1] Module solved.
+[ModBombComponent #324] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"TheUltracubeModule","bombTime":222.669556,"realTime":224.901367,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5405959 (Factors: solved: 0.06818182, strikes: 0.3, time: 0.1724141)
+
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 m m m m m
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 press 4
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !12 show
+[Arrow Talk #1] The screen says "South South West".
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !12 zoom
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !4 cv
+[TwitchPlays] [M] jjroccss (, 526314480): !11 help
+[PaceMaker] PlayerSuccessRating: 0.5252473 (Factors: solved: 0.06818182, strikes: 0.3, time: 0.1570654)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 14107
+
+[PaceMaker] Next idle action in 49.42981 seconds.
+
+[TwitchPlays] [M] r4y697 (, 166342202): !16 zoom
+[TwitchPlays] [M] jjroccss (, 526314480): !11 press 3160
+[Unordered Keys #2] Valid key(s) after 0 reset(s) and 1 pressed key(s): 1
+[Unordered Keys #2] Valid key(s) after 0 reset(s) and 2 pressed key(s): 6
+[Unordered Keys #2] No valid key(s) after 0 reset(s) and 3 pressed key(s); reset required.
+[Unordered Keys #2] After 1 reset(s), the keys had the colours: Yellow, Red, Cyan, Cyan, Blue, Magenta
+[Unordered Keys #2] After 1 reset(s), the labels had the colours: Green, Magenta, Cyan, Cyan, Magenta, Yellow
+[Unordered Keys #2] After 1 reset(s), the keys have the values /2/53/
+[Unordered Keys #2] Valid key(s) after 1 reset(s) and 3 pressed key(s): 5
+:thelegendwilleh!thelegendwilleh@thelegendwilleh.tmi.twitch.tv JOIN #heres_fangy
+:romz3k57!romz3k57@romz3k57.tmi.twitch.tv PART #heres_fangy
+:ktane1!ktane1@ktane1.tmi.twitch.tv PART #heres_fangy
+:timwiterby!timwiterby@timwiterby.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 query m m m m m
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 press 6
+[Mastermind Simple #1] Query: M M M M M
+[Mastermind Simple #1] Query result: 0 correct, 0 correct, but in wrong positions
+[ModBombComponent #328] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"ArrowTalk","bombTime":306.3559,"realTime":280.615234,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5565548 (Factors: solved: 0.09090909, strikes: 0.3, time: 0.1656457)
+
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] All the arrows point inwards. Module disarmed.
+[Arrow Talk #1] The screen says "Arrow Talk".
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 query y y y y y
+[Mastermind Simple #1] Query: Y Y Y Y Y
+[Mastermind Simple #1] Query result: 0 correct, 0 correct, but in wrong positions
+[PaceMaker] PlayerSuccessRating: 0.5441954 (Factors: solved: 0.09090909, strikes: 0.3, time: 0.1532862)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Cut the lights at 14156.46
+
+[PaceMaker] Next idle action in 52.77815 seconds.
+
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 query g g g g g
+[Mastermind Simple #1] Query: G G G G G
+[Mastermind Simple #1] Query result: 0 correct, 0 correct, but in wrong positions
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 query b b b b b
+[TwitchPlays] [M] cky1975 (, 511899356): !21 cv
+[Mastermind Simple #1] Query: B B B B B
+[Mastermind Simple #1] Query result: 1 correct, 0 correct, but in wrong positions
+[TwitchPlays] [M] r4y697 (, 166342202): !16 press 2
+[Kanji #1] You pressed 'そと'.
+[Kanji #1] Correct! Advancing Stage...
+[Kanji #1] Current stage: 3.
+[Kanji #1] The display says 'せかい'.
+[Kanji #1] The buttons display 戦争, 敬語, 爆発 and 世界.
+[TwitchPlays] [M] cky1975 (, 511899356): !21 cut c2
+[Wire Placement #1] Cutting Blue wire (#4) vertical from C2 was correct.
+[PaceMaker] PlayerSuccessRating: 0.519046 (Factors: solved: 0.09090909, strikes: 0.3, time: 0.1281369)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 20.96964 seconds.
+
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): @TimwiTerby could i take role reversal?
+[TwitchPlays] [M] jjroccss (, 526314480): !11 press 520
+[Unordered Keys #2] Valid key(s) after 1 reset(s) and 4 pressed key(s): 2
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 query w w m m m
+[Unordered Keys #2] No valid key(s) after 1 reset(s) and 5 pressed key(s); reset required.
+[Unordered Keys #2] After 2 reset(s), the keys had the colours: Yellow, Red, Cyan, Yellow, Blue, Magenta
+[Unordered Keys #2] After 2 reset(s), the labels had the colours: Green, Magenta, Cyan, Red, Magenta, Yellow
+[Unordered Keys #2] After 2 reset(s), the keys have the values ///2//
+[Unordered Keys #2] No valid keys after 2 reset(s) and 5 pressed key(s); reset required.
+[Mastermind Simple #1] Query: W W M M M
+[Mastermind Simple #1] Query result: 1 correct, 1 correct, but in wrong positions
+[PaceMaker] PlayerSuccessRating: 0.5090461 (Factors: solved: 0.09090909, strikes: 0.3, time: 0.1181371)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 24.68 seconds.
+
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 query m w w m m
+[Mastermind Simple #1] Query: M W W M M
+[Mastermind Simple #1] Query result: 0 correct, 2 correct, but in wrong positions
+:timwiterby!timwiterby@timwiterby.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] r4y697 (, 166342202): !16 press 4
+[Kanji #1] You pressed '世界'.
+[TwitchPlays] [M] cky1975 (, 511899356): !21 help
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): oh god old edgework
+[PaceMaker] PlayerSuccessRating: 0.4972847 (Factors: solved: 0.09090909, strikes: 0.3, time: 0.1063756)
+
+[PaceMaker] Next idle action in 59.3434 seconds.
+
+[Kanji #1] Correct! Module Solved!
+[ModBombComponent #350] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"KanjiModule","bombTime":221.521729,"realTime":406.948242,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5391229 (Factors: solved: 0.1136364, strikes: 0.3, time: 0.1254865)
+
+[TwitchPlays] [M] jjroccss (, 526314480): !11 press 0
+[ModBombComponent #340] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"unorderedKeys","bombTime":257.555359,"realTime":412.915039,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.6035329 (Factors: solved: 0.1363636, strikes: 0.3, time: 0.1671692)
+
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 query w m m w m
+[Mastermind Simple #1] Query: W M M W M
+[Mastermind Simple #1] Query result: 1 correct, 1 correct, but in wrong positions
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 query w b m w m
+[TwitchPlays] [M] cky1975 (, 511899356): !21 cut C2 D3
+[Mastermind Simple #1] Query: W B M W M
+[Mastermind Simple #1] Query result: 2 correct, 1 correct, but in wrong positions
+[Wire Placement #1] Cutting Red wire (#5) vertical from D2 was correct.
+[ModBombComponent #360] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"WirePlacementModule","bombTime":325.952,"realTime":438.017578,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6306871 (Factors: solved: 0.1590909, strikes: 0.3, time: 0.1715962)
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] r4y697 (, 166342202): !15 cv
+[TwitchPlays] [M] jjroccss (, 526314480): !22 set 1 8 0
+[TwitchPlays] [M] hhvanillaice (#8A2BE2, 248159980): !rank
+[PaceMaker] PlayerSuccessRating: 0.6180999 (Factors: solved: 0.1590909, strikes: 0.3, time: 0.159009)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 20.15536 seconds.
+
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 query q b r m w
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !12 C 1 M 2 4 9 16 22 R 3 6 8 B 5 K 7 W 10 12 13 17 19 20 23 25 26 Y 11 14 15 18 21 24
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !17 press inner
+[Unfair Cipher #1] User pressed Center (KMSelectable)
+[Unfair Cipher #1] Checked answer for input Center and EAT ( No previous action. Press Inner Center. )
+[Unfair Cipher #1] Correct. Next Stage.
+[Unfair Cipher #1] Current Order: PCG
+[Unfair Cipher #1] Answer for "PCG" : Press Green
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !12 submit
+[The cRule #1] Submitted the following states:
+C M R M B R K R 
+ M W Y W W Y Y 
+  M W Y W W Y 
+   M W Y W W 
+[ModBombComponent #342] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"the_cRule","bombTime":317.08725,"realTime":481.28125,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6818182 (Factors: solved: 0.1818182, strikes: 0.3, time: 0.2)
+
+[The cRule #1] Module solved!
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !17 press g
+[Unfair Cipher #1] User pressed G (KMSelectable)
+[Unfair Cipher #1] Checked answer for input G and PCG ( Answer for "PCG" : Press Green )
+[Unfair Cipher #1] Correct. Next Stage.
+[Unfair Cipher #1] Current Order: REP
+[Unfair Cipher #1] Answer for "REP" : Repeat previous order ( Answer for "PCG" : Press Green )
+[PaceMaker] PlayerSuccessRating: 0.6818182 (Factors: solved: 0.1818182, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 52.87913 seconds.
+
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 query w b r m w
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !17 press G
+[Mastermind Simple #1] Query: W B R M W
+[Mastermind Simple #1] Query result: 4 correct, 0 correct, but in wrong positions
+[TwitchPlays] [M] jjroccss (, 526314480): !22 set 6 8 9
+[Unfair Cipher #1] User pressed G (KMSelectable)
+[Unfair Cipher #1] Checked answer for input G and REP ( Answer for "REP" : Repeat previous order ( Answer for "PCG" : Press Green ) )
+[Unfair Cipher #1] Correct. Next Stage.
+[Unfair Cipher #1] Current Order: BOB
+[Unfair Cipher #1] Answer for "BOB" : Press Inner Center.
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !17 press inner
+[Unfair Cipher #1] User pressed Center (KMSelectable)
+[Unfair Cipher #1] Checked answer for input Center and BOB ( Answer for "BOB" : Press Inner Center. )
+[ModBombComponent #352] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"unfairCipher","bombTime":436.2909,"realTime":501.27832,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7045455 (Factors: solved: 0.2045455, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 query w b r r w
+[Mastermind Simple #1] Query: W B R R W
+[Mastermind Simple #1] Query result: 5 correct, 0 correct, but in wrong positions
+[TwitchPlays] [M] jjroccss (, 526314480): !22 submit 1
+[Digital Dials #2] Module solved. Everybody boogie!
+[ModBombComponent #362] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"digitalDials","bombTime":541.992249,"realTime":536.376953,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.7272727 (Factors: solved: 0.2272727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] PlayerSuccessRating: 0.7272727 (Factors: solved: 0.2272727, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 42.56659 seconds.
+
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 10
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !13 submit
+[TwitchPlays] [M] r4y697 (, 166342202): !15 help
+[ModBombComponent #344] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"Mastermind Simple","bombTime":589.4618,"realTime":551.207031,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.75 (Factors: solved: 0.25, strikes: 0.3, time: 0.2)
+
+[Mastermind Simple #1] Submit: W B R R W - Code correct. Module solved
+[TwitchPlays] [M] r4y697 (, 166342202): !15 submit xnor
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !19 help
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !9 cv
+[PaceMaker] PlayerSuccessRating: 0.75 (Factors: solved: 0.25, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.85236 seconds.
+
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): Hello Timwi.
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !20 v c
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !19 press 1 3 3 1
+[Seven Choose Four #1] Button pressed is 1
+[Seven Choose Four #1] Button pressed is 3
+[Seven Choose Four #1] Button pressed is 3
+[Seven Choose Four #1] Button pressed is 1
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"sevenChooseFour","bombTime":589.0954,"realTime":587.573242,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.75 (Factors: solved: 0.25, strikes: 0.3, time: 0.2)
+
+[Seven Choose Four #1] Incorrect, you entered 1331,stage reset.
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !20 cv
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !19 unc
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !18 unc
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !23 show
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !23 view
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): 7C4 is a bit of a pain to deal.
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 vc
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !23 press ccw
+[Orientation Cube TP#23] Inputted commands: Counterclockwise rotation
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !23 set
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !23 press set
+[Orientation Cube TP#23] Inputted commands: Counterclockwise rotation, submit
+rule2
+[ModBombComponent #364] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"OrientationCube","bombTime":434.478821,"realTime":624.3701}
+[PaceMaker] PlayerSuccessRating: 0.7727273 (Factors: solved: 0.2727273, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !claims
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !6 unc
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !8 show
+[PaceMaker] PlayerSuccessRating: 0.7727273 (Factors: solved: 0.2727273, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 32.86965 seconds.
+
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !8 rotate
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): role reversal is interesting actually
+[TwitchPlays] [M] r4y697 (, 166342202): !15 help
+:chucklesthebeard!chucklesthebeard@chucklesthebeard.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.7727273 (Factors: solved: 0.2727273, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 45.77769 seconds.
+
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !6 manual 2.1
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !6 manual 2.2
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !9 press 798243156
+[Complex Keypad #1] Correct button pressed. Input recieved: button at index 6.
+[Complex Keypad #1] Correct button pressed. Input recieved: button at index 8.
+[Complex Keypad #1] Correct button pressed. Input recieved: button at index 7.
+[Complex Keypad #1] Correct button pressed. Input recieved: button at index 1.
+[Complex Keypad #1] Correct button pressed. Input recieved: button at index 3.
+[Complex Keypad #1] Correct button pressed. Input recieved: button at index 2.
+[Complex Keypad #1] Correct button pressed. Input recieved: button at index 0.
+[Complex Keypad #1] Correct button pressed. Input recieved: button at index 4.
+[Complex Keypad #1] Correct button pressed. Input recieved: button at index 5.
+[ModBombComponent #336] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"complexKeypad","bombTime":403.923126,"realTime":711.993164,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7954546 (Factors: solved: 0.2954545, strikes: 0.3, time: 0.2)
+
+[Complex Keypad #1] Module solved!
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !4 help
+[PaceMaker] PlayerSuccessRating: 0.7954546 (Factors: solved: 0.2954545, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 26.89579 seconds.
+
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): Hey Willeh.
+[TwitchPlays] [M] jjroccss (, 526314480): !10 help
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !20 unc
+:scopinglandscape!scopinglandscape@scopinglandscape.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] jjroccss (, 526314480): !10 submit p 5
+[Alpha-Bits #1] Stage 1: Entered P, this is correct
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !8 u' l2 b u b' d d l' f
+[Alpha-Bits #1] Stage 1: Entered 5, this is correct
+[Alpha-Bits #1] Stage 1 passed
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 show
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 play
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !6 manual 2.3
+[ModBombComponent #334] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"RubiksCubeModule","bombTime":410.124146,"realTime":738.5908,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.8181818 (Factors: solved: 0.3181818, strikes: 0.3, time: 0.2)
+
+[Rubik’s Cube #2] Module solved.
+[TwitchPlays] [M] r4y697 (, 166342202): !15 submit XOR
+[PaceMaker] PlayerSuccessRating: 0.8181818 (Factors: solved: 0.3181818, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 44.3009 seconds.
+
+[Boolean Wires #1] Entered operator: XOR
+[Boolean Wires #1] Correct!
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 listen
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 help
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): My music memroy is a bit... rusty, and I don't wanna risk it.
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 start
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 instrument piano
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 start
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !6 manual 2.3
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !6 manual 2.4
+[PaceMaker] PlayerSuccessRating: 0.8181818 (Factors: solved: 0.3181818, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 51.58475 seconds.
+
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 stop
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 help
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !6 manual 2.5
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 sound 3 1 2 4
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 sound 3124
+[Harmony Sequence #1] Stage #1 - Expected button #3 - you pressed button #3
+[Harmony Sequence #1] Stage #1 - Expected button #1 - you pressed button #1
+[Harmony Sequence #1] Stage #1 - Expected button #2 - you pressed button #2
+[Harmony Sequence #1] Stage #1 - Expected button #4 - you pressed button #4
+[TwitchPlays] [M] r4y697 (, 166342202): !15 submit XNOR
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 start
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !6 manual 2.6
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !4 submit WXD
+[The High Score #1] SOLVE: Submitted 'WXD'. Correct.
+[ModBombComponent #326] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"ksmHighScore","bombTime":403.453552,"realTime":819.959961}
+[PaceMaker] PlayerSuccessRating: 0.8409091 (Factors: solved: 0.3409091, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 sound 4321
+[Harmony Sequence #1] Stage #2 - Expected button #4 - you pressed button #4
+[Harmony Sequence #1] Stage #2 - Expected button #3 - you pressed button #3
+[Harmony Sequence #1] Stage #2 - Expected button #2 - you pressed button #2
+[Harmony Sequence #1] Stage #2 - Expected button #1 - you pressed button #1
+[TwitchPlays] [M] jjroccss (, 526314480): !10 submit 3 v
+[Alpha-Bits #1] Stage 2: Entered 3, this is correct
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 start
+[Alpha-Bits #1] Stage 2: Entered V, this is correct
+[Alpha-Bits #1] Stage 2 passed
+[Alpha-Bits #1] Module solved
+[ModBombComponent #338] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"alphaBits","bombTime":442.7353,"realTime":831.077148,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.8636364 (Factors: solved: 0.3636364, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] Disabling camera wall
+[TwitchPlays] Camera wall disabled
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+[PaceMaker] PlayerSuccessRating: 0.8636364 (Factors: solved: 0.3636364, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 26.59806 seconds.
+
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !6 zoom 4
+[TwitchPlays] [M] r4y697 (, 166342202): !15 submit NAND
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 sound 1324
+[Boolean Wires #1] Entered operator: NAND
+[Boolean Wires #1] Correct!
+[Harmony Sequence #1] Stage #3 - Expected button #1 - you pressed button #1
+[Harmony Sequence #1] Stage #3 - Expected button #3 - you pressed button #3
+[Harmony Sequence #1] Stage #3 - Expected button #2 - you pressed button #2
+[Harmony Sequence #1] Stage #3 - Expected button #4 - you pressed button #4
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 start
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !6 cut 1
+[Role Reversal #1] Condition 6 (If both are complementary): True, cut wire 1.
+[Role Reversal #1] Time when cut: 482.6298 seconds.
+[Role Reversal #1] Role Reversal module count: 1 on the current bomb.
+[Role Reversal #1] Wire 1 was cut, correct wire was cut! Module solved!
+[ModBombComponent #330] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"roleReversal","bombTime":482.629761,"realTime":859.2822,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.8863636 (Factors: solved: 0.3863636, strikes: 0.3, time: 0.2)
+
+
+[PaceMaker] PlayerSuccessRating: 0.8863636 (Factors: solved: 0.3863636, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 35.20361 seconds.
+
+:duperheld!duperheld@duperheld.tmi.twitch.tv JOIN #heres_fangy
+:cyber12!cyber12@cyber12.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): that was painful due to lag
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !20 sound 3241
+[Harmony Sequence #1] Stage #4 - Expected button #3 - you pressed button #3
+[Harmony Sequence #1] Stage #4 - Expected button #2 - you pressed button #2
+[Harmony Sequence #1] Stage #4 - Expected button #4 - you pressed button #4
+[Harmony Sequence #1] Stage #4 - Expected button #1 - you pressed button #1
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): ok im going now
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): cya
+[ModBombComponent #358] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"harmonySequence","bombTime":526.0314,"realTime":884.6797,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.9090909 (Factors: solved: 0.4090909, strikes: 0.3, time: 0.2)
+
+[Harmony Sequence #1] You passed the module - Strikes caused by this module: 0
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !claims
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !unclaimall
+[PaceMaker] PlayerSuccessRating: 0.9090909 (Factors: solved: 0.4090909, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 47.01205 seconds.
+
+[TwitchPlays] [M] duperheld (, 169227479): !unclaimed
+[TwitchPlays] [M] duperheld (, 169227479): S2PDP, Bacc, 7S4
+[TwitchPlays] [M] r4y697 (, 166342202): !15 submit OR
+[Boolean Wires #1] Entered operator: OR
+[Boolean Wires #1] Correct!
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 2
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 RYRYW
+[Snooker #1] You potted a red ball. Current break: 1.
+[Snooker #1] You potted a yellow ball. Current break: 3.
+[PaceMaker] PlayerSuccessRating: 0.9090909 (Factors: solved: 0.4090909, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 59.12539 seconds.
+
+[Snooker #1] You potted a red ball. Current break: 4.
+[Snooker #1] You potted a yellow ball. Current break: 6.
+[Snooker #1] YOUR BREAK WAS 6. That is correct.
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 RYRYRYRBW
+[Snooker #1] You potted a red ball. Current break: 1.
+[Snooker #1] You potted a yellow ball. Current break: 3.
+[Snooker #1] You potted a red ball. Current break: 4.
+[Snooker #1] You potted a yellow ball. Current break: 6.
+[Snooker #1] You potted a red ball. Current break: 7.
+[Snooker #1] You potted a yellow ball. Current break: 9.
+[Snooker #1] You potted a red ball. Current break: 10.
+[Snooker #1] You potted a blue ball. Current break: 15.
+[TwitchPlays] [M] jjroccss (, 526314480): !find pie
+[Snooker #1] YOUR BREAK WAS 15. That is correct.
+[TwitchPlays] [M] jjroccss (, 526314480): !find t
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 RNRKRKYW
+[Snooker #1] You potted a red ball. Current break: 1.
+[Snooker #1] You potted a brown ball. Current break: 5.
+[Snooker #1] You potted a red ball. Current break: 6.
+[Snooker #1] You potted a black ball. Current break: 13.
+---PING--- ---PONG--- :tmi.twitch.tv
+[Snooker #1] You potted a red ball. Current break: 14.
+[Snooker #1] You potted a black ball. Current break: 21.
+[Snooker #1] You potted a yellow ball. Current break: 23.
+[Snooker #1] YOUR BREAK WAS 23. That is correct.
+[TwitchPlays] [M] jjroccss (, 526314480): !find t words
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !7 GNBPKW
+[Snooker #1] You potted a green ball. Current break: 3.
+[Snooker #1] You potted a brown ball. Current break: 7.
+[Snooker #1] You potted a blue ball. Current break: 12.
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !18 zoomtiltd
+[Snooker #1] You potted a pink ball. Current break: 18.
+[Snooker #1] You potted a black ball. Current break: 25.
+[Snooker #1] YOUR BREAK WAS 25. That is correct. Module disarmed.
+[ModBombComponent #332] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"snooker","bombTime":479.895325,"realTime":1000.416,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.9318182 (Factors: solved: 0.4318182, strikes: 0.3, time: 0.2)
+
+[PaceMaker] PlayerSuccessRating: 0.9318182 (Factors: solved: 0.4318182, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 31.66621 seconds.
+
+[TwitchPlays] [M] r4y697 (, 166342202): !15 submit NOR
+[Boolean Wires #1] Entered operator: NOR
+[Boolean Wires #1] Correct!
+[PaceMaker] PlayerSuccessRating: 0.9318182 (Factors: solved: 0.4318182, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 39.77033 seconds.
+
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !19 cv
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !19 help
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !18 zoom 5 tilt d
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !19 press 1 3 2 4
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !notes1 Limit: 10 - 1500
+[Seven Choose Four #1] Button pressed is 1
+[Seven Choose Four #1] Button pressed is 3
+[Seven Choose Four #1] Button pressed is 2
+[Seven Choose Four #1] Button pressed is 4
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"sevenChooseFour","bombTime":487.532776,"realTime":1072.55469,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.917545 (Factors: solved: 0.4318182, strikes: 0.3, time: 0.1857268)
+
+[Seven Choose Four #1] Incorrect, you entered 1324,stage reset.
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !19 unc
+[PaceMaker] PlayerSuccessRating: 0.9153856 (Factors: solved: 0.4318182, strikes: 0.3, time: 0.1835674)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 25.56658 seconds.
+
+[TwitchPlays] [M] r4y697 (, 166342202): !15 submit XOR
+[Boolean Wires #1] Entered operator: XOR
+[Boolean Wires #1] Correct!
+[Boolean Wires #1] Module solved!
+[ModBombComponent #348] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"booleanWires","bombTime":382.458252,"realTime":1080.123,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.9545455 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.2)
+
+[TwitchPlays] [M] r4y697 (, 166342202): yeet
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): Nice, Ray.
+[PaceMaker] PlayerSuccessRating: 0.9522702 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.1977247)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 31.42955 seconds.
+
+:thelegendofkirbychu!thelegendofkirbychu@thelegendofkirbychu.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !19 cv
+[PaceMaker] PlayerSuccessRating: 0.9373173 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.1827718)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 24.66834 seconds.
+
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): !18 zoom
+[PaceMaker] PlayerSuccessRating: 0.9255527 (Factors: solved: 0.4545455, strikes: 0.3, time: 0.1710073)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 46.45975 seconds.
+
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): That deck is Green, right?
+[TwitchPlays] [M] jjroccss (, 526314480): !2 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !18 zoom colorblind
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): yes
+[TwitchPlays] [M] jjroccss (, 526314480): !2 submit 12336
+[Subscribe to Pewdiepie #1] You submitted 12336.
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): Oh we have colorblind.
+[ModBombComponent #322] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"subscribeToPewdiepie","bombTime":327.516418,"realTime":1190.36133,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.9560901 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.1788174)
+
+[Subscribe to Pewdiepie #1] That was right!
+[TwitchPlays] [M] ScopingLandscape (#1E90FF, 422295450): Didn't know that.
+[PaceMaker] PlayerSuccessRating: 0.9490122 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.1717395)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 52.80584 seconds.
+
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !18 zoom tilt d
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !19 press 4 2 3 1
+[Seven Choose Four #1] Button pressed is 4
+[Seven Choose Four #1] Button pressed is 2
+[Seven Choose Four #1] Button pressed is 3
+[Seven Choose Four #1] Button pressed is 1
+[Seven Choose Four #1] Stage Passed
+[Seven Choose Four #1] Next stage solution is 1342
+---PING--- ---PONG--- :tmi.twitch.tv
+:cyber12!cyber12@cyber12.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !19 press 2 4 1 3
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): @TheLegendWilleh What were the four colors for the first stage?
+[Seven Choose Four #1] Button pressed is 1
+[Seven Choose Four #1] Button pressed is 3
+[Seven Choose Four #1] Button pressed is 4
+[Seven Choose Four #1] Button pressed is 2
+[Seven Choose Four #1] Stage Passed
+[Seven Choose Four #1] Next stage solution is 4123 2334 4312 3323 1324 1234 
+[PaceMaker] PlayerSuccessRating: 0.9238504 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.1465777)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 40.77552 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): G B W M
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !19 press 3 4 1 2
+[Seven Choose Four #1] Button pressed is 1
+[Seven Choose Four #1] Button pressed is 2
+[Seven Choose Four #1] Button pressed is 3
+[Seven Choose Four #1] Button pressed is 4
+[Seven Choose Four #1] Stage Passed
+[Seven Choose Four #1] Next stage solution is 4232
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): Ah yeah, thanks
+[PaceMaker] PlayerSuccessRating: 0.9044128 (Factors: solved: 0.4772727, strikes: 0.3, time: 0.1271401)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 54.3266 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !19 press 3 1 2 1
+[Seven Choose Four #1] Button pressed is 4
+[Seven Choose Four #1] Button pressed is 2
+[Seven Choose Four #1] Button pressed is 3
+[Seven Choose Four #1] Button pressed is 2
+[ModBombComponent #356] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"sevenChooseFour","bombTime":246.086578,"realTime":1320.54785,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.9711841 (Factors: solved: 0.5, strikes: 0.3, time: 0.1711841)
+
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !18 cv
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !18 bet 69 on player
+[Baccarat #1] Betting $69 on Player
+[Baccarat #1] Player receives 4♠
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !18 zoom 20
+[Baccarat #1] Banker receives 10♦
+[Baccarat #1] Player receives K♠
+[Baccarat #1] Banker receives 5♣
+[Baccarat #1] Player score is 4
+[Baccarat #1] Banker score is 5
+[Baccarat #1] Player draws third card, receives J♣
+[Baccarat #1] Player score is now 4
+[Baccarat #1] Banker stands with two cards
+[Baccarat #1] Banker wins!
+[Baccarat #1] Player bet loses $69
+[Baccarat #1] Total profit: -$69
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"baccarat","bombTime":335.547546,"realTime":1344.48633,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.9278277 (Factors: solved: 0.5, strikes: 0.3, time: 0.1278276)
+
+[Baccarat #1] Strike! You lost money that hand.
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): meh
+[PaceMaker] PlayerSuccessRating: 0.9232879 (Factors: solved: 0.5, strikes: 0.3, time: 0.1232878)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.19594 seconds.
+
+:r4y697!r4y697@r4y697.tmi.twitch.tv PART #heres_fangy
+:scopinglandscape!scopinglandscape@scopinglandscape.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] duperheld (, 169227479): 420 on banker?
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): do I see a baccarat YOLO
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !18 zoom
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): nah
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !18 help
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !18 bet 69 on player
+[Baccarat #1] Betting $69 on Player
+[Baccarat #1] Player receives 8♦
+[Baccarat #1] Banker receives Q♣
+[Baccarat #1] Player receives 2♠
+[Baccarat #1] Banker receives 2♣
+[Baccarat #1] Player score is 0
+[Baccarat #1] Banker score is 2
+[Baccarat #1] Player draws third card, receives 7♣
+[Baccarat #1] Player score is now 7
+[Baccarat #1] Banker draws third card, receives 9♥
+[Baccarat #1] Banker score is now 1
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): you just..
+[Baccarat #1] Player wins!
+[Baccarat #1] Player bet wins $69
+[Baccarat #1] Total profit: $69
+[ModBombComponent #354] Pass
+
+[Bomb] A winner is you!!
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_SOLVE","serial":"VW1CS7","bombTime":219.037354,"realTime":1393.88574,"solves":23,"strikes":0}
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

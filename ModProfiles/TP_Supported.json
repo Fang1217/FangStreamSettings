@@ -1,18 +1,19 @@
 {
   "DisabledList": [
+    "multitask",
     "abstractSequences",
     "AtbashCipherModule",
     "boolMathNeedy",
     "buttonOrder",
-    "CruelGarfieldKart",
     "directionalButton",
-    "faulty7SegmentDisplays",
     "gatekeeper",
     "IntegerTrees",
     "JustNumbersModule",
     "xtrkeywords",
     "kataMinecraftSurvival",
+    "multitask",
     "shuffledStrings",
+    "simonStashes",
     "TrainingText",
     "needyWingdings"
   ],

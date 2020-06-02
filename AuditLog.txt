@@ -101,3 +101,7 @@
 [5/28/2020 7:06:48 PM] Heres_Fangy (Streamer): !reloaddata
 [5/28/2020 7:08:50 PM] Heres_Fangy (Streamer): !reloaddata
 [5/28/2020 7:18:34 PM] Heres_Fangy (Streamer): !reloaddata
+[5/28/2020 8:22:01 PM] Heres_Fangy (Streamer): !reloaddata
+[5/28/2020 8:23:34 PM] Heres_Fangy (Streamer): !mimiccommand someplayer !trainingmode
+[5/28/2020 9:42:44 PM] Heres_Fangy (Streamer): !reloaddata
+[5/28/2020 9:58:35 PM] Heres_Fangy (Streamer): !reloaddata

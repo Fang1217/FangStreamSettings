@@ -1,0 +1,1071 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 1377165258
+
+[BombGenerator] Generator settings: Time: 420, NumStrikes: 9, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 23
+
+
+[BombGenerator] Selected pwDestroyer (2104677606 (ModBombComponent))
+
+[BombGenerator] Selected faultyDigitalRootModule (1808068642 (ModBombComponent))
+
+[BombGenerator] Selected greenArrowsModule (1757173794 (ModBombComponent))
+
+[BombGenerator] Selected encryptionBingo (1867451354 (ModBombComponent))
+
+[BombGenerator] Selected KritBlackjack (1541425240 (ModBombComponent))
+
+[BombGenerator] Selected Alphabetize (2000097755 (ModBombComponent))
+
+[BombGenerator] Selected raidingTemples (1789735796 (ModBombComponent))
+
+[BombGenerator] Selected matchematics (1839930546 (ModBombComponent))
+
+[BombGenerator] Selected MahjongModule (1569451615 (ModBombComponent))
+
+[BombGenerator] Selected AppreciateArt (2022692764 (ModBombComponent))
+
+[BombGenerator] Selected bases (1532012244 (ModBombComponent))
+
+[BombGenerator] Selected theCodeModule (1979252637 (ModBombComponent))
+
+[BombGenerator] Selected EncryptedDice (1945183738 (ModBombComponent))
+
+[BombGenerator] Selected FlavorText (1796241099 (ModBombComponent))
+
+[BombGenerator] Selected Listening (743638627 (ModBombComponent))
+
+[BombGenerator] Selected sphere (1525239111 (ModBombComponent))
+
+[BombGenerator] Selected NotWireSequence (2003251353 (ModBombComponent))
+
+[BombGenerator] Selected Playfair (1357737271 (ModBombComponent))
+
+[BombGenerator] Selected booleanWires (1823713337 (ModBombComponent))
+
+[BombGenerator] Selected KMazeyTalk (2075509471 (ModBombComponent))
+
+[BombGenerator] Selected ksmTetraVex (1859342503 (ModBombComponent))
+
+[BombGenerator] Selected VaricoloredSquaresModule (805590147 (ModBombComponent))
+
+[BombGenerator] Selected reorderedKeys (1766773083 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [2104677606 (ModBombComponent), 1808068642 (ModBombComponent), 1757173794 (ModBombComponent), 1867451354 (ModBombComponent), 1541425240 (ModBombComponent), 2000097755 (ModBombComponent), 1789735796 (ModBombComponent), 1839930546 (ModBombComponent), 1569451615 (ModBombComponent), 2022692764 (ModBombComponent), 1532012244 (ModBombComponent), 1979252637 (ModBombComponent), 1945183738 (ModBombComponent), 1796241099 (ModBombComponent), 743638627 (ModBombComponent), 1525239111 (ModBombComponent), 2003251353 (ModBombComponent), 1357737271 (ModBombComponent), 1823713337 (ModBombComponent), 2075509471 (ModBombComponent), 1859342503 (ModBombComponent), 805590147 (ModBombComponent), 1766773083 (ModBombComponent)]
+
+[Mod-pwDestroyer] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2104677606" has ID:"pwDestroyer"
+
+[Mod-pwDestroyer] Loading assemblies...
+
+[Mod-pwDestroyer] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2104677606\Newtonsoft.Json.dll"...
+
+[Mod-pwDestroyer] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2104677606\pwDestroyer.dll"
+
+[Mod-pwDestroyer] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2104677606" complete.
+
+[Mod-pwDestroyer] Loading GameObjects...
+
+[Mod-pwDestroyer] Replacing shaders...
+
+[Mod-pwDestroyer] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-pwDestroyer] Loading KMMissions...
+
+[Mod-pwDestroyer] Loading KMMissionTableOfContents...
+
+[Mod-pwDestroyer] Loading AudioClips...
+
+[BombGenerator] Instantiated 2104677606 on face RearFace, spawn index 5
+
+[Mod-faultyDigitalRootModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1808068642" has ID:"faultyDigitalRootModule"
+
+[Mod-faultyDigitalRootModule] Loading assemblies...
+
+[Mod-faultyDigitalRootModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1808068642\Newtonsoft.Json.dll"...
+
+[Mod-faultyDigitalRootModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1808068642\faultyDigitalRootModule.dll"
+
+[Mod-faultyDigitalRootModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1808068642" complete.
+
+[Mod-faultyDigitalRootModule] Loading GameObjects...
+
+[Mod-faultyDigitalRootModule] Replacing shaders...
+
+[Mod-faultyDigitalRootModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-faultyDigitalRootModule] Loading KMMissions...
+
+[Mod-faultyDigitalRootModule] Loading KMMissionTableOfContents...
+
+[Mod-faultyDigitalRootModule] Loading AudioClips...
+
+[BombGenerator] Instantiated 1808068642 on face FrontFace, spawn index 10
+
+[Mod-greenArrowsModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1757173794" has ID:"greenArrowsModule"
+
+[Mod-greenArrowsModule] Loading assemblies...
+
+[Mod-greenArrowsModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1757173794\Newtonsoft.Json.dll"...
+
+[Mod-greenArrowsModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1757173794\greenArrowsModule.dll"
+
+[Mod-greenArrowsModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1757173794" complete.
+
+[Mod-greenArrowsModule] Loading GameObjects...
+
+[Mod-greenArrowsModule] Replacing shaders...
+
+[Mod-greenArrowsModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-greenArrowsModule] Loading KMMissions...
+
+[Mod-greenArrowsModule] Loading KMMissionTableOfContents...
+
+[Mod-greenArrowsModule] Loading AudioClips...
+
+[BombGenerator] Instantiated 1757173794 on face RearFace, spawn index 1
+
+[Mod-encryptionBingo] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1867451354" has ID:"encryptionBingo"
+
+[Mod-encryptionBingo] Loading assemblies...
+
+[Mod-encryptionBingo] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1867451354\Newtonsoft.Json.dll"...
+
+[Mod-encryptionBingo] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1867451354\encryptionBingo.dll"
+
+[Mod-encryptionBingo] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1867451354" complete.
+
+[Mod-encryptionBingo] Loading GameObjects...
+
+[Mod-encryptionBingo] Replacing shaders...
+
+[Mod-encryptionBingo] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-encryptionBingo] Loading KMMissions...
+
+[Mod-encryptionBingo] Loading KMMissionTableOfContents...
+
+[Mod-encryptionBingo] Loading AudioClips...
+
+[BombGenerator] Instantiated 1867451354 on face FrontFace, spawn index 6
+
+[Mod-KritBlackjack] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1541425240" has ID:"KritBlackjack"
+
+[Mod-KritBlackjack] Loading assemblies...
+
+[Mod-KritBlackjack] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1541425240\Newtonsoft.Json.dll"...
+
+[Mod-KritBlackjack] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1541425240\KritBlackjack.dll"
+
+[Mod-KritBlackjack] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1541425240" complete.
+
+[Mod-KritBlackjack] Loading GameObjects...
+
+[Mod-KritBlackjack] Replacing shaders...
+
+[Mod-KritBlackjack] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-KritBlackjack] Loading KMMissions...
+
+[Mod-KritBlackjack] Loading KMMissionTableOfContents...
+
+[Mod-KritBlackjack] Loading AudioClips...
+
+[BombGenerator] Instantiated 1541425240 on face FrontFace, spawn index 5
+
+[BombGenerator] Instantiated 2000097755 on face FrontFace, spawn index 1
+
+[Mod-raidingTemples] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1789735796" has ID:"raidingTemples"
+
+[Mod-raidingTemples] Loading assemblies...
+
+[Mod-raidingTemples] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1789735796\Newtonsoft.Json.dll"...
+
+[Mod-raidingTemples] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1789735796\raidingTemples.dll"
+
+[Mod-raidingTemples] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1789735796" complete.
+
+[Mod-raidingTemples] Loading GameObjects...
+
+[Mod-raidingTemples] Replacing shaders...
+
+[Mod-raidingTemples] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+
+[Mod-raidingTemples] Loading KMMissions...
+
+[Mod-raidingTemples] Loading KMMissionTableOfContents...
+
+[Mod-raidingTemples] Loading AudioClips...
+
+[BombGenerator] Instantiated 1789735796 on face FrontFace, spawn index 11
+
+[Mod-matchematics] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1839930546" has ID:"matchematics"
+
+[Mod-matchematics] Loading assemblies...
+
+[Mod-matchematics] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1839930546\Newtonsoft.Json.dll"...
+
+[Mod-matchematics] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1839930546\matchematics.dll"
+
+[Mod-matchematics] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1839930546" complete.
+
+[Mod-matchematics] Loading GameObjects...
+
+[Mod-matchematics] Replacing shaders...
+
+[Mod-matchematics] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-matchematics] Loading KMMissions...
+
+[Mod-matchematics] Loading KMMissionTableOfContents...
+
+[Mod-matchematics] Loading AudioClips...
+
+[BombGenerator] Instantiated 1839930546 on face FrontFace, spawn index 7
+
+[Mod-Mahjong] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1569451615" has ID:"Mahjong"
+
+[Mod-Mahjong] Loading assemblies...
+
+[Mod-Mahjong] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1569451615\Newtonsoft.Json.dll"...
+
+[Mod-Mahjong] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1569451615\Mahjong.dll"
+
+[Mod-Mahjong] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1569451615" complete.
+
+[Mod-Mahjong] Loading GameObjects...
+
+[Mod-Mahjong] Replacing shaders...
+
+[Mod-Mahjong] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-Mahjong] Loading KMMissions...
+
+[Mod-Mahjong] Loading KMMissionTableOfContents...
+
+[Mod-Mahjong] Loading AudioClips...
+
+[BombGenerator] Instantiated 1569451615 on face FrontFace, spawn index 9
+
+[Mod-AppreciateArt] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2022692764" has ID:"AppreciateArt"
+
+[Mod-AppreciateArt] Loading assemblies...
+
+[Mod-AppreciateArt] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2022692764\Newtonsoft.Json.dll"...
+
+[Mod-AppreciateArt] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2022692764\AppreciateArt.dll"
+
+[Mod-AppreciateArt] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2022692764" complete.
+
+[Mod-AppreciateArt] Loading GameObjects...
+
+[Mod-AppreciateArt] Replacing shaders...
+
+[Mod-AppreciateArt] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-AppreciateArt] Loading KMMissions...
+
+[Mod-AppreciateArt] Loading KMMissionTableOfContents...
+
+[Mod-AppreciateArt] Loading AudioClips...
+
+[Art Appreciation #1] There is some art to appreciate.
+[BombGenerator] Instantiated 2022692764 on face FrontFace, spawn index 3
+
+[BombGenerator] Instantiated 1532012244 on face RearFace, spawn index 9
+
+[Mod-theCodeModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1979252637" has ID:"theCodeModule"
+
+[Mod-theCodeModule] Loading assemblies...
+
+[Mod-theCodeModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1979252637\Newtonsoft.Json.dll"...
+
+[Mod-theCodeModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1979252637\theCodeModule.dll"
+
+[Mod-theCodeModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1979252637" complete.
+
+[Mod-theCodeModule] Loading GameObjects...
+
+[Mod-theCodeModule] Replacing shaders...
+
+[Mod-theCodeModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-theCodeModule] Loading KMMissions...
+
+[Mod-theCodeModule] Loading KMMissionTableOfContents...
+
+[Mod-theCodeModule] Loading AudioClips...
+
+[BombGenerator] Instantiated 1979252637 on face RearFace, spawn index 4
+
+[BombGenerator] Instantiated 1945183738 on face FrontFace, spawn index 8
+
+[Mod-FlavorTextMod] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1796241099" has ID:"FlavorTextMod"
+
+[Mod-FlavorTextMod] Loading assemblies...
+
+[Mod-FlavorTextMod] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1796241099\Newtonsoft.Json.dll"...
+
+[Mod-FlavorTextMod] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1796241099\FlavorTextMod.dll"
+
+[Mod-FlavorTextMod] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1796241099" complete.
+
+[Mod-FlavorTextMod] Loading GameObjects...
+
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Mod-FlavorTextMod] Replacing shaders...
+
+[Mod-FlavorTextMod] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-FlavorTextMod] Replacing shaders...
+
+[Mod-FlavorTextMod] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-FlavorTextMod] Loading KMMissions...
+
+[Mod-FlavorTextMod] Loading KMMissionTableOfContents...
+
+[Mod-FlavorTextMod] Loading AudioClips...
+
+[BombGenerator] Instantiated 1796241099 on face RearFace, spawn index 10
+
+[Mod-listening] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\743638627" has ID:"listening"
+
+[Mod-listening] Loading assemblies...
+
+[Mod-listening] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\743638627\Newtonsoft.Json.dll"...
+
+[Mod-listening] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\743638627\listening.dll"
+
+[Mod-listening] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\743638627" complete.
+
+[Mod-listening] Loading GameObjects...
+
+[Mod-listening] Replacing shaders...
+
+[Mod-listening] ModUnityVersion: Not set Game: 2017.4.22f1
+
+[Mod-listening] Loading KMMissions...
+
+[Localization] Adding mod term: mod/listening_listening_mission_1_DisplayName: "The Listening"
+
+[Localization] Adding mod term: mod/listening_listening_mission_1_Description: "We're all ears."
+
+[Mod-listening] Loading KMMissionTableOfContents...
+
+[Localization] Adding mod term: mod/mod_toc_listening_0_ToCName: "Keep Listening and Nobody Explodes"
+
+[Localization] Adding mod term: mod/mod_toc_listening_0_SectionTitle_0: "Section 1"
+
+[Mod-listening] Loading AudioClips...
+
+[BombGenerator] Instantiated 743638627 on face RearFace, spawn index 7
+
+[BombGenerator] Instantiated 1525239111 on face FrontFace, spawn index 0
+
+[BombGenerator] Instantiated 2003251353 on face FrontFace, spawn index 4
+
+[Mod-playFair] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1357737271" has ID:"playFair"
+
+[Mod-playFair] Loading assemblies...
+
+[Mod-playFair] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1357737271\Newtonsoft.Json.dll"...
+
+[Mod-playFair] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1357737271\playFair.dll"
+
+[Mod-playFair] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1357737271" complete.
+
+[Mod-playFair] Loading GameObjects...
+
+[Mod-playFair] Replacing shaders...
+
+[Mod-playFair] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-playFair] Loading KMMissions...
+
+[Mod-playFair] Loading KMMissionTableOfContents...
+
+[Mod-playFair] Loading AudioClips...
+
+[BombGenerator] Instantiated 1357737271 on face FrontFace, spawn index 2
+
+[Mod-booleanWires] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1823713337" has ID:"booleanWires"
+
+[Mod-booleanWires] Loading assemblies...
+
+[Mod-booleanWires] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1823713337\Newtonsoft.Json.dll"...
+
+[Mod-booleanWires] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1823713337\booleanWires.dll"
+
+[Mod-booleanWires] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1823713337" complete.
+
+[Mod-booleanWires] Loading GameObjects...
+
+[Mod-booleanWires] Replacing shaders...
+
+[Mod-booleanWires] ModUnityVersion: 2017.4.2f2 Game: 2017.4.22f1
+
+[Mod-booleanWires] Loading KMMissions...
+
+[Localization] Adding mod term: mod/booleanWires_boolWires_DisplayName: "Test"
+
+[Localization] Adding mod term: mod/booleanWires_boolWires_Description: "Test"
+
+[Mod-booleanWires] Loading KMMissionTableOfContents...
+
+[Mod-booleanWires] Loading AudioClips...
+
+[BombGenerator] Instantiated 1823713337 on face RearFace, spawn index 0
+
+[BombGenerator] Instantiated 2075509471 on face RearFace, spawn index 6
+
+[Mod-ksmTetraVex] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1859342503" has ID:"ksmTetraVex"
+
+[Mod-ksmTetraVex] Loading assemblies...
+
+[Mod-ksmTetraVex] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1859342503\Newtonsoft.Json.dll"...
+
+[Mod-ksmTetraVex] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1859342503\ksmTetraVex.dll"
+
+[Mod-ksmTetraVex] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1859342503" complete.
+
+[Mod-ksmTetraVex] Loading GameObjects...
+
+[Mod-ksmTetraVex] Replacing shaders...
+
+[Mod-ksmTetraVex] ModUnityVersion: 2017.4.29f1 Game: 2017.4.22f1
+
+[Mod-ksmTetraVex] Loading KMMissions...
+
+[Mod-ksmTetraVex] Loading KMMissionTableOfContents...
+
+[Mod-ksmTetraVex] Loading AudioClips...
+
+[TetraVex #1] Intended solution:
+[TetraVex #1]  0 │ 4 │ 4 
+[TetraVex #1] 4 5│5 5│5 4
+[TetraVex #1]  1 │ 2 │ 2 
+[TetraVex #1] ───┼───┼───
+[TetraVex #1]  1 │ 2 │ 2 
+[TetraVex #1] 4 1│1 6│6 5
+[TetraVex #1]  3 │ 2 │ 6 
+[TetraVex #1] ───┼───┼───
+[TetraVex #1]  3 │ 2 │ 6 
+[TetraVex #1] 2 6│6 4│4 7
+[TetraVex #1]  1 │ 6 │ 2 
+[BombGenerator] Instantiated 1859342503 on face RearFace, spawn index 2
+
+[Mod-ColoredSquares] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\805590147" has ID:"ColoredSquares"
+
+[Mod-ColoredSquares] Loading assemblies...
+
+[Mod-ColoredSquares] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\805590147\Newtonsoft.Json.dll"...
+
+[Mod-ColoredSquares] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\805590147\ColoredSquares.dll"
+
+[Mod-ColoredSquares] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\805590147" complete.
+
+[Mod-ColoredSquares] Loading GameObjects...
+
+[Mod-ColoredSquares] Replacing shaders...
+
+[Mod-ColoredSquares] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColoredSquares] Replacing shaders...
+
+[Mod-ColoredSquares] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColoredSquares] Replacing shaders...
+
+[Mod-ColoredSquares] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColoredSquares] Replacing shaders...
+
+[Mod-ColoredSquares] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColoredSquares] Replacing shaders...
+
+[Mod-ColoredSquares] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColoredSquares] Replacing shaders...
+
+[Mod-ColoredSquares] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColoredSquares] Loading KMMissions...
+
+[Mod-ColoredSquares] Loading KMMissionTableOfContents...
+
+[Mod-ColoredSquares] Loading AudioClips...
+
+[BombGenerator] Instantiated 805590147 on face RearFace, spawn index 3
+
+[Mod-reorderedKeys] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1766773083" has ID:"reorderedKeys"
+
+[Mod-reorderedKeys] Loading assemblies...
+
+[Mod-reorderedKeys] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1766773083\Newtonsoft.Json.dll"...
+
+[Mod-reorderedKeys] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1766773083\reorderedKeys.dll"
+
+[Mod-reorderedKeys] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1766773083" complete.
+
+[Mod-reorderedKeys] Loading GameObjects...
+
+[Mod-reorderedKeys] Replacing shaders...
+
+[Mod-reorderedKeys] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-reorderedKeys] Replacing shaders...
+
+[Mod-reorderedKeys] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-reorderedKeys] Loading KMMissions...
+
+[Mod-reorderedKeys] Loading KMMissionTableOfContents...
+
+[Mod-reorderedKeys] Loading AudioClips...
+
+[BombGenerator] Instantiated 1766773083 on face RearFace, spawn index 11
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: FB1KE1
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit SIG (IndicatorWidget/LABEL6)
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit MSA (IndicatorWidget/LABEL8)
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: StereoRCA
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: 0
+
+[Faulty Digital Root #1] The broken display shows a 9, which mod 2 is 1
+[Faulty Digital Root #1] The type of digital root to take for the top 3 numbers is a Multiplicative Digital Root
+[Faulty Digital Root #1] Numbers from top 3 displays from left to right: 3 2 8 
+[Faulty Digital Root #1] The answer after taking the digital root is 6, which in binary is 0110
+[BossModuleManager] Request for Encryption Bingo’s ignore list successful.
+[KMBossModule] Boss Module Manager returned list for “Encryption Bingo”: 14, Bamboozling Time Keeper, Brainf---, Encryption Bingo, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Iconic, Organization, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Heart, The Swan, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+<Encryption Bingo #1> Ignored modules: 14, Bamboozling Time Keeper, Brainf---, Encryption Bingo, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Iconic, Organization, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Heart, The Swan, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+[Encryption Bingo #1] This stage has 2 ball(s).
+[Encryption Bingo #1] The next ball is a Zoni ball.
+[Encryption Bingo #1] The letter in Zoni is F.
+[Blackjack #1] Your starting card is the Ace Of Spades
+[Blackjack #1] Your closed card is the Five Of Diamonds with a value of 5
+[Blackjack #1] The correct bet is $1
+[Raiding Temples #1] Starting common pool is 7 treasure.
+[Raiding Temples #1] Explorer #1 is Michael.
+[Raiding Temples #1] Explorer #2 is Shelley.
+[Raiding Temples #1] Explorer #3 is Indiana.
+[Raiding Temples #1] Explorer #4 is Francis.
+[Raiding Temples #1] Round 1: 13 treasure with Spiders.
+[Raiding Temples #1] Round 2: 13 treasure with Rocks.
+[Raiding Temples #1] Round 3: 1 treasure with Snakes.
+[Raiding Temples #1] Round 4: 14 treasure with Snakes.
+[Raiding Temples #1] Round 5: 1 treasure with Spiders.
+[Raiding Temples #1] Round 6: 1 treasure with Snakes.
+[Raiding Temples #1] ===============Exploration===============
+[Raiding Temples #1] ----------Round 1----------
+[Raiding Temples #1] 13 treasure divided by 4 explorer(s). Each explorer got 3 treasure. Common pool is now 8.
+[Raiding Temples #1] No explorers leave the temple.
+[Raiding Temples #1] Spiders caused no deaths.
+[Raiding Temples #1] ----------Round 2----------
+[Raiding Temples #1] 13 treasure divided by 4 explorer(s). Each explorer got 3 treasure. Common pool is now 9.
+[Raiding Temples #1] No explorers leave the temple.
+[Raiding Temples #1] Rocks caused no deaths.
+[Raiding Temples #1] ----------Round 3----------
+[Raiding Temples #1] 1 treasure divided by 4 explorer(s). Each explorer got 0 treasure. Common pool is now 10.
+[Raiding Temples #1] Explorer #3 (Indiana) leaves with 11 treasure.
+[Raiding Temples #1] Explorer #2 (Shelley) leaves with 11 treasure.
+[Raiding Temples #1] Common pool is now 0.
+[Raiding Temples #1] Snakes caused no deaths.
+[Raiding Temples #1] ----------Round 4----------
+[Raiding Temples #1] 14 treasure divided by 2 explorer(s). Each explorer got 7 treasure. Common pool is now 0.
+[Raiding Temples #1] Explorer #1 (Michael) leaves with 13 treasure.
+[Raiding Temples #1] Common pool is now 0.
+[Raiding Temples #1] Second occurence of Snakes. Explorers [ 4 ] died.
+[Raiding Temples #1] Button press order is [ 1 3 2 Skull ].
+[Matchematics #1] LEVEL GENERATED: Level type:MOVE 1 Initial digits:058 Operation:+
+[Mahjong #1] Using rule seed: 1
+[Mahjong #1] Swapping Bamboo 5 and Wheel 3
+[Mahjong #1] Swapping Wheel 3 and Char 7
+[Mahjong #1] Swapping Char 1 and Wheel 1
+[Mahjong #1] After swaps, match rows are:
+[Mahjong #1] Row 1: W1 C7 W5 B8 B2 C9 RD B6 B4 W4 C6 C2 W2 C3
+[Mahjong #1] Row 2: W9 C1 C8 W7 B9 B7 W3 WD C4 B3 W8 B5 W6 C5
+[Mahjong #1] Counting tile is Chrysanthemum ⇒ shift is 3 to the right
+[Mahjong #1] After shift, match rows are:
+[Mahjong #1] Row 1: W1 C7 W5 B8 B2 C9 RD B6 B4 W4 C6 C2 W2 C3
+[Mahjong #1] Row 2: B5 W6 C5 W9 C1 C8 W7 B9 B7 W3 WD C4 B3 W8
+<Mahjong #1> Chosen layout has 18 tiles.
+[Mahjong #1] Possible solution:
+[Mahjong #1] — Char 7 and Wheel 6
+[Mahjong #1] — Wheel 5 and Char 5
+[Mahjong #1] — Bamboo 2 and Char 1
+[Mahjong #1] — Bamboo 6 and Bamboo 9
+[Mahjong #1] — Char 9 and Char 8
+[Mahjong #1] — Wheel 1 and Bamboo 5
+[Mahjong #1] — Bamboo 8 and Wheel 9
+[Mahjong #1] — Bamboo 4 and Bamboo 7
+[Mahjong #1] — Red Dragon and Wheel 7
+[The Code #1] Initial module number was 8426
+[The Code #1] No rule applied. The solution is the displayed number divided by 3.
+The code is 2808
+[The Sphere #2] The cycling colours are orange, blue, pink, blue & orange.
+[The Sphere #2] The converted serial number digits are 621151.
+[The Sphere #2] Orange yields 5.
+[The Sphere #2] Blue yields 5.
+[The Sphere #2] Pink yields 1.
+[The Sphere #2] Blue yields 5.
+[The Sphere #2] Orange yields 5.
+[The Sphere #2] Use order 0 when submitting your answer.
+[The Sphere #2] Stage 1: tap the sphere when the last digit of the second timer is 1.
+[The Sphere #2] Stage 2: tap the sphere when the last digit of the second timer is 6.
+[The Sphere #2] Stage 3: hold the sphere for 5 seconds.
+[The Sphere #2] Stage 4: tap the sphere when the last digit of the second timer is 2.
+[The Sphere #2] Stage 5: hold the sphere for 1 seconds.
+[The Sphere #2] Stage 6: hold the sphere for 5 seconds.
+[The Sphere #2] Stage 7: tap the sphere when the last digit of the second timer is 1.
+[The Sphere #2] Stage 8: tap the sphere when the last digit of the second timer is 1.
+[The Sphere #2] Stage 9: hold the sphere for 5 seconds.
+[The Sphere #2] Stage 10: hold the sphere for 5 seconds.
+[The Sphere #2] Stage 11: tap the sphere when the last digit of the second timer is 5.
+[Not Wire Sequence #1] Panel 1 wire 1: 'K' in the yellow paragraph, word 25 ('boundaries'): do not cut.
+[Not Wire Sequence #1] Panel 1 wire 2: 'T' in the black paragraph, word 38 ('within'): cut.
+[Not Wire Sequence #1] Panel 1 wire 3: 'V' in the yellow paragraph, word 24 ('the'): do not cut.
+[Not Wire Sequence #1] Panel 2 wire 1: 'C' in the yellow paragraph, word 39 ('each'): cut.
+[Not Wire Sequence #1] Panel 2 wire 2: 'T' in the green paragraph, word 31 ('the'): cut.
+[Not Wire Sequence #1] Panel 2 wire 3: 'W' in the green paragraph, word 0 ('when'): cut.
+[Not Wire Sequence #1] Panel 3 wire 1: 'R' in the yellow paragraph, word 15 ('paragraph'): cut.
+[Not Wire Sequence #1] Panel 3 wire 2: 'X' in the yellow paragraph, word 33 ('clearly'): do not cut.
+[Not Wire Sequence #1] Panel 3 wire 3: 'L' in the yellow paragraph, word 16 ('will'): cut.
+[Not Wire Sequence #1] Panel 4 wire 1: 'L' in the black paragraph, word 13 ('number'): do not cut.
+[Not Wire Sequence #1] Panel 4 wire 2: 'C' in the red paragraph, word 38 ('located'): cut.
+[Not Wire Sequence #1] Panel 4 wire 3: 'E' in the yellow paragraph, word 18 ('underlined'): cut.
+[Playfair Cipher #1] Message is "STRYK", color is Blue, expecting "CBDA"
+[Playfair Cipher #1] Table 1 - First Key Half is: "CIPHER"
+[Playfair Cipher #1] Table 2 - Rule #3 Applies: "D Batteries > AA Batteries"
+[Playfair Cipher #1] Table 2 - Second Key Half is: "EVOORG"
+[Playfair Cipher #1] Table 4 - Bomb has 0 Strikes.
+[Playfair Cipher #1] Table 3 - Serial contains a Vowel
+[Playfair Cipher #1] Key now is: "CIPHEREVOORG"
+[Playfair Cipher #1] Table 5 - Sum of serial number numbers is 2, this number is prime!
+[Playfair Cipher #1] Key now is: "GROOVEREHPIC"
+[Playfair Cipher #1] Beginning of Matrix
+[Playfair Cipher #1] GROVE
+[Playfair Cipher #1] HPICA
+[Playfair Cipher #1] BDFKL
+[Playfair Cipher #1] MNQST
+[Playfair Cipher #1] UWXYZ
+[Playfair Cipher #1] End of Matrix
+322
+[KayMazey Talk #1] Your ending phrase is "Khan as in
+Genghis Khan".
+<Varicolored Squares #1> Rule Generator: Red pentagon is: B-R-M-Y-G
+<Varicolored Squares #1> Rule Generator: Blue pentagon is: Y-B-R-M-G
+<Varicolored Squares #1> Rule Generator: Green pentagon is: R-Y-B-M-G
+<Varicolored Squares #1> Rule Generator: Yellow pentagon is: R-M-B-Y-G
+<Varicolored Squares #1> Rule Generator: Magenta pentagon is: G-Y-R-B-M
+<Varicolored Squares #1> Rule Generator: rule one direction is: clockwise
+<Varicolored Squares #1> Rule Generator: backup rule direction is: counter-clockwise
+[Varicolored Squares #1] Initial state: B G R B M B Y G R R Y M G B Y M
+[Varicolored Squares #1] First color to press is Blue.
+[Reordered Keys #1] After 0 reset(s), the buttons had the colours: Yellow, Yellow, Cyan, Red, Magenta, Cyan
+[Reordered Keys #1] After 0 reset(s), the labels had the colours: Red, Magenta, Yellow, Green, Green, Cyan
+[Reordered Keys #1] After 0 reset(s), the buttons were labelled: 4, 5, 5, 3, 1, 1
+[Reordered Keys #1] After 0 reset(s), the initial order of key values was 261453
+[Reordered Keys #1] After 0 reset(s), the pivot key was 3
+[Reordered Keys #1] After 0 reset(s), the desired order of key values was 561234
+[TwitchPlays] [M] r4y697 (, 166342202): !findclaim maze
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"23 Fair Mix"}
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] Switching bomb
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'FaultyDigitalRoot(Clone)'.
+[Profile Revealer] Attaching to 'GreenArrows(Clone)'.
+[Profile Revealer] Attaching to 'encryptionBingo(Clone)'.
+[Profile Revealer] Attaching to 'BlackJackModuleBroke(Clone)'.
+[Profile Revealer] Attaching to 'Alphabetize(Clone)'.
+[Profile Revealer] Attaching to 'raidingTemples(Clone)'.
+[Profile Revealer] Attaching to 'Template(Clone)'.
+[Profile Revealer] Attaching to 'MahjongModule(Clone)'.
+[Profile Revealer] Attaching to 'Art Appreciation #1'.
+[Profile Revealer] Attaching to 'Bases(Clone)'.
+[Profile Revealer] Attaching to 'TheCodeModule(Clone)'.
+[Profile Revealer] Attaching to 'EncryptedDice(Clone)'.
+[Profile Revealer] Attaching to 'FlavorText(Clone)'.
+[Profile Revealer] Attaching to 'ListeningModule(Clone)'.
+[Profile Revealer] Attaching to 'theSphere(Clone)'.
+[Profile Revealer] Attaching to 'Not Wire Sequence(Clone)'.
+[Profile Revealer] Attaching to 'playFair(Clone)'.
+[Profile Revealer] Attaching to 'booleanWires(Clone)'.
+[Profile Revealer] Attaching to 'KayRazy(Clone)'.
+[Profile Revealer] Attaching to 'ksmTetraVex(Clone)'.
+[Profile Revealer] Attaching to 'VaricoloredSquaresModule(Clone)'.
+[Profile Revealer] Attaching to 'ReorderedKeys(Clone)'.
+[Green Arrows #1] The number displayed is 62, the next move should be 'UP'
+custom
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 cv
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !4 cv
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !claimall
+[Password Destroyer #1]: Version v.1.4
+[Password Destroyer #1]: Initial base numbers are 4281087 and 241415, with starting 2FA of 902 971.
+[Alphabetize #2] Table 1 is true.
+[Alphabetize #2] Table 4 is true.
+[Alphabetize #2] Table 6 is true.
+[Alphabetize #2] Table 7 is true.
+[Alphabetize #2] Table 8 is true.
+[Alphabetize #2] Table 9 is true.
+[Alphabetize #2] Table 15 is true.
+[Alphabetize #2] -----------------------------
+[Alphabetize #2] The string used is in Table 7
+[Alphabetize #2] -----------------------------
+[Alphabetize #2] Letter T does not match the letter in the current stage.
+[Bases #2] The first number displayed is 59 in base 4, which is shown as 323.
+[Bases #2] The second number displayed is 61 in base 4, which is shown as 331.
+[Bases #2] The operator between the numbers is -.
+[Bases #2] The answer is 2 in base 4, which should be inputted as 2.
+[Flavor Text #1] It's on.
+[Flavor Text #1] It's looking for The Jewel Vault.
+[Flavor Text #1] It said: How did the Ancient Greeks make such an advanced lock? It must be aliens!
+[Flavor Text #1] Do you accept it? (You probably should'nt...)
+[Playfair Cipher #1] Encrypted Message: "STRYK"
+[Playfair Cipher #1] With key: "GROOVEREHPIC"
+[Playfair Cipher #1] Text Displayed on Module: "TMVWFY?"
+[Encrypted Dice #2] You rolled 2, 2, and 3. The solution is 2, 3, or 3, 2.
+:danny7007!danny7007@danny7007.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !bomb turn
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !bomb flip
+[PaceMaker] Round start! Mission: 23 Fair Mix Pacing Enabled: True
+
+[PaceMaker] Next idle action in 56.90628 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !18 cv
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !bomb turn
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 18
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !23 unc
+[TwitchPlays] [M] r4y697 (, 166342202): !2 cv
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !3 show
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !bomb turN
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !21 cv
+[TwitchPlays] Enabling camera wall
+[TwitchPlays] Camera wall enabled
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !20 cv
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 23
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !1 cv
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): oh nice
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !3 help
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): PS DESTROUETT
+[TwitchPlays] [M] r4y697 (, 166342202): !12 cv
+[TwitchPlays] [M] jjroccss (, 526314480): !unclaim 23
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !notes1 QUEUE PEOPLE
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): Destroyer?
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !notes1 QUEUE FOR BINGO
+[Tweaks] LFABombInfo 8
+{"serial":"FB1KE1","displayNames":{"Timer":"Timer","pwDestroyer":"Password Destroyer","faultyDigitalRootModule":"Faulty Digital Root","greenArrowsModule":"Green Arrows","encryptionBingo":"Encryption Bingo","KritBlackjack":"Blackjack","Alphabetize":"A
+lphabetize","raidingTemples":"Raiding Temples","matchematics":"Matchematics","MahjongModule":"Mahjong","AppreciateArt":"Art Appreciation","bases":"Bases","theCodeModule":"The Code","EncryptedDice":"Encrypted Dice","FlavorText":"Flavor Text","Listenin
+g":"Listening","sphere":"The Sphere","NotWireSequence":"Not Wire Sequence","Playfair":"Playfair Cipher","booleanWires":"Boolean Wires","KMazeyTalk":"KayMazey Talk","ksmTetraVex":"TetraVex","VaricoloredSquaresModule":"Varicolored Squares","reorderedKe
+ys":"Reordered Keys"},"ids":{"AppreciateArt":[1],"pwDestroyer":[1],"faultyDigitalRootModule":[1],"greenArrowsModule":[1],"encryptionBingo":[1],"KritBlackjack":[1],"Alphabetize":[2],"raidingTemples":[1],"matchematics":[1],"MahjongModule":[1],"bases":[
+2],"theCodeModule":[1],"EncryptedDice":[2],"FlavorText":[1],"sphere":[2],"NotWireSequence":[1],"Playfair":[1],"KMazeyTalk":[1],"VaricoloredSquaresModule":[1],"reorderedKeys":[1],"booleanWires":[0]},"anchors":[[-0.221,0.341],[-0.001,0.341],[0.220,0.34
+1],[-0.221,0.125],[-0.001,0.125],[0.220,0.125],[-0.221,-0.128],[-0.001,-0.128],[0.220,-0.128],[-0.221,-0.344],[-0.001,-0.344],[0.220,-0.344],[0.221,0.341],[0.001,0.341],[-0.220,0.341],[0.221,0.125],[0.001,0.125],[-0.220,0.125],[0.221,-0.128],[0.001,-
+0.128],[-0.220,-0.128],[0.221,-0.344],[0.001,-0.344],[-0.220,-0.344]],"modules":["Listening -","Alphabetize 2","Playfair 1","AppreciateArt 1","NotWireSequence 1","KritBlackjack 1","encryptionBingo 1","matchematics 1","EncryptedDice 2","MahjongModule 
+1","faultyDigitalRootModule 1","raidingTemples 1","booleanWires 0","greenArrowsModule 1","ksmTetraVex -","VaricoloredSquaresModule 1","theCodeModule 1","pwDestroyer 1","KMazeyTalk 1","sphere 2","Timer -","bases 2","FlavorText 1","reorderedKeys 1"]}
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): SHIT
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !3 up
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !21 bl tl
+[Green Arrows #1] 'UP' pressed successfully! Streak is now 1!
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !14 cv
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): i missed pw destroyer
+[Green Arrows #1] The number displayed is 77, the next move should be 'LEFT'
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): time to learn that i guess
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): gdi
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !3 left
+[Green Arrows #1] 'LEFT' pressed successfully! Streak is now 2!
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !findclaim reordered
+[Green Arrows #1] The number displayed is 43, the next move should be 'RIGHT'
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !21 mm ml; tr mm; tm bl
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): @TimwiTerby should i try it?
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 zoom
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !3 right
+[TwitchPlays] [M] jjroccss (, 526314480): !bomb date
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): TheGuyThatIsWeird Up to you
+[Green Arrows #1] 'RIGHT' pressed successfully! Streak is now 3!
+[PaceMaker] PlayerSuccessRating: 0.4729031 (Factors: solved: 0, strikes: 0.3, time: 0.1729031)
+
+[PaceMaker] Next idle action in 31.39091 seconds.
+
+[Green Arrows #1] The number displayed is 22, the next move should be 'UP'
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !3 right
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"greenArrowsModule","bombTime":360.098022,"realTime":67.7626953,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.4371802 (Factors: solved: 0, strikes: 0.3, time: 0.1371802)
+
+[Green Arrows #1] 'UP' was not pressed and was expected! Streak set back to 0!
+[Green Arrows #1] The number displayed is 70, the next move should be 'LEFT'
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): i tr....
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): o o f
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !3 Left
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 help
+[Green Arrows #1] 'LEFT' pressed successfully! Streak is now 1!
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): I know none of these...
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !21 tm bm
+[Green Arrows #1] The number displayed is 65, the next move should be 'UP'
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 c6
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !3 up
+[Green Arrows #1] 'UP' pressed successfully! Streak is now 2!
+[Green Arrows #1] The number displayed is 85, the next move should be 'DOWN'
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): thats *mild
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !21 tr br
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 C5
+[PaceMaker] PlayerSuccessRating: 0.4236574 (Factors: solved: 0, strikes: 0.3, time: 0.1236574)
+
+[PaceMaker] Next idle action in 38.32001 seconds.
+
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !3 down
+[Green Arrows #1] 'DOWN' pressed successfully! Streak is now 3!
+[Encryption Bingo #1] The next ball is a Regular Number ball.
+[Encryption Bingo #1] The button the number is telling you to press is E5.
+[Green Arrows #1] The number displayed is 46, the next move should be 'RIGHT'
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !21 mr bm
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !3 right
+[Green Arrows #1] 'RIGHT' pressed successfully! Streak is now 4!
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !q !21 check
+[Green Arrows #1] The number displayed is 59, the next move should be 'LEFT'
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !1 help
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !3 lefT
+[Green Arrows #1] 'LEFT' pressed successfully! Streak is now 5!
+:xxthedweebxx!xxthedweebxx@xxthedweebxx.tmi.twitch.tv PART #heres_fangy
+[Green Arrows #1] The number displayed is 17, the next move should be 'UP'
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !find jewel
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !q !14 n
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !3 up
+[Green Arrows #1] 'UP' pressed successfully! Streak is now 6!
+[Green Arrows #1] The number displayed is 78, the next move should be 'RIGHT'
+[PaceMaker] PlayerSuccessRating: 0.4130213 (Factors: solved: 0, strikes: 0.3, time: 0.1130213)
+
+[PaceMaker] Next idle action in 46.39241 seconds.
+
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !q !3 right
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 e6
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 e5
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !20 help
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !call
+[TwitchPlays] [M] TheLegendWilleh (#0000FF): !21 check
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !20 circle
+[TetraVex #1] Submitted solution:
+[TetraVex #1]  0 │ 4 │ 4 
+[TetraVex #1] 4 5│5 4│5 5
+[TetraVex #1]  1 │ 2 │ 2 
+[TetraVex #1] ───┼───┼───
+[TetraVex #1]  1 │ 2 │ 2 
+[TetraVex #1] 4 1│1 6│6 5
+[TetraVex #1]  3 │ 2 │ 6 
+[TetraVex #1] ───┼───┼───
+[TetraVex #1]  3 │ 2 │ 6 
+[TetraVex #1] 2 6│6 4│4 7
+[TetraVex #1]  1 │ 6 │ 2 
+[TetraVex #1] STRIKE: The block in the top-middle position has an incorrect connection.
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"ksmTetraVex","bombTime":219.556412,"realTime":168.3125}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.3836406 (Factors: solved: 0, strikes: 0.3, time: 0.08364054)
+
+[KayMazey Talk #1] Your current phrase is "Kay Tane".
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): what
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): oh fuck
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !calL
+[TwitchPlays] [M] xarata98 (#0000FF): !14 n
+[Flavor Text #1] You chose not to accept.
+[Flavor Text #1] Flavor Text was spared.
+[ModBombComponent #300] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"FlavorText","bombTime":163.37825,"realTime":180.580078,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.4105265 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.08779917)
+
+[PaceMaker] PlayerSuccessRating: 0.4103517 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.08762444)
+
+[PaceMaker] Next idle action in 51.84561 seconds.
+
+[Encryption Bingo #1] A module was solved.
+[Encryption Bingo #1] All active balls stamped. Releasing next ball.
+[Encryption Bingo #1] This stage has 2 ball(s).
+[Encryption Bingo #1] The next ball is a Arrow ball.
+[Encryption Bingo #1] The button the arrow is pointing to is E4.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): top goddamnit
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !21 tm t
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !21 tm tr
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !q !21 check
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 zoom
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !8 help
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !20 DLUURULUULD
+[PaceMaker] PlayerSuccessRating: 0.3856534 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.06292609)
+
+[PaceMaker] Next idle action in 53.28064 seconds.
+
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !10 cv
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !20 move DLUURULUULD
+352
+350
+320
+290
+292
+262
+260
+230
+200
+198
+228
+:tteyyd!tteyyd@tteyyd.tmi.twitch.tv PART #heres_fangy
+:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv PART #heres_fangy
+:xmaster6726!xmaster6726@xmaster6726.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !listqall
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !9 zoom shoW
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): What is this ball
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !9 show
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !9 zoom
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !q ART !10 ZOOM 60
+[TwitchPlays] [M] r4y697 (, 166342202): !2 help
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !20 move LUUURRULLUUURDD
+226
+196
+166
+136
+138
+140
+110
+108
+106
+76
+46
+16
+18
+48
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !4 zoom
+78
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !q !20 circle
+[TwitchPlays] [M] jjroccss (, 526314480): !18 help
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): im buffering
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): so hard
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !unclaimed
+[PaceMaker] PlayerSuccessRating: 0.3602896 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.03756235)
+
+[PaceMaker] Next idle action in 34.00579 seconds.
+
+[TwitchPlays] [M] TheLegendofKirbychu (#0000FF, 192677848): !8 cv
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !9 c1,b2
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !18 zoom
+[Mahjong #1] Char 1 and Bamboo 2 correctly eliminated.
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !unclaimeD
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): What is this ball=
+[TwitchPlays] [M] r4y697 (, 166342202): !q !2 press no yes yes no
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !unclaimed
+[TwitchPlays] [M] jjroccss (, 526314480): !q !18 press C B D A
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): green
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): thing
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !9 c7,w6
+[Mahjong #1] Char 7 and Wheel 6 correctly eliminated.
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[TwitchPlays] [M] r4y697 (, 166342202): !12 help
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 11
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 ball
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): prob from gridlock
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !bomb date
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !22 cv
+[PaceMaker] PlayerSuccessRating: 0.3440692 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.02134188)
+
+[PaceMaker] Next idle action in 23.31333 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): thats gridlock
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): gridlock yes
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !9 w9,b8
+[Mahjong #1] Wheel 9 and Bamboo 8 correctly eliminated.
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !22 a1
+[Varicolored Squares #1] Button #0 correct. Last pressed: Blue. Flashing color: Blue. Adjacent: MG. Next color is Yellow.
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !9 b7,b4
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): !22 help
+[Mahjong #1] Bamboo 7 and Bamboo 4 correctly eliminated.
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 c4
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"encryptionBingo","bombTime":21.9843273,"realTime":344.2871,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.3260531 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.00332587)
+
+[Encryption Bingo #1] Strike! Pressed C4, when the correct button was E4.
+[PaceMaker] PlayerSuccessRating: 0.3258311 (Factors: solved: 0.02272727, strikes: 0.3, time: 0.003103829)
+
+[PaceMaker] Next idle action in 29.44041 seconds.
+
+[Encryption Bingo #1] The next ball is a Tap Code ball.
+[Encryption Bingo #1] The letter in tap code is N.
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !9 b9,b6
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): f
+[Mahjong #1] Bamboo 9 and Bamboo 6 correctly eliminated.
+[TwitchPlays] [M] ktane1 (#FF0000, 457215313): ouch
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !callall
+[TwitchPlays] [M] TimwiTerby (#1E90FF): !3 right
+[TwitchPlays] [M] TheLegendWilleh (#0000FF): !21 check
+[TwitchPlays] [M] ktane1 (#FF0000): !10 ZOOM 60
+[TwitchPlays] [M] xarata98 (#0000FF): !20 circle
+[TwitchPlays] [M] r4y697 (): !2 press no yes yes no
+[TwitchPlays] [M] jjroccss (): !18 press C B D A
+[Green Arrows #1] 'RIGHT' pressed successfully! Streak is now 7!
+[Green Arrows #1] Streak of 7 reached! Module Disarmed!
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"FB1KE1","bombTime":-0.0415448844,"realTime":351.3125,"solves":1,"strikes":0}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

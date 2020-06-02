@@ -1,0 +1,595 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 1782922624
+
+[BombGenerator] Generator settings: Time: 3600, NumStrikes: 1, FrontFaceOnly: False
+10 Pools:
+[blackCipher] Count: 1
+[blueCipher] Count: 1
+[grayCipher] Count: 1
+[greenCipher] Count: 1
+[indigoCipher] Count: 1
+[orangeCipher] Count: 1
+[redCipher] Count: 1
+[violetCipher] Count: 1
+[whiteCipher] Count: 1
+[yellowCipher] Count: 1
+
+
+[BombGenerator] Selected blackCipher (1940168029 (ModBombComponent))
+
+[BombGenerator] Selected blueCipher (1873125175 (ModBombComponent))
+
+[BombGenerator] Selected grayCipher (1894824276 (ModBombComponent))
+
+[BombGenerator] Selected greenCipher (1870409884 (ModBombComponent))
+
+[BombGenerator] Selected indigoCipher (1883513229 (ModBombComponent))
+
+[BombGenerator] Selected orangeCipher (1857089523 (ModBombComponent))
+
+[BombGenerator] Selected redCipher (1852030206 (ModBombComponent))
+
+[BombGenerator] Selected violetCipher (1884623865 (ModBombComponent))
+
+[BombGenerator] Selected whiteCipher (1894852193 (ModBombComponent))
+
+[BombGenerator] Selected yellowCipher (1869671443 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1940168029 (ModBombComponent), 1873125175 (ModBombComponent), 1894824276 (ModBombComponent), 1870409884 (ModBombComponent), 1883513229 (ModBombComponent), 1857089523 (ModBombComponent), 1852030206 (ModBombComponent), 1884623865 (ModBombComponent), 1894852193 (ModBombComponent), 1869671443 (ModBombComponent)]
+
+[Mod-blackCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029" has ID:"blackCipher"
+
+[Mod-blackCipher] Loading assemblies...
+
+[Mod-blackCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029\Newtonsoft.Json.dll"...
+
+[Mod-blackCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029\blackCipher.dll"
+
+[Mod-blackCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029" complete.
+
+[Mod-blackCipher] Loading GameObjects...
+
+[Mod-blackCipher] Replacing shaders...
+
+[Mod-blackCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-blackCipher] Loading KMMissions...
+
+[Mod-blackCipher] Loading KMMissionTableOfContents...
+
+[Mod-blackCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1940168029 on face BackFace, spawn index 3
+
+[Mod-blueCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1873125175" has ID:"blueCipher"
+
+[Mod-blueCipher] Loading assemblies...
+
+[Mod-blueCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1873125175\Newtonsoft.Json.dll"...
+
+[Mod-blueCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1873125175\blueCipher.dll"
+
+[Mod-blueCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1873125175" complete.
+
+[Mod-blueCipher] Loading GameObjects...
+
+[Mod-blueCipher] Replacing shaders...
+
+[Mod-blueCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-blueCipher] Loading KMMissions...
+
+[Mod-blueCipher] Loading KMMissionTableOfContents...
+
+[Mod-blueCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1873125175 on face BackFace, spawn index 4
+
+[Mod-grayCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894824276" has ID:"grayCipher"
+
+[Mod-grayCipher] Loading assemblies...
+
+[Mod-grayCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894824276\Newtonsoft.Json.dll"...
+
+[Mod-grayCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894824276\grayCipher.dll"
+
+[Mod-grayCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894824276" complete.
+
+[Mod-grayCipher] Loading GameObjects...
+
+[Mod-grayCipher] Replacing shaders...
+
+[Mod-grayCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-grayCipher] Loading KMMissions...
+
+[Mod-grayCipher] Loading KMMissionTableOfContents...
+
+[Mod-grayCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1894824276 on face FrontFace, spawn index 3
+
+[Mod-greenCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1870409884" has ID:"greenCipher"
+
+[Mod-greenCipher] Loading assemblies...
+
+[Mod-greenCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1870409884\Newtonsoft.Json.dll"...
+
+[Mod-greenCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1870409884\greenCipher.dll"
+
+[Mod-greenCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1870409884" complete.
+
+[Mod-greenCipher] Loading GameObjects...
+
+[Mod-greenCipher] Replacing shaders...
+
+[Mod-greenCipher] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-greenCipher] Loading KMMissions...
+
+[Mod-greenCipher] Loading KMMissionTableOfContents...
+
+[Mod-greenCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1870409884 on face BackFace, spawn index 5
+
+[Mod-indigoCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1883513229" has ID:"indigoCipher"
+
+[Mod-indigoCipher] Loading assemblies...
+
+[Mod-indigoCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1883513229\Newtonsoft.Json.dll"...
+
+[Mod-indigoCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1883513229\indigoCipher.dll"
+
+[Mod-indigoCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1883513229" complete.
+
+[Mod-indigoCipher] Loading GameObjects...
+
+[Mod-indigoCipher] Replacing shaders...
+
+[Mod-indigoCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-indigoCipher] Loading KMMissions...
+
+[Mod-indigoCipher] Loading KMMissionTableOfContents...
+
+[Mod-indigoCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1883513229 on face FrontFace, spawn index 4
+
+[Mod-orangeCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1857089523" has ID:"orangeCipher"
+
+[Mod-orangeCipher] Loading assemblies...
+
+[Mod-orangeCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1857089523\Newtonsoft.Json.dll"...
+
+[Mod-orangeCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1857089523\orangeCipher.dll"
+
+[Mod-orangeCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1857089523" complete.
+
+[Mod-orangeCipher] Loading GameObjects...
+
+[Mod-orangeCipher] Replacing shaders...
+
+[Mod-orangeCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-orangeCipher] Loading KMMissions...
+
+[Mod-orangeCipher] Loading KMMissionTableOfContents...
+
+[Mod-orangeCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1857089523 on face BackFace, spawn index 2
+
+[Mod-redCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1852030206" has ID:"redCipher"
+
+[Mod-redCipher] Loading assemblies...
+
+[Mod-redCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1852030206\Newtonsoft.Json.dll"...
+
+[Mod-redCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1852030206\redCipher.dll"
+
+[Mod-redCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1852030206" complete.
+
+[Mod-redCipher] Loading GameObjects...
+
+[Mod-redCipher] Replacing shaders...
+
+[Mod-redCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-redCipher] Loading KMMissions...
+
+[Mod-redCipher] Loading KMMissionTableOfContents...
+
+[Mod-redCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1852030206 on face FrontFace, spawn index 0
+
+[Mod-violetCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1884623865" has ID:"violetCipher"
+
+[Mod-violetCipher] Loading assemblies...
+
+[Mod-violetCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1884623865\Newtonsoft.Json.dll"...
+
+[Mod-violetCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1884623865\violetCipher.dll"
+
+[Mod-violetCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1884623865" complete.
+
+[Mod-violetCipher] Loading GameObjects...
+
+[Mod-violetCipher] Replacing shaders...
+
+[Mod-violetCipher] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-violetCipher] Loading KMMissions...
+
+[Mod-violetCipher] Loading KMMissionTableOfContents...
+
+[Mod-violetCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1884623865 on face BackFace, spawn index 1
+
+[Mod-whiteCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894852193" has ID:"whiteCipher"
+
+[Mod-whiteCipher] Loading assemblies...
+
+[Mod-whiteCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894852193\Newtonsoft.Json.dll"...
+
+[Mod-whiteCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894852193\whiteCipher.dll"
+
+[Mod-whiteCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1894852193" complete.
+
+[Mod-whiteCipher] Loading GameObjects...
+
+[Mod-whiteCipher] Replacing shaders...
+
+[Mod-whiteCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-whiteCipher] Loading KMMissions...
+
+[Mod-whiteCipher] Loading KMMissionTableOfContents...
+
+[Mod-whiteCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1894852193 on face BackFace, spawn index 0
+
+[BombGenerator] Instantiated 1869671443 on face FrontFace, spawn index 5
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: SV2WR4
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit NSA (IndicatorWidget/LABEL7)
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit SIG (IndicatorWidget/LABEL6)
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: lit FRK (IndicatorWidget/LABEL11)
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[Black Cipher #1] Generated Word: GENTLY
+[Black Cipher #1] Begin Enigma Encryption
+[Black Cipher #1] G->X->S->X->J->H->V->H->P->A
+[Black Cipher #1] E->H->N->K->W->Z->N->D->A->A
+[Black Cipher #1] N->J->I->O->A->E->S->O->V->W
+[Black Cipher #1] T->D->Z->C->O->D->R->Q->R->K
+[Black Cipher #1] L->J->W->W->I->Y->M->Y->N->W
+[Black Cipher #1] Y->N->U->L->X->V->J->L->W->V
+[Black Cipher #1] Begin Railfence Transposition
+[Black Cipher #1] Railfence Row #1: AWW
+[Black Cipher #1] Railfence Row #2: AKV
+[Black Cipher #1] Begin Digrafid Encryption
+[Black Cipher #1] Key A: XERICABDFGHJKLMNOPQSTUVWYZ
+[Black Cipher #1] Key B: VENISOABCDFGHJKLMPQRTUWXYZ
+[Black Cipher #1] AW -> 635
+[Black Cipher #1] WA -> 677
+[Black Cipher #1] KV -> 441
+[Black Cipher #1] Digrafid Row #1: 664 -> MU
+[Black Cipher #1] Digrafid Row #2: 374 -> TI
+[Black Cipher #1] Digrafid Row #3: 571 -> VV
+[Blue Cipher #1] Generated Word: RADISH
+[Blue Cipher #1] Begin Vigenere Encryption
+[Blue Cipher #1] R + X = Q
+[Blue Cipher #1] A + Y = U
+[Blue Cipher #1] D + L = M
+[Blue Cipher #1] I + O = S
+[Blue Cipher #1] S + S = C
+[Blue Cipher #1] H + E = M
+[Blue Cipher #1] Begin Letter Transposition
+[Blue Cipher #1] R1: QUMSCM -> UMSCMQ
+[Blue Cipher #1] RV: UMSCMQ -> QMCSMU
+[Blue Cipher #1] 26: QMCSMU -> QUCSMM
+[Blue Cipher #1] 16: QUCSMM -> MUCSMQ
+[Blue Cipher #1] 26: MUCSMQ -> MQCSMU
+[Blue Cipher #1] 36: MQCSMU -> MQUSMC
+[Blue Cipher #1] Begin Atbash Encryption
+[Blue Cipher #1] M -> N
+[Blue Cipher #1] Q -> J
+[Blue Cipher #1] U -> F
+[Blue Cipher #1] S -> H
+[Blue Cipher #1] M -> N
+[Blue Cipher #1] C -> X
+[Gray Cipher #1] Generated Word: QUARTZ
+[Gray Cipher #1] Begin Portax Encryption
+[Gray Cipher #1] Slides:
+[Gray Cipher #1] ABCDEFGHIJKLM
+[Gray Cipher #1] XYZNOPQRSTUVW
+[Gray Cipher #1] UWYACEGIKMOQS
+[Gray Cipher #1] VXZBDFHJLNPRT
+[Gray Cipher #1] QR -> VH
+[Gray Cipher #1] UT -> WP
+[Gray Cipher #1] AZ -> CV
+[Gray Cipher #1] Begin Bit Switch Encryption
+[Gray Cipher #1 ] Scrambler: 25431
+[Gray Cipher #1 ] V -> 10110 -> 01110 -> N
+[Gray Cipher #1 ] W -> 10111 -> 11110 -> D
+[Gray Cipher #1 ] C -> 00011 -> 10100 -> T
+[Gray Cipher #1 ] H -> 01000 -> 00001 -> A
+[Gray Cipher #1 ] P -> 10000 -> 01000 -> H
+[Gray Cipher #1 ] V -> 10110 -> 01110 -> N
+[Gray Cipher #1] Begin Ragbaby Encryption
+[Gray Cipher #1 ] Generated Key: ADFGHIJKLMNPQTVWXYZOBSCURE
+[Gray Cipher #1 ] N -> P
+[Gray Cipher #1 ] D -> G
+[Gray Cipher #1 ] T -> X
+[Gray Cipher #1 ] A -> H
+[Gray Cipher #1 ] H -> M
+[Gray Cipher #1 ] N -> X
+[Green Cipher #1] Generated Word: KIDNEY
+[Green Cipher #1] Begin Mechanical Encryption
+[Green Cipher #1] E + K -> X
+[Green Cipher #1] L + I -> E
+[Green Cipher #1] B + D -> Z
+[Green Cipher #1] O + N -> Z
+[Green Cipher #1] W + E -> P
+[Green Cipher #1] S + Y -> F
+[Green Cipher #1] Begin Columnar Transposition
+[Green Cipher #1] Column 1: XZP
+[Green Cipher #1] Column 2: EZF
+[Green Cipher #1] XEZZPF -> XZPEZF
+[Green Cipher #1] Begin Homophonic Encryption
+[Green Cipher #1] Row 1: 14
+[Green Cipher #1] Row 2: 33
+[Green Cipher #1] Row 3: 60
+[Green Cipher #1] E -> 18
+[Green Cipher #1] L -> 44
+[Green Cipher #1] B -> 61
+[Green Cipher #1] O -> 02
+[Green Cipher #1] W -> 56
+[Green Cipher #1] S -> 51
+[Indigo Cipher #1] Generated Word: WEAKEN
+[Indigo Cipher #1] Begin Logic Encryption
+[Indigo Cipher #1] Gate: ->
+[Indigo Cipher #1] 01001 + 00110 = 10110
+[Indigo Cipher #1] 11011 + 00000 = 00100
+[Indigo Cipher #1] 11111 + 00000 = 00000
+[Indigo Cipher #1] 10101 + 01000 = 01010
+[Indigo Cipher #1] 11011 + 00000 = 00100
+[Indigo Cipher #1] 10010 + 00000 = 01101
+[Indigo Cipher #1] Logic Encryption Keyword: GAAIAA
+[Indigo Cipher #1] Logic Encrypted Word: JBFVBS
+[Indigo Cipher #1] Binary 1: 011101
+[Indigo Cipher #1] Binary 2: 011011
+[Indigo Cipher #1] Binary 3: 111011
+[Indigo Cipher #1] Begin Condi Encryption
+[Indigo Cipher #1] Key: ABCDFHIJKLMNOPQSTVWXYZURGE
+[Indigo Cipher #1] Offset: 6
+[Indigo Cipher #1] J -> P
+[Indigo Cipher #1] Offset: 8
+[Indigo Cipher #1] B -> L
+[Indigo Cipher #1] Offset: 2
+[Indigo Cipher #1] F -> I
+[Indigo Cipher #1] Offset: 5
+[Indigo Cipher #1] V -> U
+[Indigo Cipher #1] Offset: 18
+[Indigo Cipher #1] B -> X
+[Indigo Cipher #1] Offset: 2
+[Indigo Cipher #1] S -> V
+[Indigo Cipher #1] Begin Fractionated Morse Encryption
+[Indigo Cipher #1] Key: ABCDFHIJKLMNOPQSTVWXYZURGE
+[Indigo Cipher #1] G -> --.
+[Indigo Cipher #1] A -> .-
+[Indigo Cipher #1] A -> .-
+[Indigo Cipher #1] I -> ..
+[Indigo Cipher #1] A -> .-
+[Indigo Cipher #1] A -> .-
+[Indigo Cipher #1] Morse rows:
+[Indigo Cipher #1] -xxxxx
+[Indigo Cipher #1] -.....
+[Indigo Cipher #1] .--.--
+[Indigo Cipher #1] --. -> O
+[Indigo Cipher #1] x.- -> X
+[Indigo Cipher #1] x.- -> X
+[Indigo Cipher #1] x.. -> W
+[Indigo Cipher #1] x.- -> X
+[Indigo Cipher #1] x.- -> X
+[Orange Cipher #1] Generated Word: PHOTOS
+[Orange Cipher #1] Matrix A: VERYABCDFGHIKLMNOPQSTUWXZ
+[Orange Cipher #1] Matrix B: AFLQVBGMRWCHNSXDIOTYEKPUZ
+[Orange Cipher #1] Matrix C: BCGKLMPQVWZFOURTHSANDEIXY
+[Orange Cipher #1] Matrix D: MONKABCDEFGHILPQRSTUVWXYZ
+[Orange Cipher #1] Begin Foursquare Encryption
+[Orange Cipher #1] PH -> IO
+[Orange Cipher #1] OT -> TH
+[Orange Cipher #1] OS -> OH
+[Orange Cipher #1] Begin Bazeries Encryption
+[Orange Cipher #1] I -> H
+[Orange Cipher #1] O -> S
+[Orange Cipher #1] T -> A
+[Orange Cipher #1] H -> F
+[Orange Cipher #1] O -> S
+[Orange Cipher #1] H -> F
+[Orange Cipher #1] Subgroup Number: 3
+[Orange Cipher #1] HSA|FSF| -> ASHFSF
+[Orange Cipher #1] Begin ADFGX Encryption
+[Orange Cipher #1] M -> FX
+[Orange Cipher #1] O -> GD
+[Orange Cipher #1] N -> GA
+[Orange Cipher #1] K -> FF
+[Orange Cipher #1] E: FX
+[Orange Cipher #1] R: GD
+[Orange Cipher #1] V: GA
+[Orange Cipher #1] Y: FF
+[Orange Cipher #1] VERY
+GFGF
+AXDF
+
+[Orange Cipher #1] Encrypted Keyword: GFGFAXDF
+[Red Cipher #1] Generated Word: AIMING
+[Red Cipher #1] Trisquare Key 1: BDEFGHKLMNOPQRSUWXZCAVITY
+[Red Cipher #1] Trisquare Key 2: UPDATINGBCEFHKLMOQRSVWXYZ
+[Red Cipher #1] Trisquare Key 3: ADFGHKLMNOPQRVWXYZSUBIECT
+[Red Cipher #1] Begin Trisquare Encryption
+[Red Cipher #1] AI -> BK
+[Red Cipher #1] MI -> KN
+[Red Cipher #1] NG -> MO
+[Red Cipher #1] CM Bifid Key 1: BDEFGHKLMNOPQRSUWXZCAVITY
+[Red Cipher #1] CM Bifid Key 2: UPDATINGBCEFHKLMOQRSVWXYZ
+[Red Cipher #1] Begin CM Bifid Encryption
+[Red Cipher #1] Rows|Columns: 011112|011430
+[Red Cipher #1] B -> P
+[Red Cipher #1] K -> N
+[Red Cipher #1] K -> G
+[Red Cipher #1] N -> P
+[Red Cipher #1] M -> C
+[Red Cipher #1] O -> M
+[Red Cipher #1] Playfair Key: BDEFGHKLMNOPQRSUWXZCAVITY
+[Red Cipher #1] Begin Playfair Encryption
+[Red Cipher #1] PN -> SK
+[Red Cipher #1] GP -> DS
+[Red Cipher #1] CM -> ZN
+[Violet Cipher #1] Generated Word: UNVEIL
+[Violet Cipher #1] Begin Quagmire Encryption
+[Violet Cipher #1] Quagmire Rows: 
+[Violet Cipher #1] ERASINGBCDFHJKLMOPQTUVWXYZ
+[Violet Cipher #1] LMOPQTUVWXYZERASINGBCDFHJK
+[Violet Cipher #1] BCDFHJKLMOPQTUVWXYZERASING
+[Violet Cipher #1] OPQTUVWXYZERASINGBCDFHJKLM
+[Violet Cipher #1] WXYZERASINGBCDFHJKLMOPQTUV
+[Violet Cipher #1] SINGBCDFHJKLMOPQTUVWXYZERA
+[Violet Cipher #1] U -> U
+[Violet Cipher #1] N -> R
+[Violet Cipher #1] V -> A
+[Violet Cipher #1] E -> U
+[Violet Cipher #1] I -> I
+[Violet Cipher #1] L -> L
+[Violet Cipher #1] Begin Route Transposition
+[Violet Cipher #1] URAUIL + 12 => UURALI
+[Violet Cipher #1] Begin Porta Encryption
+[Violet Cipher #1] U -> F
+[Violet Cipher #1] U -> C
+[Violet Cipher #1] R -> E
+[Violet Cipher #1] A -> U
+[Violet Cipher #1] L -> W
+[Violet Cipher #1] I -> R
+[White Cipher #1] Generated Word: WEEKLY
+[White Cipher #1] Begin Sean Encryption
+[White Cipher #1] Key: IYRDAWBZKVHGCEFJLMNOPQSTUX
+[White Cipher #1] W -> N 
+[White Cipher #1] Key: EIYRDAWBZKVHGFJLMNOPQSTUXC
+[White Cipher #1] E -> F 
+[White Cipher #1] Key: FEIYRDAWBZKVHJLMNOPQSTUXCG
+[White Cipher #1] E -> L 
+[White Cipher #1] Key: JFEIYRDAWBZKVLMNOPQSTUXCGH
+[White Cipher #1] K -> G 
+[White Cipher #1] Key: LJFEIYRDAWBZKMNOPQSTUXCGHV
+[White Cipher #1] L -> M 
+[White Cipher #1] Key: MLJFEIYRDAWBZNOPQSTUXCGHVK
+[White Cipher #1] Y -> U 
+[White Cipher #1] Key: NMLJFEIYRDAWBOPQSTUXCGHVKZ
+[White Cipher #1] Begin Base Caesar Encryption
+[White Cipher #1] Generated Offset: 97
+[White Cipher #1] N -> U
+[White Cipher #1] F -> M
+[White Cipher #1] L -> S
+[White Cipher #1] G -> N
+[White Cipher #1] M -> T
+[White Cipher #1] U -> B
+[White Cipher #1] Generated Base: ((21 + 13 + 19 + 14 + 20 + 2 ) % 8) + 2 = 3
+[White Cipher #1] Begin Grille Transposition
+[White Cipher #1] Clockwise rotations: 0
+[White Cipher #1] IYRDAWBZKWVKHGDC -> IHGAKWWYVRDDCBZK
+[Yellow Cipher #2] Generated Word: UNLOAD
+[Yellow Cipher #2] Begin Hill Encryption
+[Yellow Cipher #2] Number A: 25
+[Yellow Cipher #2] Number B: 23
+[Yellow Cipher #2] Number C: 12
+[Yellow Cipher #2] Number D: 9
+[Yellow Cipher #2] 21 14 -> 15 14
+[Yellow Cipher #2] 12 15 -> 21 19
+[Yellow Cipher #2] 1 4 -> 13 22
+[Yellow Cipher #2] Hill Encrypted Word: ONUSMV
+[Yellow Cipher #2] Begin Trifid Encryption
+[Yellow Cipher #2] Trifid Key: LENGTHABCDFIJKMOPQRSUVWXYZ
+[Yellow Cipher #2] Trifid Numbers:
+213323
+311122
+133231
+[Yellow Cipher #2] Trifid Encrypted Word: IXRTCO
+[Yellow Cipher #2] Morbit Key: 36817452
+[Yellow Cipher #2] Morbit Encrypted Word: 6352878433
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"Pink Ultimate Cipher - Seperated"}
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Rule Seed Modifier] The Seed is 1
+[Tweaks] LFABombInfo 4
+{"serial":"SV2WR4","displayNames":{"Timer":"Timer","blackCipher":"Black Cipher","blueCipher":"Blue Cipher","grayCipher":"Gray Cipher","greenCipher":"Green Cipher","indigoCipher":"Indigo Cipher","orangeCipher":"Orange Cipher","redCipher":"Red Cipher",
+"violetCipher":"Violet Cipher","whiteCipher":"White Cipher","yellowCipher":"Yellow Cipher","Empty":"None"},"ids":{"blackCipher":[1],"blueCipher":[1],"grayCipher":[1],"greenCipher":[1],"indigoCipher":[1],"orangeCipher":[1],"redCipher":[1],"violetCiphe
+r":[1],"whiteCipher":[1],"yellowCipher":[2]},"anchors":[[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220],[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220]],"modules":["red
+Cipher 1","Timer -","Empty -","grayCipher 1","indigoCipher 1","yellowCipher 2","whiteCipher 1","violetCipher 1","orangeCipher 1","blackCipher 1","blueCipher 1","greenCipher 1"]}
+[TwitchPlays] Switching bomb
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'blackCipher(Clone)'.
+[Profile Revealer] Attaching to 'blueCipher(Clone)'.
+[Profile Revealer] Attaching to 'grayCipher(Clone)'.
+[Profile Revealer] Attaching to 'greenCipher(Clone)'.
+[Profile Revealer] Attaching to 'indigoCipher(Clone)'.
+[Profile Revealer] Attaching to 'orangeCipher(Clone)'.
+[Profile Revealer] Attaching to 'redCipher(Clone)'.
+[Profile Revealer] Attaching to 'violetCipher(Clone)'.
+[Profile Revealer] Attaching to 'whiteCipher(Clone)'.
+[Profile Revealer] Attaching to 'yellowCipher(Clone)'.
+mod_fangspack_pinkuc
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !bomb endtrainingmode
+[Bomb] Strike from TwitchPlays! 0 / 1 strikes
+[Bomb] Strike from None! 1 / 1 strikes
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"SV2WR4","bombTime":0.001,"realTime":6.16015625,"solves":0,"strikes":1}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

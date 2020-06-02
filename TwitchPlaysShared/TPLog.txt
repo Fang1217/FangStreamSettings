@@ -269,3 +269,118 @@ Module ID: 6 | Player: nochibato | Module Name: Label Priorities | Value: 4
 Module ID: 12 | Player: Dbros1000 | Module Name: Orientation Cube | Strike
 Module ID: 9 | Player: nochibato | Module Name: BoozleTalk | Value: 5
 Module ID: 6 | Player: xarata98 | Module Name: The Plunger Button | Value: 3
+Module ID: 16 | Player: nochibato | Module Name: Cruel Keypads | Strike
+Module ID: 3 | Player: marksam32 | Module Name: Ternary Converter | Value: 6
+Module ID: 1 | Player: Dbros1000 | Module Name: Alphabetize | Value: 8
+Module ID: 16 | Player: nochibato | Module Name: Cruel Keypads | Value: 9
+Module ID: 5 | Player: xarata98 | Module Name: Tower of Hanoi | Value: 13
+Module ID: 17 | Player: nochibato | Module Name: Curriculum | Value: 13
+Module ID: 12 | Player: nochibato | Module Name: Bases | Value: 9
+Module ID: 2 | Player: nochibato | Module Name: Chinese Counting | Value: 5
+Module ID: 11 | Player: krispyalliance52133 | Module Name: Zoo | Value: 8
+Module ID: 14 | Player: krispyalliance52133 | Module Name: European Travel | Value: 7
+Module ID: 10 | Player: nochibato | Module Name: Simon Selects | Value: 8
+Module ID: 46 | Player: Dbros1000 | Module Name: Know Your Way | Value: 9
+Module ID: 44 | Player: jjroccss | Module Name: Word Scramble | Value: 2
+Module ID: 8 | Player: xarata98 | Module Name: BoozleTalk | Value: 5
+Module ID: 45 | Player: jjroccss | Module Name: Digital Dials | Value: 7
+Module ID: 11 | Player: cky1975 | Module Name: European Travel | Value: 7
+Module ID: 15 | Player: xarata98 | Module Name: Challenge & Contact | Value: 7
+Module ID: 18 | Player: jjroccss | Module Name: Cruel Digital Root | Value: 3
+Module ID: 12 | Player: jjroccss | Module Name: Crazy Talk | Value: 2
+Module ID: 7 | Player: jjroccss | Module Name: Not Memory | Value: 2
+Module ID: 10 | Player: jjroccss | Module Name: Letter Keys | Value: 2
+Module ID: 14 | Player: krispyalliance52133 | Module Name: Dungeon | Value: 17
+Module ID: 9 | Player: jjroccss | Module Name: Cryptic Password | Value: 6
+Module ID: 6 | Player: jjroccss | Module Name: Seven Wires | Value: 3
+Module ID: 2 | Player: krispyalliance52133 | Module Name: Polyhedral Maze | Value: 11
+Module ID: 28 | Player: jjroccss | Module Name: Module Maze | Value: 7
+Module ID: 25 | Player: krispyalliance52133 | Module Name: Game of Life Simple | Strike
+Module ID: 5 | Player: jjroccss | Module Name: Quiz Buzz | Value: 9
+Module ID: 17 | Player: krispyalliance52133 | Module Name: Pictionary | Value: 5
+Module ID: 27 | Player: jjroccss | Module Name: Crazy Talk With A K | Value: 7
+Module ID: 10 | Player: jjroccss | Module Name: The Simpleton | Value: 1
+Module ID: 8 | Player: jjroccss | Module Name: Mashematics | Value: 2
+Module ID: 11 | Player: pikachuplays07 | Module Name: Festive Piano Keys | Value: 5
+Module ID: 9 | Player: jjroccss | Module Name: Boolean Venn Diagram | Value: 7
+Module ID: 5 | Player: Dbros1000 | Module Name: Button Sequence | Value: 8
+Module ID: 4 | Player: jjroccss | Module Name: Painting | Value: 7
+Module ID: 2 | Player: marksam32 | Module Name: The Moon | Value: 11
+Module ID: 3 | Player: GeekYiwen | Module Name: Left and Right | Value: 10
+Module ID: 11 | Player: GeekYiwen | Module Name: Challenge & Contact | Value: 7
+Module ID: 9 | Player: GeekYiwen | Module Name: Calculus | Value: 4
+Module ID: 4 | Player: marksam32 | Module Name: Color Morse | Strike
+Module ID: 10 | Player: TimwiTerby | Module Name: Morse Buttons | Value: 10
+Module ID: 7 | Player: TheLegendWilleh | Module Name: Yes and No | Strike
+Module ID: 7 | Player: TheLegendWilleh | Module Name: Yes and No | Value: 12
+Module ID: 4 | Player: marksam32 | Module Name: Color Morse | Value: 9
+Module ID: 2 | Player: GeekYiwen | Module Name: Audio Morse | Value: 7
+Module ID: 6 | Player: jjroccss | Module Name: Disordered Keys | Value: 13
+Module ID: 8 | Player: marksam32 | Module Name: Synonyms | Value: 6
+Module ID: 1 | Player: xXTheDweebXx | Module Name: Accumulation | Value: 10
+Module ID: 3 | Player: TimwiTerby | Module Name: Green Arrows | Strike
+Module ID: 21 | Player: TheLegendWilleh | Module Name: TetraVex | Strike
+Module ID: 14 | Player: xarata98 | Module Name: Flavor Text | Value: 3
+Module ID: 4 | Player: marksam32 | Module Name: Encryption Bingo | Strike
+Module ID: 1 | Player: jjroccss | Module Name: Radiator | Value: 5
+Module ID: 4 | Player: xmaster6726 | Module Name: The High Score | Strike
+Module ID: 14 | Player: TheLegendofKirbychu | Module Name: Mortal Kombat | Value: 5
+Module ID: 3 | Player: TheLegendWilleh | Module Name: The Ultracube | Value: 17
+Module ID: 5 | Player: TheGuyThatIsWeird | Module Name: Arrow Talk | Value: 5
+Module ID: 16 | Player: r4y697 | Module Name: Kanji | Value: 5
+Module ID: 11 | Player: jjroccss | Module Name: Unordered Keys | Value: 11
+Module ID: 21 | Player: cky1975 | Module Name: Wire Placement | Value: 4
+Module ID: 12 | Player: TheLegendWilleh | Module Name: The cRule | Value: 16
+Module ID: 17 | Player: xarata98 | Module Name: Unfair Cipher | Value: 16
+Module ID: 22 | Player: jjroccss | Module Name: Digital Dials | Value: 7
+Module ID: 13 | Player: TheLegendofKirbychu | Module Name: Mastermind Simple | Value: 4
+Module ID: 19 | Player: TimwiTerby | Module Name: Seven Choose Four | Strike
+Module ID: 23 | Player: TimwiTerby | Module Name: Orientation Cube | Value: 7
+Module ID: 9 | Player: ScopingLandscape | Module Name: Complex Keypad | Value: 4
+Module ID: 8 | Player: TimwiTerby | Module Name: Rubik's Cube | Value: 9
+Module ID: 4 | Player: TheLegendWilleh | Module Name: The High Score | Value: 6
+Module ID: 10 | Player: jjroccss | Module Name: Alpha-Bits | Value: 8
+Module ID: 6 | Player: TheGuyThatIsWeird | Module Name: Role Reversal | Value: 8
+Module ID: 20 | Player: TimwiTerby | Module Name: Harmony Sequence | Value: 8
+Module ID: 7 | Player: ScopingLandscape | Module Name: Snooker | Value: 9
+Module ID: 19 | Player: TimwiTerby | Module Name: Seven Choose Four | Strike
+Module ID: 15 | Player: r4y697 | Module Name: Boolean Wires | Value: 7
+Module ID: 2 | Player: jjroccss | Module Name: Subscribe to Pewdiepie | Value: 6
+Module ID: 19 | Player: TheLegendWilleh | Module Name: Seven Choose Four | Value: 14
+Module ID: 18 | Player: xmaster6726 | Module Name: Baccarat | Strike
+Module ID: 18 | Player: xmaster6726 | Module Name: Baccarat | Value: 11
+Module ID: 14 | Player: ScopingLandscape | Module Name: The Legendre Symbol | Value: 8
+Module ID: 13 | Player: r4y697 | Module Name: Boolean Keypad | Value: 5
+Module ID: 5 | Player: ScopingLandscape | Module Name: Astrology | Value: 6
+Module ID: 11 | Player: pikachuplays07 | Module Name: English Test | Value: 4
+Module ID: 23 | Player: xarata98 | Module Name: Green Cipher | Value: 10
+Module ID: 15 | Player: TimwiTerby | Module Name: Simon Scrambles | Value: 3
+Module ID: 24 | Player: xarata98 | Module Name: Gray Cipher | Value: 13
+Module ID: 2 | Player: TimwiTerby | Module Name: Goofy's Game | Value: 8
+Module ID: 3 | Player: r4y697 | Module Name: Simon Speaks | Value: 10
+Module ID: 27 | Player: TimwiTerby | Module Name: Tap Code | Value: 8
+Module ID: 12 | Player: draket333 | Module Name: Superlogic | Value: 8
+Module ID: 28 | Player: draket333 | Module Name: Not Memory | Value: 2
+Module ID: 26 | Player: TheLegendWilleh | Module Name: UltraStores | Strike
+Module ID: 6 | Player: ScopingLandscape | Module Name: Button Grid | Strike
+Module ID: 10 | Player: draket333 | Module Name: IKEA | Value: 13
+Module ID: 25 | Player: xmaster6726 | Module Name: Quaternions | Strike
+Module ID: 1 | Player: TimwiTerby | Module Name: Adventure Game | Strike
+Module ID: 1 | Player: TimwiTerby | Module Name: Adventure Game | Value: 8
+Module ID: 13 | Player: Procyon_KTaNE | Module Name: Monsplode, Fight! | Value: 6
+Module ID: 26 | Player: KingMario2973 | Module Name: The Witness | Value: 5
+Module ID: 9 | Player: TheLegendWilleh | Module Name: Gray Cipher | Value: 13
+Module ID: 31 | Player: KingMario2973 | Module Name: Seven Deadly Sins | Value: 7
+Module ID: 30 | Player: KingMario2973 | Module Name: Seven Wires | Value: 3
+Module ID: 20 | Player: xmaster6726 | Module Name: Mystic Square | Value: 9
+Module ID: 22 | Player: Procyon_KTaNE | Module Name: The Sphere | Value: 13
+Module ID: 25 | Player: KingMario2973 | Module Name: Cryptic Password | Strike
+Module ID: 16 | Player: TheLegendWilleh | Module Name: Spelling Bee | Value: 4
+Module ID: 12 | Player: TheLegendWilleh | Module Name: Neutrinos | Strike
+Module ID: 25 | Player: KingMario2973 | Module Name: Cryptic Password | Value: 6
+Module ID: 3 | Player: Procyon_KTaNE | Module Name: Quintuples | Value: 13
+Module ID: 14 | Player: cky1975 | Module Name: Timezone | Value: 6
+Module ID: 7 | Player: Cyber12 | Module Name: Double Expert | Value: 10
+Module ID: 12 | Player: TheLegendWilleh | Module Name: Neutrinos | Value: 16
+Module ID: 11 | Player: TheLegendWilleh | Module Name: Ice Cream | Strike
+Module ID: 11 | Player: TheLegendWilleh | Module Name: Ice Cream | Strike

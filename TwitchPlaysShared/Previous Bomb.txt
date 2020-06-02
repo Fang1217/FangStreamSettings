@@ -8,510 +8,1012 @@ Initialize engine version: Twitch Plays
 Reloading mod settings file...
 [State] Enter GameplayState
 
-[BombGenerator] Generating bomb with seed 1050722651
+[BombGenerator] Generating bomb with seed 1947141857
 
-[BombGenerator] Generator settings: Time: 2040, NumStrikes: 3, FrontFaceOnly: False
+[BombGenerator] Generator settings: Time: 420, NumStrikes: 9, FrontFaceOnly: False
 1 Pools:
-[ALL_SOLVABLE] Count: 17
+[ALL_SOLVABLE] Count: 31
 
 
-[BombGenerator] Selected qFunctions (1582752899 (ModBombComponent))
+[BombGenerator] Selected sun (1356980757 (ModBombComponent))
 
-[BombGenerator] Selected festiveJukebox (1597422201 (ModBombComponent))
+[BombGenerator] Selected HumanResourcesModule (1314359857 (ModBombComponent))
 
-[BombGenerator] Selected EncryptedEquationsModule (1758398098 (ModBombComponent))
+[BombGenerator] Selected quintuples (1520331392 (ModBombComponent))
 
-[BombGenerator] Selected ingredients (1909948139 (ModBombComponent))
-
-[BombGenerator] Selected EncryptedDice (1945183738 (ModBombComponent))
-
-[BombGenerator] Selected LabelPrioritiesModule (2039393391 (ModBombComponent))
-
-[BombGenerator] Selected arithmelogic (1731230630 (ModBombComponent))
-
-[BombGenerator] Selected exoplanets (2041536146 (ModBombComponent))
-
-[BombGenerator] Selected yellowCipher (1869671443 (ModBombComponent))
+[BombGenerator] Selected Microcontroller (769436101 (ModBombComponent))
 
 [BombGenerator] Selected Tangrams (1358769694 (ModBombComponent))
 
-[BombGenerator] Selected doubleArrows (1823231638 (ModBombComponent))
+[BombGenerator] Selected theTriangleButton (1709847654 (ModBombComponent))
 
-[BombGenerator] Selected OrientationCube (744171602 (ModBombComponent))
+[BombGenerator] Selected doubleExpert (2041856356 (ModBombComponent))
 
-[BombGenerator] Selected SplittingTheLootModule (1465429723 (ModBombComponent))
+[BombGenerator] Selected geometryDashModule (1891254219 (ModBombComponent))
 
-[BombGenerator] Selected RailwayCargoLoading (1977063810 (ModBombComponent))
+[BombGenerator] Selected grayCipher (1894824276 (ModBombComponent))
 
-[BombGenerator] Selected NandMs (1892878540 (ModBombComponent))
+[BombGenerator] Selected tWords (1547869230 (ModBombComponent))
 
-[BombGenerator] Selected NumberPad (1224553628 (ModBombComponent))
+[BombGenerator] Selected iceCreamModule (1649217354 (ModBombComponent))
 
-[BombGenerator] Selected giantsDrink (1702384395 (ModBombComponent))
+[BombGenerator] Selected neutrinos (1921961004 (ModBombComponent))
 
-[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1582752899 (ModBombComponent), 1597422201 (ModBombComponent), 1758398098 (ModBombComponent), 1909948139 (ModBombComponent), 1945183738 (ModBombComponent), 2039393391 (ModBombComponent), 1731230630 (ModBombComponent), 2041536146 (ModBombComponent), 1869671443 (ModBombComponent), 1358769694 (ModBombComponent), 1823231638 (ModBombComponent), 744171602 (ModBombComponent), 1465429723 (ModBombComponent), 1977063810 (ModBombComponent), 1892878540 (ModBombComponent), 1224553628 (ModBombComponent), 1702384395 (ModBombComponent)]
+[BombGenerator] Selected monsplodeFight (777164508 (ModBombComponent))
 
-[Mod-qFunctions] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1582752899" has ID:"qFunctions"
+[BombGenerator] Selected timezone (1251328795 (ModBombComponent))
 
-[Mod-qFunctions] Loading assemblies...
+[BombGenerator] Selected garfieldKart (1869394985 (ModBombComponent))
 
-[Mod-qFunctions] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1582752899\Newtonsoft.Json.dll"...
+[BombGenerator] Selected spellingBee (1913696008 (ModBombComponent))
 
-[Mod-qFunctions] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1582752899\qFunctions.dll"
+[BombGenerator] Selected groceryStore (1660187447 (ModBombComponent))
 
-[Mod-qFunctions] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1582752899" complete.
+[BombGenerator] Selected greenArrowsModule (1757173794 (ModBombComponent))
 
-[Mod-qFunctions] Loading GameObjects...
+[BombGenerator] Selected lgndLEDMath (1627668059 (ModBombComponent))
 
-[Mod-qFunctions] Replacing shaders...
+[BombGenerator] Selected MysticSquareModule (802366358 (ModBombComponent))
 
-[Mod-qFunctions] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[BombGenerator] Selected TheTwinModule (2053979482 (ModBombComponent))
 
-[Mod-qFunctions] Loading KMMissions...
+[BombGenerator] Selected sphere (1525239111 (ModBombComponent))
 
-[Mod-qFunctions] Loading KMMissionTableOfContents...
+[BombGenerator] Selected TheBlackPage (1952286416 (ModBombComponent))
 
-[Mod-qFunctions] Loading AudioClips...
+[BombGenerator] Selected timeKeeper (1416853392 (ModBombComponent))
 
-[BombGenerator] Instantiated 1582752899 on face FrontFace, spawn index 3
+[BombGenerator] Selected CrypticPassword (1746664119 (ModBombComponent))
 
-[Mod-festiveJukebox] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1597422201" has ID:"festiveJukebox"
+[BombGenerator] Selected thewitness (1847301971 (ModBombComponent))
 
-[Mod-festiveJukebox] Loading assemblies...
+[BombGenerator] Selected pwGenerator (1996258088 (ModBombComponent))
 
-[Mod-festiveJukebox] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1597422201\Newtonsoft.Json.dll"...
+[BombGenerator] Selected Signals (1512556237 (ModBombComponent))
 
-[Mod-festiveJukebox] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1597422201\festiveJukebox.dll"
+[BombGenerator] Selected symbolicColouring (1779657027 (ModBombComponent))
 
-[Mod-festiveJukebox] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1597422201" complete.
+[BombGenerator] Selected sevenWires (1671472975 (ModBombComponent))
 
-[Mod-festiveJukebox] Loading GameObjects...
+[BombGenerator] Selected sevenDeadlySins (1777707662 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1356980757 (ModBombComponent), 1314359857 (ModBombComponent), 1520331392 (ModBombComponent), 769436101 (ModBombComponent), 1358769694 (ModBombComponent), 1709847654 (ModBombComponent), 2041856356 (ModBombComponent), 1891254219 (ModBombComponent), 1894824276 (ModBombComponent), 1547869230 (ModBombComponent), 1649217354 (ModBombComponent), 1921961004 (ModBombComponent), 777164508 (ModBombComponent), 1251328795 (ModBombComponent), 1869394985 (ModBombComponent), 1913696008 (ModBombComponent), 1660187447 (ModBombComponent), 1757173794 (ModBombComponent), 1627668059 (ModBombComponent), 802366358 (ModBombComponent), 2053979482 (ModBombComponent), 1525239111 (ModBombComponent), 1952286416 (ModBombComponent), 1416853392 (ModBombComponent), 1746664119 (ModBombComponent), 1847301971 (ModBombComponent), 1996258088 (ModBombComponent), 1512556237 (ModBombComponent), 1779657027 (ModBombComponent), 1671472975 (ModBombComponent), 1777707662 (ModBombComponent)]
+
+[Mod-sun] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1356980757" has ID:"sun"
+
+[Mod-sun] Loading assemblies...
+
+[Mod-sun] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1356980757\Newtonsoft.Json.dll"...
+
+[Mod-sun] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1356980757\sun.dll"
+
+[Mod-sun] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1356980757" complete.
+
+[Mod-sun] Loading GameObjects...
 
 Desired shader compiler platform 4 is not available in shader blob
 Desired shader compiler platform 4 is not available in shader blob
 Desired shader compiler platform 4 is not available in shader blob
 Desired shader compiler platform 4 is not available in shader blob
-[Mod-festiveJukebox] Replacing shaders...
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-sun] Replacing shaders...
 
-[Mod-festiveJukebox] ModUnityVersion: 2017.4.20f2 Game: 2017.4.22f1
+[Mod-sun] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-festiveJukebox] Loading KMMissions...
+[Mod-sun] Loading KMMissions...
 
-[Mod-festiveJukebox] Loading KMMissionTableOfContents...
+[Mod-sun] Loading KMMissionTableOfContents...
 
-[Mod-festiveJukebox] Loading AudioClips...
+[Mod-sun] Loading AudioClips...
 
-[BombGenerator] Instantiated 1597422201 on face RearFace, spawn index 7
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+[BombGenerator] Instantiated 1356980757 on face FrontFace, spawn index 5
 
-[Mod-EncryptedEquations] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1758398098" has ID:"EncryptedEquations"
+[Mod-HumanResources] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1314359857" has ID:"HumanResources"
 
-[Mod-EncryptedEquations] Loading assemblies...
+[Mod-HumanResources] Loading assemblies...
 
-[Mod-EncryptedEquations] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1758398098\Newtonsoft.Json.dll"...
+[Mod-HumanResources] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1314359857\Newtonsoft.Json.dll"...
 
-[Mod-EncryptedEquations] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1758398098\EncryptedEquations.dll"
+[Mod-HumanResources] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1314359857\HumanResources.dll"
 
-[Mod-EncryptedEquations] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1758398098" complete.
+[Mod-HumanResources] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1314359857" complete.
 
-[Mod-EncryptedEquations] Loading GameObjects...
+[Mod-HumanResources] Loading GameObjects...
 
-[Mod-EncryptedEquations] Replacing shaders...
+[Mod-HumanResources] Replacing shaders...
 
-[Mod-EncryptedEquations] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Mod-HumanResources] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
 
-[Mod-EncryptedEquations] Replacing shaders...
+[Mod-HumanResources] Loading KMMissions...
 
-[Mod-EncryptedEquations] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Mod-HumanResources] Loading KMMissionTableOfContents...
 
-[Mod-EncryptedEquations] Loading KMMissions...
+[Mod-HumanResources] Loading AudioClips...
 
-[Mod-EncryptedEquations] Loading KMMissionTableOfContents...
+Font size and style overrides are only supported for dynamic fonts.
+[BombGenerator] Instantiated 1314359857 on face FrontFace, spawn index 2
 
-[Mod-EncryptedEquations] Loading AudioClips...
+[Mod-quintuples] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1520331392" has ID:"quintuples"
 
-[BombGenerator] Instantiated 1758398098 on face FrontFace, spawn index 2
+[Mod-quintuples] Loading assemblies...
 
-[Mod-ingredients] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1909948139" has ID:"ingredients"
+[Mod-quintuples] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1520331392\Newtonsoft.Json.dll"...
 
-[Mod-ingredients] Loading assemblies...
+[Mod-quintuples] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1520331392\quintuples.dll"
 
-[Mod-ingredients] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1909948139\Newtonsoft.Json.dll"...
+[Mod-quintuples] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1520331392" complete.
 
-[Mod-ingredients] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1909948139\ingredients.dll"
+[Mod-quintuples] Loading GameObjects...
 
-[Mod-ingredients] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1909948139" complete.
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-quintuples] Replacing shaders...
 
-[Mod-ingredients] Loading GameObjects...
+[Mod-quintuples] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-ingredients] Replacing shaders...
+[Mod-quintuples] Loading KMMissions...
 
-[Mod-ingredients] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Mod-quintuples] Loading KMMissionTableOfContents...
 
-[Mod-ingredients] Loading KMMissions...
+[Mod-quintuples] Loading AudioClips...
 
-[Mod-ingredients] Loading KMMissionTableOfContents...
+Font size and style overrides are only supported for dynamic fonts.
+[BombGenerator] Instantiated 1520331392 on face RearFace, spawn index 0
 
-[Mod-ingredients] Loading AudioClips...
+[Mod-fnxMicrocontroller] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\769436101" has ID:"fnxMicrocontroller"
 
-[BombGenerator] Instantiated 1909948139 on face FrontFace, spawn index 6
+[Mod-fnxMicrocontroller] Loading assemblies...
 
-[Mod-EncryptedDice] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1945183738" has ID:"EncryptedDice"
+[Mod-fnxMicrocontroller] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\769436101\Newtonsoft.Json.dll"...
 
-[Mod-EncryptedDice] Loading assemblies...
+[Mod-fnxMicrocontroller] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\769436101\fnxMicrocontroller.dll"
 
-[Mod-EncryptedDice] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1945183738\Newtonsoft.Json.dll"...
+[Mod-fnxMicrocontroller] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\769436101" complete.
 
-[Mod-EncryptedDice] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1945183738\EncryptedDice.dll"
+[Mod-fnxMicrocontroller] Loading GameObjects...
 
-[Mod-EncryptedDice] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1945183738" complete.
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'TestHarness') is missing!
+The referenced script on this Behaviour (Game Object 'TestHarness') is missing!
+[Mod-fnxMicrocontroller] Replacing shaders...
 
-[Mod-EncryptedDice] Loading GameObjects...
+[Mod-fnxMicrocontroller] ModUnityVersion: 5.4.2p4 Game: 2017.4.22f1
 
-[Mod-EncryptedDice] Replacing shaders...
+[Mod-fnxMicrocontroller] Loading KMMissions...
 
-[Mod-EncryptedDice] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Mod-fnxMicrocontroller] Loading KMMissionTableOfContents...
 
-[Mod-EncryptedDice] Loading KMMissions...
+[Mod-fnxMicrocontroller] Loading AudioClips...
 
-[Mod-EncryptedDice] Loading KMMissionTableOfContents...
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'TestHarness') is missing!
+The referenced script on this Behaviour (Game Object 'TestHarness') is missing!
+The referenced script on this Behaviour (Game Object 'TestHarness') is missing!
+The referenced script on this Behaviour (Game Object 'TestHarness') is missing!
+[BombGenerator] Instantiated 769436101 on face RearFace, spawn index 10
 
-[Mod-EncryptedDice] Loading AudioClips...
+[Mod-Tangrams] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1358769694" has ID:"Tangrams"
 
-[BombGenerator] Instantiated 1945183738 on face FrontFace, spawn index 8
+[Mod-Tangrams] Loading assemblies...
 
-[Mod-labelPriorities] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2039393391" has ID:"labelPriorities"
+[Mod-Tangrams] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1358769694\Newtonsoft.Json.dll"...
 
-[Mod-labelPriorities] Loading assemblies...
+[Mod-Tangrams] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1358769694\Tangrams.dll"
 
-[Mod-labelPriorities] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2039393391\Newtonsoft.Json.dll"...
+[Mod-Tangrams] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1358769694" complete.
 
-[Mod-labelPriorities] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2039393391\labelPriorities.dll"
+[Mod-Tangrams] Loading GameObjects...
 
-[Mod-labelPriorities] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2039393391" complete.
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-labelPriorities] Loading GameObjects...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-labelPriorities] Replacing shaders...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-labelPriorities] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-labelPriorities] Loading KMMissions...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-labelPriorities] Loading KMMissionTableOfContents...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-labelPriorities] Loading AudioClips...
+[Mod-Tangrams] Replacing shaders...
 
-[BombGenerator] Instantiated 2039393391 on face FrontFace, spawn index 5
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-arithmelogic] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1731230630" has ID:"arithmelogic"
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-arithmelogic] Loading assemblies...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-arithmelogic] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1731230630\Newtonsoft.Json.dll"...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-arithmelogic] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1731230630\arithmelogic.dll"
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-arithmelogic] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1731230630" complete.
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-arithmelogic] Loading GameObjects...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-arithmelogic] Replacing shaders...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-arithmelogic] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-arithmelogic] Loading KMMissions...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-arithmelogic] Loading KMMissionTableOfContents...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-arithmelogic] Loading AudioClips...
+[Mod-Tangrams] Replacing shaders...
 
-[BombGenerator] Instantiated 1731230630 on face FrontFace, spawn index 1
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-exoplanets] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2041536146" has ID:"exoplanets"
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-exoplanets] Loading assemblies...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-exoplanets] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2041536146\Newtonsoft.Json.dll"...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-exoplanets] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2041536146\exoplanets.dll"
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-exoplanets] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2041536146" complete.
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-exoplanets] Loading GameObjects...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-exoplanets] Replacing shaders...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-exoplanets] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-exoplanets] Loading KMMissions...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-exoplanets] Loading KMMissionTableOfContents...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-exoplanets] Loading AudioClips...
+[Mod-Tangrams] Replacing shaders...
 
-[BombGenerator] Instantiated 2041536146 on face RearFace, spawn index 1
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-yellowCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869671443" has ID:"yellowCipher"
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-yellowCipher] Loading assemblies...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-yellowCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869671443\Newtonsoft.Json.dll"...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-yellowCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869671443\yellowCipher.dll"
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-yellowCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869671443" complete.
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-yellowCipher] Loading GameObjects...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-yellowCipher] Replacing shaders...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-yellowCipher] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-yellowCipher] Loading KMMissions...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-yellowCipher] Loading KMMissionTableOfContents...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-yellowCipher] Loading AudioClips...
+[Mod-Tangrams] Replacing shaders...
 
-[BombGenerator] Instantiated 1869671443 on face FrontFace, spawn index 4
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Tangrams #2] Generated tangram details: Grid=TAN-S-7331, Code=3121611, Pieces={BT-03, BT-01, MT-02, ST-01, ST-06, SQ-01, PL-01}
-[Tangrams #2] Possible input/output solutions: [1→16, 1→9, 1→7, 1→13, 2→6, 2→5, 4→3, 6→2, 6→5, 8→10, 11→12, 11→9, 11→7, 11→13, 12→11, 12→9, 12→7, 12→13, 13→9, 13→7, 15→1, 15→16, 15→9, 15→7, 15→13, 16→1, 16→9, 16→7, 16→13]
-[BombGenerator] Instantiated 1358769694 on face FrontFace, spawn index 7
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-doubleArrows] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1823231638" has ID:"doubleArrows"
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-doubleArrows] Loading assemblies...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-doubleArrows] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1823231638\Newtonsoft.Json.dll"...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-doubleArrows] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1823231638\doubleArrows.dll"
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-doubleArrows] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1823231638" complete.
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-doubleArrows] Loading GameObjects...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-doubleArrows] Replacing shaders...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-doubleArrows] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-doubleArrows] Loading KMMissions...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-doubleArrows] Loading KMMissionTableOfContents...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-doubleArrows] Loading AudioClips...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[BombGenerator] Instantiated 1823231638 on face FrontFace, spawn index 0
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-orientation] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\744171602" has ID:"orientation"
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-orientation] Loading assemblies...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-orientation] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\744171602\Newtonsoft.Json.dll"...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-orientation] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\744171602\orientation.dll"
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-orientation] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\744171602" complete.
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-orientation] Loading GameObjects...
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-orientation] Replacing shaders...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-orientation] ModUnityVersion: Not set Game: 2017.4.22f1
+[Mod-Tangrams] Replacing shaders...
 
-[Mod-orientation] Loading KMMissions...
+[Mod-Tangrams] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Localization] Adding mod term: mod/orientation_orientation_mission_1_DisplayName: "Getting your bearings"
+[Mod-Tangrams] Loading KMMissions...
 
-[Localization] Adding mod term: mod/orientation_orientation_mission_1_Description: "A good skill of 3D spatial awareness will help keep you and your friends alive. Otherwise your friends will miss you dearly."
+[Mod-Tangrams] Loading KMMissionTableOfContents...
 
-[Localization] Adding mod term: mod/orientation_orientation_mission_2_DisplayName: "Dizzy"
+[Mod-Tangrams] Loading AudioClips...
 
-[Localization] Adding mod term: mod/orientation_orientation_mission_2_Description: "Invisible cubes everywhere!"
+[Tangrams #3] Generated tangram details: Grid=TAN-D-7583, Code=3423682, Pieces={BT-03, BT-04, BT-02, MT-03, ST-06, ST-08, SQ-02}
+[Tangrams #3] Possible input/output solutions: [2→1, 2→10, 3→11, 3→1, 3→2, 3→10, 4→3, 4→11, 4→1, 4→2, 4→10, 5→11, 5→1, 5→2, 5→10, 5→7, 8→11, 8→1, 8→2, 8→10, 8→7, 10→1, 10→2, 11→1, 11→2, 11→10, 12→1, 12→2, 12→10]
+[BombGenerator] Instantiated 1358769694 on face FrontFace, spawn index 12
 
-[Localization] Adding mod term: mod/orientation_orientation_mission_3_DisplayName: "With other mods"
+[Mod-theTriangleButton] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1709847654" has ID:"theTriangleButton"
 
-[Localization] Adding mod term: mod/orientation_orientation_mission_3_Description: "Play alongside other installed mods."
+[Mod-theTriangleButton] Loading assemblies...
 
-[Mod-orientation] Loading KMMissionTableOfContents...
+[Mod-theTriangleButton] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1709847654\Newtonsoft.Json.dll"...
 
-[Localization] Adding mod term: mod/mod_toc_orientation_0_ToCName: "Orientation"
+[Mod-theTriangleButton] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1709847654\theTriangleButton.dll"
 
-[Localization] Adding mod term: mod/mod_toc_orientation_0_SectionTitle_0: "A"
+[Mod-theTriangleButton] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1709847654" complete.
 
-[Mod-orientation] Loading AudioClips...
+[Mod-theTriangleButton] Loading GameObjects...
 
-[BombGenerator] Instantiated 744171602 on face RearFace, spawn index 0
+[Mod-theTriangleButton] Replacing shaders...
 
-[Mod-SplittingTheLootModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1465429723" has ID:"SplittingTheLootModule"
+[Mod-theTriangleButton] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
 
-[Mod-SplittingTheLootModule] Loading assemblies...
+[Mod-theTriangleButton] Loading KMMissions...
 
-[Mod-SplittingTheLootModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1465429723\Newtonsoft.Json.dll"...
+[Mod-theTriangleButton] Loading KMMissionTableOfContents...
 
-[Mod-SplittingTheLootModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1465429723\SplittingTheLootModule.dll"
+[Mod-theTriangleButton] Loading AudioClips...
 
-[Mod-SplittingTheLootModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1465429723" complete.
+[BombGenerator] Instantiated 1709847654 on face RearFace, spawn index 4
 
-[Mod-SplittingTheLootModule] Loading GameObjects...
+[Mod-doubleExpert] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2041856356" has ID:"doubleExpert"
 
-[Mod-SplittingTheLootModule] Replacing shaders...
+[Mod-doubleExpert] Loading assemblies...
 
-[Mod-SplittingTheLootModule] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+[Mod-doubleExpert] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2041856356\Newtonsoft.Json.dll"...
 
-[Mod-SplittingTheLootModule] Loading KMMissions...
+[Mod-doubleExpert] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2041856356\doubleExpert.dll"
 
-[Mod-SplittingTheLootModule] Loading KMMissionTableOfContents...
+[Mod-doubleExpert] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2041856356" complete.
 
-[Mod-SplittingTheLootModule] Loading AudioClips...
+[Mod-doubleExpert] Loading GameObjects...
 
-[BombGenerator] Instantiated 1465429723 on face RearFace, spawn index 5
+[Mod-doubleExpert] Replacing shaders...
 
-[Mod-RailwayCargoLoading] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1977063810" has ID:"RailwayCargoLoading"
+[Mod-doubleExpert] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
 
-[Mod-RailwayCargoLoading] Loading assemblies...
+[Mod-doubleExpert] Loading KMMissions...
 
-[Mod-RailwayCargoLoading] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1977063810\Newtonsoft.Json.dll"...
+[Mod-doubleExpert] Loading KMMissionTableOfContents...
 
-[Mod-RailwayCargoLoading] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1977063810\RailwayCargoLoading.dll"
+[Mod-doubleExpert] Loading AudioClips...
 
-[Mod-RailwayCargoLoading] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1977063810" complete.
+Font size and style overrides are only supported for dynamic fonts.
+[BombGenerator] Instantiated 2041856356 on face RearFace, spawn index 13
 
-[Mod-RailwayCargoLoading] Loading GameObjects...
+[Mod-geometryDashModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1891254219" has ID:"geometryDashModule"
 
-[Mod-RailwayCargoLoading] Replacing shaders...
+[Mod-geometryDashModule] Loading assemblies...
 
-[Mod-RailwayCargoLoading] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Mod-geometryDashModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1891254219\Newtonsoft.Json.dll"...
 
-[Mod-RailwayCargoLoading] Loading KMMissions...
+[Mod-geometryDashModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1891254219\geometryDashModule.dll"
 
-[Mod-RailwayCargoLoading] Loading KMMissionTableOfContents...
+[Mod-geometryDashModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1891254219" complete.
 
-[Mod-RailwayCargoLoading] Loading AudioClips...
+[Mod-geometryDashModule] Loading GameObjects...
 
-[BombGenerator] Instantiated 1977063810 on face RearFace, spawn index 6
+[Mod-geometryDashModule] Loading KMMissions...
 
-[Mod-NandMsPack] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1892878540" has ID:"NandMsPack"
+[Mod-geometryDashModule] Loading KMMissionTableOfContents...
 
-[Mod-NandMsPack] Loading assemblies...
+[Mod-geometryDashModule] Loading AudioClips...
 
-[Mod-NandMsPack] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1892878540\Newtonsoft.Json.dll"...
+[Mod-geometryDashModule] Loading GameObjects...
 
-[Mod-NandMsPack] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1892878540\NandMsPack.dll"
+[Mod-geometryDashModule] Replacing shaders...
 
-[Mod-NandMsPack] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1892878540" complete.
+[Mod-geometryDashModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
 
-[Mod-NandMsPack] Loading GameObjects...
+[Mod-geometryDashModule] Replacing shaders...
 
-[Mod-NandMsPack] Replacing shaders...
+[Mod-geometryDashModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
 
-[Mod-NandMsPack] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Mod-geometryDashModule] Loading KMMissions...
 
-[Mod-NandMsPack] Replacing shaders...
+[Mod-geometryDashModule] Loading KMMissionTableOfContents...
 
-[Mod-NandMsPack] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+[Mod-geometryDashModule] Loading AudioClips...
 
-[Mod-NandMsPack] Loading KMMissions...
+Font size and style overrides are only supported for dynamic fonts.
+[BombGenerator] Instantiated 1891254219 on face FrontFace, spawn index 10
 
-[Mod-NandMsPack] Loading KMMissionTableOfContents...
+[BombGenerator] Instantiated 1894824276 on face RearFace, spawn index 12
 
-[Mod-NandMsPack] Loading AudioClips...
+[Mod-tWords] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1547869230" has ID:"tWords"
 
-[BombGenerator] Instantiated 1892878540 on face RearFace, spawn index 2
+[Mod-tWords] Loading assemblies...
 
-[Mod-NumberPad] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1224553628" has ID:"NumberPad"
+[Mod-tWords] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1547869230\Newtonsoft.Json.dll"...
 
-[Mod-NumberPad] Loading assemblies...
+[Mod-tWords] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1547869230\tWords.dll"
 
-[Mod-NumberPad] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1224553628\Newtonsoft.Json.dll"...
+[Mod-tWords] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1547869230" complete.
 
-[Mod-NumberPad] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1224553628\NumberPad.dll"
+[Mod-tWords] Loading GameObjects...
 
-[Mod-NumberPad] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1224553628" complete.
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-tWords] Replacing shaders...
 
-[Mod-NumberPad] Loading GameObjects...
+[Mod-tWords] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
 
-[Mod-NumberPad] Replacing shaders...
+[Mod-tWords] Loading KMMissions...
 
-[Mod-NumberPad] ModUnityVersion: 2017.1.0f3 Game: 2017.4.22f1
+[Mod-tWords] Loading KMMissionTableOfContents...
 
-[Mod-NumberPad] Replacing shaders...
+[Mod-tWords] Loading AudioClips...
 
-[Mod-NumberPad] ModUnityVersion: 2017.1.0f3 Game: 2017.4.22f1
+[BombGenerator] Instantiated 1547869230 on face RearFace, spawn index 6
 
-[Mod-NumberPad] Loading KMMissions...
+[Mod-IceCream] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1649217354" has ID:"IceCream"
 
-[Mod-NumberPad] Loading KMMissionTableOfContents...
+[Mod-IceCream] Loading assemblies...
 
-[Mod-NumberPad] Loading AudioClips...
+[Mod-IceCream] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1649217354\Newtonsoft.Json.dll"...
 
-[BombGenerator] Instantiated 1224553628 on face RearFace, spawn index 4
+[Mod-IceCream] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1649217354\IceCream.dll"
 
-[Mod-giantsDrink] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1702384395" has ID:"giantsDrink"
+[Mod-IceCream] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1649217354" complete.
 
-[Mod-giantsDrink] Loading assemblies...
+[Mod-IceCream] Loading GameObjects...
 
-[Mod-giantsDrink] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1702384395\Newtonsoft.Json.dll"...
+[Mod-IceCream] Replacing shaders...
 
-[Mod-giantsDrink] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1702384395\giantsDrink.dll"
+[Mod-IceCream] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
 
-[Mod-giantsDrink] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1702384395" complete.
+[Mod-IceCream] Loading KMMissions...
 
-[Mod-giantsDrink] Loading GameObjects...
+[Mod-IceCream] Loading KMMissionTableOfContents...
+
+[Mod-IceCream] Loading AudioClips...
+
+[BombGenerator] Instantiated 1649217354 on face RearFace, spawn index 9
+
+[Mod-neutrinos] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1921961004" has ID:"neutrinos"
+
+[Mod-neutrinos] Loading assemblies...
+
+[Mod-neutrinos] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1921961004\Newtonsoft.Json.dll"...
+
+[Mod-neutrinos] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1921961004\neutrinos.dll"
+
+[Mod-neutrinos] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1921961004" complete.
+
+[Mod-neutrinos] Loading GameObjects...
+
+[Mod-neutrinos] Replacing shaders...
+
+[Mod-neutrinos] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-neutrinos] Loading KMMissions...
+
+[Mod-neutrinos] Loading KMMissionTableOfContents...
+
+[Mod-neutrinos] Loading AudioClips...
+
+Font size and style overrides are only supported for dynamic fonts.
+[BombGenerator] Instantiated 1921961004 on face RearFace, spawn index 3
+
+[Mod-Monsplode] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\777164508" has ID:"Monsplode"
+
+[Mod-Monsplode] Loading assemblies...
+
+[Mod-Monsplode] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\777164508\Newtonsoft.Json.dll"...
+
+[Mod-Monsplode] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\777164508\Monsplode.dll"
+
+[Mod-Monsplode] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\777164508" complete.
+
+[Mod-Monsplode] Loading GameObjects...
+
+[Mod-Monsplode] Replacing shaders...
+
+[Mod-Monsplode] ModUnityVersion: 2017.2.0f3 Game: 2017.4.22f1
+
+[Mod-Monsplode] Replacing shaders...
+
+[Mod-Monsplode] ModUnityVersion: 2017.2.0f3 Game: 2017.4.22f1
+
+[Mod-Monsplode] Replacing shaders...
+
+[Mod-Monsplode] ModUnityVersion: 2017.2.0f3 Game: 2017.4.22f1
+
+[Mod-Monsplode] Loading KMMissions...
+
+[Mod-Monsplode] Loading KMMissionTableOfContents...
+
+[Mod-Monsplode] Loading AudioClips...
+
+[BombGenerator] Instantiated 777164508 on face RearFace, spawn index 15
+
+[Mod-timezones] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1251328795" has ID:"timezones"
+
+[Mod-timezones] Loading assemblies...
+
+[Mod-timezones] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1251328795\Newtonsoft.Json.dll"...
+
+[Mod-timezones] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1251328795\timezones.dll"
+
+[Mod-timezones] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1251328795" complete.
+
+[Mod-timezones] Loading GameObjects...
+
+[Mod-timezones] Replacing shaders...
+
+[Mod-timezones] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-timezones] Loading KMMissions...
+
+[Mod-timezones] Loading KMMissionTableOfContents...
+
+[Mod-timezones] Loading AudioClips...
+
+[BombGenerator] Instantiated 1251328795 on face FrontFace, spawn index 11
+
+[Mod-garfieldKart] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869394985" has ID:"garfieldKart"
+
+[Mod-garfieldKart] Loading assemblies...
+
+[Mod-garfieldKart] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869394985\Newtonsoft.Json.dll"...
+
+[Mod-garfieldKart] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869394985\garfieldKart.dll"
+
+[Mod-garfieldKart] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1869394985" complete.
+
+[Mod-garfieldKart] Loading GameObjects...
 
 The referenced script on this Behaviour is missing!
 The referenced script on this Behaviour (Game Object '<null>') is missing!
-[Mod-giantsDrink] Replacing shaders...
+[Mod-garfieldKart] Replacing shaders...
 
-[Mod-giantsDrink] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+[Mod-garfieldKart] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
 
-[Mod-giantsDrink] Replacing shaders...
+[Mod-garfieldKart] Loading KMMissions...
 
-[Mod-giantsDrink] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+[Mod-garfieldKart] Loading KMMissionTableOfContents...
 
-[Mod-giantsDrink] Replacing shaders...
+[Mod-garfieldKart] Loading AudioClips...
 
-[Mod-giantsDrink] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+Font size and style overrides are only supported for dynamic fonts.
+[BombGenerator] Instantiated 1869394985 on face FrontFace, spawn index 9
 
-[Mod-giantsDrink] Replacing shaders...
+[Mod-spellingBee] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1913696008" has ID:"spellingBee"
 
-[Mod-giantsDrink] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+[Mod-spellingBee] Loading assemblies...
 
-[Mod-giantsDrink] Replacing shaders...
+[Mod-spellingBee] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1913696008\Newtonsoft.Json.dll"...
 
-[Mod-giantsDrink] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+[Mod-spellingBee] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1913696008\spellingBee.dll"
 
-[Mod-giantsDrink] Replacing shaders...
+[Mod-spellingBee] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1913696008" complete.
 
-[Mod-giantsDrink] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+[Mod-spellingBee] Loading GameObjects...
 
-[Mod-giantsDrink] Replacing shaders...
+[Mod-spellingBee] Replacing shaders...
 
-[Mod-giantsDrink] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+[Mod-spellingBee] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
 
-[Mod-giantsDrink] Replacing shaders...
+[Mod-spellingBee] Loading KMMissions...
 
-[Mod-giantsDrink] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+[Mod-spellingBee] Loading KMMissionTableOfContents...
 
-[Mod-giantsDrink] Replacing shaders...
+[Mod-spellingBee] Loading AudioClips...
 
-[Mod-giantsDrink] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[BombGenerator] Instantiated 1913696008 on face FrontFace, spawn index 7
 
-[Mod-giantsDrink] Loading KMMissions...
+[Mod-groceryStore] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1660187447" has ID:"groceryStore"
 
-[Mod-giantsDrink] Loading KMMissionTableOfContents...
+[Mod-groceryStore] Loading assemblies...
 
-[Mod-giantsDrink] Loading AudioClips...
+[Mod-groceryStore] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1660187447\Newtonsoft.Json.dll"...
 
-[BombGenerator] Instantiated 1702384395 on face RearFace, spawn index 3
+[Mod-groceryStore] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1660187447\groceryStore.dll"
+
+[Mod-groceryStore] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1660187447" complete.
+
+[Mod-groceryStore] Loading GameObjects...
+
+[Mod-groceryStore] Replacing shaders...
+
+[Mod-groceryStore] ModUnityVersion: 2017.3.1f1 Game: 2017.4.22f1
+
+[Mod-groceryStore] Loading KMMissions...
+
+[Mod-groceryStore] Loading KMMissionTableOfContents...
+
+[Mod-groceryStore] Loading AudioClips...
+
+[BombGenerator] Instantiated 1660187447 on face FrontFace, spawn index 14
+
+[BombGenerator] Instantiated 1757173794 on face FrontFace, spawn index 1
+
+[Mod-lgndLEDMath] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1627668059" has ID:"lgndLEDMath"
+
+[Mod-lgndLEDMath] Loading assemblies...
+
+[Mod-lgndLEDMath] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1627668059\Newtonsoft.Json.dll"...
+
+[Mod-lgndLEDMath] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1627668059\lgndLEDMath.dll"
+
+[Mod-lgndLEDMath] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1627668059" complete.
+
+[Mod-lgndLEDMath] Loading GameObjects...
+
+[Mod-lgndLEDMath] Replacing shaders...
+
+[Mod-lgndLEDMath] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-lgndLEDMath] Loading KMMissions...
+
+[Mod-lgndLEDMath] Loading KMMissionTableOfContents...
+
+[Mod-lgndLEDMath] Loading AudioClips...
+
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[BombGenerator] Instantiated 1627668059 on face RearFace, spawn index 14
+
+[Mod-MysticSquare] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\802366358" has ID:"MysticSquare"
+
+[Mod-MysticSquare] Loading assemblies...
+
+[Mod-MysticSquare] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\802366358\Newtonsoft.Json.dll"...
+
+[Mod-MysticSquare] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\802366358\MysticSquare.dll"
+
+[Mod-MysticSquare] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\802366358" complete.
+
+[Mod-MysticSquare] Loading GameObjects...
+
+[Mod-MysticSquare] Replacing shaders...
+
+[Mod-MysticSquare] ModUnityVersion: 2017.1.0f3 Game: 2017.4.22f1
+
+[Mod-MysticSquare] Loading KMMissions...
+
+[Mod-MysticSquare] Loading KMMissionTableOfContents...
+
+[Mod-MysticSquare] Loading AudioClips...
+
+[BombGenerator] Instantiated 802366358 on face FrontFace, spawn index 3
+
+[Mod-The Twin] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2053979482" has ID:"The Twin"
+
+[Mod-The Twin] Loading assemblies...
+
+[Mod-The Twin] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2053979482\Newtonsoft.Json.dll"...
+
+[Mod-The Twin] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2053979482\The Twin.dll"
+
+[Mod-The Twin] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2053979482" complete.
+
+[Mod-The Twin] Loading GameObjects...
+
+[Mod-The Twin] Replacing shaders...
+
+[Mod-The Twin] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-The Twin] Loading KMMissions...
+
+[Mod-The Twin] Loading KMMissionTableOfContents...
+
+[Mod-The Twin] Loading AudioClips...
+
+Font size and style overrides are only supported for dynamic fonts.
+[BombGenerator] Instantiated 2053979482 on face RearFace, spawn index 7
+
+[BombGenerator] Instantiated 1525239111 on face RearFace, spawn index 1
+
+[Mod-TheBlackPage] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1952286416" has ID:"TheBlackPage"
+
+[Mod-TheBlackPage] Loading assemblies...
+
+[Mod-TheBlackPage] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1952286416\Newtonsoft.Json.dll"...
+
+[Mod-TheBlackPage] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1952286416\TheBlackPage.dll"
+
+[Mod-TheBlackPage] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1952286416" complete.
+
+[Mod-TheBlackPage] Loading GameObjects...
+
+[Mod-TheBlackPage] Replacing shaders...
+
+[Mod-TheBlackPage] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-TheBlackPage] Loading KMMissions...
+
+[Mod-TheBlackPage] Loading KMMissionTableOfContents...
+
+[Mod-TheBlackPage] Loading AudioClips...
+
+Font size and style overrides are only supported for dynamic fonts.
+[BombGenerator] Instantiated 1952286416 on face RearFace, spawn index 5
+
+[Mod-timeKeeper] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1416853392" has ID:"timeKeeper"
+
+[Mod-timeKeeper] Loading assemblies...
+
+[Mod-timeKeeper] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1416853392\Newtonsoft.Json.dll"...
+
+[Mod-timeKeeper] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1416853392\timeKeeper.dll"
+
+[Mod-timeKeeper] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1416853392" complete.
+
+[Mod-timeKeeper] Loading GameObjects...
+
+[Mod-timeKeeper] Replacing shaders...
+
+[Mod-timeKeeper] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-timeKeeper] Loading KMMissions...
+
+[Mod-timeKeeper] Loading KMMissionTableOfContents...
+
+[Mod-timeKeeper] Loading AudioClips...
+
+[BombGenerator] Instantiated 1416853392 on face FrontFace, spawn index 6
+
+[Mod-CrypticPassword] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1746664119" has ID:"CrypticPassword"
+
+[Mod-CrypticPassword] Loading assemblies...
+
+[Mod-CrypticPassword] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1746664119\Newtonsoft.Json.dll"...
+
+[Mod-CrypticPassword] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1746664119\CrypticPassword.dll"
+
+[Mod-CrypticPassword] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1746664119" complete.
+
+[Mod-CrypticPassword] Loading GameObjects...
+
+[Mod-CrypticPassword] Replacing shaders...
+
+[Mod-CrypticPassword] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-CrypticPassword] Loading KMMissions...
+
+[Mod-CrypticPassword] Loading KMMissionTableOfContents...
+
+[Mod-CrypticPassword] Loading AudioClips...
+
+[BombGenerator] Instantiated 1746664119 on face FrontFace, spawn index 13
+
+[Mod-thewitness] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1847301971" has ID:"thewitness"
+
+[Mod-thewitness] Loading assemblies...
+
+[Mod-thewitness] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1847301971\Newtonsoft.Json.dll"...
+
+[Mod-thewitness] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1847301971\thewitness.dll"
+
+[Mod-thewitness] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1847301971" complete.
+
+[Mod-thewitness] Loading GameObjects...
+
+[Mod-thewitness] Replacing shaders...
+
+[Mod-thewitness] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-thewitness] Replacing shaders...
+
+[Mod-thewitness] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-thewitness] Loading KMMissions...
+
+[Mod-thewitness] Loading KMMissionTableOfContents...
+
+[Mod-thewitness] Loading AudioClips...
+
+[ModSettings] Couldn't find modSettings.json file at path: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes/Modsettings/thewitness-settings.txt
+
+[BombGenerator] Instantiated 1847301971 on face RearFace, spawn index 11
+
+[Mod-pwGenerator] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1996258088" has ID:"pwGenerator"
+
+[Mod-pwGenerator] Loading assemblies...
+
+[Mod-pwGenerator] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1996258088\Newtonsoft.Json.dll"...
+
+[Mod-pwGenerator] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1996258088\pwGenerator.dll"
+
+[Mod-pwGenerator] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1996258088" complete.
+
+[Mod-pwGenerator] Loading GameObjects...
+
+[Mod-pwGenerator] Replacing shaders...
+
+[Mod-pwGenerator] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-pwGenerator] Loading KMMissions...
+
+[Mod-pwGenerator] Loading KMMissionTableOfContents...
+
+[Mod-pwGenerator] Loading AudioClips...
+
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[Password Generator #1]: The module is waiting for submit button press to start the calculation.
+[BombGenerator] Instantiated 1996258088 on face RearFace, spawn index 8
+
+[Mod-Signals] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1512556237" has ID:"Signals"
+
+[Mod-Signals] Loading assemblies...
+
+[Mod-Signals] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1512556237\Newtonsoft.Json.dll"...
+
+[Mod-Signals] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1512556237\Signals.dll"
+
+[Mod-Signals] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1512556237" complete.
+
+[Mod-Signals] Loading GameObjects...
+
+[Mod-Signals] Replacing shaders...
+
+[Mod-Signals] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Signals] Replacing shaders...
+
+[Mod-Signals] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Signals] Replacing shaders...
+
+[Mod-Signals] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Signals] Replacing shaders...
+
+[Mod-Signals] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Signals] Replacing shaders...
+
+[Mod-Signals] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Signals] Loading KMMissions...
+
+[Mod-Signals] Loading KMMissionTableOfContents...
+
+[Mod-Signals] Loading AudioClips...
+
+[Signals #2] STATE:AWAKE
+[ModSettings] Couldn't find modSettings.json file at path: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes/Modsettings/Signals-settings.txt
+
+[BombGenerator] Instantiated 1512556237 on face FrontFace, spawn index 4
+
+[Mod-symbolicColouring] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1779657027" has ID:"symbolicColouring"
+
+[Mod-symbolicColouring] Loading assemblies...
+
+[Mod-symbolicColouring] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1779657027\Newtonsoft.Json.dll"...
+
+[Mod-symbolicColouring] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1779657027\symbolicColouring.dll"
+
+[Mod-symbolicColouring] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1779657027" complete.
+
+[Mod-symbolicColouring] Loading GameObjects...
+
+[Mod-symbolicColouring] Replacing shaders...
+
+[Mod-symbolicColouring] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+
+[Mod-symbolicColouring] Loading KMMissions...
+
+[Mod-symbolicColouring] Loading KMMissionTableOfContents...
+
+[Mod-symbolicColouring] Loading AudioClips...
+
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[BombGenerator] Instantiated 1779657027 on face FrontFace, spawn index 0
+
+[Mod-sevenWires] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1671472975" has ID:"sevenWires"
+
+[Mod-sevenWires] Loading assemblies...
+
+[Mod-sevenWires] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1671472975\Newtonsoft.Json.dll"...
+
+[Mod-sevenWires] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1671472975\sevenWires.dll"
+
+[Mod-sevenWires] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1671472975" complete.
+
+[Mod-sevenWires] Loading GameObjects...
+
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Mod-sevenWires] Replacing shaders...
+
+[Mod-sevenWires] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-sevenWires] Loading KMMissions...
+
+[Mod-sevenWires] Loading KMMissionTableOfContents...
+
+[Mod-sevenWires] Loading AudioClips...
+
+[BombGenerator] Instantiated 1671472975 on face RearFace, spawn index 2
+
+[Mod-sevenDeadlySins] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1777707662" has ID:"sevenDeadlySins"
+
+[Mod-sevenDeadlySins] Loading assemblies...
+
+[Mod-sevenDeadlySins] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1777707662\Newtonsoft.Json.dll"...
+
+[Mod-sevenDeadlySins] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1777707662\sevenDeadlySins.dll"
+
+[Mod-sevenDeadlySins] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1777707662" complete.
+
+[Mod-sevenDeadlySins] Loading GameObjects...
+
+[Mod-sevenDeadlySins] Replacing shaders...
+
+[Mod-sevenDeadlySins] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+
+[Mod-sevenDeadlySins] Loading KMMissions...
+
+[Mod-sevenDeadlySins] Loading KMMissionTableOfContents...
+
+[Mod-sevenDeadlySins] Loading AudioClips...
+
+[BombGenerator] Instantiated 1777707662 on face FrontFace, spawn index 8
 
 [BombGenerator] Generating Widgets
 
-[SerialNumber] Randomizing Serial Number: 9L3ZX1
+[SerialNumber] Randomizing Serial Number: PD9VP0
 
 [WidgetGenerator] Added widget: SerialNumber at 0, 1
 
 [WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: Parallel
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
 
 [BatteryWidget] Randomizing Battery Widget: 2
 
@@ -521,114 +1023,221 @@ The referenced script on this Behaviour (Game Object '<null>') is missing!
 
 [WidgetGenerator] Added widget: BatteryWidget at 0, 0
 
-[WidgetGenerator] Added widget: PortWidget at 0, 1
-
-[PortWidget] Randomizing Port Widget: Serial
-
-[WidgetGenerator] Added widget: PortWidget at 0, 0
-
-[PortWidget] Randomizing Port Widget: Parallel
-
-[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
-
-[IndicatorWidget] Randomizing Indicator Widget: unlit TRN (IndicatorWidget/LABEL9)
-
-[Functions #1] Display is 16 R 8.
-[Functions #1] Query Function is #1: a times b, even-position digits removed.
-[Functions #1] Exactly 3 letters in SN, meaning rule R is true, so adjust 1 by 3, so the Final Function is number 4, solution below.
-[Functions #1] Variables are 16, 8. Final Function: a+b modulo 1000. 16+8 is 24. That modulo 1000 is 24.
-[The Festive Jukebox #1] Your chosen song is All I Want for Christmas is You by Mariah Carey.
-[The Festive Jukebox #1] Your three chosen lyrics are Need, Tree, & Presents.
-[The Festive Jukebox #1] Press Need, then Presents, then Tree.
-[Encrypted Equations #1] Equation:
-Left Operand:
- - Shape: Oval (20)
- - Applying the character (?): 200
- - Applying the symbol (• facing S): 600
- - No corner character
-Left Operator: Subtract
-Middle Operand:
- - Shape: Pentagon (8)
- - Applying the character (=): 12
- - Applying the symbol (- facing N): 18
- - No corner character
-Right Operator: Divide
-Right Operand:
- - Shape: Square (1)
- - Applying the character (F): 0.5
- - No symbol
- - No corner character
-Parentheses: Left Side
-Final Value: 1164
-[Ingredients #1] Selected dish: Beef Sauté
-[Ingredients #1] Course: Meat
-[Ingredients #1] Technique: Seasoning with style (button: Pepper)
-[Ingredients #1] Expected digit: 2
-[Ingredients #1] Ingredients: Cornichon, Eggplant, Zucchini, Beef
-[Ingredients #1] Red herrings: Thyme, Garlic, Tomato, Black Trumpet, Sour Cherry
-[Label Priorities #1] The button labels from top to bottom are 'First, press this one.', 'First button.', 'Press this one.', 'First, press this button.'.
-[Label Priorities #1] The sorted button labels are 'First, press this button.', 'First button.', 'First, press this one.', 'Press this one.'.
-[Arithmelogic #1] The given statement is (Ҩ | œ) → ★.
-[Arithmelogic #1] (Table positions are 15, 22, and 3 for A, B, and C respectively.)
-[Arithmelogic #1] A's symbol, Ҩ, is equal to the total number of modules on bomb modulo 25, which is 17.
-[Arithmelogic #1] B's symbol, œ, is equal to the number of unlit indicators plus battery holders, which is 3.
-[Arithmelogic #1] C's symbol, ★, is equal to the average serial number digit, rounded up, which is 5.
-[Arithmelogic #1] The submit button's symbol, Ѯ, means a number is true if that number is a multiple of 7 or 13.
-[Arithmelogic #1] A’s values are 18/27/35/43, which become 35/44/52/60, which are True/False/True/False.
-[Arithmelogic #1] B’s values are 10/17/26/33, which become 13/20/29/36, which are True/False/False/False.
-[Arithmelogic #1] C’s values are 12/21/28/36, which become 17/26/33/41, which are False/True/False/False.
-[Exoplanets #1] The inner planet has an angular velocity of 40.
-[Exoplanets #1] The inner planet is medium.
-[Exoplanets #1] The middle planet has an angular velocity of 10.
-[Exoplanets #1] The middle planet is large.
-[Exoplanets #1] The outer planet has an angular velocity of 5.
-[Exoplanets #1] The outer planet is small.
-[Exoplanets #1] The outer planet is orbiting counterclockwise, so it is the initial target planet.
-[Exoplanets #1] The initial target digit is 0.
-[Exoplanets #1] The star is rotating counterclockwise and there are 3 batteries.
-[Exoplanets #1] Using rule S.
-[Exoplanets #1] The target planet is now the middle planet.
-[Exoplanets #1] Moving inward...
-[Exoplanets #1] Using rule M.
-[Exoplanets #1] The target planet is now the outer planet.
-[Exoplanets #1] Moving inward...
-[Exoplanets #1] Using rule G.
-[Exoplanets #1] The final solution is to press the outer planet on a 0.
-[Yellow Cipher #1] Generated Word: PILLAR
-[Yellow Cipher #1] Begin Hill Encryption
-[Yellow Cipher #1] Number A: 23
-[Yellow Cipher #1] Number B: 8
-[Yellow Cipher #1] Number C: 2
-[Yellow Cipher #1] Number D: 15
-[Yellow Cipher #1] 16 9 -> 24 11
-[Yellow Cipher #1] 12 12 -> 8 22
-[Yellow Cipher #1] 1 18 -> 11 12
-[Yellow Cipher #1] Hill Encrypted Word: XKHVKL
-[Yellow Cipher #1] Begin Trifid Encryption
-[Yellow Cipher #1] Trifid Key: KETCHUPABDFGIJLMNOQRSVWXYZ
-[Yellow Cipher #1] Trifid Numbers:
-311312
-212212
-312113
-[Yellow Cipher #1] Trifid Encrypted Word: QRFFRT
-[Yellow Cipher #1] Morbit Key: 32145768
-[Yellow Cipher #1] Morbit Encrypted Word: 4717446313724
-[Double Arrows #1]The Inner Left button moves 1 space Down
-[Double Arrows #1]The Inner Up button moves 1 space Right
-[Double Arrows #1]The Inner Right button moves 1 space Up
-[Double Arrows #1]The Inner Down button moves 1 space Left
-[Double Arrows #1]The Outer Left button moves 2 spaces Right
-[Double Arrows #1]The Outer Up button moves 2 spaces Left
-[Double Arrows #1]The Outer Right button moves 2 spaces Up
-[Double Arrows #1]The Outer Down button moves 2 spaces Down
-[Double Arrows #1]The initial location was (4, 3) = 74
-[Number Pad #1] Button colors are: red, yellow, blue, red, red, blue, yellow, blue, yellow, blue
-[The Giant's Drink #1] The left goblet is made of silver, its gems are sapphires and its liquid is green (Size: 8; Gem Placement: top, Gem Count: 10).
-[The Giant's Drink #1] The right goblet is made of bronze, its gems are aquamarines and its liquid is blue (Size: 8; Gem Placement: top, Gem Count: 10).
-[The Giant's Drink #1] The key sequence for even strikes is 1,2,3,4,6.
-[The Giant's Drink #1] The key sequence for odd strikes is 1,17,25,29,30.
-[The Giant's Drink #1] The solution for even strikes is right goblet.
-[The Giant's Drink #1] The solution for odd strikes is right goblet.
+The Playlist 'GameRoomD' is already loaded. Ignoring Change Playlist request.
+[The Sun #1] The LED is in the southwest position.
+[The Sun #1] # of indicators modulo 7 = 0.
+[The Sun #1] # of consonants modulo 7 = 4.
+[The Sun #1] # of batteries modulo 7 = 6.
+[The Sun #1] # of digits modulo 7 = 2.
+[The Sun #1] # of ports modulo 7 = 1.
+[The Sun #1] # of modules modulo 7 = 3.
+[The Sun #1] # of battery holders modulo 7 = 4.
+[The Sun #1] # of port plates modulo 7 = 1.
+[The Sun #1] The first button is the centre.
+[Human Resources #1] Complaints: Auditor (ISTJ), Intellectual (INTJ), Designer (ENTP)
+[Human Resources #1] Required: T, preferred: I+N+J
+[Human Resources #1] Employees: Samuel (ISTP), Rebecca (INTJ), Damian (INTP), Jean (INFJ), Noah (ESTP)
+[Human Resources #1] Person to fire: Rebecca (INTJ)
+[Human Resources #1] Fired person adds desired trait: Intellectual
+[Human Resources #1] Desired traits: Entertainer (ESFP), Director (ENTJ), Intellectual (INTJ)
+[Human Resources #1] Required: (none), preferred: E+N+T+J
+[Human Resources #1] Applicants: Caleb (ISFP), Quinn (ESFJ), Tim (ENTP), Yoshi (ISFJ), Mike (INFP)
+[Human Resources #1] Person to hire: Tim (ENTP)
+[Quintuples #2] Position 1 numbers: 32575. Position 1 colours: green, pink, red, green, pink.
+[Quintuples #2] Position 2 numbers: 35670. Position 2 colours: blue, blue, blue, green, green.
+[Quintuples #2] Position 3 numbers: 67309. Position 3 colours: pink, orange, orange, green, pink.
+[Quintuples #2] Position 4 numbers: 35310. Position 4 colours: green, red, pink, blue, green.
+[Quintuples #2] Position 5 numbers: 82591. Position 5 colours: green, orange, pink, orange, green.
+[Quintuples #2] There are 2 red flashes.
+[Quintuples #2] There are 4 blue flashes.
+[Quintuples #2] There are 4 orange flashes.
+[Quintuples #2] There are 9 green flashes.
+[Quintuples #2] There are 6 pink flashes.
+[Quintuples #2] Iteration 1, position 2 (3) is affected. +13.
+[Quintuples #2] Iteration 1, position 3 (6) is affected. x2.
+[Quintuples #2] Iteration 1, position 4 (3) is affected. x3.
+[Quintuples #2] Iteration 2, position 3 (7) is affected. x2.
+[Quintuples #2] Iteration 2, position 4 (5) is affected. x3.
+[Quintuples #2] Iteration 3, position 3 (3) is affected. x2.
+[Quintuples #2] Iteration 3, position 5 (5) is affected. Half and round down.
+[Quintuples #2] Iteration 4, position 1 (7) is affected. +7.
+[Quintuples #2] Iteration 4, position 3 (10) is affected. x2.
+[Quintuples #2] Iteration 5, position 1 (5) is affected. +7.
+[Quintuples #2] Iteration 5, position 2 (10) is affected. +13.
+[Quintuples #2] The sum of the modified first iteration numbers (48), modulo (2 + 4), modulo 10 is 0.
+[Quintuples #2] The sum of the modified second iteration numbers (38), modulo (4 + 6) is 8.
+[Quintuples #2] The sum of the modified third iteration numbers (22), modulo (2 + 9), modulo 10 is 0.
+[Quintuples #2] The sum of the modified fourth iteration numbers (51), modulo (4 + 4), is 3.
+[Quintuples #2] The tens column of the sum of the modified fifth iteration numbers (5), + (9 + 6), modulo 10 is 0.
+[Quintuples #2] The correct number to input is 08030.
+fnxMicro: started Init
+[The Triangle Button #1] The button is pointing down and is colored Grey. Its label is 'TEXT' and the digit is 8.
+[The Triangle Button #1] The digit is 8. Add T's value of 4 to get 12. Add E's value of 1 to get 13. Add X's value of 3 to get 16. Add T's value of 4 to get 20. This modulo 9 is 2, and add one to get 3.
+[The Triangle Button #1] You need to hold on 3 and release on 0.
+[Gray Cipher #3] Generated Word: TIMBER
+[Gray Cipher #3] Begin Portax Encryption
+[Gray Cipher #3] Slides:
+[Gray Cipher #3] ABCDEFGHIJKLM
+[Gray Cipher #3] OPQRSTUVWXYZN
+[Gray Cipher #3] CEGIKMOQSUWYA
+[Gray Cipher #3] DFHJLNPRTVXZB
+[Gray Cipher #3] TB -> NN
+[Gray Cipher #3] IE -> BS
+[Gray Cipher #3] MR -> HB
+[Gray Cipher #3] Begin Bit Switch Encryption
+[Gray Cipher #3 ] Scrambler: 53412
+[Gray Cipher #3 ] N -> 01110 -> 10110 -> V
+[Gray Cipher #3 ] B -> 00010 -> 10000 -> P
+[Gray Cipher #3 ] H -> 01000 -> 00100 -> D
+[Gray Cipher #3 ] N -> 01110 -> 10110 -> V
+[Gray Cipher #3 ] S -> 10011 -> 11001 -> Y
+[Gray Cipher #3 ] B -> 00010 -> 10000 -> P
+[Gray Cipher #3] Begin Ragbaby Encryption
+[Gray Cipher #3 ] Generated Key: INVETORABCDFGHJKLMPQSUWXYZ
+[Gray Cipher #3 ] V -> E
+[Gray Cipher #3 ] P -> S
+[Gray Cipher #3 ] D -> H
+[Gray Cipher #3 ] V -> R
+[Gray Cipher #3 ] Y -> E
+[Gray Cipher #3 ] P -> Y
+[T-Words #1] The LED is orange.
+[T-Words #1] The correct column is #1.
+[T-Words #1] Your chosen words from top to bottom are: Tangoreceptor, Tabernacular, Tellurometer & Tauromorphous.
+[T-Words #1] The correct order is: Tellurometer, Tabernacular, Tangoreceptor & Tauromorphous.
+[Neutrinos #1] Neutrino 1 starting flavor is e bar
+[Neutrinos #1] Neutrino 1 momentum is 1.09
+[Neutrinos #1] Neutrino 1 speed is 0.908
+[Neutrinos #1] Neutrino 1 gamma is 2.387
+[Neutrinos #1] Neutrino 1 distrance travelled is 162.128
+[Neutrinos #1] Neutrino 1 travel time is 178
+[Neutrinos #1] Neutrino 1 final flavor is e bar
+[Neutrinos #1] Neutrino 2 starting flavor is e
+[Neutrinos #1] Neutrino 2 momentum is 1.038
+[Neutrinos #1] Neutrino 2 speed is 0.865
+[Neutrinos #1] Neutrino 2 gamma is 1.993
+[Neutrinos #1] Neutrino 2 distrance travelled is 194.18
+[Neutrinos #1] Neutrino 2 travel time is 224
+[Neutrinos #1] Neutrino 2 final flavor is μ
+[Neutrinos #1] Neutrino 3 starting flavor is e bar
+[Neutrinos #1] Neutrino 3 momentum is 1.197
+[Neutrinos #1] Neutrino 3 speed is 0.998
+[Neutrinos #1] Neutrino 3 gamma is 15.819
+[Neutrinos #1] Neutrino 3 distrance travelled is 24.464
+[Neutrinos #1] Neutrino 3 travel time is 24
+[Neutrinos #1] Neutrino 3 final flavor is e bar
+[Timezones #1] From: Brisbane (UTC 10) - To: Unalaska (UTC -9)
+[Timezones #1] Initial time: 16:00
+[Timezones #1] Converted time: 21:00
+[Timezones #1] Answer requested in 12h format.
+[Garfield Kart #1] Your character is: Garfield
+[Garfield Kart #1] Stats: 1 speed, 1 acceleration, 1 handling
+[Garfield Kart #1] The track is: Valley of the Kings
+[Garfield Kart #1] This track is the 4th in the Pizza Cup.
+[Garfield Kart #1] Puzzle pieces present: 1 2 3
+[Garfield Kart #1] ==CALCULATION BEGINS HERE==
+[Garfield Kart #1] 4 * 1 = 4 (Cup the track is on times number of cup)
+[Garfield Kart #1] (4 % 13)! = 24 (All or no puzzle pieces, mod 13 then factorial G)
+[Garfield Kart #1] 24 + 200 = 224 (G is less than 100)
+[Garfield Kart #1] 224 * 1 = 224 (Multiply by speed, remove decimals)
+[Garfield Kart #1] 224 + 8 = 232 (Add number of letters in character's name)
+[Garfield Kart #1] 232 * 1 = 232 (Multiply by acceleration, rounding up)
+[Garfield Kart #1] 232 * 5 = 1160 (Even amount of letters in track name, multiply by 5)
+[Garfield Kart #1] 1160 * 1 = 1160 (Multiply by handling, remove decimals)
+[Garfield Kart #1] (1160 % 6) + 1 = 3 (Modulo 6, then add 1)
+[Garfield Kart #1] FINAL PLACE: 3rd
+[Grocery Store #1] There is a D, G or S
+[Grocery Store #1] There is a parallel port
+[Grocery Store #1] There is more than 1 battery
+[Grocery Store #1] Initial Total: 12.48
+[Grocery Store #1] Budget: 95
+[LED Math #1] Value of LED 'A' is 0.
+[LED Math #1] Value of LED 'B' is 10.
+[LED Math #1] The operator is -.
+[LED Math #1] The correct answer is -10 (0 - 10).
+[Mystic Square #1] Field:
+735
+280
+641
+[Mystic Square #1] Easy solution:
+1?3
+???
+5?7
+[BossModuleManager] Request for The Twin’s ignore list successful.
+[KMBossModule] Boss Module Manager returned list for “The Twin”: 14, Bamboozling Time Keeper, Brainf---, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Iconic, Organization, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+[The Twin #1] The pair ID is 1.
+[The Twin #1] The initial number is 58.
+[The Twin #1] The starting coordinate in remove table is (6, 3).
+[The Twin #1] The starting coordinate in color table is (0, 3).
+[The Sphere #3] The cycling colours are purple, orange, white, red & orange.
+[The Sphere #3] The converted serial number digits are 649260.
+[The Sphere #3] Purple yields 2.
+[The Sphere #3] Orange yields 3.
+[The Sphere #3] White yields 2.
+[The Sphere #3] Red yields 1.
+[The Sphere #3] Orange yields 3.
+[The Sphere #3] Use order 2 when submitting your answer.
+[The Sphere #3] Stage 1: hold the sphere for 3 seconds.
+[The Sphere #3] Stage 2: hold the sphere for 2 seconds.
+[The Sphere #3] Stage 3: tap the sphere when the last digit of the second timer is 9.
+[The Sphere #3] Stage 4: tap the sphere when the last digit of the second timer is 2.
+[The Sphere #3] Stage 5: hold the sphere for 2 seconds.
+[The Sphere #3] Stage 6: tap the sphere when the last digit of the second timer is 0.
+[The Sphere #3] Stage 7: tap the sphere when the last digit of the second timer is 6.
+[The Sphere #3] Stage 8: hold the sphere for 3 seconds.
+[The Sphere #3] Stage 9: hold the sphere for 1 seconds.
+[The Sphere #3] Stage 10: tap the sphere when the last digit of the second timer is 6.
+[The Sphere #3] Stage 11: tap the sphere when the last digit of the second timer is 4.
+[The Black Page #1] The module is playing measures 24 to 28.
+[Cryptic Password #2] Starting word is: INPUTS
+[Cryptic Password #2] Key word is: KEJWN
+[Cryptic Password #2] Start word's first letter is a vowel. Key word is reversed.
+[Cryptic Password #2] Solution is: DNXEXV
+[The Witness #1] Generated Puzzle:
+[The Witness #1] 1--2--3
+[The Witness #1] |Lb|ks|
+[The Witness #1] |lk|qu|
+[The Witness #1] 4--5--6
+[The Witness #1] |ws|ks|
+[The Witness #1] |qu|qu|
+[The Witness #1] 7--8--9
+[The Witness #1] ksqu = Black Square
+[The Witness #1] wsqu = White Square
+[The Witness #1] 1sun = Sun 1
+[The Witness #1] 2sun = Sun 2
+[The Witness #1] Lblk = L Piece
+[The Witness #1] delr = Deleter
+[The Witness #1] Correct line crosses these intersections:  '1, 4, 5, 8, 9'
+[Signals #2] STATE:START
+[Signals #2] Seed: -1091889913
+[Signals #2] S1 Mapping: UP->NEGATIVE,DOWN->ZERO,CENTER->POSITIVE
+[Signals #2] S2 Mapping: UP->NEGATIVE,DOWN->ZERO,CENTER->POSITIVE
+[Signals #2] S3 Mapping: UP->NEGATIVE,DOWN->ZERO,CENTER->POSITIVE
+[Signals #2] SwitchMapping: S1->C3,S2->C1,S3->C2
+[Signals #2] INPUT: (C1=ZERO,C2=POSITIVE,C3=POSITIVE)
+[Signals #2] GENERATOR: (C1=ZERO,C2=ZERO,C3=ZERO)
+[Symbolic Colouring #1] Button 1 is Π.
+[Symbolic Colouring #1] Button 2 is ζ.
+[Symbolic Colouring #1] Button 3 is σ.
+[Symbolic Colouring #1] Button 4 is ψ.
+[Symbolic Colouring #1] Button press order is [ 1 2 4 3 ].
+[Symbolic Colouring #1] Button 1 must be coloured Orange.
+[Symbolic Colouring #1] Button 2 must be coloured Black.
+[Symbolic Colouring #1] Button 4 must be coloured Red.
+[Symbolic Colouring #1] Button 3 must be coloured Orange.
+[Seven Wires #2] Number is 83
+[Seven Wires #2] Wires:
+[Seven Wires #2]  Wire #1 is Blue
+[Seven Wires #2]  Wire #2 is Blue
+[Seven Wires #2]  Wire #3 is Yellow
+[Seven Wires #2]  Wire #4 is Blue
+[Seven Wires #2]  Wire #5 is Blue
+[Seven Wires #2]  Wire #6 is Yellow
+[Seven Wires #2]  Wire #7 is Black
+[Seven Wires #2] Rule #10 is in effect. (you must cut wire 5)
+[Seven Deadly Sins #1] A possible button press order is [ Gluttony Envy Pride Sloth Lust Greed Wrath ] (there may be others).
+[Seven Deadly Sins #1] Button positions are [ Sloth Gluttony Envy Pride Greed Wrath Lust ].
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !findclaim hexOS, destroyer
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !find ult
 [MultipleBombs]Initializing gameplay state
 [MultipleBombs]Bombs to spawn: 1
 [Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
@@ -638,349 +1247,763 @@ Final Value: 1164
 [TwitchPlays] Found gameplay room of type Facility Room
 [TwitchPlays] Switching bomb
 [Rule Seed Modifier] The Seed is 1
+[Geometry Dash #1] The chosen level is: Galatic Fragility
+[Geometry Dash #1] --------------------------------------------
+[Geometry Dash #1] Calculation of number...
+[Geometry Dash #1] Starting Num: 9
+[Geometry Dash #1] Is there any coins present? 'False'
+[Geometry Dash #1] Subtracting 9 from starting number: 0
+[Geometry Dash #1] Is there any orange mirror portal present? 'False'
+[Geometry Dash #1] First letter of the verifier's name: T, which in alphanumeric A=0...Z=25 is: 19, which is then added to the number: 19
+[Geometry Dash #1] Is there any 1x or 3x speed portals present? 'True'
+[Geometry Dash #1] The level is a collab, so the number is multiplied by 3: 57
+[Geometry Dash #1] Is there any teleportation portals present? 'False'
+[Geometry Dash #1] Adding (the number of lit indicators + 7) to the number: 64
+[Geometry Dash #1] Is there any red, blue, or white transformation portals present? 'True'
+[Geometry Dash #1] The sum of the number of letters in the level's difficulty & the number of battery holders is: 15, which subtracted from the number is: 49
+[Geometry Dash #1] Is there any blue, green, or black jump orbs present? 'True'
+[Geometry Dash #1] Adding (8 + the number of unlit indicators) to the number: 57
+[Geometry Dash #1] Is there any yellow or blue jump pads present? 'True'
+[Geometry Dash #1] The sum of the number of U's, L's, and E's in the serial number and the number of ports is: 1, which multiplied by the number is: 57
+[Geometry Dash #1] Final Calculation: 57 % 20 + 1 = 18
+[Geometry Dash #1] The correct cube to press according to the manual's table is: 18
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[Tweaks] LFABombInfo 11
+{"serial":"PD9VP0","displayNames":{"Timer":"Timer","sun":"The Sun","HumanResourcesModule":"Human Resources","quintuples":"Quintuples","Microcontroller":"Microcontroller","Tangrams":"Tangrams","theTriangleButton":"The Triangle Button","doubleExpert":"
+Double Expert","geometryDashModule":"Geometry Dash","grayCipher":"Gray Cipher","tWords":"T-Words","iceCreamModule":"Ice Cream","neutrinos":"Neutrinos","monsplodeFight":"Monsplode, Fight!","timezone":"Timezone","garfieldKart":"Garfield Kart","spelling
+Bee":"Spelling Bee","groceryStore":"Grocery Store","greenArrowsModule":"Green Arrows","lgndLEDMath":"LED Math","MysticSquareModule":"Mystic Square","TheTwinModule":"The Twin","sphere":"The Sphere","TheBlackPage":"The Black Page","timeKeeper":"The Tim
+e Keeper","CrypticPassword":"Cryptic Password","thewitness":"The Witness","pwGenerator":"Password Generator","Signals":"Signals","symbolicColouring":"Symbolic Colouring","sevenWires":"Seven Wires","sevenDeadlySins":"Seven Deadly Sins"},"ids":{"Tangra
+ms":[3],"sun":[1],"HumanResourcesModule":[1],"quintuples":[2],"theTriangleButton":[1],"doubleExpert":[1],"geometryDashModule":[1],"grayCipher":[3],"tWords":[1],"iceCreamModule":[1],"neutrinos":[1],"monsplodeFight":[1],"timezone":[1],"garfieldKart":[1
+],"spellingBee":[1],"greenArrowsModule":[2],"lgndLEDMath":[1],"MysticSquareModule":[1],"TheTwinModule":[1],"sphere":[3],"TheBlackPage":[1],"timeKeeper":[1],"CrypticPassword":[2],"thewitness":[1],"pwGenerator":[1],"Signals":[2],"symbolicColouring":[1]
+,"sevenWires":[2],"sevenDeadlySins":[1]},"anchors":[[-0.330,-0.330],[-0.330,-0.110],[-0.330,0.110],[-0.330,0.330],[-0.110,-0.330],[-0.110,-0.110],[-0.110,0.110],[-0.110,0.330],[0.110,-0.330],[0.110,-0.110],[0.110,0.110],[0.110,0.330],[0.330,-0.330],[
+0.330,-0.110],[0.330,0.110],[0.330,0.330],[-0.330,-0.330],[-0.330,-0.110],[-0.330,0.110],[-0.330,0.330],[-0.110,-0.330],[-0.110,-0.110],[-0.110,0.110],[-0.110,0.330],[0.110,-0.330],[0.110,-0.110],[0.110,0.110],[0.110,0.330],[0.330,-0.330],[0.330,-0.1
+10],[0.330,0.110],[0.330,0.330]],"modules":["theTriangleButton 1","greenArrowsModule 2","iceCreamModule 1","MysticSquareModule 1","Signals 2","sphere 3","timeKeeper 1","spellingBee 1","sevenDeadlySins 1","doubleExpert 1","geometryDashModule 1","timez
+one 1","Tangrams 3","CrypticPassword 2","groceryStore -","Timer -","quintuples 2","sun 1","sevenWires 2","neutrinos 1","symbolicColouring 1","TheBlackPage 1","tWords 1","TheTwinModule 1","pwGenerator 1","HumanResourcesModule 1","Microcontroller -","t
+hewitness 1","grayCipher 3","garfieldKart 1","lgndLEDMath 1","monsplodeFight 1"]}
 [TwitchPlays] Switching bomb
 [Profile Revealer] Found 1 bomb(s).
-[Profile Revealer] Attaching to 'qFunctions(Clone)'.
-[Profile Revealer] Attaching to 'FestiveJukebox(Clone)'.
-[Profile Revealer] Attaching to 'Encrypted Equations(Clone)'.
-[Profile Revealer] Attaching to 'ingredients(Clone)'.
-[Profile Revealer] Attaching to 'EncryptedDice(Clone)'.
-[Profile Revealer] Attaching to 'LabelPriorities(Clone)'.
-[Profile Revealer] Attaching to 'Arithmelogic(Clone)'.
-[Profile Revealer] Attaching to 'exoplanets(Clone)'.
-[Profile Revealer] Attaching to 'yellowCipher(Clone)'.
-[Profile Revealer] Attaching to 'Tangrams #2'.
-[Profile Revealer] Attaching to 'DoubleArrows(Clone)'.
-[Profile Revealer] Attaching to 'OrientationModule(Clone)'.
-[Profile Revealer] Attaching to 'Splitting The Loot(Clone)'.
-[Profile Revealer] Attaching to 'TrainCargoLoading(Clone)'.
-[Profile Revealer] Attaching to 'NandMs(Clone)'.
-[Profile Revealer] Attaching to 'NumberPadModule(Clone)'.
-[Profile Revealer] Attaching to 'giantsDrink(Clone)'.
+[Profile Revealer] Attaching to 'theSun(Clone)'.
+[Profile Revealer] Attaching to 'HumanResourcesModule(Clone)'.
+[Profile Revealer] Attaching to 'quintuples(Clone)'.
+[Profile Revealer] Attaching to 'Micro(Clone)'.
+[Profile Revealer] Attaching to 'Tangrams #3'.
+[Profile Revealer] Attaching to 'TriangleButton(Clone)'.
+[Profile Revealer] Attaching to 'doubleExpert(Clone)'.
+[Profile Revealer] Attaching to 'GeometryDash(Clone)'.
+[Profile Revealer] Attaching to 'grayCipher(Clone)'.
+[Profile Revealer] Attaching to 'tWords(Clone)'.
+[Profile Revealer] Attaching to 'IceCreamModule(Clone)'.
+[Profile Revealer] Attaching to 'Neutrinos(Clone)'.
+[Profile Revealer] Attaching to 'CreatureModule(Clone)'.
+[Profile Revealer] Attaching to 'timezones(Clone)'.
+[Profile Revealer] Attaching to 'Template(Clone)'.
+[Profile Revealer] Attaching to 'Template(Clone)'.
+[Profile Revealer] Attaching to 'groceryStore(Clone)'.
+[Profile Revealer] Attaching to 'GreenArrows(Clone)'.
+[Profile Revealer] Attaching to 'LEDMathModule(Clone)'.
+[Profile Revealer] Attaching to 'MysticSquareModule(Clone)'.
+[Profile Revealer] Attaching to 'TheTwinModule(Clone)'.
+[Profile Revealer] Attaching to 'theSphere(Clone)'.
+[Profile Revealer] Attaching to 'TheBlackPage(Clone)'.
+[Profile Revealer] Attaching to 'timeKeeper(Clone)'.
+[Profile Revealer] Attaching to 'CrypticPassword(Clone)'.
+[Profile Revealer] Attaching to 'theWitness 1(Clone)'.
+[Profile Revealer] Attaching to 'passwordGenerator(Clone)'.
+[Profile Revealer] Attaching to 'Signals(Clone)'.
+[Profile Revealer] Attaching to 'symbolicColouring(Clone)'.
+[Profile Revealer] Attaching to 'SevenWiresModule(Clone)'.
+[Profile Revealer] Attaching to 'sevenDeadlySins(Clone)'.
+[Green Arrows #2] The number displayed is 68, the next move should be 'DOWN'
 custom
-[Splitting The Loot #1] Found solutions to:
-
-[Splitting The Loot #1] -------------------------------------------
-[Splitting The Loot #1]		D3(30)
-
-[Splitting The Loot #1]		Normal
-
-[Splitting The Loot #1]	03(3),   70(70),   24(24)
-
-[Splitting The Loot #1]	Normal,   Normal,   Normal
-
-[Splitting The Loot #1]	C5(26),   E2(24),   25(25)
-
-[Splitting The Loot #1]	Blue,   Normal,   Normal
-
-[Splitting The Loot #1] -------------------------------------------
-[Splitting The Loot #1] Solutions:
-
-[Splitting The Loot #1] -------------------------------------------
-[Splitting The Loot #1]		D3(30)
-
-[Splitting The Loot #1]		Red
-
-[Splitting The Loot #1]	03(3),   70(70),   24(24)
-
-[Splitting The Loot #1]	Blue,   Normal,   Normal
-
-[Splitting The Loot #1]	C5(26),   E2(24),   25(25)
-
-[Splitting The Loot #1]	Blue,   Red,   Blue
-
-[Splitting The Loot #1] -------------------------------------------
-[Railway Cargo Loading #1] Sulfuric Acid: 0.
-[Railway Cargo Loading #1] Automobiles: 0.
-[Railway Cargo Loading #1] Wings: 0.
-[Railway Cargo Loading #1] Cement: 0.
-[Railway Cargo Loading #1] Coal: 340.
-[Railway Cargo Loading #1] Fruit: 0.
-[Railway Cargo Loading #1] Nitrogen: 0.
-[Railway Cargo Loading #1] Diesel: 370.
-[Railway Cargo Loading #1] Resin: 0.
-[Railway Cargo Loading #1] Livestock: 0.
-[Railway Cargo Loading #1] Mail: 78.
-[Railway Cargo Loading #1] Nuclear Reactor Pressure Vessel: 0.
-[Railway Cargo Loading #1] Crude Oil: 0.
-[Railway Cargo Loading #1] With Checked Baggage: 76.
-[Railway Cargo Loading #1] Rich: 4.
-[Railway Cargo Loading #1] Middle-Class: 51.
-[Railway Cargo Loading #1] Normal: 100.
-[Railway Cargo Loading #1] Sheet Metal: 0.
-[Railway Cargo Loading #1] Lumber: 91.
-[Railway Cargo Loading #1] Car 1: A TRN indicator is present.
-[Railway Cargo Loading #1] Car 1 correct car: Electric Locomotive!
-[N&Ms #1] The correct word to press is NNNMM.
-[Number Pad #1] Level 1 path = 1; code is now: 2
-[Number Pad #1] Level 2 path = 2; code is now: 23
-[Number Pad #1] Level 3 path = 2; code is now: 234
-[Number Pad #1] Took second path; reversing code: 432
-[Number Pad #1] Level 4 path = 2; code is now: 4326
-[Number Pad #1] Battery count is odd, swapping 2 and 3: 4236
-[Tweaks] LFABombInfo 7
-{"serial":"9L3ZX1","displayNames":{"Timer":"Timer","qFunctions":"Functions","festiveJukebox":"The Festive Jukebox","EncryptedEquationsModule":"Encrypted Equations","ingredients":"Ingredients","EncryptedDice":"Encrypted Dice","LabelPrioritiesModule":"
-Label Priorities","arithmelogic":"Arithmelogic","exoplanets":"Exoplanets","yellowCipher":"Yellow Cipher","Tangrams":"Tangrams","doubleArrows":"Double Arrows","OrientationCube":"Orientation Cube","SplittingTheLootModule":"Splitting The Loot","RailwayC
-argoLoading":"Railway Cargo Loading","NandMs":"N&Ms","NumberPad":"Number Pad","giantsDrink":"The Giant's Drink"},"ids":{"Tangrams":[2],"qFunctions":[1],"festiveJukebox":[1],"EncryptedEquationsModule":[1],"ingredients":[1],"EncryptedDice":[1],"LabelPr
-ioritiesModule":[1],"arithmelogic":[1],"exoplanets":[1],"yellowCipher":[1],"doubleArrows":[1],"RailwayCargoLoading":[1],"NandMs":[1],"NumberPad":[1],"giantsDrink":[1],"SplittingTheLootModule":[1]},"anchors":[[-0.220,-0.220],[-0.220,0.000],[-0.220,0.2
-20],[0.000,-0.220],[0.000,0.000],[0.000,0.220],[0.220,-0.220],[0.220,0.000],[0.220,0.220],[-0.220,-0.220],[-0.220,0.000],[-0.220,0.220],[0.000,-0.220],[0.000,0.000],[0.000,0.220],[0.220,-0.220],[0.220,0.000],[0.220,0.220]],"modules":["doubleArrows 1"
-,"arithmelogic 1","EncryptedEquationsModule 1","qFunctions 1","yellowCipher 1","LabelPrioritiesModule 1","NandMs 1","Tangrams 2","EncryptedDice 1","OrientationCube -","exoplanets 1","ingredients 1","giantsDrink 1","NumberPad 1","SplittingTheLootModul
-e 1","RailwayCargoLoading 1","festiveJukebox 1","Timer -"]}
-[Encrypted Dice #1] You rolled 3, 5, and 5. The solution is 3, 5, or 5, 3.
+[Double Expert #1] ------------Quirks------------
+[Double Expert #1] Quirk 4 applies.
+[Double Expert #1] ------------Instruction Sets------------
+[Double Expert #1] Instruction set 1 reads: "The module's Starting Key Number is 54. Press NEXT."
+[Double Expert #1] Instruction set 2 reads: "Apply rules M and E, in that order. Then, press NEXT."
+[Double Expert #1] Instruction set 3 reads: "Apply rules T, L and J, in that order. Then, press NEXT."
+[Double Expert #1] Instruction set 4 reads: "Apply rules K and K, in that order. Then, press NEXT."
+[Double Expert #1] Instruction set 5 reads: "Apply rules P and F, in that order. Then, press NEXT."
+[Double Expert #1] Instruction set 6 reads: "If the number of modules on the bomb is less than 15, apply rule U. Then, press NEXT."
+[Double Expert #1] Instruction set 7 reads: "If the number of unsolved modules on the bomb is more than 13, apply rule X. Then, flip the switch."
+Font size and style overrides are only supported for dynamic fonts.
+[Ice Cream #1] Stage 1
+Customer: Sally
+Flavour Options: Tutti Frutti, Double Strawberry, Raspberry Ripple, Mint Chocolate Chip, Vanilla
+Solution: Mint Chocolate Chip
+[Mystic Square #1] Last serial digit: 0; therefore, use columns
+[Mystic Square #1] Skull path: blank → 8 → 2 → 7 → 3
+[The Twin #1] There are 29 non-ignored modules.
+[The Twin #1] The initial remove set is 897.
+[The Twin #1] The list of background colors in the sequence phase is [ | Red | Blue | Green | Emerald | Green | Blue | Green | Blue | Red | Purple | Emerald | Purple | Red | Blue | Green | Blue | Blue | Green | Emerald | Green | Blue | White | White | Red | Blue | Purple | Emerald | Emerald | Green | Green | Blue | Blue | Green | Yellow | Emerald | Green | Purple | Green | Purple | Blue | Green | Green | White | White | Red | White | Red | Emerald | Purple | Emerald | Emerald | Blue | Green | White | Emerald | Green | ]
+[The Twin #1] The module did not find a pair. Generating final string.
+[The Twin #1] After the 6th number, the new remove set for subsequence numbers is: 437
+[The Twin #1] After the 12th number, the new remove set for subsequence numbers is: 096
+[The Twin #1] After the 17th number, the new remove set for subsequence numbers is: 804
+[The Twin #1] After the 23rd number, the new remove set for subsequence numbers is: 803
+[The Twin #1] After the 30th number, the new remove set for subsequence numbers is: 463
+[The Twin #1] After the 37th number, the new remove set for subsequence numbers is: 319
+[The Twin #1] After the 42nd number, the new remove set for subsequence numbers is: 795
+[The Twin #1] After the 47th number, the new remove set for subsequence numbers is: 014
+[The Twin #1] After the 55th number, the new remove set for subsequence numbers is: 129
+[The Twin #1] The final sequence is 5606162636465666686907172737475767777912456789909192999567800101102103104106789234.
+[TimeKeeper #1] Displayed Number: 37 in Yellow. LED One color: Yellow. LED Two color: White. LED Three color: Yellow.
+[TimeKeeper #1] Rule 1 used.
+[TimeKeeper #1] Rule 3 = false.
+[TimeKeeper #1] Rule 4 added 2
+[TimeKeeper #1] Rule 7 used.
+[TimeKeeper #1] Rule 11 used.
+[TimeKeeper #1] Rule 12 = true.
+[TimeKeeper #1] Rule 13 added 0 and subtracted 0
+[TimeKeeper #1] Rule 14 used.
+[TimeKeeper #1] Correct LED: 3. Correct time (in seconds): 92.
+[Signals #2] STATE:ACTIVE
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !bomb flip
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): uh oh
 [PaceMaker] Round start! Mission: 23 Fair Mix Pacing Enabled: True
 
-[PaceMaker] Next idle action in 39.82951 seconds.
+[PaceMaker] Next idle action in 49.26476 seconds.
 
 [PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
 
 [PaceMaker] Removed 0 pacing events.
 
-[TwitchPlays] [M] jjroccss (, 526314480): !claim 6
-[TwitchPlays] [M] jjroccss (, 526314480): !claim 15
-[TwitchPlays] [M] epictho (#0000FF, 151106665): !9 cv
-[TwitchPlays] [M] epictho (#0000FF, 151106665): !bomb flip
-[TwitchPlays] [M] nochibato (#008000, 64464829): !3 cv
-[PaceMaker] PlayerSuccessRating: 0.4960983 (Factors: solved: 0, strikes: 0.3, time: 0.1960983)
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !claim 24
+Font size and style overrides are only supported for dynamic fonts.
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !20 cv
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !claim 22
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !21 cv
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !claim 25
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !claim 13
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !viewpin 21
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !claim 26
+[TwitchPlays] Enabling camera wall
+[TwitchPlays] Camera wall enabled
+:kavinkul!kavinkul@kavinkul.tmi.twitch.tv JOIN #heres_fangy
+:ghostsalt12!ghostsalt12@ghostsalt12.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !notes1 QUEUE FOR TWIN
+Font size and style overrides are only supported for dynamic fonts.
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !27 help
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !q !13 use bedrock
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !findclaim seven
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !9 vc
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !20 help
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !26 press 1 4 5 8 9
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !q !26 submit
+[PaceMaker] PlayerSuccessRating: 0.4765402 (Factors: solved: 0, strikes: 0.3, time: 0.1765402)
 
-[PaceMaker] Next idle action in 57.4432 seconds.
+[PaceMaker] Next idle action in 23.04887 seconds.
 
-[TwitchPlays] [M] nochibato (#008000, 64464829): !13 cv
-[TwitchPlays] [M] nochibato (#008000, 64464829): !3 zoom
-[TwitchPlays] [M] epictho (#0000FF, 151106665): !9 right
-:xarata98!xarata98@xarata98.tmi.twitch.tv JOIN #heres_fangy
-[TwitchPlays] [M] jjroccss (, 526314480): !6 help
-[TwitchPlays] [M] jjroccss (, 526314480): !6 1 2 4
-[Bomb] Strike from Mod! 1 / 3 strikes
-
-[Tweaks] LFAEvent 1
-{"type":"STRIKE","moduleID":"LabelPrioritiesModule","bombTime":1943.46875,"realTime":104.266846,"loggingID":1}
-[PaceMaker] PlayerSuccessRating: 0.3405362 (Factors: solved: 0, strikes: 0.15, time: 0.1905362)
-
-[Label Priorities #1] Sequence incorrect. Strike!
-[Label Priorities #1] The button labels from top to bottom are 'Press this button first, please?', '#1.', 'THIS, is the first one.', 'Number one.'.
-[Label Priorities #1] The sorted button labels are 'Press this button first, please?', '#1.', 'Number one.', 'THIS, is the first one.'.
-[PaceMaker] PlayerSuccessRating: 0.3404463 (Factors: solved: 0, strikes: 0.15, time: 0.1904463)
-
-[PaceMaker] Next idle action in 28.253 seconds.
-
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !listquall
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !listqall
 ---PING--- ---PONG--- :tmi.twitch.tv
-[PaceMaker] PlayerSuccessRating: 0.3369824 (Factors: solved: 0, strikes: 0.15, time: 0.1869824)
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !13 help
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !20 press 1 4 6 2 8 8 7 7
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF): !13 use bedrock
+[PaceMaker] PlayerSuccessRating: 0.4655717 (Factors: solved: 0, strikes: 0.3, time: 0.1655717)
 
-[PaceMaker] Next idle action in 49.64021 seconds.
+[PaceMaker] Next idle action in 38.17845 seconds.
 
-[TwitchPlays] [M] nochibato (#008000, 64464829): !3 zoom
-[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !reloaddata
-[TwitchPlays] TwitchPlayStrings: Loading Custom strings data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json
-[TwitchPlays] TwitchPlayStrings: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json
-[TwitchPlays] TwitchPlayStrings: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json completed successfully
-[TwitchPlays] UserAccess: Loading User Access information data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\AccessLevels.json
-[TwitchPlays] Unable to match these modules when loading the default information: Answer to..., Color Braille, The Digits, Kyudoku, Passcodes, Type Racer, Shape Memory
-[TwitchPlays] ModuleData: Loading Module information data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
-:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv PART #heres_fangy
-[PaceMaker] PlayerSuccessRating: 0.330896 (Factors: solved: 0, strikes: 0.15, time: 0.180896)
-
-[PaceMaker] Next idle action in 27.66574 seconds.
-
-[TwitchPlays] [M] nochibato (#008000, 64464829): !3 help
-[PaceMaker] PlayerSuccessRating: 0.3275021 (Factors: solved: 0, strikes: 0.15, time: 0.1775021)
-
-[PaceMaker] Next idle action in 25.85241 seconds.
-
-[TwitchPlays] [M] jjroccss (, 526314480): !6 1 3 2
-[Bomb] Strike from Mod! 2 / 3 strikes
+[MonsplodeFight #1] Opponent: Aluga, using Move 3: Bedrock
+[MonsplodeFight #1] Base Damage: 4 | Type Multiplier: 1 | Net Damage: 4
+[MonsplodeFight #1] Move name(0): Appearify | Calculated damage: 4
+[MonsplodeFight #1] BPower Battery Count: 6
+[MonsplodeFight #1] Base Damage: 12 | Type Multiplier: 1 | Net Damage: 12
+[MonsplodeFight #1] Move name(1): Battery Power | Calculated damage: 12
+[MonsplodeFight #1] Boo O/0 count: 1
+[MonsplodeFight #1] Base Damage: 3 | Type Multiplier: 0 | Net Damage: 0
+[MonsplodeFight #1] Move name(2): Boo | Calculated damage: 0
+[MonsplodeFight #1] Bedrock Module Count: 31
+[MonsplodeFight #1] Base Damage: 31 | Type Multiplier: 1 | Net Damage: 31
+[MonsplodeFight #1] Move name(3): Bedrock | Calculated damage: 31
+[ModBombComponent #452] Pass
 
 [Tweaks] LFAEvent 1
-{"type":"STRIKE","moduleID":"LabelPrioritiesModule","bombTime":1794.89771,"realTime":223.128662,"loggingID":1}
-[PaceMaker] PlayerSuccessRating: 0.1759704 (Factors: solved: 0, strikes: 0, time: 0.1759704)
+{"type":"PASS","moduleID":"monsplodeFight","bombTime":345.593536,"realTime":83.3847656,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5069493 (Factors: solved: 0.01666667, strikes: 0.3, time: 0.1902826)
 
-[Label Priorities #1] Sequence incorrect. Strike!
-[Label Priorities #1] The button labels from top to bottom are 'Press this button first, please?', 'I’m certain this is the first one.', 'Number one.', 'Press this one.'.
-[Label Priorities #1] The sorted button labels are 'Press this button first, please?', 'Number one.', 'I’m certain this is the first one.', 'Press this one.'.
-[PaceMaker] PlayerSuccessRating: 0.1740048 (Factors: solved: 0, strikes: 0, time: 0.1740048)
-
-[PaceMaker] Next idle action in 53.70563 seconds.
-
-[TwitchPlays] [M] jjroccss (, 526314480): !unclaim 6
-[TwitchPlays] [M] nochibato (#008000, 64464829): !3 submit 1164
-:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv JOIN #heres_fangy
-[ModBombComponent #52] Pass
-
-[Tweaks] LFAEvent 1
-{"type":"PASS","moduleID":"EncryptedEquationsModule","bombTime":1720.09924,"realTime":272.994873,"loggingID":1}
-[PaceMaker] PlayerSuccessRating: 0.1998872 (Factors: solved: 0.03125, strikes: 0, time: 0.1686372)
-
-[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !reloaddata
-[TwitchPlays] TwitchPlayStrings: Loading Custom strings data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json
-[TwitchPlays] TwitchPlayStrings: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json
-[TwitchPlays] TwitchPlayStrings: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json completed successfully
-[TwitchPlays] UserAccess: Loading User Access information data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\AccessLevels.json
-[TwitchPlays] Unable to match these modules when loading the default information: Answer to..., Color Braille, The Digits, Kyudoku, Passcodes, Type Racer, Shape Memory
-[TwitchPlays] ModuleData: Loading Module information data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
-[PaceMaker] PlayerSuccessRating: 0.1973511 (Factors: solved: 0.03125, strikes: 0, time: 0.1661011)
-
-[PaceMaker] Next idle action in 38.92706 seconds.
-
-[TwitchPlays] [M] jjroccss (, 526314480): !15 press 1
-[ModBombComponent #76] Pass
+[Seven Wires #2] Rechecking rules as a module was solved, or a two factor code changed.
+[Seven Wires #2] Rule #10 is in effect. (you must cut wire 5)
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !20 press 8 1 5
+[Mystic Square #1] Found the knight.
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): that was quick
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !claim 3
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !calL
+[TwitchPlays] [M] KingMario2973 (#5F9EA0): !26 submit
+[The Witness #1] Inputted line: 14589. Expected line: 14589
+[The Witness #1] That is correct. Module defused.
+[ModBombComponent #478] Pass
 
 [Tweaks] LFAEvent 1
-{"type":"PASS","moduleID":"NandMs","bombTime":1653.46777,"realTime":317.415039,"loggingID":1}
-[PaceMaker] PlayerSuccessRating: 0.2246047 (Factors: solved: 0.0625, strikes: 0, time: 0.1621047)
+{"type":"PASS","moduleID":"thewitness","bombTime":377.6763,"realTime":105.302734,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5333334 (Factors: solved: 0.03333334, strikes: 0.3, time: 0.2)
 
-[N&Ms #1] You pressed NNNMM. That was correct. Module solved!
-[TwitchPlays] [M] jjroccss (, 526314480): !claim 1
-[PaceMaker] PlayerSuccessRating: 0.2228741 (Factors: solved: 0.0625, strikes: 0, time: 0.1603741)
+Font size and style overrides are only supported for dynamic fonts.
+[Seven Wires #2] Rechecking rules as a module was solved, or a two factor code changed.
+[Seven Wires #2] Rule #10 is in effect. (you must cut wire 5)
+[PaceMaker] PlayerSuccessRating: 0.5280842 (Factors: solved: 0.03333334, strikes: 0.3, time: 0.1947509)
 
-[PaceMaker] Next idle action in 22.58831 seconds.
+[PaceMaker] Executing random action of type Idle_DoingWell
 
-[TwitchPlays] [M] jjroccss (, 526314480): !1 query 5, 8478
-k is 0 and j is 1
-a is 5 and b is 8478
-k is 0 and j is 2
-a is 5 and b is 8478
-k is 1 and j is 2
-a is 5 and b is 8478
-k is 2 and j is 2
-a is 5 and b is 8478
-k is 3 and j is 2
-a is 5 and b is 8478
-[Functions #1] Variables are 5, 8478. Query Function: a*b, digits in even positions removed. 5*8478 is 42390. Removing even-position digits gives 430.
-[PaceMaker] PlayerSuccessRating: 0.219551 (Factors: solved: 0.0625, strikes: 0, time: 0.157051)
+[PaceMaker] Executing Turn on Alarm Clock at 17749.6
 
-[PaceMaker] Next idle action in 49.42284 seconds.
+[PaceMaker] Next idle action in 57.35406 seconds.
 
-[TwitchPlays] [M] nochibato (#008000, 64464829): !13 set bag 2 7 blue
-[TwitchPlays] [M] jjroccss (, 526314480): !1 help
-[TwitchPlays] [M] jjroccss (, 526314480): !1 s 24
-[Functions #1] Submitted input of 24 and the expected 24 match, module disarmed!
-[ModBombComponent #48] Pass
+:procyon_ktane!procyon_ktane@procyon_ktane.tmi.twitch.tv JOIN #heres_fangy
+:theguythatisweird!theguythatisweird@theguythatisweird.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !9 help
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !q !31 press 2 1 3 4 7 5 6
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 cv
+[PaceMaker] PlayerSuccessRating: 0.5007824 (Factors: solved: 0.03333334, strikes: 0.3, time: 0.167449)
 
-[Tweaks] LFAEvent 1
-{"type":"PASS","moduleID":"qFunctions","bombTime":1557.02234,"realTime":381.714844,"loggingID":1}
-[PaceMaker] PlayerSuccessRating: 0.2463993 (Factors: solved: 0.09375, strikes: 0, time: 0.1526493)
+[PaceMaker] Executing random action of type Idle_DoingWell
 
-[TwitchPlays] [M] nochibato (#008000, 64464829): !13 set bag 1 6 red
-[TwitchPlays] [M] jjroccss (, 526314480): !claim 17
-[TwitchPlays] [M] jjroccss (, 526314480): !claim 2
-[PaceMaker] PlayerSuccessRating: 0.2435367 (Factors: solved: 0.09375, strikes: 0, time: 0.1497867)
+[PaceMaker] Executing Cut the lights at 17806.96
 
-[PaceMaker] Next idle action in 20.6706 seconds.
+[PaceMaker] Next idle action in 33.73586 seconds.
 
-[TwitchPlays] [M] nochibato (#008000, 64464829): !13 split
-[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !reloaddata
-[Splitting The Loot #1] Submitted:
-[Splitting The Loot #1] -------------------------------------------
-[Splitting The Loot #1]		D3(30)
-
-[Splitting The Loot #1]		Red
-
-[Splitting The Loot #1]	03(3),   70(70),   24(24)
-
-[Splitting The Loot #1]	Blue,   Normal,   Normal
-
-[Splitting The Loot #1]	C5(26),   E2(24),   25(25)
-
-[Splitting The Loot #1]	Blue,   Red,   Blue
-
-[Splitting The Loot #1] -------------------------------------------
-[Splitting The Loot #1] That is correct. Module solved!
-[Splitting The Loot #1] -------------------------------------------
-[ModBombComponent #72] Pass
-
-[Tweaks] LFAEvent 1
-{"type":"PASS","moduleID":"SplittingTheLootModule","bombTime":1526.476,"realTime":402.079834,"loggingID":1}
-[PaceMaker] PlayerSuccessRating: 0.2746545 (Factors: solved: 0.125, strikes: 0, time: 0.1496545)
-
-[TwitchPlays] TwitchPlayStrings: Loading Custom strings data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json
-[TwitchPlays] TwitchPlayStrings: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json
-[TwitchPlays] TwitchPlayStrings: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json completed successfully
-[TwitchPlays] UserAccess: Loading User Access information data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\AccessLevels.json
-[TwitchPlays] Unable to match these modules when loading the default information: Answer to..., Color Braille, The Digits, Kyudoku, Passcodes, Type Racer, Shape Memory
-[TwitchPlays] ModuleData: Loading Module information data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
-[TwitchPlays] [M] nochibato (#008000, 64464829): !6 cv
----PING--- ---PONG--- :tmi.twitch.tv
-[PaceMaker] PlayerSuccessRating: 0.2717416 (Factors: solved: 0.125, strikes: 0, time: 0.1467416)
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 zoom next
+[Double Expert #1] ------------Instruction Set 1------------
+[Double Expert #1] Instruction Set 1 has no condition. Applying rule(s) [ None ].
+[PaceMaker] PlayerSuccessRating: 0.4846993 (Factors: solved: 0.03333334, strikes: 0.3, time: 0.1513659)
 
 [PaceMaker] Skipping random idle action for variety's sake.
 
-[PaceMaker] Next idle action in 31.95629 seconds.
+[PaceMaker] Next idle action in 59.494 seconds.
 
-[TwitchPlays] [M] jjroccss (, 526314480): !2 help
-[TwitchPlays] [M] jjroccss (, 526314480): !2 press 1 3 2
-[The Festive Jukebox #1] You pressed Need. That is correct.
-[The Festive Jukebox #1] You pressed Presents. That is correct.
-[The Festive Jukebox #1] You pressed Tree. That is correct.
-[ModBombComponent #50] Pass
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !q !30 cut 5
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !9 submit TIMBER
+[ModBombComponent #444] Pass
 
 [Tweaks] LFAEvent 1
-{"type":"PASS","moduleID":"festiveJukebox","bombTime":1469.2655,"realTime":440.220947,"loggingID":1}
-[PaceMaker] PlayerSuccessRating: 0.3002957 (Factors: solved: 0.15625, strikes: 0, time: 0.1440456)
+{"type":"PASS","moduleID":"grayCipher","bombTime":300.968231,"realTime":227.507813,"loggingID":3}
+[PaceMaker] PlayerSuccessRating: 0.55 (Factors: solved: 0.05, strikes: 0.3, time: 0.2)
 
-[The Festive Jukebox #1] Module disarmed. Merry Christmas!
-[PaceMaker] PlayerSuccessRating: 0.2982902 (Factors: solved: 0.15625, strikes: 0, time: 0.1420402)
-
-[PaceMaker] Next idle action in 37.96324 seconds.
-
-[TwitchPlays] [M] jjroccss (, 526314480): !17 tilt u
-[PaceMaker] PlayerSuccessRating: 0.292707 (Factors: solved: 0.15625, strikes: 0, time: 0.136457)
-
-[PaceMaker] Next idle action in 34.34721 seconds.
-
-[TwitchPlays] [M] Dbros1000 (, 274893701): !12 cv
-:nomoreeromon!nomoreeromon@nomoreeromon.tmi.twitch.tv JOIN #heres_fangy
-[TwitchPlays] [M] jjroccss (, 526314480): !17 tilt up
-[PaceMaker] PlayerSuccessRating: 0.2876533 (Factors: solved: 0.15625, strikes: 0, time: 0.1314033)
-
-[PaceMaker] Next idle action in 48.10309 seconds.
-
-[TwitchPlays] [M] nochibato (#008000, 64464829): !6 help
-[TwitchPlays] [M] jjroccss (, 526314480): !17 help
-[TwitchPlays] [M] jjroccss (, 526314480): !17 right
-[ModBombComponent #80] Pass
+[Seven Wires #2] Rechecking rules as a module was solved, or a two factor code changed.
+[Seven Wires #2] Rule #10 is in effect. (you must cut wire 5)
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): !q !20 press 3 1 6 2 8 6 2 8 6 7 1 2 5 4 8 5 4 8 5 6 7 4 6 5 8 6 5 8
+[TwitchPlays] [M] Danny7007 (#6600FF, 162433145): PogChamp
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] KingMario2973 (#5F9EA0): !31 press 2 1 3 4 7 5 6
+[Seven Deadly Sins #1] Succefully pressed the Gluttony button. Current sequence in [ Gluttony ].
+[Seven Deadly Sins #1] Succefully pressed the Sloth button. Current sequence in [ Gluttony Sloth ].
+[Seven Deadly Sins #1] Succefully pressed the Envy button. Current sequence in [ Gluttony Sloth Envy ].
+[Seven Deadly Sins #1] Succefully pressed the Pride button. Current sequence in [ Gluttony Sloth Envy Pride ].
+[Seven Deadly Sins #1] Succefully pressed the Lust button. Current sequence in [ Gluttony Sloth Envy Pride Lust ].
+[Seven Deadly Sins #1] Succefully pressed the Greed button. Current sequence in [ Gluttony Sloth Envy Pride Lust Greed ].
+[Seven Deadly Sins #1] Succefully pressed the Wrath button. Module solved.
+[ModBombComponent #488] Pass
 
 [Tweaks] LFAEvent 1
-{"type":"PASS","moduleID":"giantsDrink","bombTime":1323.71619,"realTime":537.2566,"loggingID":1}
-[PaceMaker] PlayerSuccessRating: 0.3172761 (Factors: solved: 0.1875, strikes: 0, time: 0.1297761)
+{"type":"PASS","moduleID":"sevenDeadlySins","bombTime":390.598419,"realTime":257.476563,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5666667 (Factors: solved: 0.06666667, strikes: 0.3, time: 0.2)
 
-[The Giant's Drink #1] Solved! Pressed the right goblet (strikes were even).
-[TwitchPlays] [M] nochibato (#008000, 64464829): !6 press 1 3 2
-[TwitchPlays] [M] jjroccss (, 526314480): !claim 16
-[TwitchPlays] [M] nochibato (#008000, 64464829): !6 1 3 2
-[ModBombComponent #58] Pass
+[Seven Wires #2] Rechecking rules as a module was solved, or a two factor code changed.
+[Seven Wires #2] Rule #10 is in effect. (you must cut wire 5)
+:lv1dreval!lv1dreval@lv1dreval.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !21 show
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 zoom 5 next
+[PaceMaker] PlayerSuccessRating: 0.5666667 (Factors: solved: 0.06666667, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 33.00644 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] KingMario2973 (#5F9EA0): !30 cut 5
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 zoom next
+[Seven Wires #2] You cut wire 5, that was correct. Module solved.
+[ModBombComponent #486] Pass
 
 [Tweaks] LFAEvent 1
-{"type":"PASS","moduleID":"LabelPrioritiesModule","bombTime":1299.264,"realTime":553.557861,"loggingID":1}
-[PaceMaker] PlayerSuccessRating: 0.3461288 (Factors: solved: 0.21875, strikes: 0, time: 0.1273788)
+{"type":"PASS","moduleID":"sevenWires","bombTime":435.840485,"realTime":277.333984,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.5833334 (Factors: solved: 0.08333334, strikes: 0.3, time: 0.2)
 
-[Label Priorities #1] Sequence correct. Module solved
-[TwitchPlays] [M] Dbros1000 (, 274893701): !10 cv
-[PaceMaker] PlayerSuccessRating: 0.343075 (Factors: solved: 0.21875, strikes: 0, time: 0.124325)
+Font size and style overrides are only supported for dynamic fonts.
+[Double Expert #1] ------------Instruction Set 2------------
+[Double Expert #1] Instruction Set 2 has no condition. Applying rule(s) [ M E ].
+[Double Expert #1] Rule M condition returned true. New Key Number is 55.
+[Double Expert #1] Rule E condition returned false. Key Number doesn't change.
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !22 h 3; h 2; t 9; t 2; h 2; t 0; t 6; h 3; h 1; t 6
+[TwitchPlays] [M] xmaster6726 (#8A2BE2, 56115242): ballsy
+[The Sphere #3] At stage 1, you held the sphere for 3 seconds. That is correct.
+[The Sphere #3] At stage 2, you held the sphere for 2 seconds. That is correct.
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !q !22 t 4
+[The Sphere #3] At stage 3, you tapped the sphere when the last digit of the second timer was 9. That is correct.
+[The Sphere #3] At stage 4, you tapped the sphere when the last digit of the second timer was 2. That is correct.
+[The Sphere #3] At stage 5, you held the sphere for 2 seconds. That is correct.
+[The Sphere #3] At stage 6, you tapped the sphere when the last digit of the second timer was 0. That is correct.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !calL
+[TwitchPlays] [M] xmaster6726 (#8A2BE2): !20 press 3 1 6 2 8 6 2 8 6 7 1 2 5 4 8 5 4 8 5 6 7 4 6 5 8 6 5 8
+[PaceMaker] PlayerSuccessRating: 0.5833334 (Factors: solved: 0.08333334, strikes: 0.3, time: 0.2)
 
-[PaceMaker] Next idle action in 24.99784 seconds.
+[PaceMaker] Executing random action of type Idle_DoingWell
 
-[TwitchPlays] [M] nochibato (#008000, 64464829): !11 cv
-[PaceMaker] PlayerSuccessRating: 0.3393946 (Factors: solved: 0.21875, strikes: 0, time: 0.1206446)
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
 
-[PaceMaker] Next idle action in 26.59891 seconds.
+[PaceMaker] Next idle action in 24.87081 seconds.
 
-[TwitchPlays] [M] epictho (#0000FF, 151106665): !9 uc
-[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 cv
-[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !9 l
-[TwitchPlays] [M] Dbros1000 (, 274893701): !12 press cw
-[Orientation Cube TP#12] Inputted commands: Clockwise rotation
-[PaceMaker] PlayerSuccessRating: 0.3354829 (Factors: solved: 0.21875, strikes: 0, time: 0.1167329)
+[The Sphere #3] At stage 7, you tapped the sphere when the last digit of the second timer was 6. That is correct.
+[The Sphere #3] At stage 8, you held the sphere for 3 seconds. That is correct.
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !bomb time
+[The Sphere #3] At stage 9, you held the sphere for 1 seconds. That is correct.
+[The Sphere #3] At stage 10, you tapped the sphere when the last digit of the second timer was 6. That is correct.
+[Mystic Square #1] Module solved.
+[ModBombComponent #466] Pass
 
-[PaceMaker] Next idle action in 56.01217 seconds.
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"MysticSquareModule","bombTime":421.8837,"realTime":319.490234,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6 (Factors: solved: 0.1, strikes: 0.3, time: 0.2)
 
-:dbros1000!dbros1000@dbros1000.tmi.twitch.tv JOIN #heres_fangy
-[TwitchPlays] [M] Dbros1000 (, 274893701): !12 press cw set
-[Orientation Cube TP#12] Inputted commands: Clockwise rotation, Clockwise rotation, submit
-rule3
-[Bomb] Strike from Mod! 3 / 3 strikes
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !12cv
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !q !25 submit NNXEXV
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !claims
+[PaceMaker] PlayerSuccessRating: 0.6 (Factors: solved: 0.1, strikes: 0.3, time: 0.2)
 
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 35.25552 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !CALL
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF): !22 t 4
+---PING--- ---PONG--- :tmi.twitch.tv
+[The Sphere #3] At stage 11, you tapped the sphere when the last digit of the second timer was 4. That is correct.
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !bomb date
+[ModBombComponent #470] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"sphere","bombTime":464.18457,"realTime":362.689453,"loggingID":3}
+[PaceMaker] PlayerSuccessRating: 0.6166667 (Factors: solved: 0.1166667, strikes: 0.3, time: 0.2)
+
+[The Sphere #3] Inputs correct. Module disarmed.
+[PaceMaker] PlayerSuccessRating: 0.6166667 (Factors: solved: 0.1166667, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 48.8016 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] KingMario2973 (#5F9EA0): !25 submit NNXEXV
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"CrypticPassword","bombTime":571.9507,"realTime":379.722656,"loggingID":2}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.6166667 (Factors: solved: 0.1166667, strikes: 0.3, time: 0.2)
+
+[Cryptic Password #2] That was incorrect. Submitted word was: NNXEXV
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): bruh
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !12 cv
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 cv
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 play
+[Spelling Bee #1] Your word is: 'monopsony'
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 help
+:cyber12!cyber12@cyber12.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 submit MONOPSONY
+[Spelling Bee #1] You spelled it: 'monopsony'
+[Spelling Bee #1] You spelled it correctly, module solved.
+[ModBombComponent #458] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"spellingBee","bombTime":433.527252,"realTime":403.755859,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6333333 (Factors: solved: 0.1333333, strikes: 0.3, time: 0.2)
+
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[PaceMaker] PlayerSuccessRating: 0.6333333 (Factors: solved: 0.1333333, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 28.36083 seconds.
+
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): !q !25 submit DNXEXV
+[PaceMaker] PlayerSuccessRating: 0.6333333 (Factors: solved: 0.1333333, strikes: 0.3, time: 0.2)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.23192 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6182435 (Factors: solved: 0.1333333, strikes: 0.3, time: 0.1849102)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 59.96601 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 zoom next\
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 zoom next
+[Double Expert #1] ------------Instruction Set 3------------
+[Double Expert #1] Instruction Set 3 has no condition. Applying rule(s) [ T L J ].
+[Double Expert #1] Rule T condition returned true. New Key Number is 55.
+[Double Expert #1] Rule L condition returned false. Key Number doesn't change.
+[Double Expert #1] Rule J condition returned false. Key Number doesn't change.
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 zoom next
+[Double Expert #1] ------------Instruction Set 4------------
+[Double Expert #1] Instruction Set 4 has no condition. Applying rule(s) [ K K ].
+[Double Expert #1] Rule K condition returned false. Key Number doesn't change.
+[Double Expert #1] Rule K condition returned false. Key Number doesn't change.
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !q !3 submit 08030
+:kavinkul!kavinkul@kavinkul.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !unclaimed
+[PaceMaker] PlayerSuccessRating: 0.5896883 (Factors: solved: 0.1333333, strikes: 0.3, time: 0.1563549)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 36.84367 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 zoom next
+[Double Expert #1] ------------Instruction Set 5------------
+[Double Expert #1] Instruction Set 5 has no condition. Applying rule(s) [ P F ].
+[Double Expert #1] Rule P condition returned false. Key Number doesn't change.
+[Double Expert #1] Rule F condition returned false. Key Number doesn't change.
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !unclaimeD
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF, 122884357): !claim 1
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 zoom 5
+[PaceMaker] PlayerSuccessRating: 0.572117 (Factors: solved: 0.1333333, strikes: 0.3, time: 0.1387836)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 32.98581 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !12 press 3 3 3 3 2 2 2 1 1 1 1
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"neutrinos","bombTime":273.611176,"realTime":598.4707,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.5375662 (Factors: solved: 0.1333333, strikes: 0.3, time: 0.1042328)
+
+[Neutrinos #1] Other neutrinos arrived sooner! Strike!
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 zoom next
+[Double Expert #1] ------------Instruction Set 6------------
+[Double Expert #1] Instruction Set 6 condition returned false. Applying rule(s) [ None ].
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): what the fuck
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): ugh
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] KingMario2973 (#5F9EA0): !25 submit DNXEXV
+[ModBombComponent #476] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"CrypticPassword","bombTime":208.256119,"realTime":609.1035,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.5714553 (Factors: solved: 0.15, strikes: 0.3, time: 0.1214553)
+
+[Cryptic Password #2] Module solved!
+[PaceMaker] PlayerSuccessRating: 0.5692967 (Factors: solved: 0.15, strikes: 0.3, time: 0.1192967)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 37.74768 seconds.
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 zoom5
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 zoom 5
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !calL
+[TwitchPlays] [M] Procyon_KTaNE (#0000FF): !3 submit 08030
+[Quintuples #2] You entered 08030. That is correct. Module disarmed.
+[ModBombComponent #432] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"quintuples","bombTime":224.755127,"realTime":639.4043,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.6225977 (Factors: solved: 0.1666667, strikes: 0.3, time: 0.155931)
+
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 toggle
+[Double Expert #1] ------------Instruction Set 7------------
+[Double Expert #1] Instruction Set 7 condition returned true. Applying rule(s) [ X ].
+[Double Expert #1] Rule X condition returned false. Key Number doesn't change.
+[Double Expert #1] ------------Keywords------------
+[Double Expert #1] Solving keywords for Key Number = 55.
+[Double Expert #1] Available keywords are [ Greek, Zebra, Banana, Quiet, Zenoblade, Oscar, Stunt, Tuesday, Warsaw, ].
+[Double Expert #1] Correct keyword is Zenoblade.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[PaceMaker] PlayerSuccessRating: 0.6168894 (Factors: solved: 0.1666667, strikes: 0.3, time: 0.1502227)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 47.59241 seconds.
+
+Font size and style overrides are only supported for dynamic fonts.
+:mrpeanut1028!mrpeanut1028@mrpeanut1028.tmi.twitch.tv JOIN #heres_fangy
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !7 help
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): !q !7 toggle zenoblade
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): oh fuck thats a port playe
+Font size and style overrides are only supported for dynamic fonts.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): oop
+Font size and style overrides are only supported for dynamic fonts.
+[TwitchPlays] [M] cky1975 (, 511899356): !14 cv
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[PaceMaker] PlayerSuccessRating: 0.5942397 (Factors: solved: 0.1666667, strikes: 0.3, time: 0.127573)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.52093 seconds.
+
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[TwitchPlays] [M] cky1975 (, 511899356): !14 submit 0900
+Font size and style overrides are only supported for dynamic fonts.
+[Timezones #1] Module passed. Answer: 0900.
+[ModBombComponent #454] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"timezone","bombTime":262.9033,"realTime":703.9551,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6313826 (Factors: solved: 0.1833333, strikes: 0.3, time: 0.1480492)
+
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): @cky1975 QUEUE
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !CALL
+[TwitchPlays] [M] Cyber12 (#0000FF): !7 toggle zenoblade
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+Font size and style overrides are only supported for dynamic fonts.
+[Double Expert #1] Submitted Zenoblade. Module solved.
+[ModBombComponent #440] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"doubleExpert","bombTime":275.4733,"realTime":739.384766,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6697492 (Factors: solved: 0.2, strikes: 0.3, time: 0.1697492)
+
+Font size and style overrides are only supported for dynamic fonts.
+[TwitchPlays] Disabling camera wall
+[TwitchPlays] Camera wall disabled
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): yay
+[PaceMaker] PlayerSuccessRating: 0.6630089 (Factors: solved: 0.2, strikes: 0.3, time: 0.1630089)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 58.62518 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6351033 (Factors: solved: 0.2, strikes: 0.3, time: 0.1351033)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 25.77444 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !12 press 1 1 1 1 2 2
+:tteyyd!tteyyd@tteyyd.tmi.twitch.tv PART #heres_fangy
+:cky1975!cky1975@cky1975.tmi.twitch.tv PART #heres_fangy
+:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !12 PRESS SUBmit
+[ModBombComponent #450] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"neutrinos","bombTime":260.884674,"realTime":834.9707,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7033737 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.186707)
+
+[Neutrinos #1] Module Solved
+[PaceMaker] PlayerSuccessRating: 0.7019758 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.1853092)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 29.1989 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !claimall
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 cycle
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.6880494 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.1713828)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 31.2308 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 sell mint chocolate chip
+[PaceMaker] PlayerSuccessRating: 0.6731939 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.1565272)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 23.07748 seconds.
+
+[Ice Cream #1] Mint Chocolate Chip submitted when parlour is closed.
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"iceCreamModule","bombTime":327.4748,"realTime":899.5801,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.641419 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.1247523)
+
+[Ice Cream #1] Stage 1
+Customer: Gary
+Flavour Options: Double Chocolate, Tutti Frutti, Mint Chocolate Chip, The Classic, Vanilla
+Solution: Double Chocolate
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): excuse me
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): what
+[PaceMaker] PlayerSuccessRating: 0.6309901 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.1143235)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 38.58206 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): how the fuck
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 cycle
+:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv JOIN #heres_fangy
+:tteyyd!tteyyd@tteyyd.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.6126216 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.09595492)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 32.1025 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 sell double chocolate
+[Ice Cream #1] Double Chocolate submitted when parlour is closed.
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"iceCreamModule","bombTime":181.712952,"realTime":979.847656,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.5858907 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.06922399)
+
+[Ice Cream #1] Stage 1
+Customer: Pat
+Flavour Options: Neapolitan, Cookies and Cream, Double Chocolate, The Classic, Vanilla
+Solution: Cookies and Cream
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 cycle
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): WHAT
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): HOW
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 uc
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): imagine
+[PaceMaker] PlayerSuccessRating: 0.5800024 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.06333566)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 20.74731 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): i dont get how thats wrong
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): t w i c e
+[TwitchPlays] [M] Cyber12 (#0000FF, 250713178): Kappa
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): wiat
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): WAIT
+[PaceMaker] PlayerSuccessRating: 0.5701252 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.05345854)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 38.44453 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !find ice
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 hour
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 hours
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): FUCK OFF
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): well nut is up again so
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): yeah this bomb is dead
+[PaceMaker] PlayerSuccessRating: 0.5517958 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.03512909)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 26.46402 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !unclaimall
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[PaceMaker] PlayerSuccessRating: 0.5391892 (Factors: solved: 0.2166667, strikes: 0.3, time: 0.02252248)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.61485 seconds.
+
+:kaidras!kaidras@kaidras.tmi.twitch.tv JOIN #heres_fangy
+:sanoytwooch!sanoytwooch@sanoytwooch.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] KingMario2973 (#5F9EA0, 175658894): ..
 [LogfileHotkey] Post-bomb additional log capturing enabled
 [Tweaks] LFAEvent 1
-{"type":"BOMB_DETONATE","serial":"9L3ZX1","bombTime":1172.42712,"realTime":638.116943,"solves":7,"strikes":3}
+{"type":"BOMB_DETONATE","serial":"PD9VP0","bombTime":-0.0257356651,"realTime":1125.24219,"solves":13,"strikes":0}
 [Bomb] Boom
 
 [State] OnRoundEnd()

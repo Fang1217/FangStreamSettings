@@ -1,0 +1,1059 @@
+Initialize engine version: Twitch Plays
+[Profile Revealer] Waiting for bombs...
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 1053245343
+
+[BombGenerator] Generator settings: Time: 420, NumStrikes: 9, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 11
+
+
+[BombGenerator] Selected accumulation (1542509478 (ModBombComponent))
+
+[BombGenerator] Selected lgndAudioMorse (2077294164 (ModBombComponent))
+
+[BombGenerator] Selected leftandRight (1640175945 (ModBombComponent))
+
+[BombGenerator] Selected ColorMorseModule (1649012246 (ModBombComponent))
+
+[BombGenerator] Selected bombDiffusal (1792010255 (ModBombComponent))
+
+[BombGenerator] Selected disorderedKeys (1789372014 (ModBombComponent))
+
+[BombGenerator] Selected yesandno (2089035682 (ModBombComponent))
+
+[BombGenerator] Selected synonyms (1398247352 (ModBombComponent))
+
+[BombGenerator] Selected calcModule (2080945967 (ModBombComponent))
+
+[BombGenerator] Selected morseButtons (2031876189 (ModBombComponent))
+
+[BombGenerator] Selected challengeAndContact (1578108757 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1542509478 (ModBombComponent), 2077294164 (ModBombComponent), 1640175945 (ModBombComponent), 1649012246 (ModBombComponent), 1792010255 (ModBombComponent), 1789372014 (ModBombComponent), 2089035682 (ModBombComponent), 1398247352 (ModBombComponent), 2080945967 (ModBombComponent), 2031876189 (ModBombComponent), 1578108757 (ModBombComponent)]
+
+[Mod-accumulation] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1542509478" has ID:"accumulation"
+
+[Mod-accumulation] Loading assemblies...
+
+[Mod-accumulation] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1542509478\Newtonsoft.Json.dll"...
+
+[Mod-accumulation] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1542509478\accumulation.dll"
+
+[Mod-accumulation] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1542509478" complete.
+
+[Mod-accumulation] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-accumulation] Replacing shaders...
+
+[Mod-accumulation] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-accumulation] Loading KMMissions...
+
+[Mod-accumulation] Loading KMMissionTableOfContents...
+
+[Mod-accumulation] Loading AudioClips...
+
+[BombGenerator] Instantiated 1542509478 on face BackFace, spawn index 0
+
+[Mod-lgndAudioMorse] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2077294164" has ID:"lgndAudioMorse"
+
+[Mod-lgndAudioMorse] Loading assemblies...
+
+[Mod-lgndAudioMorse] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2077294164\Newtonsoft.Json.dll"...
+
+[Mod-lgndAudioMorse] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2077294164\lgndAudioMorse.dll"
+
+[Mod-lgndAudioMorse] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2077294164" complete.
+
+[Mod-lgndAudioMorse] Loading GameObjects...
+
+[Mod-lgndAudioMorse] Replacing shaders...
+
+[Mod-lgndAudioMorse] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-lgndAudioMorse] Loading KMMissions...
+
+[Mod-lgndAudioMorse] Loading KMMissionTableOfContents...
+
+[Mod-lgndAudioMorse] Loading AudioClips...
+
+[BombGenerator] Instantiated 2077294164 on face FrontFace, spawn index 3
+
+[Mod-leftandRight] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1640175945" has ID:"leftandRight"
+
+[Mod-leftandRight] Loading assemblies...
+
+[Mod-leftandRight] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1640175945\Newtonsoft.Json.dll"...
+
+[Mod-leftandRight] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1640175945\leftandRight.dll"
+
+[Mod-leftandRight] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1640175945" complete.
+
+[Mod-leftandRight] Loading GameObjects...
+
+[Mod-leftandRight] Replacing shaders...
+
+[Mod-leftandRight] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-leftandRight] Loading KMMissions...
+
+[Mod-leftandRight] Loading KMMissionTableOfContents...
+
+[Mod-leftandRight] Loading AudioClips...
+
+[BombGenerator] Instantiated 1640175945 on face BackFace, spawn index 3
+
+[Mod-ColorMorse] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1649012246" has ID:"ColorMorse"
+
+[Mod-ColorMorse] Loading assemblies...
+
+[Mod-ColorMorse] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1649012246\Newtonsoft.Json.dll"...
+
+[Mod-ColorMorse] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1649012246\ColorMorse.dll"
+
+[Mod-ColorMorse] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1649012246" complete.
+
+[Mod-ColorMorse] Loading GameObjects...
+
+[Mod-ColorMorse] Replacing shaders...
+
+[Mod-ColorMorse] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorMorse] Loading KMMissions...
+
+[Mod-ColorMorse] Loading KMMissionTableOfContents...
+
+[Mod-ColorMorse] Loading AudioClips...
+
+[BombGenerator] Instantiated 1649012246 on face BackFace, spawn index 4
+
+[Mod-bombDiffusal] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1792010255" has ID:"bombDiffusal"
+
+[Mod-bombDiffusal] Loading assemblies...
+
+[Mod-bombDiffusal] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1792010255\Newtonsoft.Json.dll"...
+
+[Mod-bombDiffusal] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1792010255\bombDiffusal.dll"
+
+[Mod-bombDiffusal] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1792010255" complete.
+
+[Mod-bombDiffusal] Loading GameObjects...
+
+[Mod-bombDiffusal] Replacing shaders...
+
+[Mod-bombDiffusal] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+
+[Mod-bombDiffusal] Loading KMMissions...
+
+[Mod-bombDiffusal] Loading KMMissionTableOfContents...
+
+[Mod-bombDiffusal] Loading AudioClips...
+
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+[BombGenerator] Instantiated 1792010255 on face FrontFace, spawn index 4
+
+[Mod-disorderedKeys] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1789372014" has ID:"disorderedKeys"
+
+[Mod-disorderedKeys] Loading assemblies...
+
+[Mod-disorderedKeys] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1789372014\Newtonsoft.Json.dll"...
+
+[Mod-disorderedKeys] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1789372014\disorderedKeys.dll"
+
+[Mod-disorderedKeys] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1789372014" complete.
+
+[Mod-disorderedKeys] Loading GameObjects...
+
+[Mod-disorderedKeys] Replacing shaders...
+
+[Mod-disorderedKeys] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-disorderedKeys] Replacing shaders...
+
+[Mod-disorderedKeys] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-disorderedKeys] Loading KMMissions...
+
+[Mod-disorderedKeys] Loading KMMissionTableOfContents...
+
+[Mod-disorderedKeys] Loading AudioClips...
+
+[BombGenerator] Instantiated 1789372014 on face FrontFace, spawn index 5
+
+[Mod-yesandno] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2089035682" has ID:"yesandno"
+
+[Mod-yesandno] Loading assemblies...
+
+[Mod-yesandno] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2089035682\Newtonsoft.Json.dll"...
+
+[Mod-yesandno] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2089035682\yesandno.dll"
+
+[Mod-yesandno] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2089035682" complete.
+
+[Mod-yesandno] Loading GameObjects...
+
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Mod-yesandno] Replacing shaders...
+
+[Mod-yesandno] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-yesandno] Replacing shaders...
+
+[Mod-yesandno] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-yesandno] Loading KMMissions...
+
+[Mod-yesandno] Loading KMMissionTableOfContents...
+
+[Mod-yesandno] Loading AudioClips...
+
+[BombGenerator] Instantiated 2089035682 on face BackFace, spawn index 5
+
+[Mod-synonyms] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1398247352" has ID:"synonyms"
+
+[Mod-synonyms] Loading assemblies...
+
+[Mod-synonyms] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1398247352\Newtonsoft.Json.dll"...
+
+[Mod-synonyms] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1398247352\synonyms.dll"
+
+[Mod-synonyms] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1398247352" complete.
+
+[Mod-synonyms] Loading GameObjects...
+
+[Mod-synonyms] Replacing shaders...
+
+[Mod-synonyms] ModUnityVersion: 2017.1.0f3 Game: 2017.4.22f1
+
+[Mod-synonyms] Loading KMMissions...
+
+[Mod-synonyms] Loading KMMissionTableOfContents...
+
+[Mod-synonyms] Loading AudioClips...
+
+[BombGenerator] Instantiated 1398247352 on face BackFace, spawn index 2
+
+[Mod-calcModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2080945967" has ID:"calcModule"
+
+[Mod-calcModule] Loading assemblies...
+
+[Mod-calcModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2080945967\Newtonsoft.Json.dll"...
+
+[Mod-calcModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2080945967\calcModule.dll"
+
+[Mod-calcModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2080945967" complete.
+
+[Mod-calcModule] Loading GameObjects...
+
+[Mod-calcModule] Replacing shaders...
+
+[Mod-calcModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-calcModule] Loading KMMissions...
+
+[Mod-calcModule] Loading KMMissionTableOfContents...
+
+[Mod-calcModule] Loading AudioClips...
+
+[BombGenerator] Instantiated 2080945967 on face FrontFace, spawn index 0
+
+[Mod-morseButtons] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2031876189" has ID:"morseButtons"
+
+[Mod-morseButtons] Loading assemblies...
+
+[Mod-morseButtons] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2031876189\Newtonsoft.Json.dll"...
+
+[Mod-morseButtons] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2031876189\morseButtons.dll"
+
+[Mod-morseButtons] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2031876189" complete.
+
+[Mod-morseButtons] Loading GameObjects...
+
+[Mod-morseButtons] Replacing shaders...
+
+[Mod-morseButtons] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-morseButtons] Loading KMMissions...
+
+[Mod-morseButtons] Loading KMMissionTableOfContents...
+
+[Mod-morseButtons] Loading AudioClips...
+
+[BombGenerator] Instantiated 2031876189 on face FrontFace, spawn index 1
+
+[BombGenerator] Instantiated 1578108757 on face FrontFace, spawn index 2
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: LP0ZT2
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit MSA (IndicatorWidget/LABEL8)
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit IND (IndicatorWidget/LABEL4)
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit CLR (IndicatorWidget/LABEL2)
+
+[Accumulation #1] The border colour is brown (value: 23).
+[Accumulation #1] The base number is 28.
+[Accumulation #1] The background colour for stage 1 is red.
+[Accumulation #1] The value of red is (17 * 1) for a total of 17.
+[Accumulation #1] The target answer for stage 1 is 45.
+[Audio Morse #1] The Morse Code message is DOUBLE 675
+[Left and Right #1] The calculated sequence from edgework is: 0241
+[Left and Right #1] The converted sequence is: R,R,R,R,L,L,L,R,
+[Left and Right #1] The green button will incur a switch after 4 presses.  Reason: Battery holders + port plates + indicators <= 5
+[Left and Right #1] The blue button will incur a switch after 1 presses.  Reason: At least 5 modules on the bomb
+[Color Morse #1] Number 0 is a BLUE 15 (F)
+[Color Morse #1] Number 1 is a GREEN 25 (P)
+[Color Morse #1] Number 2 is a WHITE 7 (7)
+[Color Morse #1] Parentheses location: RIGHT
+[Color Morse #1] Operators: + and ×
+[Color Morse #1] Number 0 after color operation is 9
+[Color Morse #1] Number 1 after color operation is 25
+[Color Morse #1] Number 2 after color operation is 7
+[Color Morse #1] Parentheses locations are imaginarily swapped because of green.
+[Color Morse #1] Solution: 238 (..--- ...-- ---..)
+[Bomb Diffusal #1] Port 1 is Component Video. Port 2 is Stereo RCA.
+[Bomb Diffusal #1] Software licesnse number is 78H2DP.
+[Bomb Diffusal #1] Delivery number is 711412.
+[Bomb Diffusal #1] Delivery sector is USA #1.
+[Bomb Diffusal #1] Delivery area is Idaho.
+[Bomb Diffusal #1] Required number of batteries is 5.
+[Bomb Diffusal #1] Required number of indicators is 4.
+[Bomb Diffusal #1] Port menu order is [ USB, Composite Video, Serial, PCMCIA, DVI-D, RJ-45, HDMI, Parallel, PS2, Stereo RCA, Component Video, VGA, AC Power, ].
+[Bomb Diffusal #1] Required port type is Composite Video.
+[Bomb Diffusal #1] Required number of manuals is 2.
+[Disordered Keys #1] After 0 reset(s), the keys had the colours: #, Cyan, Cyan, Magenta, Green, Red
+[Disordered Keys #1] After 0 reset(s), the labels had the colours: Magenta, Blue, Blue, Cyan, Magenta, #
+[Disordered Keys #1] After 0 reset(s), the keys were labelled: 2, #, #, #, #, 5
+[Disordered Keys #1] After 0 reset(s), the keys had the quirks: Sequence, None, Last, None, None, False
+[Disordered Keys #1] After 0 reset(s), the keys had the values: 5, 2, 6, 3, 4, #
+[Yes and No Service] Service is active
+[Morse Buttons #1] Top Left button is flashing: Yellow O
+[Morse Buttons #1] Top Middle button is flashing: Green 3
+[Morse Buttons #1] Top Right button is flashing: Purple X
+[Morse Buttons #1] Bottom Left button is flashing: Orange J
+[Morse Buttons #1] Bottom Middle button is flashing: Orange U
+[Morse Buttons #1] Bottom Right button is flashing: Red E
+[Morse Buttons #1] Top Left button rule required: 27
+[Morse Buttons #1] Top Middle button rule required: 19
+[Morse Buttons #1] Top Right button rule required: 24
+[Morse Buttons #1] Bottom Left button rule required: 6
+[Morse Buttons #1] Bottom Middle button rule required: 11
+[Morse Buttons #1] Bottom Right button rule required: 7
+[Morse Buttons #1] The buttons to be pressed are [ Top Left ]
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[Yes and No Service] Questions successfully loaded from the web, using these for the module:
+[Yes and No Service] Is the sun hot? => 1
+[Yes and No Service] Is a dog a reptile? => 0
+[Yes and No Service] Are you human? => 1
+[Yes and No Service] Is green a warm color? => 0
+[Yes and No Service] Is blue a cold color? => 1
+[Yes and No Service] Do penguins wear a tuxedo? => 0
+[Yes and No Service] Is chile in china? => 0
+[Yes and No Service] Is this a Module? => 1
+[Yes and No Service] Are you currently sleeping? => 0
+[Yes and No Service] Is it the year 1992? => 0
+[Yes and No Service] Are you affected by gravity? => 1
+[Yes and No Service] Is water wet? => 1
+[Yes and No Service] Do pigs fly? => 0
+[Yes and No Service] Do cows give milk? => 1
+[Yes and No Service] Is the skin an organ? => 1
+[Yes and No Service] Is human blood red? => 1
+[Yes and No Service] Is fire hot? => 1
+[Yes and No Service] Is KTaNE something to eat? => 0
+[Yes and No Service] Press YES => 1
+[Yes and No Service] Press NO => 0
+[Yes and No Service] Don't press YES => 0
+[Yes and No Service] Don't press NO => 1
+[Yes and No Service] Don't not press YES => 1
+[Yes and No Service] Don't not press NO => 0
+[Yes and No Service] Is this Left and Right? => 0
+[Yes and No Service] Is this Yes and No? => 1
+[Yes and No Service] Is there a manual for this? => 1
+[Yes and No Service] Is wood a liquid? => 0
+[Yes and No Service] Do submarines breathe? => 0
+[Yes and No Service] I say the truth - press YES => 1
+[Yes and No Service] I lie - press YES => 0
+[Yes and No Service] I don't say the truth - press YES => 0
+[Yes and No Service] I'm not lying - press YES => 1
+[Yes and No Service] I pressed YES, do the same => 1
+[Yes and No Service] Don't not press not YES => 0
+[Yes and No Service] Don't not press not NO => 1
+[Yes and No Service] SEY sserP => 1
+[Yes and No Service] ON sserP => 0
+[Yes and No Service] I pressed NO, do the same => 0
+[Yes and No Service] I pressed YES, don't do the same => 0
+[Yes and No Service] I pressed NO, don't do the same => 1
+[Yes and No Service] Is the earth flat? => 0
+[Yes and No Service] Is this Minecraft? => 0
+[Yes and No Service] Should you press the display? => 0
+[Yes and No Service] Is this thing solvable? => 1
+[Yes and No Service] + => 1
+[Yes and No Service] - => 0
+[Yes and No Service] Is this KTaNE? => 1
+[Yes and No Service] Successfully saved the questions file.
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"23 Fair Mix"}
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Rule Seed Modifier] The Seed is 1
+[Yes and No #1] ----------MODULE SETUP----------
+[Yes and No #1] Using ruleseed 1
+[Yes and No #1] ----------Left Switch Conditions----------
+[Yes and No #1] Left switch condition 1: The button is either blue or orange - Value: 1
+[Yes and No #1] Left switch condition 2: The button is either green or orange - Value: 4
+[Yes and No #1] Left switch condition 3: The button is not yellow - Value: 1
+[Yes and No #1] Left switch condition 4: The button is not labled ‘No’ - Value: 1
+[Yes and No #1] Left switch condition 5: Otherwise - Value: 4
+[Yes and No #1] ----------Right Switch Conditions----------
+[Yes and No #1] Right switch condition 1: The button is neither green nor yellow - Value: 3
+[Yes and No #1] Right switch condition 2: The button is either green or yellow - Value: 1
+[Yes and No #1] Right switch condition 3: The button is yellow - Value: 4
+[Yes and No #1] Right switch condition 4: The button is green - Value: 4
+[Yes and No #1] Right switch condition 5: Otherwise - Value: 4
+[Yes and No #1] ----------Questions and Answers----------
+[Yes and No #1] There will be a total of 14 questions
+[Yes and No #1] Nr. 1 - Question: 'Is the sun hot?' - Answer: 'Yes'
+[Yes and No #1] Nr. 2 - Question: 'Is a dog a reptile?' - Answer: 'No'
+[Yes and No #1] Nr. 3 - Question: 'Are you human?' - Answer: 'Yes'
+[Yes and No #1] Nr. 4 - Question: 'Is green a warm color?' - Answer: 'No'
+[Yes and No #1] Nr. 5 - Question: 'Is blue a cold color?' - Answer: 'Yes'
+[Yes and No #1] Nr. 6 - Question: 'Do penguins wear a tuxedo?' - Answer: 'No'
+[Yes and No #1] Nr. 7 - Question: 'Is chile in china?' - Answer: 'No'
+[Yes and No #1] Nr. 8 - Question: 'Is this a Module?' - Answer: 'Yes'
+[Yes and No #1] Nr. 9 - Question: 'Are you currently sleeping?' - Answer: 'No'
+[Yes and No #1] Nr. 10 - Question: 'Is it the year 1992?' - Answer: 'No'
+[Yes and No #1] Nr. 11 - Question: 'Are you affected by gravity?' - Answer: 'Yes'
+[Yes and No #1] Nr. 12 - Question: 'Is water wet?' - Answer: 'Yes'
+[Yes and No #1] Nr. 13 - Question: 'Do pigs fly?' - Answer: 'No'
+[Yes and No #1] Nr. 14 - Question: 'Do cows give milk?' - Answer: 'Yes'
+[Yes and No #1] Nr. 15 - Question: 'Is the skin an organ?' - Answer: 'Yes'
+[Yes and No #1] Nr. 16 - Question: 'Is human blood red?' - Answer: 'Yes'
+[Yes and No #1] Nr. 17 - Question: 'Is fire hot?' - Answer: 'Yes'
+[Yes and No #1] Nr. 18 - Question: 'Is KTaNE something to eat?' - Answer: 'No'
+[Yes and No #1] Nr. 19 - Question: 'Press YES' - Answer: 'Yes'
+[Yes and No #1] Nr. 20 - Question: 'Press NO' - Answer: 'No'
+[Yes and No #1] Nr. 21 - Question: 'Don't press YES' - Answer: 'No'
+[Yes and No #1] Nr. 22 - Question: 'Don't press NO' - Answer: 'Yes'
+[Yes and No #1] Nr. 23 - Question: 'Don't not press YES' - Answer: 'Yes'
+[Yes and No #1] Nr. 24 - Question: 'Don't not press NO' - Answer: 'No'
+[Yes and No #1] Nr. 25 - Question: 'Is this Left and Right?' - Answer: 'No'
+[Yes and No #1] Nr. 26 - Question: 'Is this Yes and No?' - Answer: 'Yes'
+[Yes and No #1] Nr. 27 - Question: 'Is there a manual for this?' - Answer: 'Yes'
+[Yes and No #1] Nr. 28 - Question: 'Is wood a liquid?' - Answer: 'No'
+[Yes and No #1] Nr. 29 - Question: 'Do submarines breathe?' - Answer: 'No'
+[Yes and No #1] Nr. 30 - Question: 'I say the truth - press YES' - Answer: 'Yes'
+[Yes and No #1] Nr. 31 - Question: 'I lie - press YES' - Answer: 'No'
+[Yes and No #1] Nr. 32 - Question: 'I don't say the truth - press YES' - Answer: 'No'
+[Yes and No #1] Nr. 33 - Question: 'I'm not lying - press YES' - Answer: 'Yes'
+[Yes and No #1] Nr. 34 - Question: 'I pressed YES, do the same' - Answer: 'Yes'
+[Yes and No #1] Nr. 35 - Question: 'Don't not press not YES' - Answer: 'No'
+[Yes and No #1] Nr. 36 - Question: 'Don't not press not NO' - Answer: 'Yes'
+[Yes and No #1] Nr. 37 - Question: 'SEY sserP' - Answer: 'Yes'
+[Yes and No #1] Nr. 38 - Question: 'ON sserP' - Answer: 'No'
+[Yes and No #1] Nr. 39 - Question: 'I pressed NO, do the same' - Answer: 'No'
+[Yes and No #1] Nr. 40 - Question: 'I pressed YES, don't do the same' - Answer: 'No'
+[Yes and No #1] Nr. 41 - Question: 'I pressed NO, don't do the same' - Answer: 'Yes'
+[Yes and No #1] Nr. 42 - Question: 'Is the earth flat?' - Answer: 'No'
+[Yes and No #1] Nr. 43 - Question: 'Is this Minecraft?' - Answer: 'No'
+[Yes and No #1] Nr. 44 - Question: 'Should you press the display?' - Answer: 'No'
+[Yes and No #1] Nr. 45 - Question: 'Is this thing solvable?' - Answer: 'Yes'
+[Yes and No #1] Nr. 46 - Question: '+' - Answer: 'Yes'
+[Yes and No #1] Nr. 47 - Question: '-' - Answer: 'No'
+[Yes and No #1] Nr. 48 - Question: 'Is this KTaNE?' - Answer: 'Yes'
+[Yes and No #1] ----------Selected Conditions----------
+[Yes and No #1] Left switch will occur after 4 button presses. Reason: The button is either green or orange
+[Yes and No #1] Right switch will occur after 3 button presses. Reason: The button is neither green nor yellow
+[Yes and No #1] ----------DEFUSER INPUT----------
+[Tweaks] LFABombInfo 5
+{"serial":"LP0ZT2","displayNames":{"Timer":"Timer","accumulation":"Accumulation","lgndAudioMorse":"Audio Morse","leftandRight":"Left and Right","ColorMorseModule":"Color Morse","bombDiffusal":"Bomb Diffusal","disorderedKeys":"Disordered Keys","yesand
+no":"Yes and No","synonyms":"Synonyms","calcModule":"Calculus","morseButtons":"Morse Buttons","challengeAndContact":"Challenge & Contact"},"ids":{"accumulation":[1],"lgndAudioMorse":[1],"leftandRight":[1],"ColorMorseModule":[1],"bombDiffusal":[1],"di
+sorderedKeys":[1],"yesandno":[1],"synonyms":[1],"calcModule":[1],"morseButtons":[1],"challengeAndContact":[2]},"anchors":[[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220],[-0.217,-0.220],[0.003,-0.220],[-0.107,
+0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220]],"modules":["calcModule 1","morseButtons 1","challengeAndContact 2","lgndAudioMorse 1","bombDiffusal 1","accumulation 1","synonyms 1","Timer -","disorderedKeys 1","leftandRight 1","ColorMorseModule 1"
+,"yesandno 1"]}
+[TwitchPlays] Switching bomb
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'accumulation(Clone)'.
+[Profile Revealer] Attaching to 'AudioMorseModule(Clone)'.
+[Profile Revealer] Attaching to 'Left and Right(Clone)'.
+[Profile Revealer] Attaching to 'ColorMorseModule(Clone)'.
+[Profile Revealer] Attaching to 'bombDiffusal(Clone)'.
+[Profile Revealer] Attaching to 'DisorderedKeys(Clone)'.
+[Profile Revealer] Attaching to 'Yes and No(Clone)'.
+[Profile Revealer] Attaching to 'SynonymsModule(Clone)'.
+[Profile Revealer] Attaching to 'CalcModule(Clone)'.
+[Profile Revealer] Attaching to 'morseButtons(Clone)'.
+[Profile Revealer] Attaching to 'Module(Clone)'.
+custom
+[Calculus #1] The equation is -1x^1 + Rx^1
+[Calculus #1] The answer's degree is 0, meaning that a Derivative must be taken
+[Calculus #1] The correct answer to the calculus equation is 2x^0
+[Challenge & Contact #2] The words are rashes, rudest, and rusted.
+[Challenge & Contact #2] The clues are Are you a possible word from Anagrams?, Are you a possible word from Anagrams?, and Are you a possible word from Anagrams?.
+[Challenge & Contact #2] The letters being displayed are i.
+[Challenge & Contact #2] The cipher used for this stage was atbash.
+[PaceMaker] Round start! Mission: 23 Fair Mix Pacing Enabled: True
+
+[PaceMaker] Next idle action in 33.49277 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !bomb flip
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !3 cv
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 cv
+[PaceMaker] PlayerSuccessRating: 0.4840628 (Factors: solved: 0, strikes: 0.3, time: 0.1840628)
+
+[PaceMaker] Next idle action in 24.82534 seconds.
+
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !8 cv
+[PaceMaker] PlayerSuccessRating: 0.4722211 (Factors: solved: 0, strikes: 0.3, time: 0.1722211)
+
+[PaceMaker] Next idle action in 53.7273 seconds.
+
+[TwitchPlays] [M] jjroccss (, 526314480): !claim 6
+[PaceMaker] PlayerSuccessRating: 0.4466093 (Factors: solved: 0, strikes: 0.3, time: 0.1466092)
+
+[PaceMaker] Next idle action in 50.9429 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !bomb turn
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !3 RRRRRRRL
+[Left and Right #1] The right button caused a switch after 4 presses. Remaining Sequence: R,R,R,L,
+[ModBombComponent #256] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"leftandRight","bombTime":264.5789,"realTime":163.132813,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5188471 (Factors: solved: 0.05, strikes: 0.3, time: 0.1688471)
+
+[PaceMaker] PlayerSuccessRating: 0.5151803 (Factors: solved: 0.05, strikes: 0.3, time: 0.1651803)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 12186.31
+
+[PaceMaker] Next idle action in 39.04529 seconds.
+
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !bomb flip
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !bomb flip
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): Oops :D
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !bomb fliP
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): xD
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !9 cv
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !11 cv
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !10 cv
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !2 cv
+[TwitchPlays] Enabling camera wall
+[TwitchPlays] Camera wall enabled
+[PaceMaker] PlayerSuccessRating: 0.4965791 (Factors: solved: 0.05, strikes: 0.3, time: 0.1465791)
+
+[PaceMaker] Next idle action in 32.30367 seconds.
+
+:romz3k57!romz3k57@romz3k57.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !11 submit Rashes
+[Challenge & Contact #2] You submitted rashes. The answer was rashes.
+[Challenge & Contact #2] That was right!
+[Challenge & Contact #2] The letters being displayed are if.
+[Challenge & Contact #2] The cipher used for this stage was atbash.
+[PaceMaker] PlayerSuccessRating: 0.4811661 (Factors: solved: 0.05, strikes: 0.3, time: 0.1311661)
+
+[PaceMaker] Next idle action in 51.91127 seconds.
+
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !11 submit Rudest
+[Challenge & Contact #2] You submitted rudest. The answer was rudest.
+[Challenge & Contact #2] That was right!
+[Challenge & Contact #2] The letters being displayed are ifh.
+[Challenge & Contact #2] The cipher used for this stage was atbash.
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): 3 times anagram question LUL
+[PaceMaker] PlayerSuccessRating: 0.4564167 (Factors: solved: 0.05, strikes: 0.3, time: 0.1064167)
+
+[PaceMaker] Next idle action in 55.74884 seconds.
+
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !11 submit Rusted
+[Challenge & Contact #2] You submitted rusted. The answer was rusted.
+[ModBombComponent #272] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"challengeAndContact","bombTime":215.982773,"realTime":301.7246,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.5331823 (Factors: solved: 0.1, strikes: 0.3, time: 0.1331823)
+
+[Challenge & Contact #2] That was right!
+[TwitchPlays] [M] jjroccss (, 526314480): !6 help
+[TwitchPlays] [M] jjroccss (, 526314480): !6 press 1 2 3 4 5
+[Disordered Keys #1] Key 1 revealed:
+[Disordered Keys #1] - Blue with Cyan 2
+[Disordered Keys #1] - Green with Cyan 2
+[Disordered Keys #1] - Blue with Blue 4
+[Disordered Keys #1] - Blue with Cyan 4
+[Disordered Keys #1] - Blue with Blue 6
+[Disordered Keys #1] Key 2 revealed: Blue with Blue 1
+[Disordered Keys #1] Key 3 revealed: Magenta with Green 5
+[Disordered Keys #1] Key 4 revealed: Magenta with Blue 5
+[Disordered Keys #1] Key 5 revealed: Yellow with Green 5
+:timwiterby!timwiterby@timwiterby.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 HELP
+[PaceMaker] PlayerSuccessRating: 0.5101777 (Factors: solved: 0.1, strikes: 0.3, time: 0.1101777)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Cut the lights at 12365.49
+
+[PaceMaker] Next idle action in 21.98203 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.4997 (Factors: solved: 0.1, strikes: 0.3, time: 0.09969997)
+
+[PaceMaker] Next idle action in 43.58423 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 cv
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 l
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !9 submit 2
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 help
+[Calculus #1] Submitted answer: 2x^0, which is correct! Module disarmed!
+[ModBombComponent #268] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"calcModule","bombTime":197.511383,"realTime":384.250977,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5615768 (Factors: solved: 0.15, strikes: 0.3, time: 0.1115769)
+
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 transmit ..--- ----- ....-
+[Color Morse #1] Character submitted correctly. Current Submission: “..--- ”
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"ColorMorseModule","bombTime":229.97789,"realTime":388.583984,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.5376107 (Factors: solved: 0.15, strikes: 0.3, time: 0.08761062)
+
+[Color Morse #1] Submitted “-” incorrectly. Current submission: “..--- ”. Resetting submission.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 r
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 l
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 r
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !10 help
+[PaceMaker] PlayerSuccessRating: 0.5245627 (Factors: solved: 0.15, strikes: 0.3, time: 0.07456267)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.78909 seconds.
+
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !10 press tl
+[Morse Buttons #1] Correctly pressed Top Left button. Module solved!
+[ModBombComponent #270] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"morseButtons","bombTime":153.8481,"realTime":418.717773,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6127849 (Factors: solved: 0.2, strikes: 0.3, time: 0.1127848)
+
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !2 press play
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 R
+[Yes and No #1] Right switch occured after 3 button presses. Resetting right button counter.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 r
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 l
+[Bomb] Strike from Mod! 1 / 9 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"yesandno","bombTime":214.715866,"realTime":440.8496,"loggingID":1}
+[Bomb] Strike from TwitchPlays! 0 / 9 strikes
+[PaceMaker] PlayerSuccessRating: 0.5817965 (Factors: solved: 0.2, strikes: 0.3, time: 0.08179652)
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): oh fuck
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 r
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): oof
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !2 press play
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 l
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 r
+[Yes and No #1] Right switch occured after 3 button presses. Resetting right button counter.
+[PaceMaker] PlayerSuccessRating: 0.5675223 (Factors: solved: 0.2, strikes: 0.3, time: 0.06752235)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 36.84412 seconds.
+
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !2 press plaY
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 l
+[Yes and No #1] Left switch occured after 4 button presses. Resetting left button counter.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 L
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 l
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 zoom
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): oh boi
+[PaceMaker] PlayerSuccessRating: 0.5499699 (Factors: solved: 0.2, strikes: 0.3, time: 0.04996993)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 34.87886 seconds.
+
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): old edgework
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): uh what
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): what the fuck
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): thats tango for true
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 zoom
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): bruh
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): tf is that font
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 r
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): LUL
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): what the tags
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 R
+[Yes and No #1] Module solved.
+[ModBombComponent #264] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"yesandno","bombTime":73.204895,"realTime":539.417969,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6271452 (Factors: solved: 0.25, strikes: 0.3, time: 0.0771452)
+
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): press yes Kappa
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): b l a c k
+[TwitchPlays] Disabling camera wall
+[TwitchPlays] Camera wall disabled
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+[PaceMaker] PlayerSuccessRating: 0.6256184 (Factors: solved: 0.25, strikes: 0.3, time: 0.07561839)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 24.10515 seconds.
+
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !2 press play
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !5 cv
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !1 cv
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !4 transmit ..--- ...-- ---..
+[Color Morse #1] Character submitted correctly. Current Submission: “..--- ”
+[Color Morse #1] Character submitted correctly. Current Submission: “..--- ...-- ”
+[ModBombComponent #258] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"ColorMorseModule","bombTime":140.608063,"realTime":560.814453,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6990991 (Factors: solved: 0.3, strikes: 0.3, time: 0.09909909)
+
+[Color Morse #1] Full solution submitted.
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !1 manual
+[PaceMaker] PlayerSuccessRating: 0.6962702 (Factors: solved: 0.3, strikes: 0.3, time: 0.0962702)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 58.22555 seconds.
+
+[TwitchPlays] [M] jjroccss (, 526314480): !6 press 2 4 5 1
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !8 help
+:romz3k57!romz3k57@romz3k57.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !8 down
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !2 2 3 1
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !2 help
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !1 show
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !2 2
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !2 3
+[TwitchPlays] [M] GeekYiwen (#5F9EA0, 195404010): !2 1
+[Audio Morse #1] Checking answer.
+[Audio Morse #1] Left LED is on.
+[Audio Morse #1] Right LED is on.
+[ModBombComponent #254] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"lgndAudioMorse","bombTime":157.272964,"realTime":611.647461,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7502252 (Factors: solved: 0.35, strikes: 0.3, time: 0.1002252)
+
+[Audio Morse #1] Correct! Module solved.
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !8 dowN
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): 8 down
+[PaceMaker] PlayerSuccessRating: 0.7438749 (Factors: solved: 0.35, strikes: 0.3, time: 0.09387489)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 40.23643 seconds.
+
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !8 down
+[TwitchPlays] [M] jjroccss (, 526314480): !6 press 3 6
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): Kappa
+[ModBombComponent #262] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"disorderedKeys","bombTime":189.2386,"realTime":632.881836,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.8377803 (Factors: solved: 0.4, strikes: 0.3, time: 0.1377803)
+
+[TwitchPlays] [M] jjroccss (, 526314480): yes!!!
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !1 submit 45
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !8 down
+[Accumulation #1] You typed 45. That is correct.
+[Accumulation #1] The colours pressed at stage 1 were blue , green .
+[Accumulation #1] The key press total at stage 1 is 13.
+[Accumulation #1] The background colour for stage 2 is pink.
+[Accumulation #1] The value of pink is (8 * 2) for a total of 16.
+[Accumulation #1] The target answer for stage 2 is 74.
+[TwitchPlays] [M] jjroccss (, 526314480): first try
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): Good job on Disordered Keys!
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): First try?? Awesome!
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): hello timwi
+[TwitchPlays] [M] jjroccss (, 526314480): lern on the spot
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !8 help
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): Hello there TheGuyThatIsWeird :)
+[PaceMaker] PlayerSuccessRating: 0.8223517 (Factors: solved: 0.4, strikes: 0.3, time: 0.1223517)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 41.93213 seconds.
+
+[TwitchPlays] [M] jjroccss (, 526314480): hello timwi
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): I have 2 keys that i still dont know
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !profiles enabled
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !8 press erase
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): can you guess which 2?
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !8 help
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): It’s “submit erase”
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): turn the key and turn the keys?
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): !8 submit erase
+7 DISCARD
+[ModBombComponent #266] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"synonyms","bombTime":217.205048,"realTime":705.0127,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.8757167 (Factors: solved: 0.45, strikes: 0.3, time: 0.1257167)
+
+[Synonyms #1] The module has been solved!
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): keypad Kappa
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): Thanks
+[PaceMaker] PlayerSuccessRating: 0.8746691 (Factors: solved: 0.45, strikes: 0.3, time: 0.1246691)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.40403 seconds.
+
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): Nice job!
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): learnt
+:xxthedweebxx!xxthedweebxx@xxthedweebxx.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] Danny7007 (#6600FF, 162433145): Colored Keys and Piano Keys
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !1 submit 74
+[Accumulation #1] You typed 74. That is correct.
+[Accumulation #1] The colours pressed at stage 2 were green , orange .
+[Accumulation #1] The key press total at stage 2 is 6.
+[Accumulation #1] The background colour for stage 3 is lime.
+[Accumulation #1] The value of lime is (26 * 3) for a total of 78.
+[Accumulation #1] The target answer for stage 3 is 158.
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): 2 of the ordered keys family
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): christ
+[TwitchPlays] [M] Danny7007 (#6600FF, 162433145): Mis and Rec
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): 1 right
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): I know all but disordered
+[PaceMaker] PlayerSuccessRating: 0.8539978 (Factors: solved: 0.45, strikes: 0.3, time: 0.1039978)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 53.35452 seconds.
+
+[TwitchPlays] [M] Danny7007 (#6600FF, 162433145): bordered?
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): no
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): Wrong spelling danny
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !1 submit 158
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): Boredered Kappa
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): keypad and not keypad
+[Accumulation #1] You typed 158. That is correct.
+[Accumulation #1] The colours pressed at stage 3 were green , pink , white .
+[Accumulation #1] The key press total at stage 3 is 23.
+[Accumulation #1] The background colour for stage 4 is yellow.
+[Accumulation #1] The value of yellow is (10 * 4) for a total of 40.
+[Accumulation #1] The target answer for stage 4 is 221.
+[TwitchPlays] [M] Danny7007 (#6600FF, 162433145): LUL
+[TwitchPlays] [M] jjroccss (, 526314480): i knoww ordered unordered misordered and disordered
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): sotp
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): @Danny7007 got 1 right
+[TwitchPlays] [M] jjroccss (, 526314480): and bordered
+[PaceMaker] PlayerSuccessRating: 0.8285798 (Factors: solved: 0.45, strikes: 0.3, time: 0.07857984)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 54.29561 seconds.
+
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !1 submit 221
+[Accumulation #1] You typed 221. That is correct.
+[Accumulation #1] The colours pressed at stage 4 were pink , pink , white .
+[Accumulation #1] The key press total at stage 4 is 27.
+[Accumulation #1] The background colour for stage 5 is white.
+[Accumulation #1] The value of white is (11 * 5) for a total of 55.
+[Accumulation #1] The target answer for stage 5 is 303.
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): I only know Reordered really well, as I’ve played it three times. I only played the others at most once and I didn’t like any of them
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !1 submit 303
+[Accumulation #1] You typed 303. That is correct.
+[Accumulation #1] Module disarmed.
+[ModBombComponent #252] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"accumulation","bombTime":135.625259,"realTime":833.3887,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.9022025 (Factors: solved: 0.5, strikes: 0.3, time: 0.1022025)
+
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): They are a bit tedious yes
+:danny7007!danny7007@danny7007.tmi.twitch.tv JOIN #heres_fangy
+:geekyiwen!geekyiwen@geekyiwen.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): Reordered is fun
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !5 manual
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): well i dont know Misordered and reordered
+[TwitchPlays] [M] jjroccss (, 526314480): lets just not talk abt tallordered
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): Most of em are boring after youve done them succesfully
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !5 zoom
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): and the best keys is recorded
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): because recorded
+[PaceMaker] PlayerSuccessRating: 0.8903435 (Factors: solved: 0.5, strikes: 0.3, time: 0.09034347)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 35.03243 seconds.
+
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !5 zoom 3
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): I still don’t get why he didn’t call it Recordered
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !5 zoomtilr 3
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !5 zoomtiltr 3
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): It should totally have been called Recordered
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): bruh
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): f i n e
+[PaceMaker] PlayerSuccessRating: 0.8736585 (Factors: solved: 0.5, strikes: 0.3, time: 0.07365847)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.7509 seconds.
+
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !5 zoomtiltr
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 superzoom tilt br
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): @xXTheDweebXx its zoom 3 tilt r i think
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): what
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 superzoom tiltbr
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): oh wait
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 superzoom 1.8 tilt br
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !5 zoom 3 tilt r
+[PaceMaker] PlayerSuccessRating: 0.8528001 (Factors: solved: 0.5, strikes: 0.3, time: 0.05280004)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 34.28283 seconds.
+
+:chucklesthebeard!chucklesthebeard@chucklesthebeard.tmi.twitch.tv JOIN #heres_fangy
+:thelegendofkirbychu!thelegendofkirbychu@thelegendofkirbychu.tmi.twitch.tv JOIN #heres_fangy
+:danny7007!danny7007@danny7007.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !5 superzoom 5
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !5 superzoom 10
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): @TimwiTerby what is the favorite module that you've made
+[PaceMaker] PlayerSuccessRating: 0.8364556 (Factors: solved: 0.5, strikes: 0.3, time: 0.0364556)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.07199 seconds.
+
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): “No”
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): @TheGuyThatIsWeird I have many favourites, but right now I’m quite fond of Pattern Cube I think
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !reloaddata
+[TwitchPlays] TwitchPlayStrings: Loading Custom strings data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json
+[TwitchPlays] TwitchPlayStrings: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json
+[TwitchPlays] TwitchPlayStrings: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\TwitchPlaySettings.json completed successfully
+[TwitchPlays] UserAccess: Loading User Access information data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\AccessLevels.json
+[TwitchPlays] Unable to match these modules when loading the default information: Answer to..., The Digits, Shape Memory
+[TwitchPlays] ModuleData: Loading Module information data from file: C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] [M] Heres_Fangy (#D2691E, 94078726): !welcome
+[TwitchPlays] [M] TimwiTerby (#1E90FF, 125157963): !5 superzoom 15
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): I cant rotate things
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): like i cant read things that are rotated
+[PaceMaker] PlayerSuccessRating: 0.8097537 (Factors: solved: 0.5, strikes: 0.3, time: 0.009753637)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 34.94063 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !5 superzoom 3 .5 .3
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): !5 help
+[TwitchPlays] [M] xXTheDweebXx (#008000, 145122859): welp
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 superzoom 0.01
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"LP0ZT2","bombTime":-0.04227187,"realTime":1048.05566,"solves":10,"strikes":0}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+
