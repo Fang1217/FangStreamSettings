@@ -492,3 +492,5 @@ Module ID: 1 | Module Name: Forget Perspective | Strike
 Module ID: 1 | Module Name: Forget Perspective | Strike
 Module ID: 1 | Module Name: Forget Perspective | Strike
 Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Echolocation | Strike
+Module ID: 1 | Module Name: Echolocation | Strike

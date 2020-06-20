@@ -1,8 +1,6 @@
 {
   "DisabledList": [
-    "moduleAssemblyStation",
-    "Portal Room",
-    "Gameplay"
+    "moduleAssemblyStation"
   ],
   "Operation": 1
 }

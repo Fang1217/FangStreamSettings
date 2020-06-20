@@ -1,6 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <GameRecord>
+    <RecordID>237</RecordID>
+    <Result>ExplodedDueToStrikes</Result>
+    <Seed>750875915</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+      <ComponentTypeEnum>Mod</ComponentTypeEnum>
+    </Components>
+    <MissionID>mod_MPsMTM_M_Echolocation</MissionID>
+    <ModuleSolveCount>0</ModuleSolveCount>
+    <TimeElapsed>152.236816</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>147.121277</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Echolocation</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>98.13013</Time>
+      </StrikeSource>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Echolocation</ComponentName>
+        <InteractionType>PushButton</InteractionType>
+        <Time>134.443848</Time>
+      </StrikeSource>
+      <StrikeSource>
+        <ComponentType>Mod</ComponentType>
+        <ComponentName>Detonate Command</ComponentName>
+        <InteractionType>Other</InteractionType>
+        <Time>152.236816</Time>
+      </StrikeSource>
+    </Strikes>
+  </GameRecord>
+  <GameRecord>
     <RecordID>236</RecordID>
     <Result>ExplodedDueToStrikes</Result>
     <Seed>1872345055</Seed>
@@ -6144,47 +6182,6 @@
         <InteractionType>PushButton</InteractionType>
         <Time>918.023132</Time>
       </StrikeSource>
-      <StrikeSource xsi:nil="true" />
-    </Strikes>
-  </GameRecord>
-  <GameRecord>
-    <RecordID>137</RecordID>
-    <Result>ExplodedDueToTime</Result>
-    <Seed>1270198429</Seed>
-    <Components>
-      <ComponentTypeEnum>Timer</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-      <ComponentTypeEnum>Mod</ComponentTypeEnum>
-    </Components>
-    <MissionID>custom</MissionID>
-    <ModuleSolveCount>7</ModuleSolveCount>
-    <FreeplaySettings>
-      <ModuleCount>11</ModuleCount>
-      <Time>1320</Time>
-      <IsHardCore>false</IsHardCore>
-      <HasNeedy>false</HasNeedy>
-      <OnlyMods>false</OnlyMods>
-    </FreeplaySettings>
-    <TimeElapsed>1320.01038</TimeElapsed>
-    <LeaderboardRank>0</LeaderboardRank>
-    <RealTimeElapsed>1232.70508</RealTimeElapsed>
-    <Strikes>
-      <StrikeSource>
-        <ComponentType>Mod</ComponentType>
-        <ComponentName>Quaternions</ComponentName>
-        <InteractionType>PushButton</InteractionType>
-        <Time>837.8511</Time>
-      </StrikeSource>
-      <StrikeSource xsi:nil="true" />
       <StrikeSource xsi:nil="true" />
     </Strikes>
   </GameRecord>

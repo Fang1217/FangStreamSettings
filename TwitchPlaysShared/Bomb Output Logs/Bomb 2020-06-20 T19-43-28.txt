@@ -1,0 +1,210 @@
+Initialize engine version: Twitch Plays
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[Profile Revealer] Waiting for bombs...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 2012425046
+
+[BombGenerator] Generator settings: Time: 3600, NumStrikes: 3, FrontFaceOnly: True
+1 Pools:
+[echolocation] Count: 5
+
+
+[BombGenerator] Filling in non-front faces with empty components.
+
+[BombGenerator] Selected echolocation (1974597462 (ModBombComponent))
+
+[BombGenerator] Selected echolocation (1974597462 (ModBombComponent))
+
+[BombGenerator] Selected echolocation (1974597462 (ModBombComponent))
+
+[BombGenerator] Selected echolocation (1974597462 (ModBombComponent))
+
+[BombGenerator] Selected echolocation (1974597462 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1974597462 (ModBombComponent), 1974597462 (ModBombComponent), 1974597462 (ModBombComponent), 1974597462 (ModBombComponent), 1974597462 (ModBombComponent)]
+
+[BombGenerator] Instantiated 1974597462 on face FrontFace, spawn index 2
+
+[BombGenerator] Instantiated 1974597462 on face FrontFace, spawn index 3
+
+[BombGenerator] Instantiated 1974597462 on face FrontFace, spawn index 0
+
+[BombGenerator] Instantiated 1974597462 on face FrontFace, spawn index 4
+
+[BombGenerator] Instantiated 1974597462 on face FrontFace, spawn index 5
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: 9F0QN4
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit SIG (IndicatorWidget/LABEL6)
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: Parallel
+
+[Echolocation #6] Maze:
+[Echolocation #6] █████████████
+[Echolocation #6] █       █   █
+[Echolocation #6] █ █████ █ █ █
+[Echolocation #6] █ █   █   █ █
+[Echolocation #6] █ █ ███████ █
+[Echolocation #6] █   █   █   █
+[Echolocation #6] █████ ███ ███
+[Echolocation #6] █   █     █ █
+[Echolocation #6] █ █ █ █████ █
+[Echolocation #6] █ █ █     █ █
+[Echolocation #6] █ ███████ █ █
+[Echolocation #6] █           █
+[Echolocation #6] █████████████
+[Echolocation #6] Player Position: D4
+[Echolocation #6] Key Position: F1
+[Echolocation #6] Exit Position: D3
+[Echolocation #6] Player Direction: South
+[Echolocation #6] Moves:
+[Echolocation #7] Maze:
+[Echolocation #7] █████████████
+[Echolocation #7] █       █   █
+[Echolocation #7] █ ███ █ █ █ █
+[Echolocation #7] █   █ █   █ █
+[Echolocation #7] █████ █████ █
+[Echolocation #7] █     █     █
+[Echolocation #7] █ █████ █████
+[Echolocation #7] █ █   █ █   █
+[Echolocation #7] █ █ █ █ █ ███
+[Echolocation #7] █ █ █ █ █ █ █
+[Echolocation #7] █ █ █ ███ █ █
+[Echolocation #7] █   █       █
+[Echolocation #7] █████████████
+[Echolocation #7] Player Position: A6
+[Echolocation #7] Key Position: D3
+[Echolocation #7] Exit Position: F6
+[Echolocation #7] Player Direction: East
+[Echolocation #7] Moves:
+[Echolocation #8] Maze:
+[Echolocation #8] █████████████
+[Echolocation #8] █     █ █   █
+[Echolocation #8] █ ███ █ █ █ █
+[Echolocation #8] █ █ █ █   █ █
+[Echolocation #8] ███ █ █████ █
+[Echolocation #8] █   █ █   █ █
+[Echolocation #8] █ █ █ █ █ █ █
+[Echolocation #8] █ █ █ █ █ █ █
+[Echolocation #8] █ █ █ █ █ █ █
+[Echolocation #8] █ █   █ █ █ █
+[Echolocation #8] █ █████ █ █ █
+[Echolocation #8] █       █   █
+[Echolocation #8] █████████████
+[Echolocation #8] Player Position: A1
+[Echolocation #8] Key Position: B4
+[Echolocation #8] Exit Position: E3
+[Echolocation #8] Player Direction: South
+[Echolocation #8] Moves:
+[Echolocation #9] Maze:
+[Echolocation #9] █████████████
+[Echolocation #9] █     █     █
+[Echolocation #9] █ ███ ███ █ █
+[Echolocation #9] █ █ █   █ █ █
+[Echolocation #9] █ █ ███ █ ███
+[Echolocation #9] █ █     █   █
+[Echolocation #9] █ ███ █████ █
+[Echolocation #9] █   █     █ █
+[Echolocation #9] ███ █████ █ █
+[Echolocation #9] █ █ █ █   █ █
+[Echolocation #9] █ █ █ █ ███ █
+[Echolocation #9] █   █       █
+[Echolocation #9] █████████████
+[Echolocation #9] Player Position: A4
+[Echolocation #9] Key Position: F6
+[Echolocation #9] Exit Position: E4
+[Echolocation #9] Player Direction: South
+[Echolocation #9] Moves:
+[Echolocation #10] Maze:
+[Echolocation #10] █████████████
+[Echolocation #10] █     █     █
+[Echolocation #10] █ ███ █ █████
+[Echolocation #10] █ █   █     █
+[Echolocation #10] █ █ ███████ █
+[Echolocation #10] █ █   █     █
+[Echolocation #10] █ ███ █ ███ █
+[Echolocation #10] █ █     █   █
+[Echolocation #10] █ █████████ █
+[Echolocation #10] █     █   █ █
+[Echolocation #10] █ ███ █ ███ █
+[Echolocation #10] █   █   █   █
+[Echolocation #10] █████████████
+[Echolocation #10] Player Position: C2
+[Echolocation #10] Key Position: B3
+[Echolocation #10] Exit Position: B6
+[Echolocation #10] Player Direction: West
+[Echolocation #10] Moves:
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"Echolocation"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 3
+{"serial":"9F0QN4","displayNames":{"Empty":"None","Timer":"Timer","echolocation":"Echolocation"},"ids":{"echolocation":[6,7,8,9,10]},"anchors":[[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220],[-0.217,-0.220],[
+0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220]],"modules":["echolocation 8","Timer -","echolocation 6","echolocation 7","echolocation 9","echolocation 10","Empty -","Empty -","Empty -","Empty -","Empty -","Empty -"],"timestam
+p":"2020-06-20T19:43:08.0690057+08:00"}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'Template(Clone)'.
+[Profile Revealer] Attaching to 'Template(Clone)'.
+[Profile Revealer] Attaching to 'Template(Clone)'.
+[Profile Revealer] Attaching to 'Template(Clone)'.
+[Profile Revealer] Attaching to 'Template(Clone)'.
+mod_MPsMTM_M_Echolocation
+[PaceMaker] Round start! Mission: Echolocation Pacing Enabled: False
+
+[PaceMaker] Next idle action in 47.38474 seconds.
+
+[PaceMaker] Valid pacing events: 
+
+[PaceMaker] Removed 3 pacing events.
+
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
