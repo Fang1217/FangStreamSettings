@@ -1,29 +1,13 @@
-
 AuditLog.txt
 LastDynamicMission.txt
-Manual/Manual.pdf
-Manual/ModsOnlyManual.pdf
+Manual/
+Crashes/
+ModifiedManuals/
 output_log.txt
+output_log_2.txt
 records.xml
-TwitchPlaysShared/Bomb Output Logs/Bomb 2020-05-18 T02-15-25.txt
-TwitchPlaysShared/Bomb Output Logs/Bomb 2020-05-18 T02-18-51.txt
-TwitchPlaysShared/Previous Bomb.txt
-TwitchPlaysShared/TPLog.txt
-AuditLog.txt
-output_log.txt
-TwitchPlaysShared/TPLog.txt
-TwitchPlaysShared/TPLog.txt
-TwitchPlaysShared/Previous Bomb.txt
-TwitchPlaysShared/TPLog.txt
-TwitchPlaysShared/Bomb Output Logs/Bomb 2020-05-28 T19-12-48.txt
+TwitchPlaysShared/
 TwitchPlaysUsers.xml
 TwitchPlaysStats.json
-TwitchPlaysShared/Previous Bomb.txt
 TwitchPlaysLastClaimed.json
-output_log.txt
 playerSettings.xml
-records.xml
-TwitchPlaysShared/TPLog.txt
-AuditLog.txt
-output_log.txt
-TwitchPlaysShared/TPLog.txt
