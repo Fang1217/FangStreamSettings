@@ -7,7 +7,6 @@ output_log.txt
 output_log_2.txt
 records.xml
 TwitchPlaysShared/
-TwitchPlaysUsers.xml
 TwitchPlaysStats.json
 TwitchPlaysLastClaimed.json
 playerSettings.xml
