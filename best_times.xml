@@ -697,4 +697,45 @@
       </GameRecord>
     </value>
   </item>
+  <item>
+    <key>
+      <string>mod_100LevelsOfDefusalMissions_level1</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>226</RecordID>
+        <Result>Defused</Result>
+        <Seed>1873399865</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+          <ComponentTypeEnum>Mod</ComponentTypeEnum>
+        </Components>
+        <MissionID>mod_100LevelsOfDefusalMissions_level1</MissionID>
+        <ModuleSolveCount>11</ModuleSolveCount>
+        <TimeElapsed>795.272766</TimeElapsed>
+        <LeaderboardRank>6</LeaderboardRank>
+        <RealTimeElapsed>703.2073</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource>
+            <ComponentType>Mod</ComponentType>
+            <ComponentName>Simon Screams</ComponentName>
+            <InteractionType>PushButton</InteractionType>
+            <Time>294.184082</Time>
+          </StrikeSource>
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
 </dictionary>

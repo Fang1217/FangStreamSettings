@@ -1,0 +1,119 @@
+Initialize engine version: Twitch Plays
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[Profile Revealer] Waiting for bombs...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 766238660
+
+[BombGenerator] Generator settings: Time: 120, NumStrikes: 3, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 1
+
+
+[BombGenerator] Selected FiveLetterWords (2007060295 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [2007060295 (ModBombComponent)]
+
+[Mod-FiveLetterWords] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2007060295" has ID:"FiveLetterWords"
+
+[Mod-FiveLetterWords] Loading assemblies...
+
+[Mod-FiveLetterWords] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2007060295\Newtonsoft.Json.dll"...
+
+[Mod-FiveLetterWords] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2007060295\FiveLetterWords.dll"
+
+[Mod-FiveLetterWords] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2007060295" complete.
+
+[Mod-FiveLetterWords] Loading GameObjects...
+
+[Mod-FiveLetterWords] Replacing shaders...
+
+[Mod-FiveLetterWords] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-FiveLetterWords] Loading KMMissions...
+
+[Mod-FiveLetterWords] Loading KMMissionTableOfContents...
+
+[Mod-FiveLetterWords] Loading AudioClips...
+
+[BombGenerator] Instantiated 2007060295 on face FrontFace, spawn index 0
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: 685HQ3
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: PS2, StereoRCA
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: Parallel
+
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"1 Mods"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 1
+{"serial":"685HQ3","displayNames":{"Timer":"Timer","FiveLetterWords":"Five Letter Words"},"ids":{"FiveLetterWords":[1]},"anchors":[[0.000,0.000],[0.000,0.000]],"modules":["FiveLetterWords 1","Timer -"],"timestamp":"2020-06-19T19:50:39.6585708+08:00"}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'FiveLetterWords(Clone)'.
+custom
+[Five Letter Words #1] The words are: COPUS, ZANZA, NIXON
+[Five Letter Words #1] The word scores are: 29, 28, 19
+[PaceMaker] Round start! Mission: 1 Mods Pacing Enabled: True
+
+[PaceMaker] Next idle action in 46.35709 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[PaceMaker] PlayerSuccessRating: 1 (Factors: solved: 1, strikes: 0.3, time: 0.1227736)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 229.2021
+
+[PaceMaker] Next idle action in 25.02195 seconds.
+
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+

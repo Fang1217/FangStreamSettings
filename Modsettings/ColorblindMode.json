@@ -62,6 +62,15 @@
     "maze3": null,
     "threeLEDsModule": null,
     "7": null,
-    "GridlockModule": null
+    "GridlockModule": null,
+    "ColoredSquaresModule": null,
+    "DecoloredSquaresModule": null,
+    "DiscoloredSquaresModule": null,
+    "UncoloredSquaresModule": null,
+    "VaricoloredSquaresModule": null,
+    "ForgetTheColors": null,
+    "ColorBrailleModule": null,
+    "qkForgetPerspective": null,
+    "JuxtacoloredSquaresModule": null
   }
 }

@@ -1,0 +1,3098 @@
+Initialize engine version: Twitch Plays
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[Profile Revealer] Waiting for bombs...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 1715336532
+
+[BombGenerator] Generator settings: Time: 3600, NumStrikes: 6, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 30
+
+
+[BombGenerator] Selected fruits (1864365188 (ModBombComponent))
+
+[BombGenerator] Selected TheHeart (2097662452 (ModBombComponent))
+
+[BombGenerator] Selected JadenSmithTalk (2075509471 (ModBombComponent))
+
+[BombGenerator] Selected booleanWires (1823713337 (ModBombComponent))
+
+[BombGenerator] Selected qkForgetPerspective (1831737244 (ModBombComponent))
+
+[BombGenerator] Selected qSchlagDenBomb (1563919175 (ModBombComponent))
+
+[BombGenerator] Selected periodicTable (1563747054 (ModBombComponent))
+
+[BombGenerator] Selected OneHundredAndOneDalmatiansModule (1563555397 (ModBombComponent))
+
+[BombGenerator] Selected orangeArrowsModule (1764738710 (ModBombComponent))
+
+[BombGenerator] Selected buttonGrid (1767299598 (ModBombComponent))
+
+[BombGenerator] Selected recordedKeys (1781014963 (ModBombComponent))
+
+[BombGenerator] Selected unrelatedAnagrams (1797419879 (ModBombComponent))
+
+[BombGenerator] Selected sync125_3 (1799782531 (ModBombComponent))
+
+[BombGenerator] Selected raidingTemples (1789735796 (ModBombComponent))
+
+[BombGenerator] Selected NumberPad (1224553628 (ModBombComponent))
+
+[BombGenerator] Selected faultyrgbMaze (1880521679 (ModBombComponent))
+
+[BombGenerator] Selected jackOLantern (1546985575 (ModBombComponent))
+
+[BombGenerator] Selected snooker (1535185348 (ModBombComponent))
+
+[BombGenerator] Selected topsyTurvy (1975632072 (ModBombComponent))
+
+[BombGenerator] Selected sorting (2014027892 (ModBombComponent))
+
+[BombGenerator] Selected lyingIndicators (2059872002 (ModBombComponent))
+
+[BombGenerator] Selected OnlyConnectModule (885638564 (ModBombComponent))
+
+[BombGenerator] Selected triangle (triangle (ModBombComponent))
+
+[BombGenerator] Selected modkit (1860975453 (ModBombComponent))
+
+[BombGenerator] Selected faultyDigitalRootModule (1808068642 (ModBombComponent))
+
+[BombGenerator] Selected pwGenerator (1996258088 (ModBombComponent))
+
+[BombGenerator] Selected shapeshift (778458559 (ModBombComponent))
+
+[BombGenerator] Selected forgetEnigma (1804585381 (ModBombComponent))
+
+[BombGenerator] Selected megaMan2 (1661433687 (ModBombComponent))
+
+[BombGenerator] Selected FaultyBackgrounds (1286383144 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1864365188 (ModBombComponent), 2097662452 (ModBombComponent), 2075509471 (ModBombComponent), 1823713337 (ModBombComponent), 1831737244 (ModBombComponent), 1563919175 (ModBombComponent), 1563747054 (ModBombComponent), 1563555397 (ModBombComponent), 1764738710 (ModBombComponent), 1767299598 (ModBombComponent), 1781014963 (ModBombComponent), 1797419879 (ModBombComponent), 1799782531 (ModBombComponent), 1789735796 (ModBombComponent), 1224553628 (ModBombComponent), 1880521679 (ModBombComponent), 1546985575 (ModBombComponent), 1535185348 (ModBombComponent), 1975632072 (ModBombComponent), 2014027892 (ModBombComponent), 2059872002 (ModBombComponent), 885638564 (ModBombComponent), triangle (ModBombComponent), 1860975453 (ModBombComponent), 1808068642 (ModBombComponent), 1996258088 (ModBombComponent), 778458559 (ModBombComponent), 1804585381 (ModBombComponent), 1661433687 (ModBombComponent), 1286383144 (ModBombComponent)]
+
+[Mod-fruits] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1864365188" has ID:"fruits"
+
+[Mod-fruits] Loading assemblies...
+
+[Mod-fruits] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1864365188\Newtonsoft.Json.dll"...
+
+[Mod-fruits] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1864365188\fruits.dll"
+
+[Mod-fruits] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1864365188" complete.
+
+[Mod-fruits] Loading GameObjects...
+
+[Mod-fruits] Replacing shaders...
+
+[Mod-fruits] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-fruits] Loading KMMissions...
+
+[Mod-fruits] Loading KMMissionTableOfContents...
+
+[Mod-fruits] Loading AudioClips...
+
+[BombGenerator] Instantiated 1864365188 on face RearFace, spawn index 3
+
+[Mod-TheHeart] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2097662452" has ID:"TheHeart"
+
+[Mod-TheHeart] Loading assemblies...
+
+[Mod-TheHeart] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2097662452\Newtonsoft.Json.dll"...
+
+[Mod-TheHeart] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2097662452\TheHeart.dll"
+
+[Mod-TheHeart] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2097662452" complete.
+
+[Mod-TheHeart] Loading GameObjects...
+
+[Mod-TheHeart] Replacing shaders...
+
+[Mod-TheHeart] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-TheHeart] Loading KMMissions...
+
+[Mod-TheHeart] Loading KMMissionTableOfContents...
+
+[Mod-TheHeart] Loading AudioClips...
+
+[BombGenerator] Instantiated 2097662452 on face FrontFace, spawn index 4
+
+[Mod-ColorTalks] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2075509471" has ID:"ColorTalks"
+
+[Mod-ColorTalks] Loading assemblies...
+
+[Mod-ColorTalks] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2075509471\Newtonsoft.Json.dll"...
+
+[Mod-ColorTalks] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2075509471\ColorTalks.dll"
+
+[Mod-ColorTalks] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2075509471" complete.
+
+[Mod-ColorTalks] Loading GameObjects...
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Replacing shaders...
+
+[Mod-ColorTalks] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-ColorTalks] Loading KMMissions...
+
+[Mod-ColorTalks] Loading KMMissionTableOfContents...
+
+[Mod-ColorTalks] Loading AudioClips...
+
+[BombGenerator] Instantiated 2075509471 on face RearFace, spawn index 5
+
+[Mod-booleanWires] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1823713337" has ID:"booleanWires"
+
+[Mod-booleanWires] Loading assemblies...
+
+[Mod-booleanWires] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1823713337\Newtonsoft.Json.dll"...
+
+[Mod-booleanWires] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1823713337\booleanWires.dll"
+
+[Mod-booleanWires] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1823713337" complete.
+
+[Mod-booleanWires] Loading GameObjects...
+
+[Mod-booleanWires] Replacing shaders...
+
+[Mod-booleanWires] ModUnityVersion: 2017.4.2f2 Game: 2017.4.22f1
+
+[Mod-booleanWires] Loading KMMissions...
+
+[Localization] Adding mod term: mod/booleanWires_boolWires_DisplayName: "Test"
+
+[Localization] Adding mod term: mod/booleanWires_boolWires_Description: "Test"
+
+[Mod-booleanWires] Loading KMMissionTableOfContents...
+
+[Mod-booleanWires] Loading AudioClips...
+
+[BombGenerator] Instantiated 1823713337 on face FrontFace, spawn index 8
+
+[Mod-qkForgetPerspective] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1831737244" has ID:"qkForgetPerspective"
+
+[Mod-qkForgetPerspective] Loading assemblies...
+
+[Mod-qkForgetPerspective] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1831737244\Newtonsoft.Json.dll"...
+
+[Mod-qkForgetPerspective] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1831737244\qkForgetPerspective.dll"
+
+[Mod-qkForgetPerspective] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1831737244" complete.
+
+[Mod-qkForgetPerspective] Loading GameObjects...
+
+[Mod-qkForgetPerspective] Replacing shaders...
+
+[Mod-qkForgetPerspective] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-qkForgetPerspective] Loading KMMissions...
+
+[Mod-qkForgetPerspective] Loading KMMissionTableOfContents...
+
+[Mod-qkForgetPerspective] Loading AudioClips...
+
+Awake
+[BombGenerator] Instantiated 1831737244 on face FrontFace, spawn index 9
+
+[Mod-qSchlagDenBomb] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1563919175" has ID:"qSchlagDenBomb"
+
+[Mod-qSchlagDenBomb] Loading assemblies...
+
+[Mod-qSchlagDenBomb] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1563919175\Newtonsoft.Json.dll"...
+
+[Mod-qSchlagDenBomb] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1563919175\qSchlagDenBomb.dll"
+
+[Mod-qSchlagDenBomb] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1563919175" complete.
+
+[Mod-qSchlagDenBomb] Loading GameObjects...
+
+[Mod-qSchlagDenBomb] Replacing shaders...
+
+[Mod-qSchlagDenBomb] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-qSchlagDenBomb] Loading KMMissions...
+
+[Mod-qSchlagDenBomb] Loading KMMissionTableOfContents...
+
+[Mod-qSchlagDenBomb] Loading AudioClips...
+
+[BombGenerator] Instantiated 1563919175 on face FrontFace, spawn index 11
+
+[Mod-periodicTable] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1563747054" has ID:"periodicTable"
+
+[Mod-periodicTable] Loading assemblies...
+
+[Mod-periodicTable] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1563747054\Newtonsoft.Json.dll"...
+
+[Mod-periodicTable] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1563747054\periodicTable.dll"
+
+[Mod-periodicTable] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1563747054" complete.
+
+[Mod-periodicTable] Loading GameObjects...
+
+[Mod-periodicTable] Replacing shaders...
+
+[Mod-periodicTable] ModUnityVersion: 2017.2.3p4 Game: 2017.4.22f1
+
+[Mod-periodicTable] Loading KMMissions...
+
+[Mod-periodicTable] Loading KMMissionTableOfContents...
+
+[Mod-periodicTable] Loading AudioClips...
+
+[BombGenerator] Instantiated 1563747054 on face FrontFace, spawn index 3
+
+[Mod-OneHundredAndOneDalmatians] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1563555397" has ID:"OneHundredAndOneDalmatians"
+
+[Mod-OneHundredAndOneDalmatians] Loading assemblies...
+
+[Mod-OneHundredAndOneDalmatians] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1563555397\Newtonsoft.Json.dll"...
+
+[Mod-OneHundredAndOneDalmatians] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1563555397\OneHundredAndOneDalmatians.dll"
+
+[Mod-OneHundredAndOneDalmatians] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1563555397" complete.
+
+[Mod-OneHundredAndOneDalmatians] Loading GameObjects...
+
+[Mod-OneHundredAndOneDalmatians] Replacing shaders...
+
+[Mod-OneHundredAndOneDalmatians] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-OneHundredAndOneDalmatians] Loading KMMissions...
+
+[Mod-OneHundredAndOneDalmatians] Loading KMMissionTableOfContents...
+
+[Mod-OneHundredAndOneDalmatians] Loading AudioClips...
+
+[BombGenerator] Instantiated 1563555397 on face RearFace, spawn index 10
+
+[Mod-orangeArrowsModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1764738710" has ID:"orangeArrowsModule"
+
+[Mod-orangeArrowsModule] Loading assemblies...
+
+[Mod-orangeArrowsModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1764738710\Newtonsoft.Json.dll"...
+
+[Mod-orangeArrowsModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1764738710\orangeArrowsModule.dll"
+
+[Mod-orangeArrowsModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1764738710" complete.
+
+[Mod-orangeArrowsModule] Loading GameObjects...
+
+[Mod-orangeArrowsModule] Replacing shaders...
+
+[Mod-orangeArrowsModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-orangeArrowsModule] Loading KMMissions...
+
+[Mod-orangeArrowsModule] Loading KMMissionTableOfContents...
+
+[Mod-orangeArrowsModule] Loading AudioClips...
+
+[BombGenerator] Instantiated 1764738710 on face FrontFace, spawn index 14
+
+[Mod-buttonGrid] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1767299598" has ID:"buttonGrid"
+
+[Mod-buttonGrid] Loading assemblies...
+
+[Mod-buttonGrid] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1767299598\Newtonsoft.Json.dll"...
+
+[Mod-buttonGrid] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1767299598\buttonGrid.dll"
+
+[Mod-buttonGrid] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1767299598" complete.
+
+[Mod-buttonGrid] Loading GameObjects...
+
+[Mod-buttonGrid] Replacing shaders...
+
+[Mod-buttonGrid] ModUnityVersion: 2017.4.20f2 Game: 2017.4.22f1
+
+[Mod-buttonGrid] Loading KMMissions...
+
+[Mod-buttonGrid] Loading KMMissionTableOfContents...
+
+[Mod-buttonGrid] Loading AudioClips...
+
+[BombGenerator] Instantiated 1767299598 on face RearFace, spawn index 0
+
+[Mod-recordedKeys] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1781014963" has ID:"recordedKeys"
+
+[Mod-recordedKeys] Loading assemblies...
+
+[Mod-recordedKeys] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1781014963\Newtonsoft.Json.dll"...
+
+[Mod-recordedKeys] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1781014963\recordedKeys.dll"
+
+[Mod-recordedKeys] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1781014963" complete.
+
+[Mod-recordedKeys] Loading GameObjects...
+
+[Mod-recordedKeys] Replacing shaders...
+
+[Mod-recordedKeys] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-recordedKeys] Replacing shaders...
+
+[Mod-recordedKeys] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-recordedKeys] Loading KMMissions...
+
+[Mod-recordedKeys] Loading KMMissionTableOfContents...
+
+[Mod-recordedKeys] Loading AudioClips...
+
+[BombGenerator] Instantiated 1781014963 on face RearFace, spawn index 12
+
+[Mod-unrelatedAnagrams] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1797419879" has ID:"unrelatedAnagrams"
+
+[Mod-unrelatedAnagrams] Loading assemblies...
+
+[Mod-unrelatedAnagrams] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1797419879\Newtonsoft.Json.dll"...
+
+[Mod-unrelatedAnagrams] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1797419879\unrelatedAnagrams.dll"
+
+[Mod-unrelatedAnagrams] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1797419879" complete.
+
+[Mod-unrelatedAnagrams] Loading GameObjects...
+
+[Mod-unrelatedAnagrams] Replacing shaders...
+
+[Mod-unrelatedAnagrams] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-unrelatedAnagrams] Loading KMMissions...
+
+[Mod-unrelatedAnagrams] Loading KMMissionTableOfContents...
+
+[Mod-unrelatedAnagrams] Loading AudioClips...
+
+[BombGenerator] Instantiated 1797419879 on face RearFace, spawn index 14
+
+[Mod-sync125_3] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1799782531" has ID:"sync125_3"
+
+[Mod-sync125_3] Loading assemblies...
+
+[Mod-sync125_3] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1799782531\Newtonsoft.Json.dll"...
+
+[Mod-sync125_3] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1799782531\sync125_3.dll"
+
+[Mod-sync125_3] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1799782531" complete.
+
+[Mod-sync125_3] Loading GameObjects...
+
+[Mod-sync125_3] Replacing shaders...
+
+[Mod-sync125_3] ModUnityVersion: 2017.4.20f2 Game: 2017.4.22f1
+
+[Mod-sync125_3] Loading KMMissions...
+
+[Mod-sync125_3] Loading KMMissionTableOfContents...
+
+[Mod-sync125_3] Loading AudioClips...
+
+[BombGenerator] Instantiated 1799782531 on face RearFace, spawn index 2
+
+[Mod-raidingTemples] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1789735796" has ID:"raidingTemples"
+
+[Mod-raidingTemples] Loading assemblies...
+
+[Mod-raidingTemples] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1789735796\Newtonsoft.Json.dll"...
+
+[Mod-raidingTemples] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1789735796\raidingTemples.dll"
+
+[Mod-raidingTemples] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1789735796" complete.
+
+[Mod-raidingTemples] Loading GameObjects...
+
+[Mod-raidingTemples] Replacing shaders...
+
+[Mod-raidingTemples] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+
+[Mod-raidingTemples] Loading KMMissions...
+
+[Mod-raidingTemples] Loading KMMissionTableOfContents...
+
+[Mod-raidingTemples] Loading AudioClips...
+
+[BombGenerator] Instantiated 1789735796 on face RearFace, spawn index 4
+
+[Mod-NumberPad] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1224553628" has ID:"NumberPad"
+
+[Mod-NumberPad] Loading assemblies...
+
+[Mod-NumberPad] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1224553628\Newtonsoft.Json.dll"...
+
+[Mod-NumberPad] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1224553628\NumberPad.dll"
+
+[Mod-NumberPad] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1224553628" complete.
+
+[Mod-NumberPad] Loading GameObjects...
+
+[Mod-NumberPad] Replacing shaders...
+
+[Mod-NumberPad] ModUnityVersion: 2017.1.0f3 Game: 2017.4.22f1
+
+[Mod-NumberPad] Replacing shaders...
+
+[Mod-NumberPad] ModUnityVersion: 2017.1.0f3 Game: 2017.4.22f1
+
+[Mod-NumberPad] Loading KMMissions...
+
+[Mod-NumberPad] Loading KMMissionTableOfContents...
+
+[Mod-NumberPad] Loading AudioClips...
+
+[BombGenerator] Instantiated 1224553628 on face RearFace, spawn index 1
+
+[Mod-faultyrgbMaze] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1880521679" has ID:"faultyrgbMaze"
+
+[Mod-faultyrgbMaze] Loading assemblies...
+
+[Mod-faultyrgbMaze] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1880521679\Newtonsoft.Json.dll"...
+
+[Mod-faultyrgbMaze] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1880521679\faultyrgbMaze.dll"
+
+[Mod-faultyrgbMaze] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1880521679" complete.
+
+[Mod-faultyrgbMaze] Loading GameObjects...
+
+[Mod-faultyrgbMaze] Replacing shaders...
+
+[Mod-faultyrgbMaze] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-faultyrgbMaze] Loading KMMissions...
+
+[Mod-faultyrgbMaze] Loading KMMissionTableOfContents...
+
+[Mod-faultyrgbMaze] Loading AudioClips...
+
+[BombGenerator] Instantiated 1880521679 on face FrontFace, spawn index 1
+
+[Mod-jackOLantern] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1546985575" has ID:"jackOLantern"
+
+[Mod-jackOLantern] Loading assemblies...
+
+[Mod-jackOLantern] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1546985575\Newtonsoft.Json.dll"...
+
+[Mod-jackOLantern] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1546985575\jackOLantern.dll"
+
+[Mod-jackOLantern] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1546985575" complete.
+
+[Mod-jackOLantern] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-jackOLantern] Replacing shaders...
+
+[Mod-jackOLantern] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-jackOLantern] Loading KMMissions...
+
+[Mod-jackOLantern] Loading KMMissionTableOfContents...
+
+[Mod-jackOLantern] Loading AudioClips...
+
+Triggers on concave MeshColliders are not supported
+Triggers on concave MeshColliders are not supported
+[BombGenerator] Instantiated 1546985575 on face RearFace, spawn index 6
+
+[Mod-snooker] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1535185348" has ID:"snooker"
+
+[Mod-snooker] Loading assemblies...
+
+[Mod-snooker] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1535185348\Newtonsoft.Json.dll"...
+
+[Mod-snooker] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1535185348\snooker.dll"
+
+[Mod-snooker] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1535185348" complete.
+
+[Mod-snooker] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-snooker] Replacing shaders...
+
+[Mod-snooker] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-snooker] Loading KMMissions...
+
+[Mod-snooker] Loading KMMissionTableOfContents...
+
+[Mod-snooker] Loading AudioClips...
+
+[BombGenerator] Instantiated 1535185348 on face RearFace, spawn index 7
+
+[Mod-topsyTurvy] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1975632072" has ID:"topsyTurvy"
+
+[Mod-topsyTurvy] Loading assemblies...
+
+[Mod-topsyTurvy] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1975632072\Newtonsoft.Json.dll"...
+
+[Mod-topsyTurvy] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1975632072\topsyTurvy.dll"
+
+[Mod-topsyTurvy] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1975632072" complete.
+
+[Mod-topsyTurvy] Loading GameObjects...
+
+[Mod-topsyTurvy] Replacing shaders...
+
+[Mod-topsyTurvy] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-topsyTurvy] Loading KMMissions...
+
+[Mod-topsyTurvy] Loading KMMissionTableOfContents...
+
+[Mod-topsyTurvy] Loading AudioClips...
+
+[BombGenerator] Instantiated 1975632072 on face RearFace, spawn index 11
+
+[Mod-sorting] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2014027892" has ID:"sorting"
+
+[Mod-sorting] Loading assemblies...
+
+[Mod-sorting] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2014027892\Newtonsoft.Json.dll"...
+
+[Mod-sorting] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2014027892\sorting.dll"
+
+[Mod-sorting] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2014027892" complete.
+
+[Mod-sorting] Loading GameObjects...
+
+[Mod-sorting] Replacing shaders...
+
+[Mod-sorting] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-sorting] Loading KMMissions...
+
+[Mod-sorting] Loading KMMissionTableOfContents...
+
+[Mod-sorting] Loading AudioClips...
+
+[BombGenerator] Instantiated 2014027892 on face FrontFace, spawn index 0
+
+[Mod-lyingIndicators] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2059872002" has ID:"lyingIndicators"
+
+[Mod-lyingIndicators] Loading assemblies...
+
+[Mod-lyingIndicators] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2059872002\Newtonsoft.Json.dll"...
+
+[Mod-lyingIndicators] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2059872002\lyingIndicators.dll"
+
+[Mod-lyingIndicators] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2059872002" complete.
+
+[Mod-lyingIndicators] Loading GameObjects...
+
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Mod-lyingIndicators] Replacing shaders...
+
+[Mod-lyingIndicators] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-lyingIndicators] Loading KMMissions...
+
+[Mod-lyingIndicators] Loading KMMissionTableOfContents...
+
+[Mod-lyingIndicators] Loading AudioClips...
+
+[BombGenerator] Instantiated 2059872002 on face FrontFace, spawn index 15
+
+[Mod-OnlyConnect] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\885638564" has ID:"OnlyConnect"
+
+[Mod-OnlyConnect] Loading assemblies...
+
+[Mod-OnlyConnect] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\885638564\Newtonsoft.Json.dll"...
+
+[Mod-OnlyConnect] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\885638564\OnlyConnect.dll"
+
+[Mod-OnlyConnect] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\885638564" complete.
+
+[Mod-OnlyConnect] Loading GameObjects...
+
+[Mod-OnlyConnect] Replacing shaders...
+
+[Mod-OnlyConnect] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-OnlyConnect] Loading KMMissions...
+
+[Mod-OnlyConnect] Loading KMMissionTableOfContents...
+
+[Mod-OnlyConnect] Loading AudioClips...
+
+[BombGenerator] Instantiated 885638564 on face RearFace, spawn index 15
+
+[The Triangle #1] Colorblind mode: False
+[BombGenerator] Instantiated triangle on face RearFace, spawn index 13
+
+[Mod-modkit] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1860975453" has ID:"modkit"
+
+[Mod-modkit] Loading assemblies...
+
+[Mod-modkit] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1860975453\Newtonsoft.Json.dll"...
+
+[Mod-modkit] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1860975453\modkit.dll"
+
+[Mod-modkit] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1860975453" complete.
+
+[Mod-modkit] Loading GameObjects...
+
+[Mod-modkit] Replacing shaders...
+
+[Mod-modkit] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+
+[Mod-modkit] Loading KMMissions...
+
+[Mod-modkit] Loading KMMissionTableOfContents...
+
+[Mod-modkit] Loading AudioClips...
+
+[BombGenerator] Instantiated 1860975453 on face FrontFace, spawn index 2
+
+[Mod-faultyDigitalRootModule] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1808068642" has ID:"faultyDigitalRootModule"
+
+[Mod-faultyDigitalRootModule] Loading assemblies...
+
+[Mod-faultyDigitalRootModule] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1808068642\Newtonsoft.Json.dll"...
+
+[Mod-faultyDigitalRootModule] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1808068642\faultyDigitalRootModule.dll"
+
+[Mod-faultyDigitalRootModule] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1808068642" complete.
+
+[Mod-faultyDigitalRootModule] Loading GameObjects...
+
+[Mod-faultyDigitalRootModule] Replacing shaders...
+
+[Mod-faultyDigitalRootModule] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-faultyDigitalRootModule] Loading KMMissions...
+
+[Mod-faultyDigitalRootModule] Loading KMMissionTableOfContents...
+
+[Mod-faultyDigitalRootModule] Loading AudioClips...
+
+[BombGenerator] Instantiated 1808068642 on face FrontFace, spawn index 5
+
+[Mod-pwGenerator] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1996258088" has ID:"pwGenerator"
+
+[Mod-pwGenerator] Loading assemblies...
+
+[Mod-pwGenerator] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1996258088\Newtonsoft.Json.dll"...
+
+[Mod-pwGenerator] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1996258088\pwGenerator.dll"
+
+[Mod-pwGenerator] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1996258088" complete.
+
+[Mod-pwGenerator] Loading GameObjects...
+
+[Mod-pwGenerator] Replacing shaders...
+
+[Mod-pwGenerator] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-pwGenerator] Loading KMMissions...
+
+[Mod-pwGenerator] Loading KMMissionTableOfContents...
+
+[Mod-pwGenerator] Loading AudioClips...
+
+[Password Generator #1]: The module is waiting for submit button press to start the calculation.
+[BombGenerator] Instantiated 1996258088 on face RearFace, spawn index 9
+
+[Mod-shape_shift] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\778458559" has ID:"shape_shift"
+
+[Mod-shape_shift] Loading assemblies...
+
+[Mod-shape_shift] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\778458559\Newtonsoft.Json.dll"...
+
+[Mod-shape_shift] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\778458559\shape_shift.dll"
+
+[Mod-shape_shift] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\778458559" complete.
+
+[Mod-shape_shift] Loading GameObjects...
+
+Desired shader compiler platform 4 is not available in shader blob
+Desired shader compiler platform 4 is not available in shader blob
+[Mod-shape_shift] Replacing shaders...
+
+[Mod-shape_shift] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-shape_shift] Loading KMMissions...
+
+[Mod-shape_shift] Loading KMMissionTableOfContents...
+
+[Mod-shape_shift] Loading AudioClips...
+
+[BombGenerator] Instantiated 778458559 on face RearFace, spawn index 8
+
+[Mod-forgetEnigma] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1804585381" has ID:"forgetEnigma"
+
+[Mod-forgetEnigma] Loading assemblies...
+
+[Mod-forgetEnigma] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1804585381\Newtonsoft.Json.dll"...
+
+[Mod-forgetEnigma] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1804585381\forgetEnigma.dll"
+
+[Mod-forgetEnigma] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1804585381" complete.
+
+[Mod-forgetEnigma] Loading GameObjects...
+
+[Mod-forgetEnigma] Replacing shaders...
+
+[Mod-forgetEnigma] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-forgetEnigma] Loading KMMissions...
+
+[Mod-forgetEnigma] Loading KMMissionTableOfContents...
+
+[Mod-forgetEnigma] Loading AudioClips...
+
+[BossModuleManager] Request for Forget Enigma’s ignore list successful.
+[KMBossModule] Boss Module Manager returned list for “Forget Enigma”: 14, A>N<D, Bamboozling Time Keeper, Brainf---, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Iconic, Kugelblitz, Multitask, OmegaForget, Organization, Password Destroyer, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+[BombGenerator] Instantiated 1804585381 on face FrontFace, spawn index 10
+
+[Mod-megaMan2] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1661433687" has ID:"megaMan2"
+
+[Mod-megaMan2] Loading assemblies...
+
+[Mod-megaMan2] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1661433687\Newtonsoft.Json.dll"...
+
+[Mod-megaMan2] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1661433687\megaMan2.dll"
+
+[Mod-megaMan2] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1661433687" complete.
+
+[Mod-megaMan2] Loading GameObjects...
+
+[Mod-megaMan2] Replacing shaders...
+
+[Mod-megaMan2] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-megaMan2] Replacing shaders...
+
+[Mod-megaMan2] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-megaMan2] Replacing shaders...
+
+[Mod-megaMan2] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-megaMan2] Loading KMMissions...
+
+[Mod-megaMan2] Loading KMMissionTableOfContents...
+
+[Mod-megaMan2] Loading AudioClips...
+
+[BombGenerator] Instantiated 1661433687 on face FrontFace, spawn index 7
+
+[Mod-Backgrounds] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1286383144" has ID:"Backgrounds"
+
+[Mod-Backgrounds] Loading assemblies...
+
+[Mod-Backgrounds] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1286383144\Newtonsoft.Json.dll"...
+
+[Mod-Backgrounds] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1286383144\Backgrounds.dll"
+
+[Mod-Backgrounds] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1286383144" complete.
+
+[Mod-Backgrounds] Loading GameObjects...
+
+[Mod-Backgrounds] Replacing shaders...
+
+[Mod-Backgrounds] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Backgrounds] Replacing shaders...
+
+[Mod-Backgrounds] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Backgrounds] Loading KMMissions...
+
+[Mod-Backgrounds] Loading KMMissionTableOfContents...
+
+[Mod-Backgrounds] Loading AudioClips...
+
+[BombGenerator] Instantiated 1286383144 on face FrontFace, spawn index 13
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: BD0NT0
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 0
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: PS2
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit FRK (IndicatorWidget/LABEL11)
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit CLR (IndicatorWidget/LABEL2)
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[Fruits #1] Button 1's label is Grapes.
+[Fruits #1] Button 2's label is Apple.
+[Fruits #1] Button 3's label is Orange.
+[Fruits #1] Button 4's label is Grapes.
+[Fruits #1] The submit button is Button 2.
+[Fruits #1] The button you need to press is Button 1.
+[Fruits #1] You need to press the button 2 times.
+[Jaden Smith Talk #1] The phrase says If Everybody In The World Dropped Out Of College We Would Have A Much More Intelligent Society., and this was not said by Jaden Smith.
+[BossModuleManager] Request for Forget Perspective’s ignore list successful.
+[KMBossModule] Boss Module Manager returned list for “Forget Perspective”: 14, A>N<D, Bamboozling Time Keeper, Brainf---, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Iconic, Kugelblitz, Multitask, OmegaForget, Organization, Password Destroyer, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+[Schlag den Bomb #1] Contender name is Peter. Ports = 1, Batteries = 3, Indicators = 2 (Over 6/5/3 counts as 6/5/3)
+[Schlag den Bomb #1] SN BD0NT0, values 2 4 0 14 20 0
+[Schlag den Bomb #1] Phys rating = 2
+[Schlag den Bomb #1] Game 11 is now a Physical game. Contender wins.
+[Schlag den Bomb #1] Game 15 is now a Physical game. Contender wins.
+[Schlag den Bomb #1] Game 10 is now a Physical game.
+[Schlag den Bomb #1] Mental rating = 1
+[Schlag den Bomb #1] Game 1 is now a Mental game. Contender wins.
+[Schlag den Bomb #1] Game 13 is now a Mental game.
+[Schlag den Bomb #1] Game 14 is now a Mental game.
+[Schlag den Bomb #1] Quiz rating = 2
+[Schlag den Bomb #1] Game 3 is now a Quiz game. Contender wins.
+[Schlag den Bomb #1] Game 8 is now a Quiz game. Contender wins.
+[Schlag den Bomb #1] Game 12 is now a Quiz game.
+[Schlag den Bomb #1] Oddball games = 2 4 5 6 7 9 
+[Schlag den Bomb #1] Game number 14 is unplayed.
+[Schlag den Bomb #1] Game number 15 is unplayed.
+[Schlag den Bomb #1] Final score: Contender 27 - 64 Bomb. Contender loses.
+[Schlag den Bomb #1] One potential solution: 1, 3, 4, 8, 11, game 14 unplayed, game 15 unplayed, and that's it!
+[Periodic Table #1] The chosen Element is Sulphur / S / 16 and the colour is Blue
+[Periodic Table #1] The chosen Symbol is Sulphur / S / 16 and the colour is Yellow
+[Periodic Table #1] The chosen Number is Lawrencium / Lr / 103 and the colour is Blue
+[Periodic Table #1] The chosen Button is Fluorine / F / 9 and the colour is Red
+[Periodic Table #1] ---------------- 
+[Periodic Table #1] ( Element (16) + Batteries (3) ) * Blue(5) = 95
+[Periodic Table #1] ( Symbol (16) + Ports (1) ) * Yellow(3) = 51
+[Periodic Table #1] ( Number (103) + Indicators (2) ) * Blue(5) = 525
+[Periodic Table #1] ( Button (9) + Sum Digits Serial (0) ) * Red(1) = 9
+[Periodic Table #1] Ele + Sym + Num + But = 680
+[Periodic Table #1] (Ele + Sym + Num + But) - (5 * 118) = 90
+[101 Dalmatians #1] Using rule seed: 1
+<101 Dalmatians #1> Name initially shown: Hoover
+[101 Dalmatians #1] Solution: Sport
+[101 Dalmatians #1] Showing fur pattern 35 rotated 120° clockwise
+[Orange Arrows #1] The displayed sequence (#1) is 'LEFT' 'LEFT' 'UP' 'LEFT' 'DOWN' 'UP' 'DOWN' 'UP' 'UP'
+[Orange Arrows #1] The inputs for sequence (#1) should be 'LEFT' 'LEFT' 'UP' 'RIGHT' 'DOWN' 'UP' 'DOWN' 'DOWN' 'UP'
+[Button Grids #1] Colorblind Mode: False
+[Button Grids #1] The order for Stage 1 is green, yellow, blue, red.
+[Button Grids #1] The order for Stage 2 is blue, red, yellow, green.
+[Button Grids #1] The order for Stage 3 is yellow, blue, red, green.
+[Button Grids #1] The order for Stage 4 is yellow, red, blue, green.
+[Button Grids #1] The order for Stage 5 is blue, yellow, red, green.
+[Button Grids #1] The order for Stage 6 is blue, red, green, yellow.
+[Button Grids #1] The order for Stage 7 is blue, green, yellow, red.
+[Button Grids #1] The order for Stage 8 is red, green, blue, yellow.
+[Button Grids #1] The order for Stage 9 is blue, red, yellow, green.
+[Recorded Keys #1] After 0 reset(s), the buttons had the colours: Cyan, Cyan, Yellow, Green, Magenta, Yellow
+[Recorded Keys #1] After 0 reset(s), the labels had the colours: Magenta, Cyan, Yellow, Red, Green, Green
+[Recorded Keys #1] After 0 reset(s), the buttons were labelled: 6, 2, 6, 2, 3, 1
+[Recorded Keys #1] After 0 reset(s), the keys play the sounds: 4, 3, 5, 2, 6, 1
+[Recorded Keys #1] After 0 reset(s), the initial value was: 0 + 4 + 2 + 2 + 1 + 2 = 11
+[Raiding Temples #1] Starting common pool is 3 treasure.
+[Raiding Temples #1] Explorer #1 is Clara.
+[Raiding Temples #1] Explorer #2 is Francis.
+[Raiding Temples #1] Explorer #3 is Indiana.
+[Raiding Temples #1] Explorer #4 is Robert.
+[Raiding Temples #1] Explorer #5 is Sandy.
+[Raiding Temples #1] Round 1: 13 treasure with Rocks.
+[Raiding Temples #1] Round 2: 1 treasure with Snakes.
+[Raiding Temples #1] Round 3: 5 treasure with Rocks.
+[Raiding Temples #1] Round 4: 3 treasure with Spiders.
+[Raiding Temples #1] Round 5: 11 treasure with Quicksand.
+[Raiding Temples #1] Round 6: 5 treasure with Rocks.
+[Raiding Temples #1] ===============Exploration===============
+[Raiding Temples #1] ----------Round 1----------
+[Raiding Temples #1] 13 treasure divided by 5 explorer(s). Each explorer got 2 treasure. Common pool is now 6.
+[Raiding Temples #1] Explorer #4 (Robert) leaves with 8 treasure.
+[Raiding Temples #1] Common pool is now 0.
+[Raiding Temples #1] Rocks caused no deaths.
+[Raiding Temples #1] ----------Round 2----------
+[Raiding Temples #1] 1 treasure divided by 4 explorer(s). Each explorer got 0 treasure. Common pool is now 1.
+[Raiding Temples #1] Explorer #1 (Clara) leaves with 2 treasure.
+[Raiding Temples #1] Explorer #3 (Indiana) leaves with 2 treasure.
+[Raiding Temples #1] Common pool is now 1.
+[Raiding Temples #1] Snakes caused no deaths.
+[Raiding Temples #1] ----------Round 3----------
+[Raiding Temples #1] 5 treasure divided by 2 explorer(s). Each explorer got 2 treasure. Common pool is now 2.
+[Raiding Temples #1] No explorers leave the temple.
+[Raiding Temples #1] Second occurence of Rocks. Explorers [ 2 5 ] died.
+[Raiding Temples #1] Button press order is [ 4 1 3 Skull ].
+[Number Pad #1] Button colors are: yellow, blue, white, yellow, red, green, blue, red, white, red
+[Faulty RGB Maze #0]The starting location is G5
+[Faulty RGB Maze #0]The red key is located at B2
+[Faulty RGB Maze #0]The red maze is maze e flipped horizontally and vertically
+[Faulty RGB Maze #0]Switching from the red maze moves 1 space(s) to the right and 5 space(s) down
+[Faulty RGB Maze #0]The fault in the red maze is defect b
+[Faulty RGB Maze #0]The green key is located at D5
+[Faulty RGB Maze #0]The green maze is maze 3 flipped vertically
+[Faulty RGB Maze #0]Switching from the green maze moves 3 space(s) to the right and 3 space(s) down
+[Faulty RGB Maze #0]The fault in the green maze is defect 7
+[Faulty RGB Maze #0]The blue key is located at E6
+[Faulty RGB Maze #0]The blue maze is maze 9 flipped horizontally
+[Faulty RGB Maze #0]Switching from the blue maze moves 3 space(s) to the right and 6 space(s) down
+[Faulty RGB Maze #0]The fault in the blue maze is defect c
+[Faulty RGB Maze #0]The grid:
+[Faulty RGB Maze #0]WWWWWWWWWWWWWWW
+[Faulty RGB Maze #0]WKKKRKCKGKRKBKW
+[Faulty RGB Maze #0]WGWMWCWRWRWGWGW
+[Faulty RGB Maze #0]WKMKGKBKWKCKMKW
+[Faulty RGB Maze #0]WKWWWRWGWMWWWKW
+[Faulty RGB Maze #0]WKGKWKMKWKRKYKW
+[Faulty RGB Maze #0]WRWBWGWMWCWBWKW
+[Faulty RGB Maze #0]WKWKYKKKGKWKWKW
+[Faulty RGB Maze #0]WCWBWCWWWBWGWRW
+[Faulty RGB Maze #0]WKRKMKWKYKYKBKW
+[Faulty RGB Maze #0]WKWWWRWBWRWBWCW
+[Faulty RGB Maze #0]WKYKGKWKWKGKYKW
+[Faulty RGB Maze #0]WGWBWWWKWMWWWMW
+[Faulty RGB Maze #0]WKBKRKKKGKKKKKW
+[Faulty RGB Maze #0]WWWWWWWWWWWWWWW
+[The Jack-O'-Lantern #1] Eye pattern: 2. Mouth pattern: 3.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press trick.
+[Snooker #1] You have 8 red balls available.
+[Snooker #1] Your four breaks are 11, 16, 18 & 25.
+[Snooker #1] There are multiple ways to achieve your four breaks; suggestions are given below.
+[Snooker #1] 1st break: red, pink, red, green.
+[Snooker #1] 2nd break: red, pink, red, black, red.
+[Snooker #1] 3rd break: red, yellow, red, brown, red, black, yellow.
+[Snooker #1] 4th break: green, brown, blue, pink, black.
+[Topsy Turvy #1] The displayed word is sandy.
+[Topsy Turvy #1] You need to submit robot.
+[Lying Indicators #1]: Indicator FRK is lying.
+[Lying Indicators #1]: Indicator CLR is truthful.
+[Lying Indicators #1]: To solve this module, press all buttons that display 'F'.
+[Lying Indicators #1]: T T T T F T
+[Lying Indicators #1]: T T T T F F
+[Lying Indicators #1]: T T T T F F
+[Lying Indicators #1]: F F T T T T
+[Lying Indicators #1]: F F T T T T
+[Lying Indicators #1]: F F T T T T
+[The Triangle #1] Rotation: clockwise. Background: Picasso. Letter: G.
+[The Triangle #1] Large triangle: green. Top left triangle: yellow. Bottom left triangle: blue. Bottom right triangle: red.
+[The Triangle #1] Correct colour: yellow.
+[The Modkit #1] Using column 4.
+[The Modkit #1] Required components are [ ALPHABET, LED ].
+[The Modkit #1] Solving Semaphore Keys. Alphanumeric keys present are: V6, U0, P8. LEDs are: Purple, Red, Green.
+[The Modkit #1] Rule 4 applies.
+[The Modkit #1] Keys that can be pressed are [ 2 ].
+[Faulty Digital Root #1] The broken display shows a 0, which mod 2 is 0
+[Faulty Digital Root #1] The type of digital root to take for the top 3 numbers is an Additive Digital Root
+[Faulty Digital Root #1] Numbers from top 3 displays from left to right: 1 3 2 
+[Faulty Digital Root #1] The answer after taking the digital root is 6, which in binary is 0110
+[Mega Man 2 #1] Using rule seed: 1
+[Mega Man 2 #1] ETanks spot is: A5
+[Mega Man 2 #1] Air Man is alive (robot master shown on module)
+[Mega Man 2 #1] Bubble Man is dead (# of battery holders ≤ first SN digit = false)
+[Mega Man 2 #1] Crash Man is dead (# of port types = 5 = false)
+[Mega Man 2 #1] Flash Man is dead (# of batteries = # of ports = false)
+[Mega Man 2 #1] Heat Man is dead (RJ45 port present = false)
+[Mega Man 2 #1] Metal Man is dead (# of lit indicators = second SN digit = false)
+[Mega Man 2 #1] Quick Man is dead (# of AA batteries = # of unlit indicators = false)
+[Mega Man 2 #1] Wood Man is dead (weapon shown on module)
+[Mega Man 2 #1] Password is: E1, D5, D4, C5, C1, B4, C3, E2, A5
+[Faulty Backgrounds #1] Fake Button is on the right
+[Faulty Backgrounds #1] Fake Button was determined by rule 1
+[Faulty Backgrounds #1] Backing is red, Button is blue, Fake Button is purple
+[Faulty Backgrounds #1] Row in table is B due to rule 5
+[Faulty Backgrounds #1] Column in table is A due to rule 10
+[Faulty Backgrounds #1] Number needed is 7
+[TwitchPlays] [M] ConManAU (, 62157170): Oh, not the item, the material became wool
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[Only Connect #1] Team name: WOMBLES
+[Only Connect #1] Hieroglyph    Position  Serial#  Ports     num 
+[Only Connect #1] Two Reeds     TM=False  B=True   PS=True   2   ← ✓
+[Only Connect #1] Lion          BM=False  D=False  Pa=False  0   
+[Only Connect #1] Twisted Flax  TL=False  Z=False  RJ=False  0   
+[Only Connect #1] Horned Viper  BR=False  N=False  St=False  0   
+[Only Connect #1] Water         BL=False  T=False  Se=False  0   
+[Only Connect #1] Eye of Horus  TR=False  Z=False  DV=False  0   
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"1 Mods"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] Switching bomb
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'fruits(Clone)'.
+[Profile Revealer] Attaching to 'TheHeart(Clone)'.
+[Profile Revealer] Attaching to 'JadenSmithTalk(Clone)'.
+[Profile Revealer] Attaching to 'booleanWires(Clone)'.
+[Profile Revealer] Attaching to 'qkForgetPerspective(Clone)'.
+[Profile Revealer] Attaching to 'qSchlagDenBomb(Clone)'.
+[Profile Revealer] Attaching to 'periodicTable(Clone)'.
+[Profile Revealer] Attaching to 'OneHundredAndOneDalmatiansModule(Clone)'.
+[Profile Revealer] Attaching to 'OrangeArrows(Clone)'.
+[Profile Revealer] Attaching to 'Button Grids(Clone)'.
+[Profile Revealer] Attaching to 'RecordedKeys(Clone)'.
+[Profile Revealer] Attaching to 'unrelatedAnagrams(Clone)'.
+[Profile Revealer] Attaching to 'sync125_3(Clone)'.
+[Profile Revealer] Attaching to 'raidingTemples(Clone)'.
+[Profile Revealer] Attaching to 'NumberPadModule(Clone)'.
+[Profile Revealer] Attaching to 'Faulty RGB Maze(Clone)'.
+[Profile Revealer] Attaching to 'jackOLantern(Clone)'.
+[Profile Revealer] Attaching to 'snooker(Clone)'.
+[Profile Revealer] Attaching to 'topsyTurvy(Clone)'.
+[Profile Revealer] Attaching to 'Sorting(Clone)'.
+[Profile Revealer] Attaching to 'lyingIndicators(Clone)'.
+[Profile Revealer] Attaching to 'OnlyConnectModule(Clone)'.
+[Profile Revealer] Attaching to 'triangle(Clone)'.
+[Profile Revealer] Attaching to 'modkit(Clone)'.
+[Profile Revealer] Attaching to 'FaultyDigitalRoot(Clone)'.
+[Profile Revealer] Attaching to 'passwordGenerator(Clone)'.
+[Profile Revealer] Attaching to 'ShapeShiftModule(Clone)'.
+[Profile Revealer] Attaching to 'forgetEnigma(Clone)'.
+[Profile Revealer] Attaching to 'Megaman 2(Clone)'.
+[Profile Revealer] Attaching to 'FaultyBackgrounds(Clone)'.
+custom
+[Number Pad #1] Level 1 path = 4; code is now: 8
+[Number Pad #1] Level 2 path = 2; code is now: 86
+[Number Pad #1] Level 3 path = 2; code is now: 862
+[Number Pad #1] Took second path; reversing code: 268
+[Number Pad #1] Level 4 path = 1; code is now: 2680
+[Number Pad #1] Took first path; adding 1 to each digit: 3791
+[Number Pad #1] Serial number is even, swapping 1 and 3: 9731
+[Number Pad #1] Battery count is odd, swapping 2 and 3: 9371
+[Number Pad #1] Sum is even, reversing: 1739
+[Sorting #1] The buttons are laid out as follows: 55, 44, 1, 15, 81
+[Sorting #1] Algorithm recieved: INSERTION
+
+[Forget Enigma #1] Number of stages is 28
+[Forget Enigma #1] Enigma Configuration: B-I-VIII
+[Forget Enigma #1] Rotor Setup: WP
+[Forget Enigma #1] Generated Answer: LYFIDKDOGSLDTSGCQCUWBXPEGEQK
+[Forget Enigma #1] Stage 1: WP: L->F->O->S->Y->U->K->M
+[Forget Enigma #1] Stage 2: XQ: Y->Z->D->G->P->M->V->J
+[Forget Enigma #1] Stage 3: XR: F->U->E->H->O->L->Y->G
+[Forget Enigma #1] Stage 4: XS: I->F->N->Q->B->Y->J->S
+[Forget Enigma #1] Stage 5: XT: D->U->C->F->E->B->S->S
+[Forget Enigma #1] Stage 6: XU: K->T->B->E->F->C->V->F
+[Forget Enigma #1] Stage 7: XV: D->G->V->Y->S->P->R->U
+[Forget Enigma #1] Stage 8: XW: O->J->N->Q->B->Y->N->Y
+[Forget Enigma #1] Stage 9: XX: G->H->Q->T->K->H->P->P
+[Forget Enigma #1] Stage 10: XY: S->A->J->M->D->A->V->B
+[Forget Enigma #1] Stage 11: XZ: L->J->Q->T->K->H->R->Q
+[Forget Enigma #1] Stage 12: XA: D->H->L->O->H->E->D->N
+[Forget Enigma #1] Stage 13: XB: T->N->Z->C->U->R->B->I
+[Forget Enigma #1] Stage 14: XC: S->N->V->Y->S->P->Y->V
+[Forget Enigma #1] Stage 15: YD: G->B->B->D->M->K->G->V
+[Forget Enigma #1] Stage 16: YE: C->X->U->W->I->G->L->B
+[Forget Enigma #1] Stage 17: YF: Q->I->K->M->D->B->D->I
+[Forget Enigma #1] Stage 18: YG: C->C->A->C->U->S->A->K
+[Forget Enigma #1] Stage 19: YH: U->K->K->M->D->B->F->T
+[Forget Enigma #1] Stage 20: YI: W->T->Z->B->Q->O->W->L
+[Forget Enigma #1] Stage 21: YJ: B->J->C->E->F->D->R->G
+[Forget Enigma #1] Stage 22: YK: X->O->M->O->H->F->P->C
+[Forget Enigma #1] Stage 23: YL: P->F->S->U->C->A->H->S
+[Forget Enigma #1] Stage 24: YM: E->A->O->Q->B->Z->X->U
+[Forget Enigma #1] Stage 25: YN: G->W->Q->S->Y->W->C->V
+[Forget Enigma #1] Stage 26: YO: E->E->Y->A->X->V->Y->J
+[Forget Enigma #1] Stage 27: YP: Q->L->A->C->U->S->J->V
+[Forget Enigma #1] Stage 28: ZQ: K->F->Y->Z->N->M->T->O
+[Forget Enigma #1] Generated Answer: MJGSSFUYPBQNIVVBIKTLGCSUVJVO
+Awake
+[Forget Perspective #0] ------Stage 1 ------
+[Forget Perspective #0] The faces for Stage 1 are: Blue, Green, Orange, Yellow, Red, Magenta.
+[Forget Perspective #0] Time you got the stage on: 60
+[Forget Perspective #0] Applied starting rule 1 and net rule 2.
+[Forget Perspective #0] Order made: B R O M Y G
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: A Q N L X F
+[Forget Perspective #0] Added value: L
+[SYNC-125-3 #1] Stage 1. The word is "club".
+[TwitchPlays] [M] ConManAU (, 62157170): !20 cv
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !bomb flip
+[PaceMaker] Round start! Mission: 1 Mods Pacing Enabled: True
+
+[PaceMaker] Next idle action in 25.06223 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] [M] r4y697 (, 166342202): oh shit
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): normal mode yeet
+[TwitchPlays] [M] ConManAU (, 62157170): !20 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !claim 28 5 2
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): normal and even
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): !bomb Flip
+[TwitchPlays] [M] r4y697 (, 166342202): !19 cv
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): no sound bruhus
+[Tweaks] LFABombInfo 11
+{"serial":"BD0NT0","displayNames":{"Timer":"Timer","fruits":"Fruits","TheHeart":"The Heart","JadenSmithTalk":"Jaden Smith Talk","booleanWires":"Boolean Wires","qkForgetPerspective":"Forget Perspective","qSchlagDenBomb":"Schlag den Bomb","periodicTabl
+e":"Periodic Table","OneHundredAndOneDalmatiansModule":"101 Dalmatians","orangeArrowsModule":"Orange Arrows","buttonGrid":"Button Grid","recordedKeys":"Recorded Keys","unrelatedAnagrams":"Unrelated Anagrams","sync125_3":"SYNC-125 [3]","raidingTemples
+":"Raiding Temples","NumberPad":"Number Pad","faultyrgbMaze":"Faulty RGB Maze","jackOLantern":"The Jack-O'-Lantern","snooker":"Snooker","topsyTurvy":"Topsy Turvy","sorting":"Sorting","lyingIndicators":"Lying Indicators","OnlyConnectModule":"Only Conn
+ect","triangle":"The Triangle","modkit":"The Modkit","faultyDigitalRootModule":"Faulty Digital Root","pwGenerator":"Password Generator","shapeshift":"Shape Shift","forgetEnigma":"Forget Enigma","megaMan2":"Mega Man 2","FaultyBackgrounds":"Faulty Back
+grounds","Empty":"None"},"ids":{"fruits":[1],"TheHeart":[1],"JadenSmithTalk":[1],"qSchlagDenBomb":[1],"periodicTable":[1],"OneHundredAndOneDalmatiansModule":[1],"orangeArrowsModule":[1],"buttonGrid":[1],"recordedKeys":[1],"unrelatedAnagrams":[1],"syn
+c125_3":[1],"raidingTemples":[1],"NumberPad":[1],"jackOLantern":[1],"snooker":[1],"topsyTurvy":[1],"sorting":[1],"lyingIndicators":[1],"OnlyConnectModule":[1],"triangle":[1],"modkit":[1],"faultyDigitalRootModule":[1],"pwGenerator":[1],"forgetEnigma":
+[1],"megaMan2":[1],"FaultyBackgrounds":[1],"booleanWires":[0],"qkForgetPerspective":[0],"faultyrgbMaze":[0]},"anchors":[[-0.330,-0.330],[-0.330,-0.110],[-0.330,0.110],[-0.330,0.330],[-0.110,-0.330],[-0.110,-0.110],[-0.110,0.110],[-0.110,0.330],[0.110
+,-0.330],[0.110,-0.110],[0.110,0.110],[0.110,0.330],[0.330,-0.330],[0.330,-0.110],[0.330,0.110],[0.330,0.330],[-0.330,-0.330],[-0.330,-0.110],[-0.330,0.110],[-0.330,0.330],[-0.110,-0.330],[-0.110,-0.110],[-0.110,0.110],[-0.110,0.330],[0.110,-0.330],[
+0.110,-0.110],[0.110,0.110],[0.110,0.330],[0.330,-0.330],[0.330,-0.110],[0.330,0.110],[0.330,0.330]],"modules":["sorting 1","faultyrgbMaze 0","modkit 1","periodicTable 1","TheHeart 1","faultyDigitalRootModule 1","Timer -","megaMan2 1","booleanWires 0
+","qkForgetPerspective 0","forgetEnigma 1","qSchlagDenBomb 1","Empty -","FaultyBackgrounds 1","orangeArrowsModule 1","lyingIndicators 1","buttonGrid 1","NumberPad 1","sync125_3 1","fruits 1","raidingTemples 1","JadenSmithTalk 1","jackOLantern 1","sno
+oker 1","shapeshift -","pwGenerator 1","OneHundredAndOneDalmatiansModule 1","topsyTurvy 1","recordedKeys 1","triangle 1","unrelatedAnagrams 1","OnlyConnectModule 1"],"timestamp":"2020-06-19T21:01:09.4048344+08:00"}
+[PaceMaker] PlayerSuccessRating: 0.498607 (Factors: solved: 0, strikes: 0.3, time: 0.198607)
+
+[PaceMaker] Next idle action in 33.18613 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): and that too
+[TwitchPlays] [M] r4y697 (, 166342202): !29 cv
+[TwitchPlays] [M] ConManAU (, 62157170): Makes Heart a little trickier
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): What the fuck is happening with Periodic Table
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !7 view
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): yeah uh
+[TwitchPlays] [M] ConManAU (, 62157170): The resolution is a little weird
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): its just the graphics
+[PaceMaker] PlayerSuccessRating: 0.4967611 (Factors: solved: 0, strikes: 0.3, time: 0.1967611)
+
+[PaceMaker] Next idle action in 27.8316 seconds.
+
+[The Heart #1] STOPPING at 3540 seconds because the timer differs by a minute or more from when the heart last started.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !viewpin 28 2 5
+[TwitchPlays] [M] ConManAU (, 62157170): So the bomb has some nasty aliasing going on
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): can someone ping fangy for audoio
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 3530 seconds for the 1th time. Solved modules: 30
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 setspeed 2
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !notes1 QUEUE
+[PaceMaker] PlayerSuccessRating: 0.4952124 (Factors: solved: 0, strikes: 0.3, time: 0.1952124)
+
+[PaceMaker] Next idle action in 27.93088 seconds.
+
+:r4y697!r4y697@r4y697.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): aight
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !9 cv
+[TwitchPlays] Enabling camera wall
+[TwitchPlays] Camera wall enabled
+[TwitchPlays] Camera wall already enabled
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): lovely
+[PaceMaker] PlayerSuccessRating: 0.4936585 (Factors: solved: 0, strikes: 0.3, time: 0.1936585)
+
+[PaceMaker] Next idle action in 49.11812 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): !20 swap 12 23 12 34
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[Sorting #1] Swapping buttons 55 to 44
+[Sorting #1] Swap Number 1. Expecting position swaps 1 and 2. Received position swaps 1 and 2.
+[Sorting #1] Swap was valid! Both buttons have switched positions. Current position: 44 55 1 15 81 
+[Sorting #1] 4/5 buttons are now sorted.
+
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !9 l l u r d u d d u
+[Sorting #1] Swapping buttons 55 to 1
+[Sorting #1] Swap Number 2. Expecting position swaps 2 and 3. Received position swaps 2 and 3.
+[Sorting #1] Swap was valid! Both buttons have switched positions. Current position: 44 1 55 15 81 
+[Sorting #1] 3/5 buttons are now sorted.
+
+[Sorting #1] Swapping buttons 44 to 1
+[Sorting #1] Swap Number 3. Expecting position swaps 1 and 2. Received position swaps 1 and 2.
+[Sorting #1] Swap was valid! Both buttons have switched positions. Current position: 1 44 55 15 81 
+[Sorting #1] 4/5 buttons are now sorted.
+
+[Sorting #1] Swapping buttons 55 to 15
+[Sorting #1] Swap Number 4. Expecting position swaps 3 and 4. Received position swaps 3 and 4.
+[Sorting #1] Swap was valid! Both buttons have switched positions. Current position: 1 44 15 55 81 
+[Sorting #1] 4/5 buttons are now sorted.
+
+[The Heart #1] STOPPING at 3470 seconds because the timer differs by a minute or more from when the heart last started.
+[TwitchPlays] [M] ConManAU (, 62157170): !q !20 swap 23
+[Orange Arrows #1] The displayed sequence (#2) is 'RIGHT' 'DOWN' 'DOWN' 'LEFT' 'UP' 'UP' 'LEFT' 'UP'
+[Orange Arrows #1] The inputs for sequence (#2) should be 'RIGHT' 'DOWN' 'DOWN' 'RIGHT' 'UP' 'UP' 'LEFT' 'DOWN'
+[TwitchPlays] [M] ConManAU (, 62157170): !6 cv
+[TwitchPlays] [M] ConManAU (, 62157170): !6 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 3454 seconds for the 2th time. Solved modules: 30
+[TwitchPlays] [M] ConManAU (, 62157170): !13 cv
+[TwitchPlays] [M] ConManAU (, 62157170): !13 help
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !9 r d d r u u l d
+[Orange Arrows #1] The displayed sequence (#3) is 'UP' 'RIGHT' 'RIGHT' 'LEFT' 'DOWN' 'UP' 'RIGHT'
+[Orange Arrows #1] The inputs for sequence (#3) should be 'UP' 'RIGHT' 'RIGHT' 'RIGHT' 'DOWN' 'UP' 'RIGHT'
+:gamingcenter111!gamingcenter111@gamingcenter111.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.4909256 (Factors: solved: 0, strikes: 0.3, time: 0.1909256)
+
+[PaceMaker] Next idle action in 32.91055 seconds.
+
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !q !9 u r r r d u r
+[PaceMaker] PlayerSuccessRating: 0.4890948 (Factors: solved: 0, strikes: 0.3, time: 0.1890948)
+
+[PaceMaker] Next idle action in 45.64438 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] ConManAU (): !20 swap 23
+[Sorting #1] Swapping buttons 44 to 15
+[Sorting #1] Swap Number 5. Expecting position swaps 2 and 3. Received position swaps 2 and 3.
+[Sorting #1] Swap was valid! Both buttons have switched positions. Current position: 1 15 44 55 81 
+[Sorting #1] 5/5 buttons are now sorted.
+
+[Sorting #1] All buttons sorted, module solved!
+
+[ModBombComponent #108] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"sorting","bombTime":3395.62183,"realTime":211.9331,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.505887 (Factors: solved: 0.01724138, strikes: 0.3, time: 0.1886457)
+
+[The Heart #1] A module was solved. 29 unsolved modules remain. Defibs: 2
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 2. Mouth pattern: 3.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+Awake
+[Forget Perspective #0] ------Stage 2 ------
+[Forget Perspective #0] The faces for Stage 2 are: Green, Orange, Yellow, Red, Blue, Magenta.
+[Forget Perspective #0] Time you got the stage on: 56
+[Forget Perspective #0] Applied starting rule 5 and net rule 2.
+[Forget Perspective #0] Order made: B R O Y G M
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: A Q N X F L
+[Forget Perspective #0] Added value: X
+[Forget Enigma #1] A module was solved, moving on to stage 2 out of 28
+[The Heart #1] STOPPING at 3394 seconds because the timer differs by a minute or more from when the heart last started.
+[TwitchPlays] [M] ConManAU (, 62157170): !13 submit 13
+[SYNC-125-3 #1] Expecting number 7.
+[SYNC-125-3 #1] Number 7 was correct. Advancing to stage 2.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[SYNC-125-3 #1] Stage 2. The word is "crack".
+[The Heart #1] DEFIBRILATED at 3387 seconds for the 3th time. Solved modules: 29
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] r4y697 (, 166342202): !19 hold
+[PaceMaker] PlayerSuccessRating: 0.5037973 (Factors: solved: 0.01724138, strikes: 0.3, time: 0.1865559)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 4595.893
+
+[PaceMaker] Next idle action in 47.81615 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): !13 submit 01
+[SYNC-125-3 #1] There are 1 solved modules. Expecting number 1.
+[SYNC-125-3 #1] Number 1 was correct. Advancing to stage 3.
+[SYNC-125-3 #1] Stage 3. The word is "shape".
+[TwitchPlays] [M] r4y697 (, 166342202): !19 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] Asew54321 (#FF0000): !9 u r r r d u r
+[TwitchPlays] [M] 피씨 (#9ACD32, 156454729): !unclaimed
+[Orange Arrows #1] All Sequences were correct! Module Disarmed!
+[ModBombComponent #86] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"orangeArrowsModule","bombTime":3333.47827,"realTime":274.0122,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.519676 (Factors: solved: 0.03448276, strikes: 0.3, time: 0.1851932)
+
+[The Heart #1] A module was solved. 28 unsolved modules remain. Defibs: 3
+Awake
+[Forget Perspective #0] ------Stage 3 ------
+[Forget Perspective #0] The faces for Stage 3 are: Magenta, Red, Green, Blue, Yellow, Orange.
+[Forget Perspective #0] Time you got the stage on: 55
+[Forget Perspective #0] Applied starting rule 6 and net rule 6.
+[Forget Perspective #0] Order made: O G B R M Y
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: N F A Q L X
+[Forget Perspective #0] Added value: Q
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 2. Mouth pattern: 3.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press trick.
+[Forget Enigma #1] A module was solved, moving on to stage 3 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] 피씨 (#9ACD32, 156454729): !claimany
+[The Heart #1] STOPPING at 3327 seconds because the timer differs by a minute or more from when the heart last started.
+[TwitchPlays] [M] 피씨 (#9ACD32, 156454729): !16 help
+[TwitchPlays] [M] ConManAU (, 62157170): !13 submit 32
+[SYNC-125-3 #1] There are 30 modules. Expecting number 14.
+[SYNC-125-3 #1] Number 14 was correct. Advancing to stage 4.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[SYNC-125-3 #1] Stage 4. The word is "maid".
+[The Heart #1] DEFIBRILATED at 3319 seconds for the 4th time. Solved modules: 28
+[TwitchPlays] [M] r4y697 (, 166342202): !q !19 release robot
+:tracksjosh!tracksjosh@tracksjosh.tmi.twitch.tv JOIN #heres_fangy
+:piissii!piissii@piissii.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5183784 (Factors: solved: 0.03448276, strikes: 0.3, time: 0.1838957)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Cut the lights at 4643.729
+
+[PaceMaker] Next idle action in 22.96565 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): !q !13 submit 03
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] r4y697 (, 166342202): !3 cv
+[PaceMaker] PlayerSuccessRating: 0.5171012 (Factors: solved: 0.03448276, strikes: 0.3, time: 0.1826185)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 32.77023 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] r4y697 (): !19 release robot
+[Topsy Turvy #1] You released the button when the displayed word was robot. That was correct. Module solved!
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[ModBombComponent #106] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"topsyTurvy","bombTime":3277.64941,"realTime":329.7871,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5338158 (Factors: solved: 0.05172414, strikes: 0.3, time: 0.1820916)
+
+[The Heart #1] A module was solved. 27 unsolved modules remain. Defibs: 4
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 2. Mouth pattern: 3.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+[Forget Enigma #1] A module was solved, moving on to stage 4 out of 28
+Awake
+[Forget Perspective #0] ------Stage 4 ------
+[Forget Perspective #0] The faces for Stage 4 are: Green, Blue, Yellow, Magenta, Orange, Red.
+[Forget Perspective #0] Time you got the stage on: 54
+[Forget Perspective #0] Applied starting rule 1 and net rule 3.
+[Forget Perspective #0] Order made: G R O Y M B
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: F Q N X L A
+[Forget Perspective #0] Added value: Q
+[The Heart #1] STOPPING at 3259 seconds because the timer differs by a minute or more from when the heart last started.
+[PaceMaker] PlayerSuccessRating: 0.53252 (Factors: solved: 0.05172414, strikes: 0.3, time: 0.1807958)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 38.9858 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): BD0NT0. That's an obscure Linux distribution if I ever heard one.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 3240 seconds for the 5th time. Solved modules: 27
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] ConManAU (): !13 submit 03
+[TwitchPlays] [M] r4y697 (, 166342202): !3 zoom 10
+[SYNC-125-3 #1] Expecting number 3.
+[SYNC-125-3 #1] Module solved!
+[ModBombComponent #94] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"sync125_3","bombTime":3232.15161,"realTime":375.240234,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5485295 (Factors: solved: 0.06896552, strikes: 0.3, time: 0.179564)
+
+[The Heart #1] A module was solved. 26 unsolved modules remain. Defibs: 5
+Awake
+[Forget Perspective #0] ------Stage 5 ------
+[Forget Perspective #0] The faces for Stage 5 are: Orange, Red, Yellow, Magenta, Green, Blue.
+[Forget Perspective #0] Time you got the stage on: 53
+[Forget Perspective #0] Applied starting rule 2 and net rule 1.
+[Forget Perspective #0] Order made: R Y G O B M
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: Q X F N A L
+[Forget Perspective #0] Added value: N
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 2. Mouth pattern: 3.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press trick.
+[Forget Enigma #1] A module was solved, moving on to stage 5 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[PaceMaker] PlayerSuccessRating: 0.547593 (Factors: solved: 0.06896552, strikes: 0.3, time: 0.1786275)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 35.21407 seconds.
+
+[The Heart #1] STOPPING at 3180 seconds because the timer differs by a minute or more from when the heart last started.
+[PaceMaker] PlayerSuccessRating: 0.5456343 (Factors: solved: 0.06896552, strikes: 0.3, time: 0.1766688)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 45.92331 seconds.
+
+[TwitchPlays] [M] 피씨 (#9ACD32, 156454729): !16 uc
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 3169 seconds for the 6th time. Solved modules: 26
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !1 help
+[TwitchPlays] [M] r4y697 (, 166342202): !3 zoom
+[TwitchPlays] [M] 피씨 (#9ACD32, 156454729): !8 cv
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !1 cv
+[TwitchPlays] [M] 피씨 (#9ACD32, 156454729): !8 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !1 1 1 2
+[Fruits #1] Module solved!
+[ModBombComponent #70] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"fruits","bombTime":3148.65283,"realTime":458.660645,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5611321 (Factors: solved: 0.0862069, strikes: 0.3, time: 0.1749252)
+
+[The Heart #1] A module was solved. 25 unsolved modules remain. Defibs: 6
+Awake
+[Forget Perspective #0] ------Stage 6 ------
+[Forget Perspective #0] The faces for Stage 6 are: Orange, Magenta, Blue, Red, Green, Yellow.
+[Forget Perspective #0] Time you got the stage on: 52
+[Forget Perspective #0] Applied starting rule 5 and net rule 3.
+[Forget Perspective #0] Order made: G B R M O Y
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: F A Q L N X
+[Forget Perspective #0] Added value: L
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 2. Mouth pattern: 3.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+[Forget Enigma #1] A module was solved, moving on to stage 6 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] r4y697 (, 166342202): !3 help
+[PaceMaker] PlayerSuccessRating: 0.5603218 (Factors: solved: 0.0862069, strikes: 0.3, time: 0.1741149)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 24.60871 seconds.
+
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !14 claim
+[TwitchPlays] [M] r4y697 (, 166342202): !q !3 y
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !14 manual
+[TwitchPlays] [M] ConManAU (, 62157170): !6 u 14 15
+[TwitchPlays] [M] r4y697 (, 166342202): !12 cv
+[The Heart #1] STOPPING at 3109 seconds because the timer differs by a minute or more from when the heart last started.
+[PaceMaker] PlayerSuccessRating: 0.5589528 (Factors: solved: 0.0862069, strikes: 0.3, time: 0.1727459)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 32.6939 seconds.
+
+[TwitchPlays] [M] 피씨 (#9ACD32, 156454729): !q !8 Sport
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 3091 seconds for the 7th time. Solved modules: 25
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !find valves
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] r4y697 (): !3 y
+[Bomb] Strike from Mod! 1 / 6 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"JadenSmithTalk","bombTime":3085.50024,"realTime":521.7544,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.4976236 (Factors: solved: 0.0862069, strikes: 0.24, time: 0.1714167)
+
+[Jaden Smith Talk #1] You pressed yes, which was incorrect. Strike.
+[Jaden Smith Talk #1] The phrase says The More Time You Spend Asleep The More Time You Spend Asleep., and this was not said by Jaden Smith.
+[The Heart #1] STOPPING at 3085 seconds because a strike happened on the bomb.
+[TwitchPlays] [M] r4y697 (, 166342202): wtf?
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 3074 seconds for the 8th time. Solved modules: 25
+[PaceMaker] PlayerSuccessRating: 0.497012 (Factors: solved: 0.0862069, strikes: 0.24, time: 0.1708051)
+
+[PaceMaker] Next idle action in 55.63311 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): !6 c 1 3 4 8 11
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] 피씨 (#9ACD32): !8 Sport
+[TwitchPlays] [M] ConManAU (, 62157170): !q !6 submit
+[101 Dalmatians #1] You submitted Sport. Correct.
+[ModBombComponent #84] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"OneHundredAndOneDalmatiansModule","bombTime":3063.49585,"realTime":539.368164,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5136425 (Factors: solved: 0.1034483, strikes: 0.24, time: 0.1701942)
+
+[The Heart #1] A module was solved. 24 unsolved modules remain. Defibs: 8
+Awake
+[Forget Perspective #0] ------Stage 7 ------
+[Forget Perspective #0] The faces for Stage 7 are: Yellow, Orange, Red, Green, Magenta, Blue.
+[Forget Perspective #0] Time you got the stage on: 51
+[Forget Perspective #0] Applied starting rule 6 and net rule 2.
+[Forget Perspective #0] Order made: B R M Y G O
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: A Q L X F N
+[Forget Perspective #0] Added value: X
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 2. Mouth pattern: 3.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press trick.
+[Forget Enigma #1] A module was solved, moving on to stage 7 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] ConManAU (, 62157170): !11 help
+[TwitchPlays] [M] r4y697 (, 166342202): it is on the manual
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): r4y
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): all phrases are
+[TwitchPlays] [M] ConManAU (, 62157170): !22 cv
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): its a very bs version of crazy talk
+[TwitchPlays] [M] ConManAU (, 62157170): !22 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): its usually like 1 or 2 letters
+[The Heart #1] STOPPING at 3014 seconds because the timer differs by a minute or more from when the heart last started.
+[PaceMaker] PlayerSuccessRating: 0.5103911 (Factors: solved: 0.1034483, strikes: 0.24, time: 0.1669428)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 46.32086 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 3001 seconds for the 9th time. Solved modules: 24
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] ConManAU (): !6 submit
+[Schlag den Bomb #1] Submitted 1 3 4 8 11 for contender. All required games marked and your total games marked equals 27, a match.
+[Schlag den Bomb #1] Submitted (14 15 ) as unplayed and (14 15 ) was expected. This is correct.
+[Schlag den Bomb #1] Richtig! Module defused! One moment in time...
+[ModBombComponent #80] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"qSchlagDenBomb","bombTime":2973.95337,"realTime":611.042,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5259093 (Factors: solved: 0.1206897, strikes: 0.24, time: 0.1652196)
+
+[The Heart #1] A module was solved. 23 unsolved modules remain. Defibs: 9
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 2. Mouth pattern: 3.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+Awake
+[Forget Perspective #0] ------Stage 8 ------
+[Forget Perspective #0] The faces for Stage 8 are: Magenta, Red, Blue, Yellow, Orange, Green.
+[Forget Perspective #0] Time you got the stage on: 49
+[Forget Perspective #0] Applied starting rule 3 and net rule 2.
+[Forget Perspective #0] Order made: B R Y O M G
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: A Q X N L F
+[Forget Perspective #0] Added value: N
+[Forget Enigma #1] A module was solved, moving on to stage 8 out of 28
+[TwitchPlays] [M] ConManAU (, 62157170): !22 press reeds
+[Only Connect #1] Connecting Wall solution:
+[Only Connect #1] e z x (Albanian)
+[Only Connect #1] ę ą ż (Polish)
+[Only Connect #1] ē ā ļ (Latvian)
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] ConManAU (, 62157170): The amounts for the glyphs were 2,0,0,0,0,0. Never seen that before.
+[PaceMaker] PlayerSuccessRating: 0.5244161 (Factors: solved: 0.1206897, strikes: 0.24, time: 0.1637265)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 40.93591 seconds.
+
+[The Heart #1] STOPPING at 2941 seconds because the timer differs by a minute or more from when the heart last started.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 2930 seconds for the 10th time. Solved modules: 23
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): noice
+[PaceMaker] PlayerSuccessRating: 0.521574 (Factors: solved: 0.1206897, strikes: 0.24, time: 0.1608844)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 25.36134 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !17 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !17 treat
+[ModBombComponent #102] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"jackOLantern","bombTime":2872.141,"realTime":692.5327,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5374944 (Factors: solved: 0.137931, strikes: 0.24, time: 0.1595634)
+
+[The Jack-O'-Lantern #1] You pressed treat. That is correct. Module disarmed.
+[The Heart #1] A module was solved. 22 unsolved modules remain. Defibs: 10
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+Awake
+[Forget Perspective #0] ------Stage 9 ------
+[Forget Perspective #0] The faces for Stage 9 are: Blue, Red, Green, Orange, Yellow, Magenta.
+[Forget Perspective #0] Time you got the stage on: 47
+[Forget Perspective #0] Applied starting rule 2 and net rule 1.
+[Forget Perspective #0] Order made: R G Y B M O
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: Q F X A L N
+[Forget Perspective #0] Added value: A
+[Forget Enigma #1] A module was solved, moving on to stage 9 out of 28
+[The Heart #1] STOPPING at 2870 seconds because the timer differs by a minute or more from when the heart last started.
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !14 press 4 1 3
+[Raiding Temples #1] Successfully pressed button "4".
+[Raiding Temples #1] Successfully pressed button "1".
+[Raiding Temples #1] Successfully pressed button "3".
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !q !14 press skull
+[PaceMaker] PlayerSuccessRating: 0.5370536 (Factors: solved: 0.137931, strikes: 0.24, time: 0.1591226)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 23.79975 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): !22 press 1 2 3
+[Only Connect #1] Submitted correct group: ż ę ą
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 2851 seconds for the 11th time. Solved modules: 22
+[PaceMaker] PlayerSuccessRating: 0.5354007 (Factors: solved: 0.137931, strikes: 0.24, time: 0.1574697)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 40.97102 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): !q !22 press 4 6 8
+[TwitchPlays] [M] ConManAU (, 62157170): !23 cv
+[TwitchPlays] [M] ConManAU (, 62157170): !23 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] Asew54321 (#FF0000): !14 press skull
+[Raiding Temples #1] Successfully pressed button "Skull". Module solved.
+[ModBombComponent #96] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"raidingTemples","bombTime":2811.55566,"realTime":741.026367,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.55137 (Factors: solved: 0.1551724, strikes: 0.24, time: 0.1561975)
+
+[The Heart #1] A module was solved. 21 unsolved modules remain. Defibs: 11
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+[Forget Enigma #1] A module was solved, moving on to stage 10 out of 28
+Awake
+[Forget Perspective #0] ------Stage 10 ------
+[Forget Perspective #0] The faces for Stage 10 are: Orange, Green, Red, Blue, Magenta, Yellow.
+[Forget Perspective #0] Time you got the stage on: 46
+[Forget Perspective #0] Applied starting rule 5 and net rule 5.
+[Forget Perspective #0] Order made: M O B R G Y
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: L N A Q F X
+[Forget Perspective #0] Added value: Q
+[TwitchPlays] [M] ConManAU (, 62157170): !23 press tl
+[The Triangle #1] You pressed yellow. That is correct.
+[The Triangle #1] Rotation: counterclockwise. Background: Cool. Letter: T.
+[The Triangle #1] Large triangle: yellow. Top left triangle: blue. Bottom left triangle: red. Bottom right triangle: green.
+[The Triangle #1] Correct colour: green.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !21 claim
+[TwitchPlays] [M] ConManAU (, 62157170): !23 press br
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !21 manuaL
+[The Heart #1] STOPPING at 2791 seconds because the timer differs by a minute or more from when the heart last started.
+[The Triangle #1] You pressed green. That is correct.
+[The Triangle #1] Rotation: counterclockwise. Background: Concentric. Letter: T.
+[The Triangle #1] Large triangle: blue. Top left triangle: green. Bottom left triangle: yellow. Bottom right triangle: red.
+[The Triangle #1] Correct colour: red.
+[PaceMaker] PlayerSuccessRating: 0.5497975 (Factors: solved: 0.1551724, strikes: 0.24, time: 0.1546251)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 26.67915 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 2781 seconds for the 12th time. Solved modules: 21
+[TwitchPlays] [M] ConManAU (, 62157170): !23 presS br
+[The Triangle #1] You pressed red. That is correct.
+[The Triangle #1] Rotation: counterclockwise. Background: Picasso. Letter: N.
+[The Triangle #1] Large triangle: green. Top left triangle: blue. Bottom left triangle: red. Bottom right triangle: yellow.
+[The Triangle #1] Correct colour: green.
+[TwitchPlays] [M] ConManAU (, 62157170): !23 press mid
+[The Triangle #1] You pressed green. That is correct.
+[The Triangle #1] Rotation: clockwise. Background: Picasso. Letter: R.
+[The Triangle #1] Large triangle: yellow. Top left triangle: red. Bottom left triangle: blue. Bottom right triangle: green.
+[The Triangle #1] Correct colour: red.
+[PaceMaker] PlayerSuccessRating: 0.5479456 (Factors: solved: 0.1551724, strikes: 0.24, time: 0.1527732)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 31.76853 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): !23 press tl
+[The Triangle #1] You pressed red. That is correct.
+[The Triangle #1] Rotation: counterclockwise. Background: Cool. Letter: N.
+[The Triangle #1] Large triangle: blue. Top left triangle: red. Bottom left triangle: yellow. Bottom right triangle: green.
+[The Triangle #1] Correct colour: yellow.
+:r4y697!r4y697@r4y697.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] ConManAU (, 62157170): !q !23 press bl
+[The Heart #1] STOPPING at 2721 seconds because the timer differs by a minute or more from when the heart last started.
+[TwitchPlays] [M] ConManAU (, 62157170): 6 presses - record?
+[PaceMaker] PlayerSuccessRating: 0.5457396 (Factors: solved: 0.1551724, strikes: 0.24, time: 0.1505672)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 21.75589 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 2708 seconds for the 13th time. Solved modules: 21
+[TwitchPlays] [M] ConManAU (, 62157170): !15 cv
+[TwitchPlays] [M] ConManAU (, 62157170): !15 help
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !21 press a4 a5 a6 b4 b5 b6 e1 e2 e3 f2
+1
+3
+[Lying Indicators #1]: Pressing button 1:4
+[Lying Indicators #1]: That button was valid, there are 10 buttons left to press.
+1
+4
+[Lying Indicators #1]: Pressing button 1:5
+[Lying Indicators #1]: That button was valid, there are 9 buttons left to press.
+1
+5
+[Lying Indicators #1]: Pressing button 1:6
+[Lying Indicators #1]: That button was valid, there are 8 buttons left to press.
+2
+3
+[Lying Indicators #1]: Pressing button 2:4
+[Lying Indicators #1]: That button was valid, there are 7 buttons left to press.
+2
+4
+[Lying Indicators #1]: Pressing button 2:5
+[Lying Indicators #1]: That button was valid, there are 6 buttons left to press.
+2
+5
+[Lying Indicators #1]: Pressing button 2:6
+[Lying Indicators #1]: That button was valid, there are 5 buttons left to press.
+5
+0
+[Lying Indicators #1]: Pressing button 5:1
+[Lying Indicators #1]: That button was valid, there are 4 buttons left to press.
+5
+1
+[Lying Indicators #1]: Pressing button 5:2
+[Lying Indicators #1]: That button was valid, there are 3 buttons left to press.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] ConManAU (): !22 press 4 6 8
+5
+2
+[Lying Indicators #1]: Pressing button 5:3
+[Lying Indicators #1]: That button was valid, there are 2 buttons left to press.
+6
+1
+[Lying Indicators #1]: Pressing button 6:2
+[Lying Indicators #1]: That button was valid, there are 1 button left to press.
+[Only Connect #1] Submitted correct group: ē ā ļ
+[ModBombComponent #112] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"OnlyConnectModule","bombTime":2690.84863,"realTime":837.645,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5619054 (Factors: solved: 0.1724138, strikes: 0.24, time: 0.1494916)
+
+[The Heart #1] A module was solved. 20 unsolved modules remain. Defibs: 13
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+Awake
+[Forget Perspective #0] ------Stage 11 ------
+[Forget Perspective #0] The faces for Stage 11 are: Magenta, Yellow, Red, Green, Orange, Blue.
+[Forget Perspective #0] Time you got the stage on: 44
+[Forget Perspective #0] Applied starting rule 5 and net rule 6.
+[Forget Perspective #0] Order made: O G M B R Y
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: N F L A Q X
+[Forget Perspective #0] Added value: A
+[Forget Enigma #1] A module was solved, moving on to stage 11 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[PaceMaker] PlayerSuccessRating: 0.5614692 (Factors: solved: 0.1724138, strikes: 0.24, time: 0.1490554)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 28.66059 seconds.
+
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !q !21 press f3
+---PING--- ---PONG--- :tmi.twitch.tv
+[The Heart #1] STOPPING at 2648 seconds because the timer differs by a minute or more from when the heart last started.
+[PaceMaker] PlayerSuccessRating: 0.5594808 (Factors: solved: 0.1724138, strikes: 0.24, time: 0.147067)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 59.96828 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 2640 seconds for the 14th time. Solved modules: 20
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !25 claim
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !25 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): im just waiting for heart to kill the bomb
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] ConManAU (): !23 press bl
+[The Triangle #1] You pressed yellow. That is correct.
+[ModBombComponent #113] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"triangle","bombTime":2627.335,"realTime":888.478,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5756183 (Factors: solved: 0.1896552, strikes: 0.24, time: 0.1459631)
+
+[The Triangle #1] Module disarmed.
+[The Heart #1] A module was solved. 19 unsolved modules remain. Defibs: 14
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+[Forget Enigma #1] A module was solved, moving on to stage 12 out of 28
+Awake
+[Forget Perspective #0] ------Stage 12 ------
+[Forget Perspective #0] The faces for Stage 12 are: Green, Orange, Yellow, Magenta, Blue, Red.
+[Forget Perspective #0] Time you got the stage on: 43
+[Forget Perspective #0] Applied starting rule 2 and net rule 6.
+[Forget Perspective #0] Order made: O B G R M Y
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: N A F Q L X
+[Forget Perspective #0] Added value: Q
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !q !25 press no yes yes no
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] r4y697 (, 166342202): !3 zoom
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): mfw faulty digital root answer is the same additive and multiplicative
+[TwitchPlays] [M] r4y697 (, 166342202): !3 zoom 7
+[The Heart #1] STOPPING at 2580 seconds because the timer differs by a minute or more from when the heart last started.
+:tracksjosh!tracksjosh@tracksjosh.tmi.twitch.tv PART #heres_fangy
+:piissii!piissii@piissii.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5725576 (Factors: solved: 0.1896552, strikes: 0.24, time: 0.1429024)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 34.60671 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 2566 seconds for the 15th time. Solved modules: 19
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !3 manual
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] Asew54321 (#FF0000): !21 press f3
+6
+2
+[Lying Indicators #1]: Pressing button 6:3
+[Lying Indicators #1]: That button was valid, there are 0 buttons left to press.
+[ModBombComponent #110] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"lyingIndicators","bombTime":2545.40918,"realTime":954.047363,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5883082 (Factors: solved: 0.2068966, strikes: 0.24, time: 0.1414116)
+
+[The Heart #1] A module was solved. 18 unsolved modules remain. Defibs: 15
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+[Forget Enigma #1] A module was solved, moving on to stage 13 out of 28
+Awake
+[Forget Perspective #0] ------Stage 13 ------
+[Forget Perspective #0] The faces for Stage 13 are: Red, Blue, Orange, Magenta, Green, Yellow.
+[Forget Perspective #0] Time you got the stage on: 42
+[Forget Perspective #0] Applied starting rule 1 and net rule 1.
+[Forget Perspective #0] Order made: R O G M B Y
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: Q N F L A X
+[Forget Perspective #0] Added value: L
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[PaceMaker] PlayerSuccessRating: 0.5873967 (Factors: solved: 0.2068966, strikes: 0.24, time: 0.1405002)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 47.44627 seconds.
+
+[TwitchPlays] [M] r4y697 (, 166342202): !q !3 right
+[The Heart #1] STOPPING at 2506 seconds because the timer differs by a minute or more from when the heart last started.
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 2493 seconds for the 16th time. Solved modules: 18
+[PaceMaker] PlayerSuccessRating: 0.5841029 (Factors: solved: 0.2068966, strikes: 0.24, time: 0.1372064)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.3392 seconds.
+
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !4 claim
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !4 manual
+[The Heart #1] STOPPING at 2433 seconds because the timer differs by a minute or more from when the heart last started.
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !4 submit NOR
+[Boolean Wires #0] Entered operator: NOR
+[Boolean Wires #0] Correct!
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !2 defib
+[The Heart #1] DEFIBRILATED at 2424 seconds for the 17th time. Solved modules: 18
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] Asew54321 (#FF0000): !25 press no yes yes no
+[Faulty Digital Root #1] Input of '0110' was correct! Module Disarmed!
+:r4y697!r4y697@r4y697.tmi.twitch.tv JOIN #heres_fangy
+:murphy0749!murphy0749@murphy0749.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5810943 (Factors: solved: 0.2068966, strikes: 0.24, time: 0.1341977)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 21.67285 seconds.
+
+[ModBombComponent #117] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"faultyDigitalRootModule","bombTime":2411.1272,"realTime":1061.52588,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5980895 (Factors: solved: 0.2241379, strikes: 0.24, time: 0.1339515)
+
+[The Heart #1] A module was solved. 17 unsolved modules remain. Defibs: 17
+[The Heart #1] --> Condition met. Solving on next stop.
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+Awake
+[Forget Perspective #0] ------Stage 14 ------
+[Forget Perspective #0] The faces for Stage 14 are: Yellow, Green, Red, Magenta, Orange, Blue.
+[Forget Perspective #0] Time you got the stage on: 40
+[Forget Perspective #0] Applied starting rule 5 and net rule 6.
+[Forget Perspective #0] Order made: O M Y B R G
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: N L X A Q F
+[Forget Perspective #0] Added value: A
+[Forget Enigma #1] A module was solved, moving on to stage 14 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !4 submit XOR
+[Boolean Wires #0] Entered operator: XOR
+[Boolean Wires #0] Correct!
+[TwitchPlays] [M] ConManAU (, 62157170): !q !15 submit 1739
+[PaceMaker] PlayerSuccessRating: 0.5968294 (Factors: solved: 0.2241379, strikes: 0.24, time: 0.1326915)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 50.66918 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): !27 cv
+[TwitchPlays] [M] ConManAU (, 62157170): !30 cv
+[TwitchPlays] [M] ConManAU (, 62157170): !27 help
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !bomb time
+[The Heart #1] STOPPING at 2364 seconds because the timer differs by a minute or more from when the heart last started.
+[ModBombComponent #72] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"TheHeart","bombTime":2364.97144,"realTime":1098.46973,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6127666 (Factors: solved: 0.2413793, strikes: 0.24, time: 0.1313873)
+
+[The Heart #1] SOLVED!
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+Awake
+[Forget Perspective #0] ------Stage 15 ------
+[Forget Perspective #0] The faces for Stage 15 are: Yellow, Orange, Green, Magenta, Red, Blue.
+[Forget Perspective #0] Time you got the stage on: 39
+[Forget Perspective #0] Applied starting rule 6 and net rule 2.
+[Forget Perspective #0] Order made: B G R Y M O
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: A F Q X L N
+[Forget Perspective #0] Added value: X
+[Forget Enigma #1] A module was solved, moving on to stage 15 out of 28
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !4 submit xor
+[Boolean Wires #0] Entered operator: XOR
+[Boolean Wires #0] Correct!
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): alrighty
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !4 submit and
+[Boolean Wires #0] Entered operator: AND
+[Boolean Wires #0] Correct!
+[PaceMaker] PlayerSuccessRating: 0.6105539 (Factors: solved: 0.2413793, strikes: 0.24, time: 0.1291746)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.35693 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): !q !27 submit ticket point
+[TwitchPlays] [M] ConManAU (, 62157170): !30 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] ConManAU (, 62157170): !30 press left 5
+[TwitchPlays] [M] ConManAU (, 62157170): !30 press right 5
+[TwitchPlays] [M] Asew54321 (#FF0000, 52515351): !q !4 submit nor
+[PaceMaker] PlayerSuccessRating: 0.6066416 (Factors: solved: 0.2413793, strikes: 0.24, time: 0.1252623)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.56223 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] r4y697 (): !3 right
+[ModBombComponent #74] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"JadenSmithTalk","bombTime":2253.32739,"realTime":1187.82471,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6238055 (Factors: solved: 0.2586207, strikes: 0.24, time: 0.1251849)
+
+[Jaden Smith Talk #1] You pressed no, which was correct. Module Solved.
+Awake
+[Forget Perspective #0] ------Stage 16 ------
+[Forget Perspective #0] The faces for Stage 16 are: Magenta, Yellow, Blue, Green, Red, Orange.
+[Forget Perspective #0] Time you got the stage on: 37
+[Forget Perspective #0] Applied starting rule 2 and net rule 4.
+[Forget Perspective #0] Order made: Y R O M B G
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: X Q N L A F
+[Forget Perspective #0] Added value: L
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+[Forget Enigma #1] A module was solved, moving on to stage 16 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] ConManAU (, 62157170): !30 press left 2
+[TwitchPlays] [M] ConManAU (, 62157170): !q !30 submit
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !claim 11
+[TwitchPlays] [M] ConManAU (, 62157170): !unclaimed
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !unclaimall
+[TwitchPlays] [M] ConManAU (, 62157170): !7 cv
+[TwitchPlays] [M] ConManAU (, 62157170): !7 help
+[PaceMaker] PlayerSuccessRating: 0.6208581 (Factors: solved: 0.2586207, strikes: 0.24, time: 0.1222374)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 39.96827 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] ConManAU (): !15 submit 1739
+[Number Pad #1] You submitted: 1739, which is correct — module solved.
+[ModBombComponent #98] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"NumberPad","bombTime":2189.25732,"realTime":1239.103,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6374875 (Factors: solved: 0.2758621, strikes: 0.24, time: 0.1216254)
+
+Awake
+[Forget Perspective #0] ------Stage 17 ------
+[Forget Perspective #0] The faces for Stage 17 are: Red, Yellow, Green, Orange, Blue, Magenta.
+[Forget Perspective #0] Time you got the stage on: 36
+[Forget Perspective #0] Applied starting rule 1 and net rule 1.
+[Forget Perspective #0] Order made: R G B O Y M
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: Q F A N X L
+[Forget Perspective #0] Added value: N
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+[Forget Enigma #1] A module was solved, moving on to stage 17 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+:jjroccss!jjroccss@jjroccss.tmi.twitch.tv JOIN #heres_fangy
+:asew54321!asew54321@asew54321.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.6353245 (Factors: solved: 0.2758621, strikes: 0.24, time: 0.1194625)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 35.1497 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !claim 26 10 18
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] ConManAU (): !27 submit ticket point
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !find ult
+[ModBombComponent #121] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"shapeshift","bombTime":2136.27173,"realTime":1281.51318}
+[PaceMaker] PlayerSuccessRating: 0.6517853 (Factors: solved: 0.2931035, strikes: 0.24, time: 0.1186818)
+
+Awake
+[Forget Perspective #0] ------Stage 18 ------
+[Forget Perspective #0] The faces for Stage 18 are: Orange, Green, Magenta, Blue, Red, Yellow.
+[Forget Perspective #0] Time you got the stage on: 35
+[Forget Perspective #0] Applied starting rule 6 and net rule 4.
+[Forget Perspective #0] Order made: Y M G B R O
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: X L F A Q N
+[Forget Perspective #0] Added value: A
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+[Forget Enigma #1] A module was solved, moving on to stage 18 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !find bamboo
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !11 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 cv
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !unclaimed
+[PaceMaker] PlayerSuccessRating: 0.6501251 (Factors: solved: 0.2931035, strikes: 0.24, time: 0.1170217)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 22.07429 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6485913 (Factors: solved: 0.2931035, strikes: 0.24, time: 0.1154878)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 43.55698 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !26 press C D C B
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] Asew54321 (#FF0000): !4 submit nor
+[Boolean Wires #0] Entered operator: NOR
+[Boolean Wires #0] Correct!
+[Boolean Wires #0] Module solved!
+[ModBombComponent #76] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"booleanWires","bombTime":2055.91187,"realTime":1345.831,"loggingID":0}
+[PaceMaker] PlayerSuccessRating: 0.6645622 (Factors: solved: 0.3103448, strikes: 0.24, time: 0.1142173)
+
+Awake
+[Forget Perspective #0] ------Stage 19 ------
+[Forget Perspective #0] The faces for Stage 19 are: Magenta, Blue, Yellow, Orange, Green, Red.
+[Forget Perspective #0] Time you got the stage on: 34
+[Forget Perspective #0] Applied starting rule 5 and net rule 3.
+[Forget Perspective #0] Order made: G Y O B M R
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: F X N A L Q
+[Forget Perspective #0] Added value: A
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+[Forget Enigma #1] A module was solved, moving on to stage 19 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !find quest;astro
+[TwitchPlays] [M] ConManAU (, 62157170): !q !7 submit 90
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !find logic;boolean
+[TwitchPlays] [M] ConManAU (, 62157170): !unclaimed
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !26 press &
+[TwitchPlays] [M] ConManAU (, 62157170): !24 cv
+[PaceMaker] PlayerSuccessRating: 0.6628079 (Factors: solved: 0.3103448, strikes: 0.24, time: 0.1124631)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 22.59112 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): !24 help
+:mythers45!mythers45@mythers45.tmi.twitch.tv JOIN #heres_fangy
+:jjroccss!jjroccss@jjroccss.tmi.twitch.tv PART #heres_fangy
+:r4y697!r4y697@r4y697.tmi.twitch.tv PART #heres_fangy
+:xarata98!xarata98@xarata98.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Passgen prepping for 19 solves
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !26 help
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.6612409 (Factors: solved: 0.3103448, strikes: 0.24, time: 0.1108961)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 55.96502 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !q 19s 30m !26 press 7 0 s
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] ConManAU (): !30 submit
+[Faulty Backgrounds #1] Submitted 7, Goal was 7
+[ModBombComponent #127] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"FaultyBackgrounds","bombTime":1972.41577,"realTime":1412.65527,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6771649 (Factors: solved: 0.3275862, strikes: 0.24, time: 0.1095787)
+
+[Faulty Backgrounds #1] The module has been defused.
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+Awake
+[Forget Perspective #0] ------Stage 20 ------
+[Forget Perspective #0] The faces for Stage 20 are: Green, Red, Blue, Yellow, Magenta, Orange.
+[Forget Perspective #0] Time you got the stage on: 32
+[Forget Perspective #0] Applied starting rule 5 and net rule 5.
+[Forget Perspective #0] Order made: M G Y B R O
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: L F X A Q N
+[Forget Perspective #0] Added value: A
+[Forget Enigma #1] A module was solved, moving on to stage 20 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !bomb time
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): go whenever
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): if you wanna do 31
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !bomb Time
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): I'll do 31 mins
+[PaceMaker] PlayerSuccessRating: 0.6745961 (Factors: solved: 0.3275862, strikes: 0.24, time: 0.1070099)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 53.00433 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !Bomb time
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !26 press 7 9 s
+[Password Generator #1]: Submit button was pressed! Generating input..
+[Password Generator #1]: The numerical position of the first character of serial number is 2
+[Password Generator #1]: The calculated answer for Part I is C.
+[Password Generator #1]: Number of batteries = 3, indicators = 2, and ports = 1
+[Password Generator #1]: There are different number of batteries, indicators and ports.
+[Password Generator #1]: The calculated answer for Part II is DCB
+[Password Generator #1]: Rule 3 applied: There are at least one module with 'Logic' or 'Boolean' in its name on the bomb.
+[Password Generator #1] The submit button was pressed at 19 solve(s), 11 unsolved and 31 min(s) remaining.
+[Password Generator #1]: The last digit of the Serial Number is 0.
+[Password Generator #1] The calculated answer for Part IV is 79.
+[Password Generator #1]: The final input is CDCB&79.
+[ModBombComponent #119] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"pwGenerator","bombTime":1914.71228,"realTime":1458.835,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6912005 (Factors: solved: 0.3448276, strikes: 0.24, time: 0.1063729)
+
+[Password Generator #1]: You have inputted correct answer. Module solved.
+Awake
+[Forget Perspective #0] ------Stage 21 ------
+[Forget Perspective #0] The faces for Stage 21 are: Red, Blue, Yellow, Orange, Green, Magenta.
+[Forget Perspective #0] Time you got the stage on: 31
+[Forget Perspective #0] Applied starting rule 2 and net rule 2.
+[Forget Perspective #0] Order made: B G Y O R M
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: A F X N Q L
+[Forget Perspective #0] Added value: N
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+[Forget Enigma #1] A module was solved, moving on to stage 21 out of 28
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !unq !26
+[TwitchPlays] [M] ConManAU (, 62157170): !24 select alphabet,led
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+:starbucks___employee!starbucks___employee@starbucks___employee.tmi.twitch.tv JOIN #heres_fangy
+:rdzanu!rdzanu@rdzanu.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.6881579 (Factors: solved: 0.3448276, strikes: 0.24, time: 0.1033303)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 25.70262 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6863728 (Factors: solved: 0.3448276, strikes: 0.24, time: 0.1015452)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 34.16316 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): !24 zoom
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] ConManAU (): !7 submit 90
+[Periodic Table #1] ---------------- 
+[Periodic Table #1] You pressed Thorium / Th / 90
+[Periodic Table #1] Expecting Thorium / Th / 90
+[Periodic Table #1] You solved the module :D
+[ModBombComponent #82] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"periodicTable","bombTime":1812.68384,"realTime":1540.4917,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.7027736 (Factors: solved: 0.362069, strikes: 0.24, time: 0.1007047)
+
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+Awake
+[Forget Perspective #0] ------Stage 22 ------
+[Forget Perspective #0] The faces for Stage 22 are: Yellow, Magenta, Orange, Blue, Green, Red.
+[Forget Perspective #0] Time you got the stage on: 30
+[Forget Perspective #0] Applied starting rule 1 and net rule 4.
+[Forget Perspective #0] Order made: Y G M B O R
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: X F L A N Q
+[Forget Perspective #0] Added value: A
+[Forget Enigma #1] A module was solved, moving on to stage 22 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[PaceMaker] PlayerSuccessRating: 0.7012421 (Factors: solved: 0.362069, strikes: 0.24, time: 0.0991732)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 53.77538 seconds.
+
+[TwitchPlays] [M] ConManAU (, 62157170): !q !24 press alpha2
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] ConManAU (): !24 press alpha2
+[The Modkit #1] Pressed alphanumeric key 2. Module solved.
+[ModBombComponent #115] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"modkit","bombTime":1768.85254,"realTime":1575.5708,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.71758 (Factors: solved: 0.3793103, strikes: 0.24, time: 0.09826959)
+
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+Awake
+[Forget Perspective #0] ------Stage 23 ------
+[Forget Perspective #0] The faces for Stage 23 are: Orange, Yellow, Blue, Magenta, Green, Red.
+[Forget Perspective #0] Time you got the stage on: 29
+[Forget Perspective #0] Applied starting rule 2 and net rule 4.
+[Forget Perspective #0] Order made: Y G R O B M
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: X F Q N A L
+[Forget Perspective #0] Added value: N
+[Forget Enigma #1] A module was solved, moving on to stage 23 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] ConManAU (, 62157170): @r4y697 You still around?
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): the modkit is back PogChamp
+[PaceMaker] PlayerSuccessRating: 0.7147492 (Factors: solved: 0.3793103, strikes: 0.24, time: 0.09543889)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 39.61666 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 help
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !18 help
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !18 RNRBW
+[Snooker #1] You potted a red ball. Current break: 1.
+[Snooker #1] You potted a brown ball. Current break: 5.
+[Snooker #1] You potted a red ball. Current break: 6.
+[Snooker #1] You potted a blue ball. Current break: 11.
+[Snooker #1] YOUR BREAK WAS 11. That is correct.
+:r4y697!r4y697@r4y697.tmi.twitch.tv JOIN #heres_fangy
+:xarata98!xarata98@xarata98.tmi.twitch.tv JOIN #heres_fangy
+:marksam32!marksam32@marksam32.tmi.twitch.tv JOIN #heres_fangy
+:starbucks___employee!starbucks___employee@starbucks___employee.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !18 RNRNRBW
+[Snooker #1] You potted a red ball. Current break: 1.
+---PING--- ---PONG--- :tmi.twitch.tv
+[Snooker #1] You potted a brown ball. Current break: 5.
+[Snooker #1] You potted a red ball. Current break: 6.
+[TwitchPlays] [M] ConManAU (, 62157170): !29 take
+[Snooker #1] You potted a brown ball. Current break: 10.
+[Snooker #1] You potted a red ball. Current break: 11.
+[Snooker #1] You potted a blue ball. Current break: 16.
+[Snooker #1] YOUR BREAK WAS 16. That is correct.
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !18 RNRNRBYW
+[Snooker #1] You potted a red ball. Current break: 1.
+[Snooker #1] You potted a brown ball. Current break: 5.
+[Snooker #1] You potted a red ball. Current break: 6.
+[Snooker #1] You potted a brown ball. Current break: 10.
+[PaceMaker] PlayerSuccessRating: 0.7119981 (Factors: solved: 0.3793103, strikes: 0.24, time: 0.09268779)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 36.82582 seconds.
+
+[Snooker #1] You potted a red ball. Current break: 11.
+[Snooker #1] You potted a blue ball. Current break: 16.
+[TwitchPlays] [M] ConManAU (, 62157170): !29 help
+[Snooker #1] You potted a yellow ball. Current break: 18.
+[Snooker #1] YOUR BREAK WAS 18. That is correct.
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !18 GNBIK
+[Snooker #1] You potted a green ball. Current break: 3.
+[Snooker #1] You potted a brown ball. Current break: 7.
+[Snooker #1] You potted a blue ball. Current break: 12.
+[Snooker #1] You potted a pink ball. Current break: 18.
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !q !18 W
+[Snooker #1] You potted a black ball. Current break: 25.
+[PaceMaker] PlayerSuccessRating: 0.7094415 (Factors: solved: 0.3793103, strikes: 0.24, time: 0.09013122)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 55.256 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 start
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 G
+[TwitchPlays] [M] ConManAU (, 62157170): !29 press e1 d5 d4 c5 c1 b4 c3 e2
+[TwitchPlays] [M] ConManAU (, 62157170): !q !29 press a5
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 B
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 6 1 2 4
+[Button Grids #1] You pressed the green button.
+[Button Grids #1] You pressed the blue button.
+[Button Grids #1] You pressed the yellow button.
+[Button Grids #1] You pressed the red button.
+[Bomb] Strike from Mod! 2 / 6 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"buttonGrid","bombTime":1573.24561,"realTime":1732.11719,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6467129 (Factors: solved: 0.3793103, strikes: 0.18, time: 0.08740254)
+
+[Button Grids #1] Your submission for Stage 1 was wrong. STRIKE!
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): ouch
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): bruh
+[PaceMaker] PlayerSuccessRating: 0.6453841 (Factors: solved: 0.3793103, strikes: 0.18, time: 0.08607375)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 44.86231 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Oh
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 6 2 1 4
+[Button Grids #1] You pressed the green button.
+[Button Grids #1] You pressed the yellow button.
+[Button Grids #1] You pressed the blue button.
+[Button Grids #1] You pressed the red button.
+[Button Grids #1] Your submission for Stage 1 was correct. Moving on...
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] mythers45 (#1E90FF): !18 W
+[Snooker #1] YOUR BREAK WAS 25. That is correct. Module disarmed.
+[ModBombComponent #104] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"snooker","bombTime":1520.11841,"realTime":1767.5415,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6610028 (Factors: solved: 0.3965517, strikes: 0.18, time: 0.08445102)
+
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+Awake
+[Forget Perspective #0] ------Stage 24 ------
+[Forget Perspective #0] The faces for Stage 24 are: Blue, Green, Magenta, Red, Orange, Yellow.
+[Forget Perspective #0] Time you got the stage on: 25
+[Forget Perspective #0] Applied starting rule 3 and net rule 5.
+[Forget Perspective #0] Order made: M B G O R Y
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: L A F N Q X
+[Forget Perspective #0] Added value: N
+[Forget Enigma #1] A module was solved, moving on to stage 24 out of 28
+:hhvanillaice!hhvanillaice@hhvanillaice.tmi.twitch.tv JOIN #heres_fangy
+:r4y697!r4y697@r4y697.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] ConManAU (, 62157170): !12 take
+[TwitchPlays] [M] ConManAU (, 62157170): !12 help
+[PaceMaker] PlayerSuccessRating: 0.6588855 (Factors: solved: 0.3965517, strikes: 0.18, time: 0.0823338)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 27.80052 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 3 7 9 11
+[Button Grids #1] You pressed the blue button.
+[Button Grids #1] You pressed the red button.
+[Button Grids #1] You pressed the yellow button.
+[Button Grids #1] You pressed the green button.
+[Button Grids #1] Your submission for Stage 2 was correct. Moving on...
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 10 5 12 20
+[Button Grids #1] You pressed the yellow button.
+[Button Grids #1] You pressed the blue button.
+[Button Grids #1] You pressed the red button.
+[Button Grids #1] You pressed the green button.
+[Button Grids #1] Your submission for Stage 3 was correct. Moving on...
+[PaceMaker] PlayerSuccessRating: 0.6565677 (Factors: solved: 0.3965517, strikes: 0.18, time: 0.08001595)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 35.3118 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] ConManAU (): !29 press a5
+[ModBombComponent #125] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"megaMan2","bombTime":1434.18408,"realTime":1824.84131,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.67347 (Factors: solved: 0.4137931, strikes: 0.18, time: 0.0796769)
+
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+Awake
+[Forget Perspective #0] ------Stage 25 ------
+[Forget Perspective #0] The faces for Stage 25 are: Orange, Green, Magenta, Yellow, Blue, Red.
+[Forget Perspective #0] Time you got the stage on: 23
+[Forget Perspective #0] Applied starting rule 2 and net rule 3.
+[Forget Perspective #0] Order made: G Y B M O R
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: F X A L N Q
+[Forget Perspective #0] Added value: L
+[Forget Enigma #1] A module was solved, moving on to stage 25 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] Disabling camera wall
+[TwitchPlays] Camera wall disabled
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !claim 11
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 14 17 8 27
+[Button Grids #1] You pressed the yellow button.
+[Button Grids #1] You pressed the red button.
+[Button Grids #1] You pressed the blue button.
+[Button Grids #1] You pressed the green button.
+[Button Grids #1] Your submission for Stage 4 was correct. Moving on...
+[PaceMaker] PlayerSuccessRating: 0.670865 (Factors: solved: 0.4137931, strikes: 0.18, time: 0.07707185)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 51.30036 seconds.
+
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 123
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): ha polish letters in only connect Kappa
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 13 15 19 28
+[Button Grids #1] You pressed the blue button.
+[Button Grids #1] You pressed the yellow button.
+[Button Grids #1] You pressed the red button.
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 213
+[Button Grids #1] You pressed the green button.
+[Button Grids #1] Your submission for Stage 5 was correct. Moving on...
+:hhvanillaice!hhvanillaice@hhvanillaice.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 2134
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.6665906 (Factors: solved: 0.4137931, strikes: 0.18, time: 0.07279743)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 29.7614 seconds.
+
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 42135
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 drrrR
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 16 21 32 18
+[Button Grids #1] You pressed the blue button.
+[Button Grids #1] You pressed the red button.
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 421356
+[Button Grids #1] You pressed the green button.
+[Button Grids #1] You pressed the yellow button.
+[Button Grids #1] Your submission for Stage 6 was correct. Moving on...
+[PaceMaker] PlayerSuccessRating: 0.6641105 (Factors: solved: 0.4137931, strikes: 0.18, time: 0.07031738)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 30.09635 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 GuBll
+[Faulty RGB Maze #0]B key collected
+[TwitchPlays] [M] ConManAU (, 62157170): !q !12 press NUA RED LET
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] ConManAU (): !12 press NUA RED LET
+[Unrelated Anagrams #1] Initial time: 3600. Initial sequence: ELDER AUNT
+[Unrelated Anagrams #1] AA Battery count: 2. Right shifting sequence 2 times.
+[Unrelated Anagrams #1] D Battery count: 1. Left shifting sequence 1 times.
+[Unrelated Anagrams #1] Port count is odd (1). Reversing sequence.
+[Unrelated Anagrams #1] Sequence: NUAREDLET
+[Unrelated Anagrams #1] Correct button pressed. Input received: button N at index 5.
+[Unrelated Anagrams #1] Correct button pressed. Input received: button U at index 4.
+[Unrelated Anagrams #1] Correct button pressed. Input received: button A at index 1.
+[Unrelated Anagrams #1] Correct button pressed. Input received: button R at index 6.
+[Unrelated Anagrams #1] Correct button pressed. Input received: button E at index 0.
+[Unrelated Anagrams #1] Correct button pressed. Input received: button D at index 7.
+[Unrelated Anagrams #1] Correct button pressed. Input received: button L at index 3.
+[Unrelated Anagrams #1] Correct button pressed. Input received: button E at index 2.
+[Unrelated Anagrams #1] Correct button pressed. Input received: button T at index 8.
+[ModBombComponent #92] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"unrelatedAnagrams","bombTime":1252.48083,"realTime":1945.99121,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6806167 (Factors: solved: 0.4310345, strikes: 0.18, time: 0.06958228)
+
+[Unrelated Anagrams #1] Module solved!
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+[Forget Enigma #1] A module was solved, moving on to stage 26 out of 28
+Awake
+[Forget Perspective #0] ------Stage 26 ------
+[Forget Perspective #0] The faces for Stage 26 are: Magenta, Yellow, Blue, Red, Green, Orange.
+[Forget Perspective #0] Time you got the stage on: 20
+[Forget Perspective #0] Applied starting rule 5 and net rule 3.
+[Forget Perspective #0] Order made: G B R Y M O
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: F A Q X L N
+[Forget Perspective #0] Added value: X
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 6421356
+:jjroccss!jjroccss@jjroccss.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 22 34 23 24
+[Button Grids #1] You pressed the blue button.
+[Button Grids #1] You pressed the green button.
+[Button Grids #1] You pressed the yellow button.
+[Button Grids #1] You pressed the red button.
+[Button Grids #1] Your submission for Stage 7 was correct. Moving on...
+[PaceMaker] PlayerSuccessRating: 0.6788422 (Factors: solved: 0.4310345, strikes: 0.18, time: 0.0678077)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 31.65466 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 31 36 30 25
+[Button Grids #1] You pressed the red button.
+[Button Grids #1] You pressed the green button.
+[Button Grids #1] You pressed the blue button.
+[Button Grids #1] You pressed the yellow button.
+[Button Grids #1] Your submission for Stage 8 was correct. Moving on...
+[PaceMaker] PlayerSuccessRating: 0.6762037 (Factors: solved: 0.4310345, strikes: 0.18, time: 0.06516917)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 50.0921 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 35 33 26 38
+[Button Grids #1] You pressed the blue button.
+[Button Grids #1] You pressed the red button.
+[Button Grids #1] You pressed the yellow button.
+[Button Grids #1] You pressed the green button.
+[Button Grids #1] Your submission for Stage 9 was correct. Moving on...
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !q !10 40 39 37 29
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 rrGluruBuRl
+[Faulty RGB Maze #0]R key collected
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !call
+[TwitchPlays] [M] mythers45 (#1E90FF): !10 40 39 37 29
+[Button Grids #1] You pressed the green button.
+[Button Grids #1] You pressed the blue button.
+[Button Grids #1] You pressed the red button.
+[Button Grids #1] You pressed the yellow button.
+[ModBombComponent #88] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"buttonGrid","bombTime":1111.2605,"realTime":2040.15332,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6900126 (Factors: solved: 0.4482759, strikes: 0.18, time: 0.0617367)
+
+[Button Grids #1] Your submission for Stage 10 was correct. Solving module...
+Awake
+[Forget Perspective #0] ------Stage 27 ------
+[Forget Perspective #0] The faces for Stage 27 are: Green, Red, Magenta, Yellow, Blue, Orange.
+[Forget Perspective #0] Time you got the stage on: 18
+[Forget Perspective #0] Applied starting rule 1 and net rule 3.
+[Forget Perspective #0] Order made: G O B M Y R
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: F N A L X Q
+[Forget Perspective #0] Added value: L
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+[Forget Enigma #1] A module was solved, moving on to stage 27 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[PaceMaker] PlayerSuccessRating: 0.6892697 (Factors: solved: 0.4482759, strikes: 0.18, time: 0.06099376)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 21.74697 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.6874566 (Factors: solved: 0.4482759, strikes: 0.18, time: 0.05918076)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 30.78352 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 rGuu
+[Faulty RGB Maze #0]G key collected
+[Faulty RGB Maze #0]All keys collected: the exit lies at F1 in the B maze
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 help
+[PaceMaker] PlayerSuccessRating: 0.6848912 (Factors: solved: 0.4482759, strikes: 0.18, time: 0.05661536)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 57.02023 seconds.
+
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 0
+[Recorded Keys #1] Stage 1: The buttons had the colours: Black, Black, Black, Black, Black, Black
+[Recorded Keys #1] Stage 1: The labels had the colours: Black, Black, Black, White, White, White
+[Recorded Keys #1] Stage 1: The buttons were labelled: 4, 4, 4, 4, 7, 0
+[Recorded Keys #1] The value for stage 1 was: 2 + 1 + 6 + 6 + 3 + 5 + 11 = 34
+[Recorded Keys #1] 34 in binary is 100010
+[Recorded Keys #1] Stage 1: The keys that should be pressed are: 2, 3, 4, 6
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): all black
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 BddddRdBlr
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): how did i tihnk that was f1
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): bru
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): bruh
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): willeh bad
+[PaceMaker] PlayerSuccessRating: 0.6801392 (Factors: solved: 0.4482759, strikes: 0.18, time: 0.05186331)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 30.5204 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.677597 (Factors: solved: 0.4482759, strikes: 0.18, time: 0.04932115)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 30.39848 seconds.
+
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 234560
+011111
+23456
+[Bomb] Strike from Mod! 3 / 6 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"recordedKeys","bombTime":857.1316,"realTime":2209.57324,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6158943 (Factors: solved: 0.4482759, strikes: 0.12, time: 0.04761842)
+
+[Recorded Keys #1] After 1 reset(s), the buttons had the colours: Blue, Yellow, Red, Blue, Red, Cyan
+[Recorded Keys #1] After 1 reset(s), the labels had the colours: Red, Cyan, Blue, Yellow, Magenta, Blue
+[Recorded Keys #1] After 1 reset(s), the buttons were labelled: 5, 3, 6, 4, 5, 2
+[Recorded Keys #1] After 1 reset(s), the keys play the sounds: 2, 6, 5, 1, 4, 3
+[Recorded Keys #1] After 1 reset(s), the initial value was: 1 + 2 + 0 + 4 + 5 + 0 = 12
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Oof
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 lluGuBlluRurdG
+[PaceMaker] PlayerSuccessRating: 0.614923 (Factors: solved: 0.4482759, strikes: 0.12, time: 0.04664714)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 33.62597 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): idk if this work
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): it does
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 123
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): nice
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): recorded keys succ
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !16 Buurr
+[ModBombComponent #100] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"faultyrgbMaze","bombTime":812.43396,"realTime":2235.11475,"loggingID":0}
+[PaceMaker] PlayerSuccessRating: 0.6306525 (Factors: solved: 0.4655173, strikes: 0.12, time: 0.04513522)
+
+[The Jack-O'-Lantern #1] A module has been solved. The answer is being recalculated.
+[The Jack-O'-Lantern #1] Eye pattern: 5. Mouth pattern: 7.
+[The Jack-O'-Lantern #1] Nose not present.
+[The Jack-O'-Lantern #1] Press treat.
+Awake
+[Forget Perspective #0] ------Stage 28 ------
+[Forget Perspective #0] The faces for Stage 28 are: Red, Yellow, Orange, Blue, Magenta, Green.
+[Forget Perspective #0] Time you got the stage on: 13
+[Forget Perspective #0] Applied starting rule 2 and net rule 4.
+[Forget Perspective #0] Order made: Y M G R O B
+[Forget Perspective #0] Character Shift rule = 3, X = 20, Y = 0
+[Forget Perspective #0] Shifted order: X L F Q N A
+[Forget Perspective #0] Added value: L
+[Forget Enigma #1] A module was solved, moving on to stage 28 out of 28
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotae
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): kek
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !5 rotate
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 132
+[PaceMaker] PlayerSuccessRating: 0.628895 (Factors: solved: 0.4655173, strikes: 0.12, time: 0.04337775)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 25.69075 seconds.
+
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 1432
+:shadowmeowmeow!shadowmeowmeow@shadowmeowmeow.tmi.twitch.tv JOIN #heres_fangy
+:murphy0749!murphy0749@murphy0749.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 41325
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): can you use the rgb maze interactive for faulty or are they too different?
+[PaceMaker] PlayerSuccessRating: 0.6263971 (Factors: solved: 0.4655173, strikes: 0.12, time: 0.0408799)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 48.53419 seconds.
+
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 45132
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): FRGB has its own interactive
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): too different
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): wut
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): and that too
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): i just realised
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !q FP !5 submit LXQQNLQNAQAQLAXLNAAANANNLXLL
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 41532
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): oh, it has?
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): i dont even have all 6 solution letters lmao
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): lcallall
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): And you can't use RGB interactive, since it's 8*8 vs 7*7
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): LUL
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 456132
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): oh yeah
+[PaceMaker] PlayerSuccessRating: 0.621677 (Factors: solved: 0.4655173, strikes: 0.12, time: 0.0361597)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 58.98745 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !q FN !28 submit LYFIDKDOGS LDTSGCQCUW BXPEGEQK
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): im shadowing recorded
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 help
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): BlessRNG
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 465132
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): I don't think fn likes spaces
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): yeah
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): 416532
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): whatever thatll come later
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 416532
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): sounds good Kappa
+[PaceMaker] PlayerSuccessRating: 0.6159437 (Factors: solved: 0.4655173, strikes: 0.12, time: 0.03042642)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 57.57956 seconds.
+
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): u have technically 5 minutes to speedrun recorded
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): i got my A
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): !11 help
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): @jjroccss are you fast enough to do this in 5 minutes
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.6103409 (Factors: solved: 0.4655173, strikes: 0.12, time: 0.02482365)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 46.03571 seconds.
+
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): i think so after tjhis is easy
+:taichi22141020!taichi22141020@taichi22141020.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): whats your A
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): BlessRNG
+[PaceMaker] PlayerSuccessRating: 0.6058649 (Factors: solved: 0.4655173, strikes: 0.12, time: 0.02034763)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 48.22446 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): we dont have much time left
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 0
+[Recorded Keys #1] Stage 1: The buttons had the colours: Black, White, Black, White, White, White
+[Recorded Keys #1] Stage 1: The labels had the colours: White, White, White, White, Black, Black
+[Recorded Keys #1] Stage 1: The buttons were labelled: 6, 7, 9, 1, 4, 8
+[Recorded Keys #1] The value for stage 1 was: 6 + 3 + 1 + 4 + 3 + 3 + 12 = 32
+[Recorded Keys #1] 32 in binary is 100000
+[Recorded Keys #1] Stage 1: The keys that should be pressed are: 3
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): A 12
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): 12
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): nice
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): aight
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): BlessRNG
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): b 20
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): how many stages does it have?
+[PaceMaker] PlayerSuccessRating: 0.6011744 (Factors: solved: 0.4655173, strikes: 0.12, time: 0.01565718)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 59.87947 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): 2
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): got the first stage
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): 2
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): imagine being able to read this stupid table that fast
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): BlessRNG
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): i got 30 as a answer
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): 30
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): aight good
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): i meant it as
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): key presses
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): not 30
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): BlessRNG
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): just go lmao
+[PaceMaker] PlayerSuccessRating: 0.5953513 (Factors: solved: 0.4655173, strikes: 0.12, time: 0.009834047)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 30.12748 seconds.
+
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): if FP strikes its dead
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !11 press 12450
+110110
+1245
+[Bomb] Strike from Mod! 4 / 6 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"recordedKeys","bombTime":165.256119,"realTime":2604.93457,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5346981 (Factors: solved: 0.4655173, strikes: 0.06, time: 0.009180895)
+
+[Recorded Keys #1] After 2 reset(s), the buttons had the colours: Cyan, Cyan, Red, Blue, Magenta, Red
+[Recorded Keys #1] After 2 reset(s), the labels had the colours: Blue, Magenta, Magenta, Yellow, Cyan, Red
+[Recorded Keys #1] After 2 reset(s), the buttons were labelled: 5, 5, 2, 6, 2, 3
+[Recorded Keys #1] After 2 reset(s), the keys play the sounds: 1, 2, 4, 3, 5, 6
+[Recorded Keys #1] After 2 reset(s), the initial value was: 0 + 0 + 0 + 3 + 0 + 0 = 3
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): oof
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): NotLikeThis
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): BRUH
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): i ltieralyl
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): it was 30
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): ok
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 take
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): go now
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): NotLikeThis
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): lel
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): unc
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 123456
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !unclaimall
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): willeh speedrun
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): y
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 123456
+[PaceMaker] PlayerSuccessRating: 0.5320966 (Factors: solved: 0.4655173, strikes: 0.06, time: 0.006579376)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 33.76858 seconds.
+
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): read chat_no
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): This is so dead
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): LAGG NOT NOW
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 124356
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): 124356
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): yeah not possible in one min
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): im gabling A `13
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): unless he's super lucky
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 0
+[Recorded Keys #1] Stage 1: The buttons had the colours: White, White, White, White, White, Black
+[Recorded Keys #1] Stage 1: The labels had the colours: Black, White, Black, Black, White, White
+[Recorded Keys #1] Stage 1: The buttons were labelled: 5, 4, 2, 9, 2, 2
+[Recorded Keys #1] The value for stage 1 was: 5 + 4 + 2 + 6 + 3 + 6 + 3 = 29
+[Recorded Keys #1] 29 in binary is 011101
+[Recorded Keys #1] Stage 1: The keys that should be pressed are: 2, 3, 4
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): yeet
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): but willeh tho
+[PaceMaker] PlayerSuccessRating: 0.5283428 (Factors: solved: 0.4655173, strikes: 0.06, time: 0.002825601)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 33.78025 seconds.
+
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): damn try hard
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): Kappa
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): BlessRNG
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): !11 1450
+100110
+145
+[Bomb] Strike from Mod! 5 / 6 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"recordedKeys","bombTime":12.1664038,"realTime":2681.48,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.4661932 (Factors: solved: 0.4655173, strikes: 0, time: 0.0006759113)
+
+[Recorded Keys #1] After 3 reset(s), the buttons had the colours: Red, Blue, Yellow, Red, Cyan, Magenta
+[Recorded Keys #1] After 3 reset(s), the labels had the colours: Magenta, Yellow, Cyan, Green, Magenta, Yellow
+[Recorded Keys #1] After 3 reset(s), the buttons were labelled: 4, 4, 2, 5, 5, 6
+[Recorded Keys #1] After 3 reset(s), the keys play the sounds: 5, 4, 6, 2, 1, 3
+[Recorded Keys #1] After 3 reset(s), the initial value was: 4 + 3 + 3 + 4 + 4 + 5 = 23
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): LUL
+[TwitchPlays] [M] ShadowMeowMeow (#00FF7F, 137107502): lmao
+[TwitchPlays] [M] TheLegendWilleh (#0000FF, 427912869): it wasnt 13 Fuck!
+[TwitchPlays] [M] marksam32 (#00FFF1, 104917431): oof
+[TwitchPlays] [M] xarata98 (#0000FF, 477743170): yeah rip
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"BD0NT0","bombTime":-0.003275536,"realTime":2687.56445,"solves":27,"strikes":6}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

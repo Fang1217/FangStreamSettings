@@ -1,0 +1,1292 @@
+Initialize engine version: Twitch Plays
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[Profile Revealer] Waiting for bombs...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 807472890
+
+[BombGenerator] Generator settings: Time: 1920, NumStrikes: 3, FrontFaceOnly: False
+2 Pools:
+[ALL_SOLVABLE] Count: 6
+[3dTunnels, bamboozlingButton, blackCipher, colorfulDials, dungeon2, dungeon, elderFuthark, factoryMaze, faultyrgbMaze, GameOfLifeCruel, graphicMemory, heraldry, hexOS, indigoCipher, jumbleCycle, KudosudokuModule, langtonAnt, LEGOModule, LifeIteration, lgndLombaxCubes, malfunctions, KritMicroModules, MinesweeperModule, misorderedKeys, neutrinos, orangeCipher, pwDestroyer, PatternCubeModule, RailwayCargoLoading, ksmRainbowArrows, robotProgramming, scalarDials, MazeShifting, SimonSendsModule, SimonSingsModule, simonStores, the_cRule, cube, TheHypercubeModule, TheUltracubeModule, turtleRobot, ultimateCipher, unfairCipher, Wavetapping, WonderCipher, yellowCipher] Count: 5
+
+
+[BombGenerator] Selected Memory (MemoryComponent (MemoryComponent))
+
+[BombGenerator] Selected coopharmonySequence (2071946726 (ModBombComponent))
+
+[BombGenerator] Selected lgndLEDMath (1627668059 (ModBombComponent))
+
+[BombGenerator] Selected calendar (1411568554 (ModBombComponent))
+
+[BombGenerator] Selected morseButtons (2031876189 (ModBombComponent))
+
+[BombGenerator] Selected langtonAnt (1811976936 (ModBombComponent))
+
+[BombGenerator] Selected pwDestroyer (2104677606 (ModBombComponent))
+
+[BombGenerator] Selected MazeShifting (2021067737 (ModBombComponent))
+
+[BombGenerator] Selected blackCipher (1940168029 (ModBombComponent))
+
+[BombGenerator] Selected dungeon2 (2016283264 (ModBombComponent))
+
+[BombGenerator] Selected unfairCipher (1632675253 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [MemoryComponent (MemoryComponent), 2071946726 (ModBombComponent), 1627668059 (ModBombComponent), 1411568554 (ModBombComponent), 2031876189 (ModBombComponent), 1811976936 (ModBombComponent), 2104677606 (ModBombComponent), 2021067737 (ModBombComponent), 1940168029 (ModBombComponent), 2016283264 (ModBombComponent), 1632675253 (ModBombComponent)]
+
+[BombGenerator] Instantiated MemoryComponent on face BackFace, spawn index 3
+
+[Mod-coopharmonySequence] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2071946726" has ID:"coopharmonySequence"
+
+[Mod-coopharmonySequence] Loading assemblies...
+
+[Mod-coopharmonySequence] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2071946726\Newtonsoft.Json.dll"...
+
+[Mod-coopharmonySequence] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2071946726\coopharmonySequence.dll"
+
+[Mod-coopharmonySequence] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2071946726" complete.
+
+[Mod-coopharmonySequence] Loading GameObjects...
+
+[Mod-coopharmonySequence] Replacing shaders...
+
+[Mod-coopharmonySequence] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-coopharmonySequence] Loading KMMissions...
+
+[Mod-coopharmonySequence] Loading KMMissionTableOfContents...
+
+[Mod-coopharmonySequence] Loading AudioClips...
+
+[BombGenerator] Instantiated 2071946726 on face BackFace, spawn index 4
+
+[Mod-lgndLEDMath] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1627668059" has ID:"lgndLEDMath"
+
+[Mod-lgndLEDMath] Loading assemblies...
+
+[Mod-lgndLEDMath] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1627668059\Newtonsoft.Json.dll"...
+
+[Mod-lgndLEDMath] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1627668059\lgndLEDMath.dll"
+
+[Mod-lgndLEDMath] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1627668059" complete.
+
+[Mod-lgndLEDMath] Loading GameObjects...
+
+[Mod-lgndLEDMath] Replacing shaders...
+
+[Mod-lgndLEDMath] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-lgndLEDMath] Loading KMMissions...
+
+[Mod-lgndLEDMath] Loading KMMissionTableOfContents...
+
+[Mod-lgndLEDMath] Loading AudioClips...
+
+[BombGenerator] Instantiated 1627668059 on face FrontFace, spawn index 0
+
+[Mod-calendar] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1411568554" has ID:"calendar"
+
+[Mod-calendar] Loading assemblies...
+
+[Mod-calendar] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1411568554\Newtonsoft.Json.dll"...
+
+[Mod-calendar] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1411568554\calendar.dll"
+
+[Mod-calendar] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1411568554" complete.
+
+[Mod-calendar] Loading GameObjects...
+
+[Mod-calendar] Replacing shaders...
+
+[Mod-calendar] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-calendar] Loading KMMissions...
+
+[Mod-calendar] Loading KMMissionTableOfContents...
+
+[Mod-calendar] Loading AudioClips...
+
+[BombGenerator] Instantiated 1411568554 on face BackFace, spawn index 5
+
+[Mod-morseButtons] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2031876189" has ID:"morseButtons"
+
+[Mod-morseButtons] Loading assemblies...
+
+[Mod-morseButtons] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2031876189\Newtonsoft.Json.dll"...
+
+[Mod-morseButtons] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2031876189\morseButtons.dll"
+
+[Mod-morseButtons] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2031876189" complete.
+
+[Mod-morseButtons] Loading GameObjects...
+
+[Mod-morseButtons] Replacing shaders...
+
+[Mod-morseButtons] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-morseButtons] Loading KMMissions...
+
+[Mod-morseButtons] Loading KMMissionTableOfContents...
+
+[Mod-morseButtons] Loading AudioClips...
+
+[BombGenerator] Instantiated 2031876189 on face FrontFace, spawn index 5
+
+[Mod-langtonAnt] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1811976936" has ID:"langtonAnt"
+
+[Mod-langtonAnt] Loading assemblies...
+
+[Mod-langtonAnt] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1811976936\Newtonsoft.Json.dll"...
+
+[Mod-langtonAnt] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1811976936\langtonAnt.dll"
+
+[Mod-langtonAnt] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1811976936" complete.
+
+[Mod-langtonAnt] Loading GameObjects...
+
+[Mod-langtonAnt] Replacing shaders...
+
+[Mod-langtonAnt] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+
+[Mod-langtonAnt] Loading KMMissions...
+
+[Mod-langtonAnt] Loading KMMissionTableOfContents...
+
+[Mod-langtonAnt] Loading AudioClips...
+
+[BombGenerator] Instantiated 1811976936 on face FrontFace, spawn index 3
+
+[Mod-pwDestroyer] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2104677606" has ID:"pwDestroyer"
+
+[Mod-pwDestroyer] Loading assemblies...
+
+[Mod-pwDestroyer] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2104677606\Newtonsoft.Json.dll"...
+
+[Mod-pwDestroyer] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2104677606\pwDestroyer.dll"
+
+[Mod-pwDestroyer] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2104677606" complete.
+
+[Mod-pwDestroyer] Loading GameObjects...
+
+[Mod-pwDestroyer] Replacing shaders...
+
+[Mod-pwDestroyer] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-pwDestroyer] Loading KMMissions...
+
+[Mod-pwDestroyer] Loading KMMissionTableOfContents...
+
+[Mod-pwDestroyer] Loading AudioClips...
+
+[BombGenerator] Instantiated 2104677606 on face FrontFace, spawn index 4
+
+[Mod-MazeShifting] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2021067737" has ID:"MazeShifting"
+
+[Mod-MazeShifting] Loading assemblies...
+
+[Mod-MazeShifting] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2021067737\Newtonsoft.Json.dll"...
+
+[Mod-MazeShifting] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2021067737\MazeShifting.dll"
+
+[Mod-MazeShifting] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2021067737" complete.
+
+[Mod-MazeShifting] Loading GameObjects...
+
+[Mod-MazeShifting] Replacing shaders...
+
+[Mod-MazeShifting] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-MazeShifting] Loading KMMissions...
+
+[Mod-MazeShifting] Loading KMMissionTableOfContents...
+
+[Mod-MazeShifting] Loading AudioClips...
+
+[BombGenerator] Instantiated 2021067737 on face BackFace, spawn index 0
+
+[Mod-blackCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029" has ID:"blackCipher"
+
+[Mod-blackCipher] Loading assemblies...
+
+[Mod-blackCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029\Newtonsoft.Json.dll"...
+
+[Mod-blackCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029\blackCipher.dll"
+
+[Mod-blackCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1940168029" complete.
+
+[Mod-blackCipher] Loading GameObjects...
+
+[Mod-blackCipher] Replacing shaders...
+
+[Mod-blackCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-blackCipher] Loading KMMissions...
+
+[Mod-blackCipher] Loading KMMissionTableOfContents...
+
+[Mod-blackCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1940168029 on face FrontFace, spawn index 1
+
+[BombGenerator] Instantiated 2016283264 on face BackFace, spawn index 2
+
+[Mod-unfairCipher] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632675253" has ID:"unfairCipher"
+
+[Mod-unfairCipher] Loading assemblies...
+
+[Mod-unfairCipher] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632675253\Newtonsoft.Json.dll"...
+
+[Mod-unfairCipher] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632675253\unfairCipher.dll"
+
+[Mod-unfairCipher] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632675253" complete.
+
+[Mod-unfairCipher] Loading GameObjects...
+
+[Mod-unfairCipher] Replacing shaders...
+
+[Mod-unfairCipher] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-unfairCipher] Loading KMMissions...
+
+[Mod-unfairCipher] Loading KMMissionTableOfContents...
+
+[Mod-unfairCipher] Loading AudioClips...
+
+[BombGenerator] Instantiated 1632675253 on face FrontFace, spawn index 2
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: QL1JX7
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 0
+
+[WidgetGenerator] Added widget: ModWidget at 0, 0
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: PS2
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: Serial
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit MSA (IndicatorWidget/LABEL8)
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit BOB (IndicatorWidget/LABEL10)
+
+[Co-op Harmony Sequence #1] ----------MODULE SETUP----------
+[Co-op Harmony Sequence #1] ----------Stage 1----------
+[Co-op Harmony Sequence #1] Identify instrument/Input instrument: Music Box/Piano
+[Co-op Harmony Sequence #1] Button order from lowest note to highest note: 4, 2, 3, 1
+[Co-op Harmony Sequence #1] New button order: 3, 1, 4, 2
+[Co-op Harmony Sequence #1] ----------Stage 2----------
+[Co-op Harmony Sequence #1] Identify instrument/Input instrument: Music Box/Harp
+[Co-op Harmony Sequence #1] Button order from lowest note to highest note: 2, 1, 4, 3
+[Co-op Harmony Sequence #1] New button order: 3, 4, 1, 2
+[Co-op Harmony Sequence #1] ----------Stage 3----------
+[Co-op Harmony Sequence #1] Identify instrument/Input instrument: Piano/Music Box
+[Co-op Harmony Sequence #1] Button order from lowest note to highest note: 4, 2, 1, 3
+[Co-op Harmony Sequence #1] New button order: 4, 2, 1, 3
+[Co-op Harmony Sequence #1] ----------Stage 4----------
+[Co-op Harmony Sequence #1] Identify instrument/Input instrument: Harp/Music Box
+[Co-op Harmony Sequence #1] Button order from lowest note to highest note: 3, 1, 4, 2
+[Co-op Harmony Sequence #1] New button order: 3, 4, 1, 2
+[Co-op Harmony Sequence #1] ----------DEFUSER INPUT----------
+[LED Math #1] Value of LED 'A' is 8.
+[LED Math #1] Value of LED 'B' is 9.
+[LED Math #1] The operator is +.
+[LED Math #1] The correct answer is 17 (8 + 9).
+[Morse Buttons #1] Top Left button is flashing: Blue 6
+[Morse Buttons #1] Top Middle button is flashing: Blue U
+[Morse Buttons #1] Top Right button is flashing: Orange 4
+[Morse Buttons #1] Bottom Left button is flashing: Red 9
+[Morse Buttons #1] Bottom Middle button is flashing: Green L
+[Morse Buttons #1] Bottom Right button is flashing: Red Z
+[Morse Buttons #1] Top Left button rule required: 23
+[Morse Buttons #1] Top Middle button rule required: 3
+[Morse Buttons #1] Top Right button rule required: 5
+[Morse Buttons #1] Bottom Left button rule required: 19
+[Morse Buttons #1] Bottom Middle button rule required: 6
+[Morse Buttons #1] Bottom Right button rule required: 3
+[Morse Buttons #1] The buttons to be pressed are [ Top Right ]
+[Shifting Maze #1] SEED: ukufM9R2
+[Shifting Maze #1] Your starting coordinance is: 4, 5
+[Shifting Maze #1] Your destination is: 1, 2
+[Shifting Maze #1] Current wall on your cell: East/South/West
+[Black Cipher #1] Generated Word: RAFTED
+[Black Cipher #1] Begin Enigma Encryption
+[Black Cipher #1] R->T->G->U->Y->K->G->D->I->Y
+[Black Cipher #1] A->A->T->A->E->P->L->W->P->O
+[Black Cipher #1] F->O->M->E->I->J->F->I->S->D
+[Black Cipher #1] T->Y->F->O->S->C->Y->J->I->V
+[Black Cipher #1] E->B->H->U->Y->K->G->E->Q->W
+[Black Cipher #1] D->B->Q->Z->D->N->J->C->H->G
+[Black Cipher #1] Begin Railfence Transposition
+[Black Cipher #1] Railfence Row #1: Y
+[Black Cipher #1] Railfence Row #2: OG
+[Black Cipher #1] Railfence Row #3: DW
+[Black Cipher #1] Railfence Row #4: V
+[Black Cipher #1] Begin Digrafid Encryption
+[Black Cipher #1] Key A: INVETORABCDFGHJKLMPQSUWXYZ
+[Black Cipher #1] Key B: GOBLETACDFHIJKMNPQRSUVWXYZ
+[Black Cipher #1] YO -> 772
+[Black Cipher #1] GD -> 449
+[Black Cipher #1] WV -> 594
+[Black Cipher #1] Digrafid Row #1: 745 -> KE
+[Black Cipher #1] Digrafid Row #2: 749 -> KD
+[Black Cipher #1] Digrafid Row #3: 294 -> QV
+[Dungeon 2nd Floor #2] Stage 1, Start zone, Roll = 1, Level = 1
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[Unfair Cipher #1] :::Unfair Cipher Version: 1.1.5:::
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"11 Hard Mix"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 5
+{"serial":"QL1JX7","displayNames":{"Timer":"Timer","Memory":"Memory","coopharmonySequence":"Co-op Harmony Sequence","lgndLEDMath":"LED Math","calendar":"Calendar","morseButtons":"Morse Buttons","langtonAnt":"Langton's Ant","pwDestroyer":"Password Des
+troyer","MazeShifting":"Shifting Maze","blackCipher":"Black Cipher","dungeon2":"Dungeon 2nd Floor","unfairCipher":"Unfair Cipher"},"ids":{"Memory":[1],"coopharmonySequence":[1],"lgndLEDMath":[1],"calendar":[1],"morseButtons":[1],"langtonAnt":[1],"pwD
+estroyer":[1],"MazeShifting":[1],"blackCipher":[1],"dungeon2":[2],"unfairCipher":[1]},"anchors":[[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.113,0.000],[0.003,0.220],[-0.217,-0.220],[0.003,-0.220],[-0.107,0.000],[0.223,-0.220],[0.
+113,0.000],[0.003,0.220]],"modules":["lgndLEDMath 1","blackCipher 1","Memory 1","calendar 1","pwDestroyer 1","morseButtons 1","MazeShifting 1","Timer -","dungeon2 2","unfairCipher 1","coopharmonySequence 1","langtonAnt 1"],"timestamp":"2020-06-20T09:
+54:58.6208267+08:00"}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'MemoryComponent(Clone)'.
+[Profile Revealer] Attaching to 'Co-op Harmony Sequence(Clone)'.
+[Profile Revealer] Attaching to 'LEDMathModule(Clone)'.
+[Profile Revealer] Attaching to 'calendar(Clone)'.
+[Profile Revealer] Attaching to 'morseButtons(Clone)'.
+[Profile Revealer] Attaching to 'langtonAnt(Clone)'.
+[Profile Revealer] Attaching to 'passwordDestroyer(Clone)'.
+[Profile Revealer] Attaching to 'ShiftingMaze(Clone)'.
+[Profile Revealer] Attaching to 'blackCipher(Clone)'.
+[Profile Revealer] Attaching to 'Dungeon2(Clone)'.
+[Profile Revealer] Attaching to 'unfairCipher(Clone)'.
+custom
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !findclaim forget;dials
+[Unfair Cipher #1] == KEY A ==
+[Unfair Cipher #1] Serial after number conversion: 1712110247
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #1: 1712110247 / 16 = 107006890 (remainder 7)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #2: 107006890 / 16 = 6687930 (remainder 10)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #3: 6687930 / 16 = 417995 (remainder 10)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #4: 417995 / 16 = 26124 (remainder 11)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #5: 26124 / 16 = 1632 (remainder 12)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #6: 1632 / 16 = 102 (remainder 0)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #7: 102 / 16 = 6 (remainder 6)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #8: 6 / 16 = 0 (remainder 6)
+[Unfair Cipher #1] CONVERTING TO HEX – iteration #9: 0 / 16 = 0 (remainder 0)
+[Unfair Cipher #1] CONVERTING TO HEX – Quotient Zero! – END
+[Unfair Cipher #1] Final Hex number: 660CBAA7
+[Unfair Cipher #1] Module ID is 1, which is equal to A:
+ ((1- 1 % 26) + 1 = 1)
+[Unfair Cipher #1] There are 2 port plates, which equal to B:
+ ((2 - 1 % 26) + 1 = 2)
+[Unfair Cipher #1] There are 1 battery holders, which equal to A:
+ ((1 - 1 % 26) + 1 = 1)
+[Unfair Cipher #1] Calculated Key A: FFCBAAGABA
+[Unfair Cipher #1] == KEY B  ==
+[Unfair Cipher #1] Month: 6, Day of Week: Saturday (6)
+[Unfair Cipher #1] Key B: AFEB ( D 6, M 6)
+[Unfair Cipher #1] == KEY C ==
+[Unfair Cipher #1] Playfair Enc: FFCBAAGABA, AFEB
+[Unfair Cipher #1] Key C: EWACEVDFCF
+[Unfair Cipher #1]  == OFFSET CALCULATION (CAESAR CIPHER) == 
+[Unfair Cipher #1] Port PS2 is unique. Offset -2 (-2)
+[Unfair Cipher #1] Port Serial is unique. Offset -2 (-4)
+[Unfair Cipher #1] Offset increased by 2 (Port Plates)  (-2)
+[Unfair Cipher #1] Q is not a vowel. Offset +1! (-1)
+[Unfair Cipher #1] L is not a vowel. Offset +1! (0)
+[Unfair Cipher #1] J is not a vowel. Offset +1! (1)
+[Unfair Cipher #1] X is not a vowel. Offset +1! (2)
+[Unfair Cipher #1] Indicator MSA is on, Offset +2! (4)
+[Unfair Cipher #1] Indicator BOB is on, Offset +2! (6)
+[Unfair Cipher #1] Offset decreased by 2! (Batteries) (4)
+[Unfair Cipher #1] Final Offset for Caesar Ciphering is: 4
+[Unfair Cipher #1] == ORDERS AND ENCRYPTIONS ==
+[Unfair Cipher #1] After Caesar Cipher (Offset 4): HEYAPFBSFPSM
+[Unfair Cipher #1] Orders string last encryption (Key C): DAUWLBXOBLOI
+[Unfair Cipher #1] Orders string first encryption (Key A): BEPUBATQABID
+[Unfair Cipher #1] Original orders string: CHKPCBSUBCHK
+[Unfair Cipher #1] Current Order: CHK
+[Unfair Cipher #1] Module ID % 20 is not a prime number 
+ Answer for "CHK" : Press Inner Center
+[MemoryComponent #1] Button labels are 1,4,3,2
+
+[MemoryComponent #1] Display set to MemoryComponent/label_1
+
+[Calendar #1] The int 'day' returns: 20. The int 'month' returns: 6.
+[Calendar #1] LED Color: Green
+[Calendar #1] Is not a leap year. (This is seperate from real life)
+[Calendar #1] Holiday selected: Kwanzaa
+[Calendar #1] Correct month: 11. Correct day: 26. NOTE: If the holiday is groundhog day, the day has no effect.
+[Password Destroyer #1]: Version v1.8
+[Password Destroyer #1]: Initial base numbers are 7413190 and -375856, with starting 2FA of 570 439.
+[PaceMaker] Round start! Mission: 11 Hard Mix Pacing Enabled: True
+
+[PaceMaker] Next idle action in 34.07526 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): ew a black
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !3 cv
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !9 claim
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !4 cv
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !claim 1 3
+[TwitchPlays] [M] 29isasomewhat (, 541025609): also
+[TwitchPlays] [M] 29isasomewhat (, 541025609): WHY IS THERE VANILLA
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !bomb flip
+[TwitchPlays] [M] 29isasomewhat (, 541025609): >:c
+[TwitchPlays] [M] garuda2002 (#0000FF, 138444820): who's on PWD?
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 cv
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 help
+:jjroccss!jjroccss@jjroccss.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] 29isasomewhat (, 541025609): shifting DansGame
+[PaceMaker] PlayerSuccessRating: 0.4964539 (Factors: solved: 0, strikes: 0.3, time: 0.1964539)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 54.70263 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !3 help
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !1 p 2
+[MemoryComponent #1] Memory button 1 pushed (label: 4).
+
+[Rules] Getting solution index for component MemoryComponent(Clone)
+Running rule 0: "Query: the display is 1, Solution: press the button in the second position"
+Result: true.
+All queries passed. Solution method: press the button in the second position
+Solution index is 1
+
+
+[MemoryComponent #1] Button labels are 2,3,1,4
+
+[MemoryComponent #1] Display set to 4
+
+[TwitchPlays] [M] garuda2002 (#0000FF, 138444820): !6 cv
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !1 P 2
+[MemoryComponent #1] Memory button 1 pushed (label: 3).
+
+[Rules] Getting solution index for component MemoryComponent(Clone)
+Running rule 0: "Query: the display is 1, Solution: press the button labeled "4""
+Result: false. Rule failed.
+Running rule 1: "Query: the display is 2, Solution: press the button in the same position as you pressed in stage 1"
+Result: false. Rule failed.
+Running rule 2: "Query: the display is 3, Solution: press the button in the first position"
+Result: false. Rule failed.
+Running rule 3: "Query: the display is 4, Solution: press the button in the same position as you pressed in stage 1"
+Result: true.
+All queries passed. Solution method: press the button in the same position as you pressed in stage {stage}
+Solution index is 1
+
+
+[MemoryComponent #1] Button labels are 4,2,3,1
+
+[MemoryComponent #1] Display set to 4
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !3 submit 17
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !1 l 4
+[MemoryComponent #1] Memory button 0 pushed (label: 4).
+
+[Rules] Getting solution index for component MemoryComponent(Clone)
+Running rule 0: "Query: the display is 1, Solution: press the button with the same label you pressed in stage 2"
+Result: false. Rule failed.
+Running rule 1: "Query: the display is 2, Solution: press the button with the same label you pressed in stage 1"
+Result: false. Rule failed.
+Running rule 2: "Query: the display is 3, Solution: press the button in the third position"
+Result: false. Rule failed.
+Running rule 3: "Query: the display is 4, Solution: press the button labeled "4""
+Result: true.
+All queries passed. Solution method: press the button labeled "{digit}"
+Solution index is 0
+
+
+[MemoryComponent #1] Button labels are 4,3,2,1
+
+[MemoryComponent #1] Display set to 1
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !3 17
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !3 submit
+[LED Math #1] You submitted 17. Expected 17. Correct! Module solved!
+[ModBombComponent #120] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"lgndLEDMath","bombTime":1835.60278,"realTime":92.2417,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5412086 (Factors: solved: 0.05, strikes: 0.3, time: 0.1912086)
+
+[PaceMaker] PlayerSuccessRating: 0.540756 (Factors: solved: 0.05, strikes: 0.3, time: 0.190756)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 32.17051 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !4 help
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !5 cv
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !1 p 2
+[MemoryComponent #1] Memory button 1 pushed (label: 3).
+
+[Rules] Getting solution index for component MemoryComponent(Clone)
+Running rule 0: "Query: the display is 1, Solution: press the button in the same position as you pressed in stage 1"
+Result: true.
+All queries passed. Solution method: press the button in the same position as you pressed in stage {stage}
+Solution index is 1
+
+
+[MemoryComponent #1] Button labels are 2,1,4,3
+
+[MemoryComponent #1] Display set to 3
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !4 holiday
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !1 l 3
+[MemoryComponent #1] Memory button 3 pushed (label: 3).
+
+[Rules] Getting solution index for component MemoryComponent(Clone)
+Running rule 0: "Query: the display is 1, Solution: press the button with the same label you pressed in stage 1"
+Result: false. Rule failed.
+Running rule 1: "Query: the display is 2, Solution: press the button with the same label you pressed in stage 2"
+Result: false. Rule failed.
+Running rule 2: "Query: the display is 3, Solution: press the button with the same label you pressed in stage 4"
+Result: true.
+All queries passed. Solution method: press the button with the same label you pressed in stage {stage}
+Solution index is 3
+
+
+[MemoryComponent #1] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"Memory","bombTime":1812.13318,"realTime":115.722656,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5887639 (Factors: solved: 0.1, strikes: 0.3, time: 0.1887639)
+
+[PaceMaker] PlayerSuccessRating: 0.5874068 (Factors: solved: 0.1, strikes: 0.3, time: 0.1874068)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Cut the lights at 6516.472
+
+[PaceMaker] Next idle action in 26.60726 seconds.
+
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): and that is the only module i know on this
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): bomb
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !bomb flip
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !claim 11
+[PaceMaker] PlayerSuccessRating: 0.5846344 (Factors: solved: 0.1, strikes: 0.3, time: 0.1846344)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 6543.092
+
+[PaceMaker] Next idle action in 30.93823 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5814119 (Factors: solved: 0.1, strikes: 0.3, time: 0.1814119)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 52.97484 seconds.
+
+[TwitchPlays] [M] garuda2002 (#0000FF, 138444820): !snooze
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.5758948 (Factors: solved: 0.1, strikes: 0.3, time: 0.1758948)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 40.39908 seconds.
+
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !9 r
+[TwitchPlays] Switching bomb
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !7 cv
+[TwitchPlays] Enabling camera wall
+[TwitchPlays] Camera wall enabled
+[TwitchPlays] Camera wall already enabled
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): oh no one told me
+:lotsofs!lotsofs@lotsofs.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5716876 (Factors: solved: 0.1, strikes: 0.3, time: 0.1716876)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 28.59272 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.56871 (Factors: solved: 0.1, strikes: 0.3, time: 0.16871)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.45274 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): bacc
+:lotsofs!lotsofs@lotsofs.tmi.twitch.tv JOIN #heres_fangy
+:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5628327 (Factors: solved: 0.1, strikes: 0.3, time: 0.1628327)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 57.79855 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !4 help
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !4 november
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !4 press 26
+[ModBombComponent #122] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"calendar","bombTime":1539.93762,"realTime":388.081055,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6104102 (Factors: solved: 0.15, strikes: 0.3, time: 0.1604102)
+
+[Calendar #1] Module Solved!
+[TwitchPlays] [M] 29isasomewhat (, 541025609): should I try shifting?
+[TwitchPlays] [M] 29isasomewhat (, 541025609): i know how to do the coords
+[TwitchPlays] [M] 29isasomewhat (, 541025609): ig ill try it
+[PaceMaker] PlayerSuccessRating: 0.6068131 (Factors: solved: 0.15, strikes: 0.3, time: 0.156813)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 37.14812 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 cv
+[TwitchPlays] [M] 29isasomewhat (, 541025609): wait no nvm
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 unc
+[TwitchPlays] [M] 29isasomewhat (, 541025609): shifting is like echo
+[TwitchPlays] [M] 29isasomewhat (, 541025609): except yu know where to go
+[TwitchPlays] [M] 29isasomewhat (, 541025609): you*
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 help
+[PaceMaker] PlayerSuccessRating: 0.6029454 (Factors: solved: 0.15, strikes: 0.3, time: 0.1529454)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 33.61253 seconds.
+
+:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv JOIN #heres_fangy
+:lotsofs!lotsofs@lotsofs.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): Shifting is completely different
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): almost
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): except for the microphone part
+[TwitchPlays] [M] 29isasomewhat (, 541025609): well
+[PaceMaker] PlayerSuccessRating: 0.5994438 (Factors: solved: 0.15, strikes: 0.3, time: 0.1494438)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 24.70491 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): kinda
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): the walls do shift
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !bomb date
+[TwitchPlays] [M] 29isasomewhat (, 541025609): yeah
+[TwitchPlays] [M] 29isasomewhat (, 541025609): but your blind, besides the coordinates
+[PaceMaker] PlayerSuccessRating: 0.5968717 (Factors: solved: 0.15, strikes: 0.3, time: 0.1468717)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 21.95902 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 start
+[TwitchPlays] [M] Zaphod_Beeblebrox_IV (#DAA520, 63384803): !9 submit RAFTED
+[ModBombComponent #132] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"blackCipher","bombTime":1390.918,"realTime":537.194336,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6448873 (Factors: solved: 0.2, strikes: 0.3, time: 0.1448873)
+
+[PaceMaker] PlayerSuccessRating: 0.6445828 (Factors: solved: 0.2, strikes: 0.3, time: 0.1445828)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 53.72923 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 cv
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 stop
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 cv
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 l
+[Dungeon 2nd Floor #2] Stage 2, Green zone, Roll = 0, Level = 1
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 instrument piano
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 sound 3142
+[Co-op Harmony Sequence #1] ----------Stage 1----------
+[Co-op Harmony Sequence #1] Expected button #3 on Piano - you pressed button #3 on Piano
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[Co-op Harmony Sequence #1] Expected button #1 on Piano - you pressed button #1 on Piano
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[Co-op Harmony Sequence #1] Expected button #4 on Piano - you pressed button #4 on Piano
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[Co-op Harmony Sequence #1] Expected button #2 on Piano - you pressed button #2 on Piano
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[PaceMaker] PlayerSuccessRating: 0.6389881 (Factors: solved: 0.2, strikes: 0.3, time: 0.1389882)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 32.84635 seconds.
+
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !7 time
+:lotsofs!lotsofs@lotsofs.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 L
+[Dungeon 2nd Floor #2] Stage 3, Blue zone, Roll = 0, Level = 1
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 instrument music
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 start
+[PaceMaker] PlayerSuccessRating: 0.6355655 (Factors: solved: 0.2, strikes: 0.3, time: 0.1355654)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 32.42963 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 l
+[Dungeon 2nd Floor #2] Level is 1, fighting Bat-tery
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 stop
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 instrument harp
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !7 toggle 13
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 s
+[Dungeon 2nd Floor #2] End of fight : Sword hits = 1, Blocks = 0, Last monster fought = 1
+[Dungeon 2nd Floor #2] Stage 4, Blue zone, Roll = 1, Level = 1
+[PaceMaker] PlayerSuccessRating: 0.6321889 (Factors: solved: 0.2, strikes: 0.3, time: 0.1321889)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 45.46809 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 sound 3412
+[Co-op Harmony Sequence #1] ----------Stage 2----------
+[Co-op Harmony Sequence #1] Expected button #3 on Harp - you pressed button #3 on Harp
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[Co-op Harmony Sequence #1] Expected button #4 on Harp - you pressed button #4 on Harp
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[Co-op Harmony Sequence #1] Expected button #1 on Harp - you pressed button #1 on Harp
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[Co-op Harmony Sequence #1] Expected button #2 on Harp - you pressed button #2 on Harp
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 l
+[Dungeon 2nd Floor #2] Stage 5, Yellow zone, Roll = 4, Level = 1
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 instrument piano
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 start
+[PaceMaker] PlayerSuccessRating: 0.6274538 (Factors: solved: 0.2, strikes: 0.3, time: 0.1274538)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 46.84252 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 f
+[Dungeon 2nd Floor #2] Stage 6, Green zone, Roll = 1, Level = 3
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 stop
+:mythers45!mythers45@mythers45.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 instrument music
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 l
+[Dungeon 2nd Floor #2] Level is 2, fighting Slime
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 sound 4213
+[Co-op Harmony Sequence #1] ----------Stage 3----------
+[Co-op Harmony Sequence #1] Expected button #4 on Music Box - you pressed button #4 on Music Box
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[Co-op Harmony Sequence #1] Expected button #2 on Music Box - you pressed button #2 on Music Box
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[Co-op Harmony Sequence #1] Expected button #1 on Music Box - you pressed button #1 on Music Box
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[Co-op Harmony Sequence #1] Expected button #3 on Music Box - you pressed button #3 on Music Box
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[PaceMaker] PlayerSuccessRating: 0.6225754 (Factors: solved: 0.2, strikes: 0.3, time: 0.1225754)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 34.05075 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 instrument harp
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 start
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.6190284 (Factors: solved: 0.2, strikes: 0.3, time: 0.1190284)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 31.64836 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 s b s b s b
+[Dungeon 2nd Floor #2] End of fight : Sword hits = 4, Blocks = 3, Last monster fought = 4
+[Dungeon 2nd Floor #2] Stage 7, Green zone, Roll = 7, Level = 2
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 stop
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 instrument music
+[PaceMaker] PlayerSuccessRating: 0.615733 (Factors: solved: 0.2, strikes: 0.3, time: 0.1157329)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 23.97746 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 r
+[Dungeon 2nd Floor #2] Stage 8, Yellow zone, Roll = 1, Level = 2
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 sound 3412
+[Co-op Harmony Sequence #1] ----------Stage 4----------
+[Co-op Harmony Sequence #1] Expected button #3 on Music Box - you pressed button #3 on Music Box
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[Co-op Harmony Sequence #1] Expected button #4 on Music Box - you pressed button #4 on Music Box
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[Co-op Harmony Sequence #1] Expected button #1 on Music Box - you pressed button #1 on Music Box
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[Co-op Harmony Sequence #1] Expected button #2 on Music Box - you pressed button #2 on Music Box
+[Co-op Harmony Sequence #1] You pressed the correct button - Well done
+[ModBombComponent #118] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"coopharmonySequence","bombTime":1087.1355,"realTime":841.1621,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6632433 (Factors: solved: 0.25, strikes: 0.3, time: 0.1132433)
+
+[Co-op Harmony Sequence #1] You passed the module - Strikes caused by this module: 0
+[PaceMaker] PlayerSuccessRating: 0.6632364 (Factors: solved: 0.25, strikes: 0.3, time: 0.1132364)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 21.52337 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !2 instrument harp
+[TwitchPlays] Disabling camera wall
+[TwitchPlays] Camera wall disabled
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+Can't remove Camera because FlareLayer, GUILayer depends on it
+:thelastextremegamer!thelastextremegamer@thelastextremegamer.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 l
+[PaceMaker] PlayerSuccessRating: 0.6609946 (Factors: solved: 0.25, strikes: 0.3, time: 0.1109946)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 30.00304 seconds.
+
+[Dungeon 2nd Floor #2] Stage 9, Yellow zone, Roll = 8, Level = 1
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !5 unc
+[TwitchPlays] [M] 29isasomewhat (, 541025609): ill be occupying myself with shifting ig
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 zoom 5
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 r
+[Dungeon 2nd Floor #2] Level is 1, fighting Hypno Toad
+[PaceMaker] PlayerSuccessRating: 0.6578714 (Factors: solved: 0.25, strikes: 0.3, time: 0.1078714)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 41.95495 seconds.
+
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !unclaimall
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 help
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 s s
+[Dungeon 2nd Floor #2] End of fight : Sword hits = 6, Blocks = 3, Last monster fought = 2
+[Dungeon 2nd Floor #2] Stage 10, Blue zone, Roll = 0, Level = 1
+[PaceMaker] PlayerSuccessRating: 0.6534996 (Factors: solved: 0.25, strikes: 0.3, time: 0.1034996)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 36.95566 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 l
+[Dungeon 2nd Floor #2] Level is 1, fighting Giant Spider
+[PaceMaker] PlayerSuccessRating: 0.6496478 (Factors: solved: 0.25, strikes: 0.3, time: 0.09964775)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.5489 seconds.
+
+[TwitchPlays] [M] garuda2002 (#0000FF, 138444820): wow I cannot do langton's today
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 s s b s
+[Dungeon 2nd Floor #2] End of fight : Sword hits = 9, Blocks = 4, Last monster fought = 3
+[Dungeon 2nd Floor #2] Stage 11, Magenta zone, Roll = 1, Level = 4
+[PaceMaker] PlayerSuccessRating: 0.643755 (Factors: solved: 0.25, strikes: 0.3, time: 0.09375499)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 37.64112 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 l
+[Dungeon 2nd Floor #2] Level is 4, fighting Shadow of the Rabbit
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] 29isasomewhat (, 541025609): I got pretty nice coords
+[PaceMaker] PlayerSuccessRating: 0.6398349 (Factors: solved: 0.25, strikes: 0.3, time: 0.08983491)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 56.06182 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): 4,5 to 3,4
+[TwitchPlays] [M] 29isasomewhat (, 541025609): thats 2 manhatten spaces apart
+:cyber12!cyber12@cyber12.tmi.twitch.tv PART #heres_fangy
+:theguythatisweird!theguythatisweird@theguythatisweird.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 s s s l s r s s u u s
+[PaceMaker] PlayerSuccessRating: 0.6339923 (Factors: solved: 0.25, strikes: 0.3, time: 0.08399227)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 48.55215 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 s s s l s r s s f f s
+[Dungeon 2nd Floor #2] End of fight : Sword hits = 16, Blocks = 4, Last monster fought = 10
+[Dungeon 2nd Floor #2] Stage 12, Yellow zone, Roll = 1, Level = 4
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 microphone
+[Shifting Maze #1] You used your sound frequency generator.
+[TwitchPlays] [M] 29isasomewhat (, 541025609): oh
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 u
+[Shifting Maze #1] You moved north.
+[Shifting Maze #1] Your are currently on: 3, 5
+[Shifting Maze #1] Current wall on your cell: North/East/South
+[TwitchPlays] [M] 29isasomewhat (, 541025609): please let me go left
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 Microphone
+[Shifting Maze #1] You used your sound frequency generator.
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 l
+[Dungeon 2nd Floor #2] Level is 3, fighting Wyvern
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): finally back
+[TwitchPlays] [M] 29isasomewhat (, 541025609): :O
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 l
+[Shifting Maze #1] You moved west.
+[Shifting Maze #1] Your are currently on: 3, 4
+[Shifting Maze #1] Current wall on your cell: North/East
+[PaceMaker] PlayerSuccessRating: 0.628933 (Factors: solved: 0.25, strikes: 0.3, time: 0.07893296)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 50.25937 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): im now at 3 4
+[TwitchPlays] [M] 29isasomewhat (, 541025609): please
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 set
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Your password resets in just over 10 minutes
+[Shifting Maze #1] You activated your current platform. The maze is now moving.
+[TwitchPlays] [M] 29isasomewhat (, 541025609): pleasee
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): yeah
+[Bomb] Strike from Mod! 1 / 3 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"MazeShifting","bombTime":733.15155,"realTime":1195.17871,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.47637 (Factors: solved: 0.25, strikes: 0.15, time: 0.07636996)
+
+[Shifting Maze #1] You stepped on an incorrect platform. A strike was given.
+[Shifting Maze #1] SEED: 3d2t4DO5
+[Shifting Maze #1] Your starting coordinance is: 3, 3
+[Shifting Maze #1] Your destination is: 5, 5
+[Shifting Maze #1] Current wall on your cell: East
+[TwitchPlays] [M] 29isasomewhat (, 541025609): DAMNIT :c
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 b b s b f s
+[Dungeon 2nd Floor #2] End of fight : Sword hits = 18, Blocks = 7, Last monster fought = 7
+[Dungeon 2nd Floor #2] Stage 13, Magenta zone, Roll = 1, Level = 3
+[TwitchPlays] [M] 29isasomewhat (, 541025609): now im sad :c
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): T=23:51
+[PaceMaker] PlayerSuccessRating: 0.4730257 (Factors: solved: 0.25, strikes: 0.15, time: 0.0730257)
+
+[PaceMaker] Next idle action in 33.932 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 l
+[Dungeon 2nd Floor #2] Level is 3, fighting Minotaur
+[PaceMaker] PlayerSuccessRating: 0.4686056 (Factors: solved: 0.25, strikes: 0.15, time: 0.06860564)
+
+[PaceMaker] Next idle action in 36.69177 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 unc
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 cv
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !7 time
+[TwitchPlays] [M] 29isasomewhat (, 541025609): actually
+[TwitchPlays] [M] 29isasomewhat (, 541025609): could someone calc my coords?
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): it changed
+[PaceMaker] PlayerSuccessRating: 0.4638239 (Factors: solved: 0.25, strikes: 0.15, time: 0.06382386)
+
+[PaceMaker] Next idle action in 45.7613 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 zoom
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 l r s l r s
+[Dungeon 2nd Floor #2] End of fight : Sword hits = 20, Blocks = 7, Last monster fought = 8
+[Dungeon 2nd Floor #2] Stage 14, Red zone, Roll = 5, Level = 3
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 zoom 5
+[TwitchPlays] [M] garuda2002 (#0000FF, 138444820): !6 unclaim
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !7 toggle 1
+[TwitchPlays] [M] 29isasomewhat (, 541025609): 3d2t4DOS
+[TwitchPlays] [M] 29isasomewhat (, 541025609): could someone calc my cords for that seed
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !10 f
+[Dungeon 2nd Floor #2] Stage 15, Blue zone, Roll = 3, Level = 4
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] 29isasomewhat (, 541025609): :c
+[PaceMaker] PlayerSuccessRating: 0.457867 (Factors: solved: 0.25, strikes: 0.15, time: 0.05786696)
+
+[PaceMaker] Next idle action in 45.5311 seconds.
+
+:theguythatisweird!theguythatisweird@theguythatisweird.tmi.twitch.tv JOIN #heres_fangy
+:exish!exish@exish.tmi.twitch.tv JOIN #heres_fangy
+:jjroccss!jjroccss@jjroccss.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !notes1 HOLD SOLVES
+[TwitchPlays] [M] 29isasomewhat (, 541025609): ogogog
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !q !10 f
+[TwitchPlays] [M] 29isasomewhat (, 541025609): hey mythers
+[TwitchPlays] [M] 29isasomewhat (, 541025609): do you think you could calc my coords for 3d2t4DOS
+[PaceMaker] PlayerSuccessRating: 0.4519359 (Factors: solved: 0.25, strikes: 0.15, time: 0.05193593)
+
+[PaceMaker] Next idle action in 25.15605 seconds.
+
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !7 press 4000174
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !q !10 s f s f s f s f f s f s s
+[PaceMaker] PlayerSuccessRating: 0.4486583 (Factors: solved: 0.25, strikes: 0.15, time: 0.04865833)
+
+[PaceMaker] Next idle action in 21.48176 seconds.
+
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !7 submit at 23:51
+[PaceMaker] PlayerSuccessRating: 0.4458585 (Factors: solved: 0.25, strikes: 0.15, time: 0.04585847)
+
+[PaceMaker] Next idle action in 39.13791 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): here we go
+[Password Destroyer #1]: Submit button was pressed on elapsed time of 1431 seconds.
+[Password Destroyer #1]: You must input when the last digit of elapsed time is equal to 1.
+[Password Destroyer #1]: Submit button was pressed in correct time. Generating password.
+[Password Destroyer #1]: Current Time is 20/6, 10:19 hrs.
+[Password Destroyer #1]: The answer are 2 and 3. The final switch positions are ▲▼▼.
+[Password Destroyer #1]: Rv = 9563254, 2FAST = 313851.
+[Password Destroyer #1]: TFA1 = 213 and TFA2 = 5.
+[Password Destroyer #1]: BSN = 2396394 and MSN = 756.
+[Password Destroyer #1]: Cv = 9563254 + 213*2396394 + 5*756 + 1431 = 520000387.
+[Password Destroyer #1]: Solve Percentage = 45, Final value = 4000174.
+[Password Destroyer #1]: You have inputted correct answer. Module solved.
+[ModBombComponent #128] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"pwDestroyer","bombTime":413.403656,"realTime":1450.95752,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.4930629 (Factors: solved: 0.3, strikes: 0.15, time: 0.04306288)
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Starting row 3
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): GG
+[TwitchPlays] [M] 29isasomewhat (, 541025609): nice
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): coolio
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !notes1clear
+[PaceMaker] PlayerSuccessRating: 0.4907637 (Factors: solved: 0.3, strikes: 0.15, time: 0.0407637)
+
+[PaceMaker] Next idle action in 20.63682 seconds.
+
+:garuda2002!garuda2002@garuda2002.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Starting 3,3
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !notes2 3,- to -,-
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !notes2 3,3 to -,-
+[PaceMaker] PlayerSuccessRating: 0.4880738 (Factors: solved: 0.3, strikes: 0.15, time: 0.03807382)
+
+[PaceMaker] Next idle action in 41.0009 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Ending 5...
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): hey fangy i solved it
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !call
+[TwitchPlays] [M] mythers45 (#1E90FF): !10 f
+[Dungeon 2nd Floor #2] Stage 16, Magenta zone, Roll = 1, Level = 4
+[ModBombComponent #134] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"dungeon2","bombTime":345.4392,"realTime":1505.3335,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.5359833 (Factors: solved: 0.35, strikes: 0.15, time: 0.03598325)
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): nice
+[TwitchPlays] [M] TheGuyThatIsWeird (#DAA520, 156532270): !call
+[TwitchPlays] [M] mythers45 (#1E90FF): !10 s f s f s f s f f s f s s
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): That's an Oscar, right?
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !8 zoom
+[PaceMaker] PlayerSuccessRating: 0.5327355 (Factors: solved: 0.35, strikes: 0.15, time: 0.03273554)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 29.12243 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): yes
+[TwitchPlays] [M] 29isasomewhat (, 541025609): I know this font
+[TwitchPlays] [M] 29isasomewhat (, 541025609): its an O
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Ending 5,2
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !notes2 3,3 to 5,2
+[PaceMaker] PlayerSuccessRating: 0.5289442 (Factors: solved: 0.35, strikes: 0.15, time: 0.02894421)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 45.20605 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): so....
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !5 cv
+[TwitchPlays] [M] 29isasomewhat (, 541025609): i need to go down 2 and left 1
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 microphone
+[Shifting Maze #1] You used your sound frequency generator.
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] 29isasomewhat (, 541025609): ok
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 l u
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 help
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): 23
+[PaceMaker] PlayerSuccessRating: 0.5230567 (Factors: solved: 0.35, strikes: 0.15, time: 0.02305675)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 54.10015 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 lu
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): 3 (false)
+[TwitchPlays] [M] 29isasomewhat (, 541025609): so you move like switching?
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): 5 (true)
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 l
+[Shifting Maze #1] You moved west.
+[Shifting Maze #1] Your are currently on: 3, 2
+[Shifting Maze #1] Current wall on your cell: North/East
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 microphone
+[Shifting Maze #1] You used your sound frequency generator.
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): 19 (false)
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 d
+[Shifting Maze #1] You moved south.
+[Shifting Maze #1] Your are currently on: 4, 2
+[Shifting Maze #1] Current wall on your cell: South/West/North
+[PaceMaker] PlayerSuccessRating: 0.5160114 (Factors: solved: 0.35, strikes: 0.15, time: 0.01601133)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 59.1826 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): 6 (false)
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 microphone
+[Shifting Maze #1] You used your sound frequency generator.
+:vanilaunity!vanilaunity@vanilaunity.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): 3 (false)
+[TwitchPlays] [M] 29isasomewhat (, 541025609): damnit
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): And tl is false
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 r
+[Shifting Maze #1] You moved east.
+[Shifting Maze #1] Your are currently on: 4, 3
+[Shifting Maze #1] Current wall on your cell: North/East/South
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !5 help
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): !5 tr
+[Morse Buttons #1] Correctly pressed Top Right button. Module solved!
+[ModBombComponent #124] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"morseButtons","bombTime":121.580559,"realTime":1684.42285,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5626646 (Factors: solved: 0.4, strikes: 0.15, time: 0.01266464)
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 microphone
+[Shifting Maze #1] You used your sound frequency generator.
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 l
+[Shifting Maze #1] You moved west.
+[Shifting Maze #1] Your are currently on: 4, 2
+[Shifting Maze #1] Current wall on your cell: East/West
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 microphone
+[Shifting Maze #1] You used your sound frequency generator.
+[TwitchPlays] [M] 29isasomewhat (, 541025609): please let me go down
+[TwitchPlays] [M] 29isasomewhat (, 541025609): YESS
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 d
+[Shifting Maze #1] You moved south.
+[Shifting Maze #1] Your are currently on: 5, 2
+[Shifting Maze #1] Current wall on your cell: North/East/South
+[PaceMaker] PlayerSuccessRating: 0.5583037 (Factors: solved: 0.4, strikes: 0.15, time: 0.008303712)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 26.60528 seconds.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): ok
+[TwitchPlays] [M] 29isasomewhat (, 541025609): 33, I went l d r l d
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[TwitchPlays] [M] 29isasomewhat (, 541025609): l to 3 2, d to 4 2
+[TwitchPlays] [M] 29isasomewhat (, 541025609): then d again to 5 2
+[PaceMaker] PlayerSuccessRating: 0.5548395 (Factors: solved: 0.4, strikes: 0.15, time: 0.004839461)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 26.11404 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): SeemsGood I hope
+[TwitchPlays] [M] 29isasomewhat (, 541025609): so this should be submit
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 set
+[Shifting Maze #1] You activated your current platform. The maze is now moving.
+[Bomb] Strike from Mod! 2 / 3 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"MazeShifting","bombTime":25.6235542,"realTime":1761.18848,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.4026691 (Factors: solved: 0.4, strikes: 0, time: 0.00266912)
+
+[Shifting Maze #1] You stepped on an incorrect platform. A strike was given.
+[Shifting Maze #1] SEED: bKUNVYmK
+[Shifting Maze #1] Your starting coordinance is: 4, 3
+[Shifting Maze #1] Your destination is: 0, 0
+[Shifting Maze #1] Current wall on your cell: South/East
+[TwitchPlays] [M] 29isasomewhat (, 541025609): if so, thx mythers
+[TwitchPlays] [M] 29isasomewhat (, 541025609): sigh
+[TwitchPlays] [M] 29isasomewhat (, 541025609): of course not
+[TwitchPlays] [M] 29isasomewhat (, 541025609): !8 unc
+[PaceMaker] PlayerSuccessRating: 0.4011904 (Factors: solved: 0.4, strikes: 0, time: 0.001190421)
+
+[PaceMaker] Next idle action in 54.28776 seconds.
+
+[TwitchPlays] [M] mythers45 (#1E90FF, 170432077): Maybe that was a plus, not a t
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"QL1JX7","bombTime":-0.009338936,"realTime":1778.27734,"solves":8,"strikes":3}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

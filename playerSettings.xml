@@ -5,7 +5,7 @@
   <RumbleEnabled>false</RumbleEnabled>
   <MusicVolume>20</MusicVolume>
   <SFXVolume>60</SFXVolume>
-  <AntiAliasing>0</AntiAliasing>
+  <AntiAliasing>2</AntiAliasing>
   <VRModeRequested>true</VRModeRequested>
   <SecondScreenMode>InteractiveManual</SecondScreenMode>
   <VSync>1</VSync>

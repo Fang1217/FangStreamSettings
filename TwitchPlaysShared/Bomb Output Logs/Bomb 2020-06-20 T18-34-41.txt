@@ -1,0 +1,326 @@
+Initialize engine version: Twitch Plays
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[Profile Revealer] Waiting for bombs...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 1872345055
+
+[BombGenerator] Generator settings: Time: 3600, NumStrikes: 10, FrontFaceOnly: False
+2 Pools:
+[qkForgetPerspective] Count: 1
+[SimpleButton] Count: 6
+
+
+[BombGenerator] Selected qkForgetPerspective (1831737244 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1831737244 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent)]
+
+Awake
+[BombGenerator] Instantiated 1831737244 on face FrontFace, spawn index 0
+
+[BombGenerator] Instantiated 2012092376 on face RearFace, spawn index 3
+
+[BombGenerator] Instantiated 2012092376 on face RearFace, spawn index 2
+
+[BombGenerator] Instantiated 2012092376 on face FrontFace, spawn index 2
+
+[BombGenerator] Instantiated 2012092376 on face FrontFace, spawn index 1
+
+[BombGenerator] Instantiated 2012092376 on face RearFace, spawn index 1
+
+[BombGenerator] Instantiated 2012092376 on face RearFace, spawn index 0
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: HX1EB2
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit IND (IndicatorWidget/LABEL4)
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit BOB (IndicatorWidget/LABEL10)
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: DVI, PS2, RJ45
+
+[BossModuleManager] Request for Forget Perspective’s ignore list successful.
+[KMBossModule] Boss Module Manager returned list for “Forget Perspective”: 14, A>N<D, Bamboozling Time Keeper, Brainf---, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Iconic, Kugelblitz, Multitask, OmegaForget, Organization, Password Destroyer, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+[The Simpleton #13] Push the button!
+[The Simpleton #14] Push the button!
+[The Simpleton #15] Push the button!
+[The Simpleton #16] Push the button!
+[The Simpleton #17] Push the button!
+[The Simpleton #18] Push the button!
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"FP - 6 Stages"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 3
+{"serial":"HX1EB2","displayNames":{"Timer":"Timer","qkForgetPerspective":"Forget Perspective","SimpleButton":"The Simpleton"},"ids":{"qkForgetPerspective":[2],"SimpleButton":[13,14,15,16,17,18]},"anchors":[[-0.110,-0.110],[-0.110,0.110],[0.110,-0.110
+],[0.110,0.110],[-0.110,-0.110],[-0.110,0.110],[0.110,-0.110],[0.110,0.110]],"modules":["qkForgetPerspective 2","SimpleButton 16","SimpleButton 15","Timer -","SimpleButton 18","SimpleButton 17","SimpleButton 14","SimpleButton 13"],"timestamp":"2020-0
+6-20T18:32:05.7746040+08:00"}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'qkForgetPerspective(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+mod_FMNpractice_fp6
+Awake
+[Forget Perspective #2] ------Stage 1 ------
+[Forget Perspective #2] The faces for Stage 1 are: Yellow, Green, Red, Magenta, Orange, Blue.
+[Forget Perspective #2] Time you got the stage on: 60
+[Forget Perspective #2] Applied starting rule 1 and net rule 4.
+[Forget Perspective #2] Order made: Y O G M R B
+[Forget Perspective #2] Character Shift rule = 6, X = 2, Y = 3
+[Forget Perspective #2] Shifted order: B R J P U E
+[Forget Perspective #2] Added value: R
+[PaceMaker] Round start! Mission: FP - 6 Stages Pacing Enabled: False
+
+[PaceMaker] Next idle action in 43.2572 seconds.
+
+[PaceMaker] Valid pacing events: 
+
+[PaceMaker] Removed 3 pacing events.
+
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[PaceMaker] PlayerSuccessRating: 0.497596 (Factors: solved: 0, strikes: 0.3, time: 0.197596)
+
+[PaceMaker] Next idle action in 31.23923 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.4958582 (Factors: solved: 0, strikes: 0.3, time: 0.1958582)
+
+[PaceMaker] Next idle action in 28.75659 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.4942592 (Factors: solved: 0, strikes: 0.3, time: 0.1942592)
+
+[PaceMaker] Next idle action in 49.33719 seconds.
+
+[Forget Perspective #2] Pressed: Y at stage 1
+[Forget Perspective #2] Tried to press button before the module is ready to be solved. Strike!
+[Bomb] Strike from Mod! 1 / 10 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"qkForgetPerspective","bombTime":3465.31372,"realTime":142.3917,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.4591841 (Factors: solved: 0, strikes: 0.2666667, time: 0.1925174)
+
+[The Simpleton #15] You pushed the button. Good job!
+[ModBombComponent #36] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"SimpleButton","bombTime":3462.59961,"realTime":144.561371,"loggingID":15}
+[PaceMaker] PlayerSuccessRating: 0.5423667 (Factors: solved: 0.08333334, strikes: 0.2666667, time: 0.1923666)
+
+Awake
+[Forget Perspective #2] ------Stage 2 ------
+[Forget Perspective #2] The faces for Stage 2 are: Red, Magenta, Green, Blue, Orange, Yellow.
+[Forget Perspective #2] Time you got the stage on: 57
+[Forget Perspective #2] Applied starting rule 6 and net rule 4.
+[Forget Perspective #2] Order made: Y G M B O R
+[Forget Perspective #2] Character Shift rule = 6, X = 2, Y = 3
+[Forget Perspective #2] Shifted order: B J P E R U
+[Forget Perspective #2] Added value: J
+[The Simpleton #16] You pushed the button. Good job!
+[ModBombComponent #38] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"SimpleButton","bombTime":3461.10132,"realTime":145.759552,"loggingID":16}
+[PaceMaker] PlayerSuccessRating: 0.6256168 (Factors: solved: 0.1666667, strikes: 0.2666667, time: 0.1922834)
+
+Awake
+[Forget Perspective #2] ------Stage 3 ------
+[Forget Perspective #2] The faces for Stage 3 are: Orange, Red, Magenta, Yellow, Blue, Green.
+[Forget Perspective #2] Time you got the stage on: 57
+[Forget Perspective #2] Applied starting rule 6 and net rule 3.
+[Forget Perspective #2] Order made: G O M B Y R
+[Forget Perspective #2] Character Shift rule = 6, X = 2, Y = 3
+[Forget Perspective #2] Shifted order: J R P E B U
+[Forget Perspective #2] Added value: R
+[The Simpleton #17] You pushed the button. Good job!
+[ModBombComponent #40] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"SimpleButton","bombTime":3459.325,"realTime":147.181061,"loggingID":17}
+[PaceMaker] PlayerSuccessRating: 0.7088514 (Factors: solved: 0.25, strikes: 0.2666667, time: 0.1921847)
+
+Awake
+[Forget Perspective #2] ------Stage 4 ------
+[Forget Perspective #2] The faces for Stage 4 are: Orange, Yellow, Green, Red, Magenta, Blue.
+[Forget Perspective #2] Time you got the stage on: 57
+[Forget Perspective #2] Applied starting rule 6 and net rule 2.
+[Forget Perspective #2] Order made: B G M O R Y
+[Forget Perspective #2] Character Shift rule = 6, X = 2, Y = 3
+[Forget Perspective #2] Shifted order: E J P R U B
+[Forget Perspective #2] Added value: R
+[The Simpleton #13] You pushed the button. Good job!
+[ModBombComponent #32] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"SimpleButton","bombTime":3458.576,"realTime":147.78006,"loggingID":13}
+[PaceMaker] PlayerSuccessRating: 0.7921431 (Factors: solved: 0.3333333, strikes: 0.2666667, time: 0.1921431)
+
+Awake
+[Forget Perspective #2] ------Stage 5 ------
+[Forget Perspective #2] The faces for Stage 5 are: Magenta, Orange, Blue, Red, Green, Yellow.
+[Forget Perspective #2] Time you got the stage on: 57
+[Forget Perspective #2] Applied starting rule 6 and net rule 4.
+[Forget Perspective #2] Order made: Y B O R G M
+[Forget Perspective #2] Character Shift rule = 6, X = 2, Y = 3
+[Forget Perspective #2] Shifted order: B E R U J P
+[Forget Perspective #2] Added value: U
+[The Simpleton #14] You pushed the button. Good job!
+[ModBombComponent #34] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"SimpleButton","bombTime":3456.86987,"realTime":149.144928,"loggingID":14}
+[PaceMaker] PlayerSuccessRating: 0.8753816 (Factors: solved: 0.4166667, strikes: 0.2666667, time: 0.1920483)
+
+Awake
+[Forget Perspective #2] ------Stage 6 ------
+[Forget Perspective #2] The faces for Stage 6 are: Orange, Red, Blue, Green, Yellow, Magenta.
+[Forget Perspective #2] Time you got the stage on: 57
+[Forget Perspective #2] Applied starting rule 6 and net rule 5.
+[Forget Perspective #2] Order made: M G B O Y R
+[Forget Perspective #2] Character Shift rule = 6, X = 2, Y = 3
+[Forget Perspective #2] Shifted order: P J E R B U
+[Forget Perspective #2] Added value: J
+[The Simpleton #18] You pushed the button. Good job!
+[ModBombComponent #42] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"SimpleButton","bombTime":3456.1626,"realTime":149.71048,"loggingID":18}
+[PaceMaker] PlayerSuccessRating: 0.9586757 (Factors: solved: 0.5, strikes: 0.2666667, time: 0.192009)
+
+Awake
+[Forget Perspective #2] ------Final------
+[Forget Perspective #2] Answer: RJRRUJ
+[Forget Perspective #2] Pressed: Q at stage 1
+[Forget Perspective #2] Which wasn't correct. Strike!
+[Bomb] Strike from Mod! 2 / 10 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"qkForgetPerspective","bombTime":3453.85059,"realTime":151.5599,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.9252139 (Factors: solved: 0.5, strikes: 0.2333333, time: 0.1918806)
+
+[Forget Perspective #2] Pressed: W at stage 1
+[Forget Perspective #2] Which wasn't correct. Strike!
+[Bomb] Strike from Mod! 3 / 10 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"qkForgetPerspective","bombTime":3453.17554,"realTime":152.0101,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.8918431 (Factors: solved: 0.5, strikes: 0.2, time: 0.1918431)
+
+[Forget Perspective #2] Pressed: E at stage 1
+[Forget Perspective #2] Which wasn't correct. Strike!
+[Bomb] Strike from Mod! 4 / 10 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"qkForgetPerspective","bombTime":3452.4187,"realTime":152.442719,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.8584677 (Factors: solved: 0.5, strikes: 0.1666667, time: 0.191801)
+
+[Forget Perspective #2] Pressed: R at stage 1
+[Forget Perspective #2] Which was correct!
+[Forget Perspective #2] Pressed: T at stage 2
+[Forget Perspective #2] Which wasn't correct. Strike!
+[Bomb] Strike from Mod! 5 / 10 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"qkForgetPerspective","bombTime":3450.15259,"realTime":153.57608,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.8250085 (Factors: solved: 0.5, strikes: 0.1333333, time: 0.1916751)
+
+[Forget Perspective #2] Pressed: R at stage 2
+[Forget Perspective #2] Which wasn't correct. Strike!
+[Bomb] Strike from Mod! 6 / 10 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"qkForgetPerspective","bombTime":3449.18652,"realTime":154.059113,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.7916214 (Factors: solved: 0.5, strikes: 0.1, time: 0.1916215)
+
+[Forget Perspective #2] Pressed: F at stage 2
+[Forget Perspective #2] Which wasn't correct. Strike!
+[Bomb] Strike from Mod! 7 / 10 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"qkForgetPerspective","bombTime":3448.281,"realTime":154.511932,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.7582378 (Factors: solved: 0.5, strikes: 0.06666667, time: 0.1915712)
+
+[Forget Perspective #2] Pressed: G at stage 2
+[Forget Perspective #2] Which wasn't correct. Strike!
+[Bomb] Strike from Mod! 8 / 10 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"qkForgetPerspective","bombTime":3447.653,"realTime":154.825958,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.7248696 (Factors: solved: 0.5, strikes: 0.03333334, time: 0.1915363)
+
+[Forget Perspective #2] Pressed: H at stage 2
+[Forget Perspective #2] Which wasn't correct. Strike!
+[Bomb] Strike from Mod! 9 / 10 strikes
+
+[Tweaks] LFAEvent 1
+{"type":"STRIKE","moduleID":"qkForgetPerspective","bombTime":3447.243,"realTime":155.030792,"loggingID":2}
+[PaceMaker] PlayerSuccessRating: 0.6915135 (Factors: solved: 0.5, strikes: 0, time: 0.1915135)
+
+[Forget Perspective #2] Pressed: K at stage 2
+[Forget Perspective #2] Which wasn't correct. Strike!
+[Bomb] Strike from Mod! 10 / 10 strikes
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"HX1EB2","bombTime":3446.8125,"realTime":155.24588,"solves":6,"strikes":10}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

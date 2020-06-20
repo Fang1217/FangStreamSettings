@@ -1,0 +1,159 @@
+Initialize engine version: Twitch Plays
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[Profile Revealer] Waiting for bombs...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 60465799
+
+[BombGenerator] Generator settings: Time: 3600, NumStrikes: 10, FrontFaceOnly: False
+2 Pools:
+[qkForgetPerspective] Count: 1
+[SimpleButton] Count: 6
+
+
+[BombGenerator] Selected qkForgetPerspective (1831737244 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1831737244 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent)]
+
+[Mod-qkForgetPerspective] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1831737244" has ID:"qkForgetPerspective"
+
+[Mod-qkForgetPerspective] Loading assemblies...
+
+[Mod-qkForgetPerspective] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1831737244\Newtonsoft.Json.dll"...
+
+[Mod-qkForgetPerspective] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1831737244\qkForgetPerspective.dll"
+
+[Mod-qkForgetPerspective] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1831737244" complete.
+
+[Mod-qkForgetPerspective] Loading GameObjects...
+
+[Mod-qkForgetPerspective] Replacing shaders...
+
+[Mod-qkForgetPerspective] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-qkForgetPerspective] Loading KMMissions...
+
+[Mod-qkForgetPerspective] Loading KMMissionTableOfContents...
+
+[Mod-qkForgetPerspective] Loading AudioClips...
+
+Awake
+[BombGenerator] Instantiated 1831737244 on face FrontFace, spawn index 3
+
+[Mod-PolesOfDifference] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2012092376" has ID:"PolesOfDifference"
+
+[Mod-PolesOfDifference] Loading assemblies...
+
+[Mod-PolesOfDifference] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2012092376\Newtonsoft.Json.dll"...
+
+[Mod-PolesOfDifference] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2012092376\PolesOfDifference.dll"
+
+[Mod-PolesOfDifference] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2012092376" complete.
+
+[Mod-PolesOfDifference] Loading GameObjects...
+
+[Mod-PolesOfDifference] Replacing shaders...
+
+[Mod-PolesOfDifference] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-PolesOfDifference] Replacing shaders...
+
+[Mod-PolesOfDifference] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-PolesOfDifference] Loading KMMissions...
+
+[Mod-PolesOfDifference] Loading KMMissionTableOfContents...
+
+[Mod-PolesOfDifference] Loading AudioClips...
+
+[BombGenerator] Instantiated 2012092376 on face FrontFace, spawn index 0
+
+[BombGenerator] Instantiated 2012092376 on face FrontFace, spawn index 1
+
+[BombGenerator] Instantiated 2012092376 on face FrontFace, spawn index 2
+
+[BombGenerator] Instantiated 2012092376 on face RearFace, spawn index 0
+
+[BombGenerator] Instantiated 2012092376 on face RearFace, spawn index 3
+
+[BombGenerator] Instantiated 2012092376 on face RearFace, spawn index 1
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: TP9JQ5
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 0
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit FRQ (IndicatorWidget/LABEL5)
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: Parallel, Serial
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit CLR (IndicatorWidget/LABEL2)
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: lit IND (IndicatorWidget/LABEL4)
+
+[WidgetGenerator] Added widget: PortWidget at 0, 0
+
+[PortWidget] Randomizing Port Widget: DVI, RJ45
+
+[BossModuleManager] Request for Forget Perspective’s ignore list successful.
+[KMBossModule] Boss Module Manager returned list for “Forget Perspective”: 14, A>N<D, Bamboozling Time Keeper, Brainf---, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Iconic, Kugelblitz, Multitask, OmegaForget, Organization, Password Destroyer, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+[The Simpleton #1] Push the button!
+[The Simpleton #2] Push the button!
+[The Simpleton #3] Push the button!
+[The Simpleton #4] Push the button!
+[The Simpleton #5] Push the button!
+[The Simpleton #6] Push the button!
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"FP - 6 Stages"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] Switching bomb
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'qkForgetPerspective(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+mod_FMNpractice_fp6
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled

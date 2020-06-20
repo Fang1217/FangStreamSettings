@@ -1,6 +1,5 @@
 {
   "DisabledList": [
-    "multitask",
     "abstractSequences",
     "AtbashCipherModule",
     "boolMathNeedy",
@@ -8,13 +7,12 @@
     "directionalButton",
     "gatekeeper",
     "IntegerTrees",
-    "JustNumbersModule",
     "xtrkeywords",
     "kataMinecraftSurvival",
     "multitask",
+    "lgndReflex",
     "shuffledStrings",
     "simonStashes",
-    "TrainingText",
     "needyWingdings"
   ],
   "Operation": 1

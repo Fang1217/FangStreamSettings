@@ -1,0 +1,989 @@
+Initialize engine version: Twitch Plays
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[Profile Revealer] Waiting for bombs...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 169662585
+
+[BombGenerator] Generator settings: Time: 1320, NumStrikes: 3, FrontFaceOnly: False
+1 Pools:
+[ALL_SOLVABLE] Count: 11
+
+
+[BombGenerator] Selected SetModule (1143024969 (ModBombComponent))
+
+[BombGenerator] Selected treasureHunt (1815859376 (ModBombComponent))
+
+[BombGenerator] Selected harmonySequence (1632495656 (ModBombComponent))
+
+[BombGenerator] Selected stickyNotes (1763550522 (ModBombComponent))
+
+[BombGenerator] Selected Color Decoding (1355440777 (ModBombComponent))
+
+[BombGenerator] Selected RailwayCargoLoading (1977063810 (ModBombComponent))
+
+[BombGenerator] Selected Probing (756760364 (ModBombComponent))
+
+[BombGenerator] Selected simonSamples (1462370946 (ModBombComponent))
+
+[BombGenerator] Selected Laundry (822892956 (ModBombComponent))
+
+[BombGenerator] Selected WordScrambleModule (733438645 (ModBombComponent))
+
+[BombGenerator] Selected kikiNumberWang (2048115407 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1143024969 (ModBombComponent), 1815859376 (ModBombComponent), 1632495656 (ModBombComponent), 1763550522 (ModBombComponent), 1355440777 (ModBombComponent), 1977063810 (ModBombComponent), 756760364 (ModBombComponent), 1462370946 (ModBombComponent), 822892956 (ModBombComponent), 733438645 (ModBombComponent), 2048115407 (ModBombComponent)]
+
+[Mod-Set] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1143024969" has ID:"Set"
+
+[Mod-Set] Loading assemblies...
+
+[Mod-Set] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1143024969\Newtonsoft.Json.dll"...
+
+[Mod-Set] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1143024969\Set.dll"
+
+[Mod-Set] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1143024969" complete.
+
+[Mod-Set] Loading GameObjects...
+
+[Mod-Set] Replacing shaders...
+
+[Mod-Set] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-Set] Loading KMMissions...
+
+[Mod-Set] Loading KMMissionTableOfContents...
+
+[Mod-Set] Loading AudioClips...
+
+[BombGenerator] Instantiated 1143024969 on face RearFace, spawn index 4
+
+[Mod-treasureHunt] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1815859376" has ID:"treasureHunt"
+
+[Mod-treasureHunt] Loading assemblies...
+
+[Mod-treasureHunt] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1815859376\Newtonsoft.Json.dll"...
+
+[Mod-treasureHunt] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1815859376\treasureHunt.dll"
+
+[Mod-treasureHunt] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1815859376" complete.
+
+[Mod-treasureHunt] Loading GameObjects...
+
+[Mod-treasureHunt] Replacing shaders...
+
+[Mod-treasureHunt] ModUnityVersion: 2017.1.5f1 Game: 2017.4.22f1
+
+[Mod-treasureHunt] Loading KMMissions...
+
+[Mod-treasureHunt] Loading KMMissionTableOfContents...
+
+[Mod-treasureHunt] Loading AudioClips...
+
+[BombGenerator] Instantiated 1815859376 on face RearFace, spawn index 5
+
+[Mod-harmonySequence] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632495656" has ID:"harmonySequence"
+
+[Mod-harmonySequence] Loading assemblies...
+
+[Mod-harmonySequence] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632495656\Newtonsoft.Json.dll"...
+
+[Mod-harmonySequence] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632495656\harmonySequence.dll"
+
+[Mod-harmonySequence] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1632495656" complete.
+
+[Mod-harmonySequence] Loading GameObjects...
+
+[Mod-harmonySequence] Replacing shaders...
+
+[Mod-harmonySequence] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-harmonySequence] Loading KMMissions...
+
+[Mod-harmonySequence] Loading KMMissionTableOfContents...
+
+[Mod-harmonySequence] Loading AudioClips...
+
+[BombGenerator] Instantiated 1632495656 on face RearFace, spawn index 2
+
+[Mod-stickyNotes] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1763550522" has ID:"stickyNotes"
+
+[Mod-stickyNotes] Loading assemblies...
+
+[Mod-stickyNotes] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1763550522\Newtonsoft.Json.dll"...
+
+[Mod-stickyNotes] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1763550522\stickyNotes.dll"
+
+[Mod-stickyNotes] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1763550522" complete.
+
+[Mod-stickyNotes] Loading GameObjects...
+
+[Mod-stickyNotes] Replacing shaders...
+
+[Mod-stickyNotes] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-stickyNotes] Loading KMMissions...
+
+[Mod-stickyNotes] Loading KMMissionTableOfContents...
+
+[Mod-stickyNotes] Loading AudioClips...
+
+Triggers on concave MeshColliders are not supported
+[BombGenerator] Instantiated 1763550522 on face FrontFace, spawn index 1
+
+[Mod-ColorDecoding] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1355440777" has ID:"ColorDecoding"
+
+[Mod-ColorDecoding] Loading assemblies...
+
+[Mod-ColorDecoding] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1355440777\Newtonsoft.Json.dll"...
+
+[Mod-ColorDecoding] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1355440777\ColorDecoding.dll"
+
+[Mod-ColorDecoding] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1355440777" complete.
+
+[Mod-ColorDecoding] Loading GameObjects...
+
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'ColorDecoding') is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Button (4)') is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Button (11)') is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Button (2)') is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Button (10)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (8)') is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Component_Highlight') is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Button (5)') is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Button (6)') is missing!
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+The referenced script on this Behaviour (Game Object 'Component_Highlight') is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Button (3)') is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Button (7)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (1)') is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Button (9)') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+[Mod-ColorDecoding] Replacing shaders...
+
+[Mod-ColorDecoding] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-ColorDecoding] Loading KMMissions...
+
+[Mod-ColorDecoding] Loading KMMissionTableOfContents...
+
+[Mod-ColorDecoding] Loading AudioClips...
+
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Button (4)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (4)') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'Button (11)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (11)') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'Button (2)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (2)') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'Button (10)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (10)') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'Button (8)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (8)') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'Component_Highlight') is missing!
+The referenced script on this Behaviour (Game Object 'Component_Highlight') is missing!
+The referenced script on this Behaviour (Game Object 'ColorDecoding') is missing!
+The referenced script on this Behaviour (Game Object 'ColorDecoding') is missing!
+The referenced script on this Behaviour (Game Object 'Button (5)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (5)') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'Button (6)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (6)') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+The referenced script on this Behaviour (Game Object 'Component_Highlight') is missing!
+The referenced script on this Behaviour (Game Object 'Component_Highlight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'Button (3)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (3)') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'Button (7)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (7)') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'Button (1)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (1)') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'ButtonHighLight') is missing!
+The referenced script on this Behaviour (Game Object 'Button (9)') is missing!
+The referenced script on this Behaviour (Game Object 'Button (9)') is missing!
+[BombGenerator] Instantiated 1355440777 on face RearFace, spawn index 0
+
+[Mod-RailwayCargoLoading] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1977063810" has ID:"RailwayCargoLoading"
+
+[Mod-RailwayCargoLoading] Loading assemblies...
+
+[Mod-RailwayCargoLoading] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1977063810\Newtonsoft.Json.dll"...
+
+[Mod-RailwayCargoLoading] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1977063810\RailwayCargoLoading.dll"
+
+[Mod-RailwayCargoLoading] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1977063810" complete.
+
+[Mod-RailwayCargoLoading] Loading GameObjects...
+
+[Mod-RailwayCargoLoading] Replacing shaders...
+
+[Mod-RailwayCargoLoading] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-RailwayCargoLoading] Loading KMMissions...
+
+[Mod-RailwayCargoLoading] Loading KMMissionTableOfContents...
+
+[Mod-RailwayCargoLoading] Loading AudioClips...
+
+[BombGenerator] Instantiated 1977063810 on face FrontFace, spawn index 0
+
+[Mod-ProbingMod] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\756760364" has ID:"ProbingMod"
+
+[Mod-ProbingMod] Loading assemblies...
+
+[Mod-ProbingMod] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\756760364\Newtonsoft.Json.dll"...
+
+[Mod-ProbingMod] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\756760364\ProbingMod.dll"
+
+[Mod-ProbingMod] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\756760364" complete.
+
+[Mod-ProbingMod] Loading GameObjects...
+
+[Mod-ProbingMod] Replacing shaders...
+
+[Mod-ProbingMod] ModUnityVersion: Not set Game: 2017.4.22f1
+
+[Mod-ProbingMod] Loading KMMissions...
+
+[Localization] Adding mod term: mod/ProbingMod_probing_test_1_DisplayName: "Probing Practice"
+
+[Localization] Adding mod term: mod/ProbingMod_probing_test_1_Description: "Practice probing with the three-phase three-module bomb."
+
+[Mod-ProbingMod] Loading KMMissionTableOfContents...
+
+[Localization] Adding mod term: mod/mod_toc_ProbingMod_0_ToCName: "Probing"
+
+[Localization] Adding mod term: mod/mod_toc_ProbingMod_0_SectionTitle_0: "Practice"
+
+[Mod-ProbingMod] Loading AudioClips...
+
+[BombGenerator] Instantiated 756760364 on face FrontFace, spawn index 4
+
+[Mod-simonSamples] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1462370946" has ID:"simonSamples"
+
+[Mod-simonSamples] Loading assemblies...
+
+[Mod-simonSamples] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1462370946\Newtonsoft.Json.dll"...
+
+[Mod-simonSamples] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1462370946\simonSamples.dll"
+
+[Mod-simonSamples] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\1462370946" complete.
+
+[Mod-simonSamples] Loading GameObjects...
+
+[Mod-simonSamples] Replacing shaders...
+
+[Mod-simonSamples] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-simonSamples] Loading KMMissions...
+
+[Mod-simonSamples] Loading KMMissionTableOfContents...
+
+[Mod-simonSamples] Loading AudioClips...
+
+[BombGenerator] Instantiated 1462370946 on face RearFace, spawn index 1
+
+[Mod-Laundry] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\822892956" has ID:"Laundry"
+
+[Mod-Laundry] Loading assemblies...
+
+[Mod-Laundry] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\822892956\Newtonsoft.Json.dll"...
+
+[Mod-Laundry] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\822892956\Laundry.dll"
+
+[Mod-Laundry] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\822892956" complete.
+
+[Mod-Laundry] Loading GameObjects...
+
+[Mod-Laundry] Replacing shaders...
+
+[Mod-Laundry] ModUnityVersion: 2017.1.0p4 Game: 2017.4.22f1
+
+[Mod-Laundry] Loading KMMissions...
+
+[Mod-Laundry] Loading KMMissionTableOfContents...
+
+[Mod-Laundry] Loading AudioClips...
+
+[BombGenerator] Instantiated 822892956 on face FrontFace, spawn index 2
+
+[Mod-anagrams] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\733438645" has ID:"anagrams"
+
+[Mod-anagrams] Loading assemblies...
+
+[Mod-anagrams] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\733438645\Newtonsoft.Json.dll"...
+
+[Mod-anagrams] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\733438645\anagrams.dll"
+
+[Mod-anagrams] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\733438645" complete.
+
+[Mod-anagrams] Loading GameObjects...
+
+[Mod-anagrams] Replacing shaders...
+
+[Mod-anagrams] ModUnityVersion: Not set Game: 2017.4.22f1
+
+[Mod-anagrams] Replacing shaders...
+
+[Mod-anagrams] ModUnityVersion: Not set Game: 2017.4.22f1
+
+[Mod-anagrams] Loading KMMissions...
+
+[Mod-anagrams] Loading KMMissionTableOfContents...
+
+[Mod-anagrams] Loading AudioClips...
+
+[BombGenerator] Instantiated 733438645 on face FrontFace, spawn index 3
+
+[Mod-numberwang] Mod at path "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2048115407" has ID:"numberwang"
+
+[Mod-numberwang] Loading assemblies...
+
+[Mod-numberwang] Loading "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2048115407\Newtonsoft.Json.dll"...
+
+[Mod-numberwang] Loading mod assembly "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2048115407\numberwang.dll"
+
+[Mod-numberwang] Load of settings and assemblies for mod "C:\Program Files (x86)\Steam\steamapps\workshop\content\341800\2048115407" complete.
+
+[Mod-numberwang] Loading GameObjects...
+
+[Mod-numberwang] Replacing shaders...
+
+[Mod-numberwang] ModUnityVersion: 2017.4.22f1 Game: 2017.4.22f1
+
+[Mod-numberwang] Loading KMMissions...
+
+[Mod-numberwang] Loading KMMissionTableOfContents...
+
+[Mod-numberwang] Loading AudioClips...
+
+[BombGenerator] Instantiated 2048115407 on face RearFace, spawn index 3
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: 7Q5AQ2
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 0
+
+[WidgetGenerator] Added widget: ModWidget at 0, 0
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: 0
+
+[BatteryWidget] Randomizing Battery Widget: 2
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 1
+
+[IndicatorWidget] Randomizing Indicator Widget: unlit CAR (IndicatorWidget/LABEL3)
+
+[WidgetGenerator] Added widget: PortWidget at 0, 1
+
+[PortWidget] Randomizing Port Widget: Parallel, Serial
+
+[S.E.T. #1] Icon at (module) A1 is (manual) B2, empty, 0 dots.
+[S.E.T. #1] Icon at (module) B1 is (manual) B1, filled, 0 dots.
+[S.E.T. #1] Icon at (module) C1 is (manual) C1, filled, 0 dots.
+[S.E.T. #1] Icon at (module) A2 is (manual) C2, filled, 2 dots.
+[S.E.T. #1] Icon at (module) B2 is (manual) B3, wavy, 1 dots.
+[S.E.T. #1] Icon at (module) C2 is (manual) C1, empty, 2 dots.
+[S.E.T. #1] Icon at (module) A3 is (manual) A3, wavy, 1 dots.
+[S.E.T. #1] Icon at (module) B3 is (manual) C3, wavy, 1 dots.
+[S.E.T. #1] Icon at (module) C3 is (manual) B3, filled, 1 dots.
+[S.E.T. #1] Solution: B2, B3, A3.
+[Treasure Hunt #1] 0 Key Module(s) in the bomb. Starting Treasure Island is Pirate's Bay.
+[Treasure Hunt #1] The map is rotated 270º clockwise.
+[Treasure Hunt #1] The starting position is Shipwreck Passage at [5, 7] ([row, column], non-rotated map).
+[Color Decoding #1] Current stage: 1
+[Color Decoding #1] Current stage progression: 0/4 valid slots selected
+[Color Decoding #1] Expected solution: GGB, YRG, P, RGB
+[Color Decoding #1] Expected slots: 2, 10, 4, 7
+ 6789AB
+ ______
+0PRYGPB
+1PGYPBB
+2PBGBGG
+3RRYYYP
+4RBBYRB
+5BPPBGB
+ ¯¯¯¯¯¯
+[Simon Samples #1] Stage 1. Call: KHSO. Expected response: KSSO.
+[Simon Samples #1] Stage 2. Call: KHSO KKSS. Expected response: KSSO SSKK.
+[Simon Samples #1] Stage 3. Call: KHSO KKSS KKSS. Expected response: KSSO SSKK SSKK.
+[NumberWang #1] Button 1 is 89
+[NumberWang #1] Button 2 is 583
+[NumberWang #1] Button 3 is 415
+[NumberWang #1] Button 4 is 562
+[NumberWang #1] Button 5 is 74
+[NumberWang #1] Button 6 is 12
+[NumberWang #1] Button 7 is 7622
+[NumberWang #1] Button 8 is 23
+[NumberWang #1] Button 9 is 1204
+[NumberWang #1] Button 10 is 1213
+[NumberWang #1] Button 11 is 601
+[NumberWang #1] Button 12 is 51
+[NumberWang #1] The Buttons 1, 4, 5, 6, 7, 8, 9 are NumberWang
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"1 Mods"}
+[Probing #1] Wire values:
+22+50+60 | 10+22+50 | 10+50+60
+10+50+60 | 10+22+50 | 10+22+60
+[Probing #1] Missing wire values:
+10 | 60 | 22
+22 | 60 | 50
+[Probing #1] The red clip should be connected to a wire containing 10+22+60 because the red and white wire contains 50 Hz.
+[Probing #1] The blue clip should be connected to a wire containing 10+50+60 because the red and yellow wire contains 10 Hz.
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] ModuleData: Writing file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json
+[TwitchPlays] ModuleData: Writing of file C:/Users/limfg/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\ModuleInformation.json completed successfully.
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 5
+{"serial":"7Q5AQ2","displayNames":{"Timer":"Timer","SetModule":"S.E.T.","treasureHunt":"Treasure Hunt","harmonySequence":"Harmony Sequence","stickyNotes":"Sticky Notes","Color Decoding":"Color Decoding","RailwayCargoLoading":"Railway Cargo Loading","
+Probing":"Probing","simonSamples":"Simon Samples","Laundry":"Laundry","WordScrambleModule":"Word Scramble","kikiNumberWang":"NumberWang"},"ids":{"Probing":[1],"SetModule":[1],"treasureHunt":[1],"harmonySequence":[1],"stickyNotes":[1],"Color Decoding"
+:[1],"RailwayCargoLoading":[1],"simonSamples":[1],"Laundry":[1],"kikiNumberWang":[1]},"anchors":[[-0.220,-0.110],[-0.220,0.110],[0.000,-0.110],[0.000,0.110],[0.220,-0.110],[0.220,0.110],[-0.220,-0.110],[-0.220,0.110],[0.000,-0.110],[0.000,0.110],[0.2
+20,-0.110],[0.220,0.110]],"modules":["RailwayCargoLoading 1","stickyNotes 1","Laundry 1","WordScrambleModule -","Probing 1","Timer -","Color Decoding 1","simonSamples 1","harmonySequence 1","kikiNumberWang 1","SetModule 1","treasureHunt 1"],"timestam
+p":"2020-06-19T19:58:28.3056178+08:00"}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'SetModule(Clone)'.
+[Profile Revealer] Attaching to 'treasureHunt(Clone)'.
+[Profile Revealer] Attaching to 'Harmony Sequence(Clone)'.
+[Profile Revealer] Attaching to 'Sticky Notes(Clone)'.
+[Profile Revealer] Attaching to 'ColorDecoding(Clone)'.
+[Profile Revealer] Attaching to 'TrainCargoLoading(Clone)'.
+[Profile Revealer] Attaching to 'ProbingModule(Clone)'.
+[Profile Revealer] Attaching to 'SimonSamples(Clone)'.
+[Profile Revealer] Attaching to 'LaundryModule(Clone)'.
+[Profile Revealer] Attaching to 'Word_Scramble_Module(Clone)'.
+[Profile Revealer] Attaching to 'Numberwang(Clone)'.
+custom
+[Sticky Notes #1]: Column 1 selected
+[Sticky Notes #1]: Generating column 1 sticky notes
+[Sticky Notes #1]: Note 1 contains Call new applicants
+[Sticky Notes #1]: Note 2 contains Pay outstanding invoice
+[Sticky Notes #1]: Note 3 contains Make coffee for visitors
+[Sticky Notes #1]: Note 4 contains Candlelit dinner with Ash
+[Sticky Notes #1]: Note 5 contains pAy TiM wHaT hE's OwEd
+[Sticky Notes #1]: Note 6 contains Call client to book meeting on Tuesday
+[Sticky Notes #1]: Note 7 contains Create managers schedule
+[Sticky Notes #1]: Note 8 contains Coffee meet with Random
+[Sticky Notes #1]: Note 9 contains Pay IT support
+[Sticky Notes #1]: Note 10 contains Jury service
+[Sticky Notes #1]: The answer selected is Make coffee for visitors
+[Railway Cargo Loading #1] Nitric Acid: 171.
+[Railway Cargo Loading #1] Automobiles: 0.
+[Railway Cargo Loading #1] Farming Equipment: 3.
+[Railway Cargo Loading #1] Iron Ore: 0.
+[Railway Cargo Loading #1] Coal: 39.
+[Railway Cargo Loading #1] Meat: 0.
+[Railway Cargo Loading #1] Nitrogen: 0.
+[Railway Cargo Loading #1] Gasoline: 57.
+[Railway Cargo Loading #1] Resin: 268.
+[Railway Cargo Loading #1] Livestock: 0.
+[Railway Cargo Loading #1] Mail: 0.
+[Railway Cargo Loading #1] Electrical Transformer: 0.
+[Railway Cargo Loading #1] Crude Oil: 235.
+[Railway Cargo Loading #1] With Checked Baggage: 34.
+[Railway Cargo Loading #1] Rich: 13.
+[Railway Cargo Loading #1] Middle-Class: 56.
+[Railway Cargo Loading #1] Normal: 84.
+[Railway Cargo Loading #1] Sheet Metal: 0.
+[Railway Cargo Loading #1] Lumber: 0.
+[Railway Cargo Loading #1] Car 1: There is more Gasoline than Coal (57 vs 39).
+[Railway Cargo Loading #1] Car 1 correct car: Internal Combustion Locomotive!
+[Laundry #1]: Solution values for 0 solved modules: 
+Item: Corset (0), Material: Polyester (0), Color: Ruby Fountain (0)
+Washing on Material, Drying on Color, Ironing on Item, Special on Material
+End result: 50°C, 3 Dot, 300°F, Petroleum Only
+
+[Laundry #1]: Solution values for 1 solved modules: 
+Item: Scarf (5), Material: Cotton (1), Color: Ruby Fountain (0)
+Washing on Material, Drying on Color, Ironing on Item, Special on Item
+End result: 95°C, 3 Dot, 110°C, Do Not Dryclean
+
+[Laundry #1]: Solution values for 2 solved modules: 
+Item: Shorts (4), Material: Wool (2), Color: Ruby Fountain (0)
+Washing on Material, Drying is 3 Dot, Ironing on Item, Special on Item
+End result: Hand Wash, 3 Dot, 300°F, Don't Bleach
+
+[Laundry #1]: Solution values for 3 solved modules: 
+Item: Skort (3), Material: Nylon (3), Color: Ruby Fountain (0)
+Washing on Material, Drying on Color, Ironing on Item, Special on Item
+End result: 30°C, 3 Dot, 200°C, Reduced Moist
+
+[Laundry #1]: Solution values for 4 solved modules: 
+Item: Skirt (2), Material: Corduroy (4), Color: Ruby Fountain (0)
+Washing on Material, Drying on Color, Ironing on Item, Special on Material
+End result: 40°C, 3 Dot, Iron, Wet Cleaning
+
+[Laundry #1]: Solution values for 5 solved modules: 
+Item: Shirt (1), Material: Leather (5), Color: Ruby Fountain (0)
+Washing is 80°F, Drying on Color, Ironing on Item, Special on Color
+End result: 30°C, 3 Dot, No Steam, Any Solvent
+
+[PaceMaker] Round start! Mission: 1 Mods Pacing Enabled: True
+
+[PaceMaker] Next idle action in 50.20452 seconds.
+
+[PaceMaker] Valid pacing events: Idle_DoingWell,OneMinuteLeft
+
+[PaceMaker] Removed 0 pacing events.
+
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !9 cv
+[TwitchPlays] [M] r4y697 (, 166342202): brug henlo
+[TwitchPlays] [M] r4y697 (, 166342202): !bomb flip
+[PaceMaker] PlayerSuccessRating: 0.4923988 (Factors: solved: 0, strikes: 0.3, time: 0.1923988)
+
+[PaceMaker] Next idle action in 31.75172 seconds.
+
+[TwitchPlays] [M] r4y697 (, 166342202): !11 cv
+[PaceMaker] PlayerSuccessRating: 0.4875864 (Factors: solved: 0, strikes: 0.3, time: 0.1875864)
+
+[PaceMaker] Next idle action in 56.02787 seconds.
+
+:rdzanu!rdzanu@rdzanu.tmi.twitch.tv JOIN #heres_fangy
+:dbros1000!dbros1000@dbros1000.tmi.twitch.tv PART #heres_fangy
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !9 set all 50c, 3 dots, 300f, petroleum
+[Laundry TwitchPlays #1] - IRC command "set all" parameters not valid. Validation results: Washing = Passed, Drying = Passed, Ironing = Passed, Special = Failed.  Command Sent: "set all 50c, 3 dots, 300f, petroleum"
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): nice
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !claim 3
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !3 help
+[TwitchPlays] [M] duperheld (, 169227479): !bomb flip
+[PaceMaker] PlayerSuccessRating: 0.4790963 (Factors: solved: 0, strikes: 0.3, time: 0.1790963)
+
+[PaceMaker] Next idle action in 34.72453 seconds.
+
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !3 start
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !9 set all 120f, 3 dots, 300f, petroleum
+[Laundry TwitchPlays #1] - IRC command "set all" parameters not valid. Validation results: Washing = Passed, Drying = Passed, Ironing = Passed, Special = Failed.  Command Sent: "set all 120f, 3 dots, 300f, petroleum"
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): nice
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): is it mute
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !8 set washing 50c
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !8 set wash 50c
+[TwitchPlays] [M] duperheld (, 169227479): !10 cv
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !9 set wash 50c
+[Laundry TwitchPlays #1] - Setting Wash to 50°C - set wash 50c
+[PaceMaker] PlayerSuccessRating: 0.4738334 (Factors: solved: 0, strikes: 0.3, time: 0.1738334)
+
+[PaceMaker] Next idle action in 30.29312 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !9 set dry 3 dots
+[Laundry TwitchPlays #1] - Setting Dry to 3 Dot - set dry 3 dots
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): theres no sound
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !9 set iron 300f
+[Laundry TwitchPlays #1] - Setting Ironing to 300°F - set iron 300f
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !9 set special petroleum solvent only
+[Laundry TwitchPlays #1] - Setting Special to Petroleum Only - set special petroleum solvent only
+[TwitchPlays] [M] jjroccss (#D2691E, 526314480): !unclaim 3
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !9 insert coin
+[Laundry TwitchPlays #1] - Inserting the coin - insert coin
+[ModBombComponent #20] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"Laundry","bombTime":1118.12146,"realTime":209.572571,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.5194123 (Factors: solved: 0.05, strikes: 0.3, time: 0.1694123)
+
+[Laundry #1]: Coin pressed at 0 modules solved
+Entered Values: 50°C, 3 Dot, 300°F, Petroleum Only
+Pass
+[Treasure Hunt #1] Module solved in the bomb. Number of Key Modules solved is 0. Current Treasure Island is Pirate's Bay.
+[PaceMaker] PlayerSuccessRating: 0.5192434 (Factors: solved: 0.05, strikes: 0.3, time: 0.1692434)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Turn on Alarm Clock at 830.2734
+
+[PaceMaker] Next idle action in 43.98399 seconds.
+
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !1 cv
+:r4y697!r4y697@r4y697.tmi.twitch.tv JOIN #heres_fangy
+[TwitchPlays] [M] duperheld (, 169227479): !10 submit rocket
+[ModBombComponent #22] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"WordScrambleModule","bombTime":1083.38281,"realTime":244.315186}
+[PaceMaker] PlayerSuccessRating: 0.5641489 (Factors: solved: 0.1, strikes: 0.3, time: 0.1641489)
+
+[Treasure Hunt #1] Module solved in the bomb. Number of Key Modules solved is 0. Current Treasure Island is Pirate's Bay.
+[TwitchPlays] [M] r4y697 (, 166342202): !11 zoom 20
+[PaceMaker] PlayerSuccessRating: 0.5625783 (Factors: solved: 0.1, strikes: 0.3, time: 0.1625783)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 48.5062 seconds.
+
+[TwitchPlays] [M] duperheld (, 169227479): Fangy?
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): !1 press a3 b2 b3
+[S.E.T. #1] Module solved.
+[ModBombComponent #4] Pass
+
+[Tweaks] LFAEvent 1
+{"type":"PASS","moduleID":"SetModule","bombTime":1052.51831,"realTime":275.1814,"loggingID":1}
+[PaceMaker] PlayerSuccessRating: 0.6094725 (Factors: solved: 0.15, strikes: 0.3, time: 0.1594725)
+
+[Treasure Hunt #1] Module solved in the bomb. Number of Key Modules solved is 0. Current Treasure Island is Pirate's Bay.
+[TwitchPlays] [M] duperheld (, 169227479): Why is this srream mute?
+[TwitchPlays] [M] Rdzanu (#FF0000, 105489028): bomb is unsolveable LUL
+[PaceMaker] PlayerSuccessRating: 0.6052279 (Factors: solved: 0.15, strikes: 0.3, time: 0.1552279)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] Executing Cut the lights at 922.7812
+
+[PaceMaker] Next idle action in 49.81088 seconds.
+
+[TwitchPlays] [M] duperheld (, 169227479): !bomb turn
+[TwitchPlays] [M] r4y697 (, 166342202): !11 zoom
+[TwitchPlays] [M] duperheld (, 169227479): !view 4 5 6 7
+[TwitchPlays] [M] Pokeminee (#2E8B57, 160909933): !bomb flip
+[TwitchPlays] [M] duperheld (, 169227479): !2 view
+[PaceMaker] PlayerSuccessRating: 0.5976793 (Factors: solved: 0.15, strikes: 0.3, time: 0.1476793)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 58.36261 seconds.
+
+:duperheld!duperheld@duperheld.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5888341 (Factors: solved: 0.15, strikes: 0.3, time: 0.1388341)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 49.19249 seconds.
+
+:pokeminee!pokeminee@pokeminee.tmi.twitch.tv JOIN #heres_fangy
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.5813805 (Factors: solved: 0.15, strikes: 0.3, time: 0.1313805)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 55.25083 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5730091 (Factors: solved: 0.15, strikes: 0.3, time: 0.1230091)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.08229 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5664789 (Factors: solved: 0.15, strikes: 0.3, time: 0.1164789)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 25.52687 seconds.
+
+:rdzanu!rdzanu@rdzanu.tmi.twitch.tv PART #heres_fangy
+:duperheld!duperheld@duperheld.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.5626105 (Factors: solved: 0.15, strikes: 0.3, time: 0.1126105)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 43.8519 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5559656 (Factors: solved: 0.15, strikes: 0.3, time: 0.1059656)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 23.81126 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5523573 (Factors: solved: 0.15, strikes: 0.3, time: 0.1023572)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 37.43935 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5466829 (Factors: solved: 0.15, strikes: 0.3, time: 0.09668288)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 42.4425 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5402501 (Factors: solved: 0.15, strikes: 0.3, time: 0.09025006)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 48.05338 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.5329654 (Factors: solved: 0.15, strikes: 0.3, time: 0.08296533)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 25.27775 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.5291346 (Factors: solved: 0.15, strikes: 0.3, time: 0.07913463)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 46.74137 seconds.
+
+:rdzanu!rdzanu@rdzanu.tmi.twitch.tv JOIN #heres_fangy
+:srizbi!srizbi@srizbi.tmi.twitch.tv JOIN #heres_fangy
+:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.522051 (Factors: solved: 0.15, strikes: 0.3, time: 0.072051)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 36.20039 seconds.
+
+[TwitchPlays] [M] r4y697 (, 166342202): !11 help
+[PaceMaker] PlayerSuccessRating: 0.5165637 (Factors: solved: 0.15, strikes: 0.3, time: 0.06656367)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 59.00639 seconds.
+
+[TwitchPlays] [M] r4y697 (, 166342202): !11 press 69 12 23
+[TwitchPlays] [M] r4y697 (, 166342202): !11 zoom
+[TwitchPlays] [M] r4y697 (, 166342202): !11 press 89 12 23
+[NumberWang #1] Correct Press, Button 1 is NumberWang
+[NumberWang #1] Correct Press, Button 6 is NumberWang
+[NumberWang #1] Correct Press, Button 8 is NumberWang
+[PaceMaker] PlayerSuccessRating: 0.507621 (Factors: solved: 0.15, strikes: 0.3, time: 0.05762099)
+
+[PaceMaker] Executing random action of type Idle_DoingWell
+
+[PaceMaker] No pacing actions of type Idle_DoingWell found.
+
+[PaceMaker] Next idle action in 51.53456 seconds.
+
+:rdzanu!rdzanu@rdzanu.tmi.twitch.tv PART #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.4998132 (Factors: solved: 0.15, strikes: 0.3, time: 0.04981314)
+
+[PaceMaker] Next idle action in 35.50689 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] PlayerSuccessRating: 0.4944315 (Factors: solved: 0.15, strikes: 0.3, time: 0.04443145)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 31.27509 seconds.
+
+[TwitchPlays] [M] r4y697 (, 166342202): am i missing sth?
+[PaceMaker] PlayerSuccessRating: 0.4896935 (Factors: solved: 0.15, strikes: 0.3, time: 0.03969344)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 59.83724 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.4806259 (Factors: solved: 0.15, strikes: 0.3, time: 0.03062592)
+
+[PaceMaker] Next idle action in 58.42117 seconds.
+
+[PaceMaker] PlayerSuccessRating: 0.4717741 (Factors: solved: 0.15, strikes: 0.3, time: 0.02177407)
+
+[PaceMaker] Next idle action in 51.44031 seconds.
+
+:commanderroot!commanderroot@commanderroot.tmi.twitch.tv JOIN #heres_fangy
+[PaceMaker] PlayerSuccessRating: 0.4639795 (Factors: solved: 0.15, strikes: 0.3, time: 0.0139795)
+
+[PaceMaker] Next idle action in 52.61926 seconds.
+
+---PING--- ---PONG--- :tmi.twitch.tv
+[PaceMaker] Executing random action of type OneMinuteLeft
+
+[PaceMaker] No pacing actions of type OneMinuteLeft found.
+
+[PaceMaker] PlayerSuccessRating: 0.4560058 (Factors: solved: 0.15, strikes: 0.3, time: 0.006005799)
+
+[PaceMaker] Skipping random idle action for variety's sake.
+
+[PaceMaker] Next idle action in 43.85246 seconds.
+
+[LogfileHotkey] Post-bomb additional log capturing enabled
+[Tweaks] LFAEvent 1
+{"type":"BOMB_DETONATE","serial":"7Q5AQ2","bombTime":-0.029958006,"realTime":1327.72388,"solves":3,"strikes":0}
+[Bomb] Boom
+
+[State] OnRoundEnd()
+
+[PaceMaker] Round over.
+

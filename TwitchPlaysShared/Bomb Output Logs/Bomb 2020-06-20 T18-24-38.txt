@@ -1,0 +1,140 @@
+Initialize engine version: Twitch Plays
+[LogfileHotkey] Log capturing enabled
+[Freeplay Helper] Current state = Gameplay
+[Factory] State Change: Gameplay
+[MultipleBombs]Events initialized
+[MultipleBombs]Result screens initialized
+Reloading mod settings file...
+[Profile Revealer] Waiting for bombs...
+[State] Enter GameplayState
+
+[BombGenerator] Generating bomb with seed 314884313
+
+[BombGenerator] Generator settings: Time: 3600, NumStrikes: 10, FrontFaceOnly: False
+2 Pools:
+[qkForgetPerspective] Count: 1
+[SimpleButton] Count: 6
+
+
+[BombGenerator] Selected qkForgetPerspective (1831737244 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Selected SimpleButton (2012092376 (ModBombComponent))
+
+[BombGenerator] Bomb component list: RequiresTimerVisibility [], AnyFace: [1831737244 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent), 2012092376 (ModBombComponent)]
+
+Awake
+[BombGenerator] Instantiated 1831737244 on face RearFace, spawn index 3
+
+[BombGenerator] Instantiated 2012092376 on face RearFace, spawn index 1
+
+[BombGenerator] Instantiated 2012092376 on face RearFace, spawn index 2
+
+[BombGenerator] Instantiated 2012092376 on face FrontFace, spawn index 0
+
+[BombGenerator] Instantiated 2012092376 on face FrontFace, spawn index 3
+
+[BombGenerator] Instantiated 2012092376 on face FrontFace, spawn index 2
+
+[BombGenerator] Instantiated 2012092376 on face FrontFace, spawn index 1
+
+[BombGenerator] Generating Widgets
+
+[SerialNumber] Randomizing Serial Number: U16EJ9
+
+[WidgetGenerator] Added widget: SerialNumber at 0, 1
+
+[WidgetGenerator] Added widget: ModWidget at 0, 1
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: lit BOB (IndicatorWidget/LABEL10)
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: lit NSA (IndicatorWidget/LABEL7)
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[WidgetGenerator] Added widget: IndicatorWidget at 0, 0
+
+[IndicatorWidget] Randomizing Indicator Widget: lit SND (IndicatorWidget/LABEL1)
+
+[BatteryWidget] Randomizing Battery Widget: 1
+
+[WidgetGenerator] Added widget: BatteryWidget at 0, 1
+
+[BossModuleManager] Request for Forget Perspective’s ignore list successful.
+[KMBossModule] Boss Module Manager returned list for “Forget Perspective”: 14, A>N<D, Bamboozling Time Keeper, Brainf---, Forget Enigma, Forget Everything, Forget It Not, Forget Me Later, Forget Me Not, Forget Perspective, Forget The Colors, Forget Them All, Forget This, Forget Us Not, Iconic, Kugelblitz, Multitask, OmegaForget, Organization, Password Destroyer, Purgatory, RPS Judging, Simon Forgets, Simon's Stages, Souvenir, Tallordered Keys, The Time Keeper, The Troll, The Twin, The Very Annoying Button, Timing is Everything, Turn The Key, Ultimate Custom Night, Übermodule
+[The Simpleton #7] Push the button!
+[The Simpleton #8] Push the button!
+[The Simpleton #9] Push the button!
+[The Simpleton #10] Push the button!
+[The Simpleton #11] Push the button!
+[The Simpleton #12] Push the button!
+[MultipleBombs]Initializing gameplay state
+[MultipleBombs]Bombs to spawn: 1
+[Vanilla Rule Modifier] Attempting to Fix morse code modules. Waiting for the Gameplay room
+[Vanilla Rule Modifier] Waiting for the bomb list to be available
+[TwitchPlays] Found gameplay room of type Facility Room
+[TwitchPlays] Switching bomb
+[Tweaks] LFAEvent 1
+{"type":"ROUND_START","mission":"FP - 6 Stages"}
+[Rule Seed Modifier] The Seed is 1
+[TwitchPlays] Switching bomb
+[Tweaks] LFABombInfo 3
+{"serial":"U16EJ9","displayNames":{"Timer":"Timer","qkForgetPerspective":"Forget Perspective","SimpleButton":"The Simpleton"},"ids":{"qkForgetPerspective":[1],"SimpleButton":[7,8,9,10,11,12]},"anchors":[[-0.110,-0.110],[-0.110,0.110],[0.110,-0.110],[
+0.110,0.110],[-0.110,-0.110],[-0.110,0.110],[0.110,-0.110],[0.110,0.110]],"modules":["SimpleButton 9","SimpleButton 12","SimpleButton 11","SimpleButton 10","Timer -","SimpleButton 7","SimpleButton 8","qkForgetPerspective 1"],"timestamp":"2020-06-20T1
+8:24:28.9073211+08:00"}
+[Profile Revealer] Found 1 bomb(s).
+[Profile Revealer] Attaching to 'qkForgetPerspective(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+[Profile Revealer] Attaching to 'TheSimpleton(Clone)'.
+mod_FMNpractice_fp6
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+[TwitchPlays] Camera wall already disabled
+Awake
+[Forget Perspective #1] ------Stage 1 ------
+[Forget Perspective #1] The faces for Stage 1 are: Red, Magenta, Orange, Blue, Yellow, Green.
+[Forget Perspective #1] Time you got the stage on: 60
+[Forget Perspective #1] Applied starting rule 1 and net rule 1.
+[Forget Perspective #1] Order made: R O Y B M G
+[Forget Perspective #1] Character Shift rule = 0, X = 10, Y = 16
+[Forget Perspective #1] Shifted order: U R B E P J
+[Forget Perspective #1] Added value: J
+[PaceMaker] Round start! Mission: FP - 6 Stages Pacing Enabled: False
+
+[PaceMaker] Next idle action in 42.15891 seconds.
+
+[PaceMaker] Valid pacing events: 
+
+[PaceMaker] Removed 3 pacing events.
+

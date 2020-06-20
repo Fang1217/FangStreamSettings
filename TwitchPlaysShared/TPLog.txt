@@ -384,3 +384,111 @@ Module ID: 7 | Player: Cyber12 | Module Name: Double Expert | Value: 10
 Module ID: 12 | Player: TheLegendWilleh | Module Name: Neutrinos | Value: 16
 Module ID: 11 | Player: TheLegendWilleh | Module Name: Ice Cream | Strike
 Module ID: 11 | Player: TheLegendWilleh | Module Name: Ice Cream | Strike
+Module ID: 9 | Player: Rdzanu | Module Name: Laundry | Value: 10
+Module ID: 10 | Player: duperheld | Module Name: Word Scramble | Value: 2
+Module ID: 1 | Player: Rdzanu | Module Name: S.E.T. | Value: 6
+Module ID: 11 | Player: ShadowMeowMeow | Module Name: Alphabetical Ruling | Value: 4
+Module ID: 1 | Player: ShadowMeowMeow | Module Name: Risky Wires | Value: 7
+Module ID: 5 | Player: duperheld | Module Name: Calendar | Value: 5
+Module ID: 8 | Player: duperheld | Module Name: Timezone | Value: 6
+Module ID: 3 | Player: ShadowMeowMeow | Module Name: Identity Parade | Value: 7
+Module ID: 6 | Player: ConManAU | Module Name: Keypad Combinations | Value: 4
+Module ID: 2 | Player: ConManAU | Module Name: Quiz Buzz | Value: 9
+Module ID: 9 | Player: ConManAU | Module Name: Bob Barks | Strike
+Module ID: 9 | Player: ConManAU | Module Name: Bob Barks | Strike
+Module ID: 9 | Player: ConManAU | Module Name: Bob Barks | Value: 10
+Module ID: 10 | Player: ConManAU | Module Name: Synonyms | Value: 6
+Module ID: 1 | Player: ShadowMeowMeow | Module Name: Orientation Cube | Value: 7
+Module ID: 6 | Player: ShadowMeowMeow | Module Name: Simon Speaks | Strike
+Module ID: 9 | Player: ConManAU | Module Name: M&Ns | Value: 7
+Module ID: 2 | Player: ConManAU | Module Name: N&Ms | Value: 2
+Module ID: 3 | Player: ConManAU | Module Name: Subways | Value: 4
+Module ID: 6 | Player: ShadowMeowMeow | Module Name: Simon Speaks | Value: 10
+Module ID: 11 | Player: xarata98 | Module Name: Hill Cycle | Value: 14
+Module ID: 5 | Player: TheLegendWilleh | Module Name: Tetriamonds | Value: 11
+Module ID: 7 | Player: ConManAU | Module Name: Laundry | Strike
+Module ID: 10 | Player: TheLegendWilleh | Module Name: Hieroglyphics | Strike
+Module ID: 20 | Player: ConManAU | Module Name: Sorting | Value: 5
+Module ID: 9 | Player: Asew54321 | Module Name: Orange Arrows | Value: 3
+Module ID: 19 | Player: r4y697 | Module Name: Topsy Turvy | Value: 3
+Module ID: 13 | Player: ConManAU | Module Name: SYNC-125 [3] | Value: 10
+Module ID: 1 | Player: TheLegendWilleh | Module Name: Fruits | Value: 4
+Module ID: 3 | Player: r4y697 | Module Name: Jaden Smith Talk | Strike
+Module ID: 8 | Player: 피씨 | Module Name: 101 Dalmatians | Value: 5
+Module ID: 6 | Player: ConManAU | Module Name: Schlag den Bomb | Value: 12
+Module ID: 17 | Player: TheLegendWilleh | Module Name: The Jack-O'-Lantern | Value: 4
+Module ID: 14 | Player: Asew54321 | Module Name: Raiding Temples | Value: 11
+Module ID: 22 | Player: ConManAU | Module Name: Only Connect | Value: 9
+Module ID: 23 | Player: ConManAU | Module Name: The Triangle | Value: 8
+Module ID: 21 | Player: Asew54321 | Module Name: Lying Indicators | Value: 7
+Module ID: 25 | Player: Asew54321 | Module Name: Faulty Digital Root | Value: 4
+Module ID: 2 | Player: TheLegendWilleh | Module Name: The Heart | Value: 8
+Module ID: 3 | Player: r4y697 | Module Name: Jaden Smith Talk | Value: 3
+Module ID: 15 | Player: ConManAU | Module Name: Number Pad | Value: 8
+Module ID: 27 | Player: ConManAU | Module Name: Shape Shift | Value: 6
+Module ID: 4 | Player: Asew54321 | Module Name: Boolean Wires | Value: 7
+Module ID: 30 | Player: ConManAU | Module Name: Faulty Backgrounds | Value: 4
+Module ID: 26 | Player: mythers45 | Module Name: Password Generator | Value: 6
+Module ID: 7 | Player: ConManAU | Module Name: Periodic Table | Value: 10
+Module ID: 24 | Player: ConManAU | Module Name: The Modkit | Value: 10
+Module ID: 10 | Player: mythers45 | Module Name: Button Grid | Strike
+Module ID: 18 | Player: mythers45 | Module Name: Snooker | Value: 9
+Module ID: 29 | Player: ConManAU | Module Name: Mega Man 2 | Value: 7
+Module ID: 12 | Player: ConManAU | Module Name: Unrelated Anagrams | Value: 5
+Module ID: 10 | Player: mythers45 | Module Name: Button Grid | Value: 12
+Module ID: 11 | Player: jjroccss | Module Name: Recorded Keys | Strike
+Module ID: 16 | Player: TheLegendWilleh | Module Name: Faulty RGB Maze | Value: 22
+Module ID: 11 | Player: jjroccss | Module Name: Recorded Keys | Strike
+Module ID: 11 | Player: TheLegendWilleh | Module Name: Recorded Keys | Strike
+Module ID: 6 | Player: Cyber12 | Module Name: Tangrams | Value: 11
+Module ID: 5 | Player: ShadowMeowMeow | Module Name: Insane Talk | Value: 4
+Module ID: 2 | Player: ShadowMeowMeow | Module Name: Not Keypad | Value: 5
+Module ID: 3 | Player: Cyber12 | Module Name: Playfair Cycle | Value: 12
+Module ID: 4 | Player: Zaphod_Beeblebrox_IV | Module Name: 1D Maze | Value: 7
+Module ID: 9 | Player: garuda2002 | Module Name: Factory Maze | Value: 18
+Module ID: 1 | Player: Zaphod_Beeblebrox_IV | Module Name: Spot the Difference | Value: 8
+Module ID: 11 | Player: garuda2002 | Module Name: Dungeon 2nd Floor | Value: 19
+Module ID: 10 | Player: Cyber12 | Module Name: LEGOs | Value: 16
+Module ID: 7 | Player: Zaphod_Beeblebrox_IV | Module Name: Turtle Robot | Value: 15
+Module ID: 3 | Player: 29isasomewhat | Module Name: LED Math | Value: 4
+Module ID: 1 | Player: jjroccss | Module Name: Memory | Value: 3
+Module ID: 4 | Player: 29isasomewhat | Module Name: Calendar | Value: 5
+Module ID: 9 | Player: Zaphod_Beeblebrox_IV | Module Name: Black Cipher | Value: 16
+Module ID: 2 | Player: 29isasomewhat | Module Name: Co-op Harmony Sequence | Value: 10
+Module ID: 8 | Player: 29isasomewhat | Module Name: Shifting Maze | Strike
+Module ID: 7 | Player: TheGuyThatIsWeird | Module Name: Password Destroyer | Value: 22
+Module ID: 10 | Player: mythers45 | Module Name: Dungeon 2nd Floor | Value: 19
+Module ID: 5 | Player: mythers45 | Module Name: Morse Buttons | Value: 10
+Module ID: 8 | Player: 29isasomewhat | Module Name: Shifting Maze | Strike
+Module ID: 7 | Player: heres_fangy | Module Name: The Simpleton | Value: 1
+Module ID: 5 | Player: heres_fangy | Module Name: The Simpleton | Value: 1
+Module ID: 2 | Player: heres_fangy | Module Name: The Simpleton | Value: 1
+Module ID: 3 | Player: heres_fangy | Module Name: The Simpleton | Value: 1
+Module ID: 6 | Player: heres_fangy | Module Name: The Simpleton | Value: 1
+Module ID: 4 | Player: heres_fangy | Module Name: The Simpleton | Value: 1
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 4 | Player: heres_fangy | Module Name: The Simpleton | Value: 1
+Module ID: 5 | Player: heres_fangy | Module Name: The Simpleton | Value: 1
+Module ID: 6 | Player: heres_fangy | Module Name: The Simpleton | Value: 1
+Module ID: 2 | Player: heres_fangy | Module Name: The Simpleton | Value: 1
+Module ID: 3 | Player: heres_fangy | Module Name: The Simpleton | Value: 1
+Module ID: 7 | Player: heres_fangy | Module Name: The Simpleton | Value: 1
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike
+Module ID: 1 | Module Name: Forget Perspective | Strike

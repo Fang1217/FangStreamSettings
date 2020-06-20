@@ -49,7 +49,19 @@
     "threeLEDsModule",
     "goofysgame",
     "7",
-    "AdjacentLettersModule_Rus"
+    "AdjacentLettersModule_Rus",
+    "100LevelsOfDefusal",
+    "DACH",
+    "gameOfLifeNeedy",
+    "wolfGoatCabbageModule",
+    "EmotiguyIdentification",
+    "matchem",
+    "AudioKeypad",
+    "ipa",
+    "ColorBrailleModule",
+    "kyudoku",
+    "lgndReflex",
+    "JuxtacoloredSquaresModule"
   ],
   "EnabledList": [
     "countdown",
