@@ -1,12 +1,12 @@
 {
   "FadeTime": 1.0,
   "InstantSkip": true,
-  "SkipGameplayDelay": false,
+  "SkipGameplayDelay": true,
   "BetterCasePicker": true,
   "EnableModsOnlyKey": true,
   "DemandBasedModLoading": true,
   "DisableDemandBasedMods": true,
-  "DemandModLimit": 100,
+  "DemandModLimit": 105,
   "FixFER": false,
   "BombHUD": true,
   "ShowEdgework": true,
@@ -15,10 +15,11 @@
   "HideTOC": [],
   "Mode": "Normal",
   "MissionSeed": -1,
-  "CaseGenerator": true,
+  "CaseGenerator": false,
   "ModuleTweaks": true,
   "CaseColors": [],
   "PinnedSettings": [
-    "TweakSettings.json"
+    "TweakSettings.json",
+    "TwitchPlaySettings.json"
   ]
 }

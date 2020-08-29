@@ -145,6 +145,38 @@
         <boolean>true</boolean>
       </value>
     </item>
+    <item>
+      <key>
+        <string>mod_missionpack_VFlyer_missionDistractionsTP</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>mod_100LevelsOfDefusalMissions_level2</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>mod_100LevelsOfDefusalMissions_level3</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>mod_MPsMTM_M_Nonogram</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
   </MissionProgression>
   <LastUnlockedBombClass>1</LastUnlockedBombClass>
   <HasWatchedGameOverview>true</HasWatchedGameOverview>
@@ -161,5 +193,6 @@
     <ComponentTypeEnum>Memory</ComponentTypeEnum>
     <ComponentTypeEnum>WhosOnFirst</ComponentTypeEnum>
     <ComponentTypeEnum>Venn</ComponentTypeEnum>
+    <ComponentTypeEnum>WireSequence</ComponentTypeEnum>
   </DisarmedComponentTypes>
 </ProgressionData>

@@ -1,5 +1,5 @@
 {
-  "SiteUrl": "http://forler.ddns.net:8000/YesAndNoAllQuestions.json",
+  "SiteUrl": "https://ktane.timwi.de/More/YesAndNo/YesAndNoAllQuestions.json",
   "questions": [
     {
       "Output": "Is the sun hot?",
@@ -26,11 +26,11 @@
       "Answer": 0
     },
     {
-      "Output": "Is chile in china?",
+      "Output": "Is Chile in China?",
       "Answer": 0
     },
     {
-      "Output": "Is this a Module?",
+      "Output": "Is this a module?",
       "Answer": 1
     },
     {
@@ -192,7 +192,207 @@
     {
       "Output": "Is this KTaNE?",
       "Answer": 1
+    },
+    {
+      "Output": "Is a word in this question mispelled?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is this module solved yet?",
+      "Answer": 0
+    },
+    {
+      "Output": "Does nothing start with n and end with g?",
+      "Answer": 1
+    },
+    {
+      "Output": "Are all bombs explosives?",
+      "Answer": 1
+    },
+    {
+      "Output": "Are all explosives bombs?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is a solved Forget Me Not on this bomb?",
+      "Answer": 0
+    },
+    {
+      "Output": "Ds ths qstn hv ny vwls?",
+      "Answer": 0
+    },
+    {
+      "Output": "Ds ths qustn hv ny vwls?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is this bomb entirely vanilla?",
+      "Answer": 0
+    },
+    {
+      "Output": "Words this in question any misordered are?",
+      "Answer": 1
+    },
+    {
+      "Output": "Do any modules present begin with a Y?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is Italy a country?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is Italy a county?",
+      "Answer": 0
+    },
+    {
+      "Output": "Do onions have layers?",
+      "Answer": 1
+    },
+    {
+      "Output": "Do onions have lawyers?",
+      "Answer": 0
+    },
+    {
+      "Output": "Does the government levy taxes?",
+      "Answer": 1
+    },
+    {
+      "Output": "Does the government levy taxis?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is friendship magic?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is Hakuna Matata a wonderful phrase?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is Hakuna Matata a passing craze?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is true xor true true?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is true or true true?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is 1 < 1?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this Keep Speaking and Nobody Explodes?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this Keep Talking and Nopony Explodes?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this Keep Talking and Nobody Explodes?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is this Keep Talking and Nobody Implodes?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is fish vegan?",
+      "Answer": 0
+    },
+    {
+      "Output": "Are fish vegan?",
+      "Answer": 0
+    },
+    {
+      "Output": "Are dragonflies flies?",
+      "Answer": 0
+    },
+    {
+      "Output": "Are beetles insects?",
+      "Answer": 1
+    },
+    {
+      "Output": "Are beetles in sects?",
+      "Answer": 0
+    },
+    {
+      "Output": "Are pencil leads lead?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is grass green?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is the sky blue?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is the sky green?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is grass blue?",
+      "Answer": 0
+    },
+    {
+      "Output": "Do cows drink milk?",
+      "Answer": 0
+    },
+    {
+      "Output": "Do cows drink water?",
+      "Answer": 1
+    },
+    {
+      "Output": "Do cows eat grass?",
+      "Answer": 1
+    },
+    {
+      "Output": "Do cows smoke grass?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is The Hypercube four-dimensional?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is The Ultracube five-dimensional?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is The Hypercube five-dimensional?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is The Ultracube four-dimensional?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is the bomb timer > 0?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is the bomb timer < 0?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is it Feb 30?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is it 2019?",
+      "Answer": 0
+    },
+    {
+      "Output": "Does Santa Claus have a beard?",
+      "Answer": 1
     }
   ],
-  "Version": 1
+  "Version": 2
 }

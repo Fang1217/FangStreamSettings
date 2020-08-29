@@ -10,3 +10,6 @@ TwitchPlaysShared/
 TwitchPlaysStats.json
 TwitchPlaysLastClaimed.json
 playerSettings.xml
+modSettings.xml
+Modsettings/BombCreator-settings.txt
+TwitchPlaysUsers.xml
