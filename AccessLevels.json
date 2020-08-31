@@ -341,7 +341,7 @@
     "denisfdenis": "User",
     "lucas7yoshi": "User",
     "lock123": "Banned",
-    "heres_fangy": "Defuser",
+    "heres_fangy": "Defuser, Mod, Admin, SuperUser, Streamer",
     "6666666666666": "User",
     "kluckyklucky": "User",
     "kaszir15": "User",
@@ -648,7 +648,6 @@
     "mally_the_man": "User",
     "subscribetokingoflee": "User",
     "userjoinedyourchannel__": "User",
-    "bot_fangy": "Mod, Admin, SuperUser, Streamer"
     "ppkiller67": "User",
     "serinscalling": "User",
     "uku1928": "User",
@@ -766,7 +765,8 @@
     "exantricko": "User",
     "stenyg": "User",
     "victorydoesfail": "User",
-    "aerodoesmusic": "User"
+    "aerodoesmusic": "User",
+    "bot_fangy": "Mod, Admin, SuperUser, Streamer"
   },
   "Bans": {
     "bomb_griefer": {
