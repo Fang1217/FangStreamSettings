@@ -1,35 +1,9 @@
 {
   "DisabledList": [
-    "bridge",
-    "abstractSequences",
-    "AlienModule",
-    "antichamber",
-    "AtbashCipherModule",
-    "kataBurnout",
-    "buttonOrder",
-    "caesarsMaths",
-    "colorOneTwo",
-    "conditionalButtons",
-    "directionalButton",
-    "dontTouchAnything",
-    "DUCKDUCKGOOSE",
-    "gatekeeper",
     "lgndHyperactiveNumbers",
-    "IntegerTrees",
-    "int##",
-    "xtrkeywords",
-    "masherTheBottun",
-    "kataMinecraftSurvival",
-    "multitask",
     "patternLock",
     "lgndReflex",
-    "RegularHexpressions",
-    "soundDesign",
-    "stateOfAggregation",
-    "strikeSolve",
-    "console",
-    "theCruelDuck",
-    "theDuck"
+    "stateOfAggregation"
   ],
   "Operation": 1
 }

@@ -481,7 +481,7 @@
     "lotsofs": "User",
     "oteku2k": "User",
     "xaxtonrevolution": "User",
-    "cyber12": "Defuser",
+    "cyber12": "Banned, Defuser",
     "djhero2903": "User",
     "livplaysyt": "Banned",
     "cocktail0387": "User",
@@ -767,6 +767,17 @@
     "victorydoesfail": "User",
     "aerodoesmusic": "User",
     "bot_fangy": "Mod, Admin, SuperUser, Streamer"
+    "silentcatpaca": "User",
+    "expectnothingo": "User",
+    "dannyundos": "User",
+    "izzyktane": "User",
+    "jel3456": "User",
+    "dj_faun": "User",
+    "tepel_chen": "User",
+    "nextercise": "User",
+    "riddicksergal": "User",
+    "fallenkingdoms2": "User",
+    "hypernovadg642": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -931,6 +942,11 @@
     },
     "kaoscola": {
       "BannedBy": "xmaster6726",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "cyber12": {
+      "BannedBy": "MrPeanut1028",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }

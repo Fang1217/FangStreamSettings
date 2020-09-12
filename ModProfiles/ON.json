@@ -1,20 +1,22 @@
 {
   "DisabledList": [
-    "BusGameplayRoom",
-    "Portal Room",
-    "複雑漢字Module",
-    "TextAdventureModule",
-    "MagickaModule",
-    "nameChanger",
-    "theSamsung",
     "R4YNeedyFlowerMash",
-    "GuessWho",
     "omegaForget",
-    "KritLockpickMaze",
-    "Cookieclicker",
     "SettlersOfKTaNE",
-    "kataCheatCheckout",
-    "lunchtime"
+    "nameChanger",
+    "assemblyCode",
+    "neutrinos",
+    "JustNumbersModule",
+    "busyBeaver",
+    "EarthboundModule",
+    "simonForgets",
+    "xelNegation",
+    "SynchronizationModule",
+    "robotProgramming",
+    "Rules",
+    "brushStrokes",
+    "GSTellMeWhen",
+    "xelButterflies"
   ],
   "Operation": 1
 }
