@@ -218,7 +218,12 @@
     "TheDials",
     "tams",
     "workingTitle",
-    "ChamberNoFive"
+    "ChamberNoFive",
+    "digitalGrid",
+    "evenOrOdd",
+    "logicalOperators",
+    "mastermindRestricted",
+    "NandNs"
   ],
   "EnabledList": [
     "countdown",

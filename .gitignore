@@ -11,17 +11,11 @@ TwitchPlaysStats.json
 TwitchPlaysLastClaimed.json
 playerSettings.xml
 modSettings.xml
-Modsettings/BombCreator-settings.txt
+Modsettings/
 TwitchPlaysUsers.xml
-modSettings.xml
 modSelectorConfig.json
-Modsettings/BossModules.json
-Modsettings/ColorblindMode.json
-Modsettings/MysteryModuleSettings.json
 stats.xml
 TwitchPlaysUsers.xml
-Modsettings/MysteryModuleSettings.json
-Modsettings/BossModules.json
 stats.xml
 TwitchPlays/Previous Build/Assembly-CSharp.dll
 TwitchPlays/Previous Build/mod.bundle

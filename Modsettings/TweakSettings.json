@@ -5,7 +5,7 @@
   "BetterCasePicker": true,
   "EnableModsOnlyKey": true,
   "DemandBasedModLoading": true,
-  "DisableDemandBasedMods": true,
+  "DemandBasedModsExcludeList": [],
   "DemandModLimit": 105,
   "FixFER": false,
   "BombHUD": true,
@@ -18,6 +18,16 @@
   "CaseGenerator": false,
   "ModuleTweaks": true,
   "CaseColors": [],
+  "Holdables": {
+    "FreeplayDevice": true,
+    "BombBinder": true,
+    "ModManager": true,
+    "DossierMenu": true,
+    "IRCManager": true,
+    "ColorBlindHelper": true,
+    "BombCreator": true,
+    "ModSelectorTablet": true
+  },
   "PinnedSettings": [
     "TweakSettings.json",
     "TwitchPlaySettings.json"
