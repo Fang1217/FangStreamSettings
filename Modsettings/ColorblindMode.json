@@ -107,6 +107,8 @@
     "needlesslyComplicatedButton": null,
     "colorNumbers": null,
     "Mazery": null,
-    "digitalClock": null
+    "digitalClock": null,
+    "digitalGrid": null,
+    "mastermindRestricted": null
   }
 }

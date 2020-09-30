@@ -4606,6 +4606,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Even Or Odd",
+    "moduleID": "evenOrOdd",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Press the display with \"!{0} display\", \"!{0} even/odd\" or \"!{0} e/o\" to press the even or odd buttons respectively. On Twitch Plays, the timer resets to 30 seconds for every correct press.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Exoplanets",
     "moduleID": "exoplanets",
     "moduleScoreOverride": false,
