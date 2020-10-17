@@ -4,13 +4,14 @@
   "ON",
   "NoMASRoom",
   "NoFactoryRoom",
-  "NoFTC",
-  "NoSF",
-  "NoUCN",
-  "NoHeart",
   "NoOF",
   "TP_Supported",
   "NoWidgetFun",
-  "NoSamsung",
-  "NoOrg"
+  "NoPWDest",
+  "NoUCN",
+  "NoFUN",
+  "NoRAM",
+  "NoCheat",
+  "NoFTC",
+  "Override"
 ]

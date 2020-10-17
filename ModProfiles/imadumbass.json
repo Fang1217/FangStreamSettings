@@ -223,7 +223,17 @@
     "evenOrOdd",
     "logicalOperators",
     "mastermindRestricted",
-    "NandNs"
+    "NandNs",
+    "siloAuthorization",
+    "arsGoetiaIdentification",
+    "ReformedRoleReversal",
+    "cellLab",
+    "whiteout",
+    "gettinFunkyModule",
+    "colorHexagons",
+    "threadTheNeedle",
+    "melodyMemory",
+    "LookAndSay"
   ],
   "EnabledList": [
     "countdown",

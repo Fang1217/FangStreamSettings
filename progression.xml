@@ -177,6 +177,22 @@
         <boolean>true</boolean>
       </value>
     </item>
+    <item>
+      <key>
+        <string>somethingoldsomethingnew</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>doubleyourmoney</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
   </MissionProgression>
   <LastUnlockedBombClass>1</LastUnlockedBombClass>
   <HasWatchedGameOverview>true</HasWatchedGameOverview>

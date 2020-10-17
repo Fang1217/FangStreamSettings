@@ -738,4 +738,62 @@
       </GameRecord>
     </value>
   </item>
+  <item>
+    <key>
+      <string>somethingoldsomethingnew</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>17</RecordID>
+        <Result>Defused</Result>
+        <Seed>1362867443</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+        </Components>
+        <MissionID>somethingoldsomethingnew</MissionID>
+        <ModuleSolveCount>3</ModuleSolveCount>
+        <TimeElapsed>138.596634</TimeElapsed>
+        <LeaderboardRank>0</LeaderboardRank>
+        <RealTimeElapsed>136.609375</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource>
+            <ComponentType>Maze</ComponentType>
+            <InteractionType>PushButton</InteractionType>
+            <Time>111.624283</Time>
+          </StrikeSource>
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>doubleyourmoney</string>
+    </key>
+    <value>
+      <GameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <RecordID>18</RecordID>
+        <Result>Defused</Result>
+        <Seed>1369760595</Seed>
+        <Components>
+          <ComponentTypeEnum>Timer</ComponentTypeEnum>
+        </Components>
+        <MissionID>doubleyourmoney</MissionID>
+        <ModuleSolveCount>6</ModuleSolveCount>
+        <TimeElapsed>227.7222</TimeElapsed>
+        <LeaderboardRank>0</LeaderboardRank>
+        <RealTimeElapsed>190.1875</RealTimeElapsed>
+        <Strikes>
+          <StrikeSource>
+            <ComponentType>Wires</ComponentType>
+            <InteractionType>CutWire</InteractionType>
+            <Time>23.51535</Time>
+          </StrikeSource>
+          <StrikeSource xsi:nil="true" />
+          <StrikeSource xsi:nil="true" />
+        </Strikes>
+      </GameRecord>
+    </value>
+  </item>
 </dictionary>
