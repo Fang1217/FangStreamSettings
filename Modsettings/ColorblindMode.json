@@ -110,6 +110,7 @@
     "digitalClock": null,
     "digitalGrid": null,
     "mastermindRestricted": null,
-    "Color Decoding": null
+    "Color Decoding": null,
+    "ForgetAnyColor": null
   }
 }

@@ -1,0 +1,22 @@
+{
+  "DisabledList": [
+    "monsplodeWho",
+    "VentGasTranslated",
+    "timeAccumulation",
+    "NeedyKnobV2",
+    "rapidSubtraction",
+    "NotVentingGas",
+    "NotKnob",
+    "NotCapacitorDischarge",
+    "needyPiano",
+    "gameOfLifeNeedy",
+    "Needy Math",
+    "hideAndSeek",
+    "faulty7SegmentDisplays",
+    "EncryptedValuesModule",
+    "buzzfizz",
+    "NeedyVentV2",
+    "3x3Grid"
+  ],
+  "Operation": 1
+}

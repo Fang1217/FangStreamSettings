@@ -233,7 +233,14 @@
     "colorHexagons",
     "threadTheNeedle",
     "melodyMemory",
-    "LookAndSay"
+    "LookAndSay",
+    "DoublePitch",
+    "ForgetAnyColor",
+    "vennDiagram",
+    "HigherOrLower",
+    "TheOverflow",
+    "ForgetPerplexingBamboozlingFaultyCruelHyperNeeDeezNuts",
+    "NeeDeezNuts"
   ],
   "EnabledList": [
     "countdown",

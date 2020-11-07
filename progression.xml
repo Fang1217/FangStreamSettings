@@ -193,6 +193,30 @@
         <boolean>true</boolean>
       </value>
     </item>
+    <item>
+      <key>
+        <string>mod_100LevelsOfDefusalMissions_bonus6</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>mod_100LevelsOfDefusalMissions_bonus4</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>mod_100LevelsOfDefusalMissions_bonus5</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
   </MissionProgression>
   <LastUnlockedBombClass>1</LastUnlockedBombClass>
   <HasWatchedGameOverview>true</HasWatchedGameOverview>

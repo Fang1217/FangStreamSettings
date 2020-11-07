@@ -1,11 +1,8 @@
 {
   "DisabledList": [
     "colorHexagons",
-    "lgndHyperactiveNumbers",
     "IntegerTrees",
-    "patternLock",
-    "lgndReflex",
-    "stateOfAggregation"
+    "patternLock"
   ],
   "Operation": 1
 }

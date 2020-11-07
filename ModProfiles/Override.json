@@ -1,6 +1,16 @@
 {
   "DisabledList": [
-    "NandNs"
+    "NandNs",
+    "DoublePitch",
+    "ForgetAnyColor",
+    "NeedyBeer",
+    "numberedButtonsModule",
+    "vennDiagram",
+    "jewelVault",
+    "HigherOrLower",
+    "TheOverflow",
+    "ForgetPerplexingBamboozlingFaultyCruelHyperNeeDeezNuts",
+    "NeeDeezNuts"
   ],
   "EnabledList": [
     "crystalMaze",
