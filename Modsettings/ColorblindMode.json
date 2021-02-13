@@ -111,6 +111,20 @@
     "digitalGrid": null,
     "mastermindRestricted": null,
     "Color Decoding": null,
-    "ForgetAnyColor": null
+    "ForgetAnyColor": null,
+    "WhiteArrows": null,
+    "LightBulbs": null,
+    "TheExplodingPen": null,
+    "blackArrowsModule": null,
+    "colouredArrowsModule": null,
+    "flashingArrowsModule": null,
+    "doubleScreenModule": null,
+    "hexiomModule": null,
+    "GSXenocryst": null,
+    "simonStumbles": null,
+    "simonSelectsModule": null,
+    "kookyKeypadModule": null,
+    "WorldsLargestButton": null,
+    "Updog": null
   }
 }

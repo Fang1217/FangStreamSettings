@@ -217,6 +217,54 @@
         <boolean>true</boolean>
       </value>
     </item>
+    <item>
+      <key>
+        <string>freeplay</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>mod_MPsMTMP4_S_Simpleton_(The)</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>onestepup</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>pickupthepace</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>ahiddenmessage</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>mod_ryanMissions_mission 4</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
   </MissionProgression>
   <LastUnlockedBombClass>1</LastUnlockedBombClass>
   <HasWatchedGameOverview>true</HasWatchedGameOverview>

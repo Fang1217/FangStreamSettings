@@ -1,8 +1,21 @@
 {
   "DisabledList": [
-    "colorHexagons",
-    "IntegerTrees",
-    "patternLock"
+    "collapseBasic",
+    "etchASketch",
+    "jackboxServerModule",
+    "patternLock",
+    "rhythmTest",
+    "tacoTuesday",
+    "xModule",
+    "yModule",
+    "qkButtonMesser",
+    "beanboozledAgain",
+    "metamem",
+    "kataZenerCards",
+    "FloorLights",
+    "xelNegation",
+    "widgetModule",
+    "troll"
   ],
   "Operation": 1
 }
